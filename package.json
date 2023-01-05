@@ -1,7 +1,7 @@
 {
   "name": "scraping-web",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "scraping and create API in Futbolred",
   "main": "index.js",
   "type": "module",
   "scripts": {
