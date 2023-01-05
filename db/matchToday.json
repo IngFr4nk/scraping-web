@@ -1,98 +1,20 @@
 [
   {
-    "partido": "Salernitana - Milán",
-    "liga": "Serie A",
-    "hora": "6:30 a. m.",
-    "canal": "ESPN 4 y Star +"
-  },
-  {
-    "partido": "Sassuolo - Sampdoria",
-    "liga": "Serie A",
-    "hora": "6:30 a. m.",
-    "canal": "ESPN y Star +"
-  },
-  {
-    "partido": "Torino - Hellas Verona",
-    "liga": "Serie A",
-    "hora": "8:30 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Spezia - Atalanta",
-    "liga": "Serie A",
-    "hora": "8:30 a. m.",
-    "canal": "ESPN y Star +"
-  },
-  {
-    "partido": "Lecce - Lazio",
-    "liga": "Serie A",
-    "hora": "10:30 a. m.",
-    "canal": "ESPN 4 y Star +"
-  },
-  {
-    "partido": "Roma - Bolognia",
-    "liga": "Serie A",
-    "hora": "10:30 a. m.",
-    "canal": "ESPN y Star +"
-  },
-  {
-    "partido": "Fiorentina - Monza",
-    "liga": "Serie A",
-    "hora": "12:30 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Cremonese - Juventus",
-    "liga": "Serie A",
-    "hora": "12:30 p. m.",
-    "canal": "ESPN y Star +"
-  },
-  {
-    "partido": "Real Oviedo - Atlético de Madrid",
+    "partido": "Ibiza - Real Betis",
     "liga": "Copa del Rey",
-    "hora": "2:00 p. m.",
-    "canal": "Directv Sports"
+    "hora": "10:00 a. m.",
+    "canal": "DIRECTV SPORTS"
   },
   {
-    "partido": "Southampton - Nottingham Forest",
+    "partido": "Chelsea - Manchester City",
     "liga": "Liga de Inglaterra",
-    "hora": "2:30 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Leeds - West Ham Utd.",
-    "liga": "Liga de Inglaterra",
-    "hora": "2:45 p. m.",
+    "hora": "3:00 p. m.",
     "canal": "ESPN y Star +"
   },
   {
-    "partido": "Udinese - Empoli",
-    "liga": "Serie A",
-    "hora": "2:45 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Inter - Napoli",
-    "liga": "Serie A",
-    "hora": "2:45 p. m.",
-    "canal": "ESPN y Star +"
-  },
-  {
-    "partido": "Aston Villa - Wolverhampton",
-    "liga": "Liga de Inglaterra",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN 2 y Star +"
-  },
-  {
-    "partido": "Intercity - Barcelona",
-    "liga": "Copa del Rey",
-    "hora": "3:00 p. m.",
-    "canal": "Directv Sports"
-  },
-  {
-    "partido": "Crystal Palace - Tottenham Hotspur",
-    "liga": "Liga de Inglaterra",
-    "hora": "3:00 p. m.",
-    "canal": "Star +"
+    "partido": "Santa Clara - Braga",
+    "liga": "Liga de Portugal",
+    "hora": "3:15 p. m.",
+    "canal": "GOL TV y Gol TV Play"
   }
 ]
