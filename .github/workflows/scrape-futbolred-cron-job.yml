@@ -4,6 +4,12 @@
 name: Scrape futbolred website
 
 on:
+  workflow_dispatch:
+  
+  repository_dispatch:
+    types:
+      - webhook
+
   schedule:
     - cron: "0 */6 * * *"
   
@@ -17,8 +23,13 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           node-version: 18
-      - run: npm install
-      - run: node scraping/index.js
+      - run: 
+          npm install
+          node scraping/index.js
+          git config user.name futbol-red-bot
+          git add -A
+          git commit -m "[bot] update futbolred database"
+          git push origin main
 
   publish-gpr:
     needs: build
