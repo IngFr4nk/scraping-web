@@ -1,20 +1,38 @@
 [
   {
-    "partido": "Ibiza - Real Betis",
-    "liga": "Copa del Rey",
-    "hora": "10:00 a. m.",
+    "partido": "Strasbourg - Angers",
+    "liga": "Copa de Francia",
+    "hora": "12:00 p. m.",
     "canal": "DIRECTV SPORTS"
   },
   {
-    "partido": "Chelsea - Manchester City",
-    "liga": "Liga de Inglaterra",
+    "partido": "Elche - Celta de Vigo",
+    "liga": "Liga de Espana",
+    "hora": "12:30 p. m.",
+    "canal": "ESPN 2 y Star +"
+  },
+  {
+    "partido": "Benfica - Portimonense",
+    "liga": "Liga de Portugal",
+    "hora": "2:00 p. m.",
+    "canal": "GOL TV y Gol TV Play"
+  },
+  {
+    "partido": "Valencia CF - Cádiz",
+    "liga": "Liga de Espana",
+    "hora": "3:00 p. m.",
+    "canal": "DIRECTV SPORTS"
+  },
+  {
+    "partido": "Manchester United - Everton",
+    "liga": "FA Cup",
     "hora": "3:00 p. m.",
     "canal": "ESPN y Star +"
   },
   {
-    "partido": "Santa Clara - Braga",
-    "liga": "Liga de Portugal",
-    "hora": "3:15 p. m.",
-    "canal": "GOL TV y Gol TV Play"
+    "partido": "Mazatlán - León",
+    "liga": "Liga de México",
+    "hora": "10:10 p. m.",
+    "canal": "Star +"
   }
 ]
