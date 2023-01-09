@@ -1,92 +1,32 @@
 [
   {
-    "partido": "Salernitana - Torino",
+    "partido": "Hellas Verona - Cremonese",
     "liga": "Serie A",
-    "hora": "6:30 a. m.",
-    "canal": "ESPN 4 y Star +"
-  },
-  {
-    "partido": "Genk - Brujas",
-    "liga": "Liga de Bélgica",
-    "hora": "7:30 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Almería - Real Sociedad",
-    "liga": "Liga de Espana",
-    "hora": "8:00 a. m.",
-    "canal": "ESPN y Star +"
-  },
-  {
-    "partido": "Lazio - Empoli",
-    "liga": "Serie A",
-    "hora": "9:00 a. m.",
-    "canal": "ESPN 4 y Star +"
-  },
-  {
-    "partido": "Spezia - Lecce",
-    "liga": "Serie A",
-    "hora": "9:00 a. m.",
-    "canal": "ESPN 2 y Star +"
-  },
-  {
-    "partido": "Volos - Olimpiakos",
-    "liga": "Liga de Grecia",
-    "hora": "9:00 a. m.",
-    "canal": "Star+"
-  },
-  {
-    "partido": "Bournemouth - Burnley",
-    "liga": "FA Cup",
-    "hora": "10:00 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Hull City - Fulham",
-    "liga": "FA Cup",
-    "hora": "10:00 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Rayo Vallecano - Real Betis",
-    "liga": "Liga de Espana",
-    "hora": "10:15 a. m.",
-    "canal": "Directv Sports"
-  },
-  {
-    "partido": "Manchester City - Chelsea",
-    "liga": "FA Cup",
-    "hora": "11:00 a. m.",
-    "canal": "ESPN y Star +"
-  },
-  {
-    "partido": "Sevilla - Getafe",
-    "liga": "Liga de Espana",
     "hora": "12:30 p. m.",
-    "canal": "ESPN 2 y Star +"
+    "canal": "Star +"
   },
   {
-    "partido": "Lille - Troyes",
-    "liga": "Copa de Francia",
-    "hora": "2:45 p. m.",
-    "canal": "Directv Sports"
-  },
-  {
-    "partido": "Milán - Roma",
+    "partido": "Bolognia - Atalanta",
     "liga": "Serie A",
-    "hora": "2:45 p. m.",
-    "canal": "ESPN 2 y Star +"
-  },
-  {
-    "partido": "Royal Antwerp - Gent",
-    "liga": "Liga de Bélgica",
     "hora": "2:45 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Atlético de Madrid - Barcelona",
+    "partido": "Athletic Club - Osasuna",
     "liga": "Liga de Espana",
     "hora": "3:00 p. m.",
-    "canal": "ESPN y Star +"
+    "canal": "Directv 610"
+  },
+  {
+    "partido": "Oxford United - Arsenal",
+    "liga": "FA Cup",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN y Star+"
+  },
+  {
+    "partido": "Pachuca - Puebla",
+    "liga": "Liga de México",
+    "hora": "10:10 p. m.",
+    "canal": "Claro Sports"
   }
 ]
