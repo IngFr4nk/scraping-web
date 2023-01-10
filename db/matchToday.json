@@ -1,32 +1,26 @@
 [
   {
-    "partido": "Hellas Verona - Cremonese",
-    "liga": "Serie A",
-    "hora": "12:30 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Bolognia - Atalanta",
-    "liga": "Serie A",
-    "hora": "2:45 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Athletic Club - Osasuna",
-    "liga": "Liga de Espana",
+    "partido": "Inter - Parma",
+    "liga": "Copa de Italia",
     "hora": "3:00 p. m.",
-    "canal": "Directv 610"
+    "canal": "ESPN y Star +"
   },
   {
-    "partido": "Oxford United - Arsenal",
-    "liga": "FA Cup",
+    "partido": "Manchester United - Charlton",
+    "liga": "EFL Cup",
     "hora": "3:00 p. m.",
-    "canal": "ESPN y Star+"
+    "canal": "ESPN 2 y Star +"
   },
   {
-    "partido": "Pachuca - Puebla",
-    "liga": "Liga de México",
-    "hora": "10:10 p. m.",
-    "canal": "Claro Sports"
+    "partido": "Newcastle - Leicester City",
+    "liga": "EFL Cup",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN y Star +"
+  },
+  {
+    "partido": "River Plate - Monterrey",
+    "liga": "Partido amistoso",
+    "hora": "9:00 p. m.",
+    "canal": "Star +"
   }
 ]
