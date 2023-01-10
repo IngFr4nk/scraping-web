@@ -27,6 +27,5 @@ jobs:
       - run: |
           node scraping/index.js
           git config user.name futbol-red-bot
-          git add -A
-          git commit -m "[bot] Update Futbolred Database"
+          git diff --quiet && git diff --staged --quiet || git commit -am "[bot] update Futbolred database"
           git push -u origin main
