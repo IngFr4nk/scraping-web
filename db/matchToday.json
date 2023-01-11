@@ -1,26 +1,74 @@
 [
   {
-    "partido": "Inter - Parma",
-    "liga": "Copa de Italia",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN y Star +"
+    "partido": "Nantes - Lyon",
+    "liga": "Liga de Francia",
+    "hora": "1:00 p. m.",
+    "canal": "ESPN  y Star +"
   },
   {
-    "partido": "Manchester United - Charlton",
+    "partido": "Braga - Vitória de Guimaraes",
+    "liga": "Copa de Portugal",
+    "hora": "1:45 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Real Madrid - Valencia CF",
+    "liga": "Supercopa de España",
+    "hora": "2:00 p. m.",
+    "canal": "Directv Sports"
+  },
+  {
+    "partido": "Nottingham Forest - Wolverhampton",
+    "liga": "EFL Cup",
+    "hora": "2:45 p. m.",
+    "canal": "ESPN 3 y Star +"
+  },
+  {
+    "partido": "Paris Saint-Germain - Angers",
+    "liga": "Liga de Francia",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN  y Star +"
+  },
+  {
+    "partido": "Milán - Torino",
+    "liga": "Copa de Italia",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN 2 y Star +"
+  },
+  {
+    "partido": "Strasbourg - Lens",
+    "liga": "Liga de Francia",
+    "hora": "3:00 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Troyes - Marsella",
+    "liga": "Liga de Francia",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN y Star+"
+  },
+  {
+    "partido": "Southampton - Manchester City",
     "liga": "EFL Cup",
     "hora": "3:00 p. m.",
     "canal": "ESPN 2 y Star +"
   },
   {
-    "partido": "Newcastle - Leicester City",
-    "liga": "EFL Cup",
+    "partido": "Lorient - Mónaco",
+    "liga": "Liga de Francia",
     "hora": "3:00 p. m.",
-    "canal": "ESPN y Star +"
+    "canal": "Star +"
   },
   {
-    "partido": "River Plate - Monterrey",
-    "liga": "Partido amistoso",
-    "hora": "9:00 p. m.",
+    "partido": "Porto - Arouca",
+    "liga": "Copa de Portugal",
+    "hora": "3:45 p. m.",
     "canal": "Star +"
+  },
+  {
+    "partido": "Hertha Berlin - Millonarios",
+    "liga": "Partido amistoso",
+    "hora": "7:00 p. m.",
+    "canal": "Win Sports+"
   }
 ]
