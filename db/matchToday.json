@@ -1,26 +1,26 @@
 [
   {
-    "partido": "Fiorentina - Sampdoria",
-    "liga": "Copa de Italia",
-    "hora": "12:00 p. m.",
-    "canal": "ESPN 4 y Star +"
+    "partido": "Napoli - Juventus",
+    "liga": "Serie A",
+    "hora": "2:45 p. m.",
+    "canal": "ESPN y Star +"
   },
   {
-    "partido": "Real Betis - Barcelona",
-    "liga": "Supercopa de España",
-    "hora": "2:00 p. m.",
-    "canal": "Directv Sports"
-  },
-  {
-    "partido": "Roma - Génoa",
-    "liga": "Copa de Italia",
+    "partido": "Aston Villa - Leeds",
+    "liga": "Liga de Inglaterra",
     "hora": "3:00 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Fulham - Chelsea",
-    "liga": "Liga de Inglaterra",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN y Star +"
+    "partido": "San Luis - Chivas",
+    "liga": "Liga de México",
+    "hora": "8:00 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Puebla - Querétaro",
+    "liga": "Liga de México",
+    "hora": "10:10 p. m.",
+    "canal": "Star +"
   }
 ]
