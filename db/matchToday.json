@@ -18,25 +18,25 @@
     "canal": "Star +"
   },
   {
-    "partido": "Brighton & Hove - Liverpool",
-    "liga": "Liga de Inglaterra",
-    "hora": "10:00 a. m.",
-    "canal": "Star +"
-  },
-  {
     "partido": "Nottingham Forest - Leicester City",
     "liga": "Liga de Inglaterra",
     "hora": "10:00 a. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Wolverhampton - West Ham Utd.",
+    "partido": "Everton - Southampton",
     "liga": "Liga de Inglaterra",
     "hora": "10:00 a. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Everton - Southampton",
+    "partido": "Brighton & Hove - Liverpool",
+    "liga": "Liga de Inglaterra",
+    "hora": "10:00 a. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Wolverhampton - West Ham Utd.",
     "liga": "Liga de Inglaterra",
     "hora": "10:00 a. m.",
     "canal": "Star +"
@@ -60,16 +60,16 @@
     "canal": "Star +"
   },
   {
-    "partido": "Osasuna - Mallorca",
-    "liga": "Liga de Espana",
-    "hora": "12:30 p. m.",
-    "canal": "Star +"
-  },
-  {
     "partido": "Brentford - Bournemouth",
     "liga": "Liga de Inglaterra",
     "hora": "12:30 p. m.",
     "canal": "ESPN y Star +"
+  },
+  {
+    "partido": "Osasuna - Mallorca",
+    "liga": "Liga de Espana",
+    "hora": "12:30 p. m.",
+    "canal": "Star +"
   },
   {
     "partido": "Marsella - Lorient",
@@ -84,10 +84,10 @@
     "canal": "ESPN y Star +"
   },
   {
-    "partido": "Lyon - Strasbourg",
-    "liga": "Liga de Francia",
+    "partido": "Ajax - FC Twente",
+    "liga": "Liga de Holanda",
     "hora": "3:00 p. m.",
-    "canal": "Star +"
+    "canal": "ESPN Extra y Star +"
   },
   {
     "partido": "Real Sociedad - Athletic Club",
@@ -96,15 +96,21 @@
     "canal": "DIRECTV SPORTS 610"
   },
   {
-    "partido": "Ajax - FC Twente",
-    "liga": "Liga de Holanda",
+    "partido": "Lyon - Strasbourg",
+    "liga": "Liga de Francia",
     "hora": "3:00 p. m.",
-    "canal": "ESPN Extra y Star +"
+    "canal": "Star +"
   },
   {
     "partido": "River Plate - Millonarios",
     "liga": "Partido amistoso",
     "hora": "7:30 p. m.",
     "canal": "Star +"
+  },
+  {
+    "partido": "Atlético Nacional - Alianza Lima",
+    "liga": "Partido amistoso",
+    "hora": "8:00 p. m.",
+    "canal": "Directv Sports 610-619 y Win Sports +"
   }
 ]
