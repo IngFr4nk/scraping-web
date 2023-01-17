@@ -1,20 +1,26 @@
 [
   {
-    "partido": "Empoli - Sampdoria",
-    "liga": "Serie A",
-    "hora": "2:45 p. m.",
-    "canal": "Star +"
+    "partido": "Real Sociedad - Mallorca",
+    "liga": "Copa del Rey",
+    "hora": "1:00 p. m.",
+    "canal": "Directv Sports"
   },
   {
-    "partido": "Cádiz - Elche",
-    "liga": "Liga de Espana",
+    "partido": "Wolverhampton - Liverpool",
+    "liga": "FA Cup",
+    "hora": "2:45 p. m.",
+    "canal": "ESPN y Star +"
+  },
+  {
+    "partido": "Alavés - Sevilla",
+    "liga": "Copa del Rey",
     "hora": "3:00 p. m.",
     "canal": "Directv Sports"
   },
   {
-    "partido": "León - Necaxa",
-    "liga": "Liga de México",
-    "hora": "10:10 p. m.",
-    "canal": "Claro Sports"
+    "partido": "Napoli - Cremonese",
+    "liga": "Copa de Italia",
+    "hora": "3:00 p. m.",
+    "canal": "Star +"
   }
 ]
