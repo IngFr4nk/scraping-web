@@ -1,26 +1,44 @@
 [
   {
-    "partido": "Real Sociedad - Mallorca",
+    "partido": "Sporting de Gijón - Valencia CF",
     "liga": "Copa del Rey",
     "hora": "1:00 p. m.",
+    "canal": "DirecTV 610"
+  },
+  {
+    "partido": "Athletic Club - Espanyol",
+    "liga": "Copa del Rey",
+    "hora": "2:00 p. m.",
     "canal": "Directv Sports"
   },
   {
-    "partido": "Wolverhampton - Liverpool",
+    "partido": "Leeds - Cardiff",
     "liga": "FA Cup",
     "hora": "2:45 p. m.",
-    "canal": "ESPN y Star +"
+    "canal": "Star +"
   },
   {
-    "partido": "Alavés - Sevilla",
+    "partido": "Crystal Palace - Manchester United",
+    "liga": "Liga de Inglaterra",
+    "hora": "3:00 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Levante - Atlético de Madrid",
+    "liga": "Copa del Rey",
+    "hora": "3:00 p. m.",
+    "canal": "DIRECTV SPORTS"
+  },
+  {
+    "partido": "Real Betis - Osasuna",
     "liga": "Copa del Rey",
     "hora": "3:00 p. m.",
     "canal": "Directv Sports"
   },
   {
-    "partido": "Napoli - Cremonese",
-    "liga": "Copa de Italia",
+    "partido": "Milán - Inter",
+    "liga": "Supercopa de Italia",
     "hora": "3:00 p. m.",
-    "canal": "Star +"
+    "canal": "Star + y ESPN"
   }
 ]
