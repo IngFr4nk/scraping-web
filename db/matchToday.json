@@ -1,38 +1,38 @@
 [
   {
-    "partido": "Atalanta - Spezia",
-    "liga": "Copa de Italia",
-    "hora": "9:00 a. m.",
-    "canal": "Star +"
+    "partido": "Boca Juniors - Racing Club",
+    "liga": "Supercopa de Argentina",
+    "hora": "10:30 a. m.",
+    "canal": "DSports"
   },
   {
-    "partido": "Lazio - Bolognia",
-    "liga": "Copa de Italia",
-    "hora": "12:00 p. m.",
-    "canal": "Star +"
+    "partido": "RB Leipzig - Bayern Munich",
+    "liga": "Bundesliga",
+    "hora": "2:30 p. m.",
+    "canal": "ESPN y Star +"
   },
   {
-    "partido": "Villarreal - Real Madrid",
-    "liga": "Copa del Rey",
+    "partido": "Mallorca - Celta de Vigo",
+    "liga": "Liga de Espana",
     "hora": "3:00 p. m.",
-    "canal": "Directv 610"
+    "canal": "ESPN 2 y Star +"
   },
   {
-    "partido": "Juventus - Monza",
-    "liga": "Copa de Italia",
-    "hora": "3:00 p. m.",
-    "canal": "Star +"
+    "partido": "Marsella - Rennes",
+    "liga": "Copa de Francia",
+    "hora": "3:10 p. m.",
+    "canal": "DirecTV 610"
   },
   {
-    "partido": "Manchester City - Tottenham Hotspur",
-    "liga": "Liga de Inglaterra",
-    "hora": "3:00 p. m.",
-    "canal": "STAR + Y ESPN"
+    "partido": "Bolivia Sub 20 - Venezuela Sub 20",
+    "liga": "Sudamericano sub 20",
+    "hora": "5:00 p. m.",
+    "canal": "DIRECTV SPORTS"
   },
   {
-    "partido": "Colombia Sub 20 - Paraguay Sub 20",
+    "partido": "Ecuador Sub 20 - Chile Sub 20",
     "liga": "Sudamericano sub 20",
     "hora": "7:30 p. m.",
-    "canal": "Caracol TV, Telepacífico y RCN"
+    "canal": "Directv Sports"
   }
 ]
