@@ -1,38 +1,134 @@
 [
   {
-    "partido": "Boca Juniors - Racing Club",
-    "liga": "Supercopa de Argentina",
-    "hora": "10:30 a. m.",
-    "canal": "DSports"
-  },
-  {
-    "partido": "RB Leipzig - Bayern Munich",
-    "liga": "Bundesliga",
-    "hora": "2:30 p. m.",
+    "partido": "Liverpool - Chelsea",
+    "liga": "Liga de Inglaterra",
+    "hora": "7:30 a. m.",
     "canal": "ESPN y Star +"
   },
   {
-    "partido": "Mallorca - Celta de Vigo",
+    "partido": "Rayo Vallecano - Real Sociedad",
+    "liga": "Liga de Espana",
+    "hora": "8:00 a. m.",
+    "canal": "ESPN 3 y Star +"
+  },
+  {
+    "partido": "Hellas Verona - Lecce",
+    "liga": "Serie A",
+    "hora": "9:00 a. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Bochum 1848 - Hertha Berlin",
+    "liga": "Bundesliga",
+    "hora": "9:30 a. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "VfB Stuttgart - Mainz 05",
+    "liga": "Bundesliga",
+    "hora": "9:30 a. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Eintracht Frankfurt - Schalke 04",
+    "liga": "Bundesliga",
+    "hora": "9:30 a. m.",
+    "canal": "ESPN 2 y Star +"
+  },
+  {
+    "partido": "Wolfsburgo - Friburgo",
+    "liga": "Bundesliga",
+    "hora": "9:30 a. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Union Berlin - Hoffenheim",
+    "liga": "Bundesliga",
+    "hora": "9:30 a. m.",
+    "canal": "Star+"
+  },
+  {
+    "partido": "Leicester City - Brighton & Hove",
+    "liga": "Liga de Inglaterra",
+    "hora": "10:00 a. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "West Ham Utd. - Everton",
+    "liga": "Liga de Inglaterra",
+    "hora": "10:00 a. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Crystal Palace - Newcastle",
+    "liga": "Liga de Inglaterra",
+    "hora": "10:00 a. m.",
+    "canal": "ESPN y Star +"
+  },
+  {
+    "partido": "Bournemouth - Nottingham Forest",
+    "liga": "Liga de Inglaterra",
+    "hora": "10:00 a. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Southampton - Aston Villa",
+    "liga": "Liga de Inglaterra",
+    "hora": "10:00 a. m.",
+    "canal": "ESPN y Star +"
+  },
+  {
+    "partido": "Espanyol - Real Betis",
+    "liga": "Liga de Espana",
+    "hora": "10:15 a. m.",
+    "canal": "DirecTV 610"
+  },
+  {
+    "partido": "Salernitana - Napoli",
+    "liga": "Serie A",
+    "hora": "12:00 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Atlético de Madrid - Valladolid",
+    "liga": "Liga de Espana",
+    "hora": "12:30 p. m.",
+    "canal": "DirecTV 610"
+  },
+  {
+    "partido": "Colonia - Werder Bremen",
+    "liga": "Bundesliga",
+    "hora": "12:30 p. m.",
+    "canal": "ESPN 2 y Star +"
+  },
+  {
+    "partido": "Santa Clara - Benfica",
+    "liga": "Liga de Portugal",
+    "hora": "1:00 p. m.",
+    "canal": "Gol TV"
+  },
+  {
+    "partido": "Fiorentina - Torino",
+    "liga": "Serie A",
+    "hora": "2:45 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Sevilla - Cádiz",
     "liga": "Liga de Espana",
     "hora": "3:00 p. m.",
     "canal": "ESPN 2 y Star +"
   },
   {
-    "partido": "Marsella - Rennes",
-    "liga": "Copa de Francia",
-    "hora": "3:10 p. m.",
-    "canal": "DirecTV 610"
+    "partido": "Vitória SC - Porto",
+    "liga": "Liga de Portugal",
+    "hora": "3:30 p. m.",
+    "canal": "Gol TV"
   },
   {
-    "partido": "Bolivia Sub 20 - Venezuela Sub 20",
+    "partido": "Perú Sub 20 - Colombia Sub 20",
     "liga": "Sudamericano sub 20",
-    "hora": "5:00 p. m.",
-    "canal": "DIRECTV SPORTS"
-  },
-  {
-    "partido": "Ecuador Sub 20 - Chile Sub 20",
-    "liga": "Sudamericano sub 20",
-    "hora": "7:30 p. m.",
-    "canal": "Directv Sports"
+    "hora": "6:30 p. m.",
+    "canal": "Caracol TV, RCN TV y Telepacífico"
   }
 ]
