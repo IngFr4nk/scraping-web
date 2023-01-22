@@ -1,134 +1,170 @@
 [
   {
-    "partido": "Liverpool - Chelsea",
-    "liga": "Liga de Inglaterra",
-    "hora": "7:30 a. m.",
-    "canal": "ESPN y Star +"
+    "partido": "Sampdoria - Udinese",
+    "liga": "Serie A",
+    "hora": "6:30 a. m.",
+    "canal": "Star +"
   },
   {
-    "partido": "Rayo Vallecano - Real Sociedad",
+    "partido": "Sunderland - Middlesbrough",
+    "liga": "Championship",
+    "hora": "7:00 a. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Royal Antwerp - Standard de Lieja",
+    "liga": "Liga de Bélgica",
+    "hora": "7:30 a. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Villarreal - Girona",
     "liga": "Liga de Espana",
     "hora": "8:00 a. m.",
-    "canal": "ESPN 3 y Star +"
+    "canal": "DIRECTV SPORTS"
   },
   {
-    "partido": "Hellas Verona - Lecce",
+    "partido": "Leganés - Levante",
+    "liga": "Segunda División de España",
+    "hora": "8:00 a. m.",
+    "canal": "DIRECTV SPORTS"
+  },
+  {
+    "partido": "FC Twente - Utrecht",
+    "liga": "Liga de Holanda",
+    "hora": "8:30 a. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Feyenoord - Ajax",
+    "liga": "Liga de Holanda",
+    "hora": "8:30 a. m.",
+    "canal": "ESPN 2 y Star +"
+  },
+  {
+    "partido": "Monza - Sassuolo",
     "liga": "Serie A",
     "hora": "9:00 a. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Bochum 1848 - Hertha Berlin",
+    "partido": "Manchester City - Wolverhampton",
+    "liga": "Liga de Inglaterra",
+    "hora": "9:00 a. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Ionikos - AEK de Atenas",
+    "liga": "Liga de Grecia",
+    "hora": "9:00 a. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Leeds - Brentford",
+    "liga": "Liga de Inglaterra",
+    "hora": "9:00 a. m.",
+    "canal": "STAR + Y ESPN"
+  },
+  {
+    "partido": "Borussia Dortmund - FC Augsburgo",
     "liga": "Bundesliga",
     "hora": "9:30 a. m.",
     "canal": "Star +"
   },
   {
-    "partido": "VfB Stuttgart - Mainz 05",
-    "liga": "Bundesliga",
-    "hora": "9:30 a. m.",
+    "partido": "Sporting de Gijón - Zaragoza",
+    "liga": "Segunda División de España",
+    "hora": "10:15 a. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Eintracht Frankfurt - Schalke 04",
-    "liga": "Bundesliga",
-    "hora": "9:30 a. m.",
-    "canal": "ESPN 2 y Star +"
-  },
-  {
-    "partido": "Wolfsburgo - Friburgo",
-    "liga": "Bundesliga",
-    "hora": "9:30 a. m.",
+    "partido": "Cartagena - Tenerife",
+    "liga": "Segunda División de España",
+    "hora": "10:15 a. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Union Berlin - Hoffenheim",
-    "liga": "Bundesliga",
-    "hora": "9:30 a. m.",
-    "canal": "Star+"
-  },
-  {
-    "partido": "Leicester City - Brighton & Hove",
-    "liga": "Liga de Inglaterra",
-    "hora": "10:00 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "West Ham Utd. - Everton",
-    "liga": "Liga de Inglaterra",
-    "hora": "10:00 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Crystal Palace - Newcastle",
-    "liga": "Liga de Inglaterra",
-    "hora": "10:00 a. m.",
-    "canal": "ESPN y Star +"
-  },
-  {
-    "partido": "Bournemouth - Nottingham Forest",
-    "liga": "Liga de Inglaterra",
-    "hora": "10:00 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Southampton - Aston Villa",
-    "liga": "Liga de Inglaterra",
-    "hora": "10:00 a. m.",
-    "canal": "ESPN y Star +"
-  },
-  {
-    "partido": "Espanyol - Real Betis",
+    "partido": "Elche - Osasuna",
     "liga": "Liga de Espana",
     "hora": "10:15 a. m.",
-    "canal": "DirecTV 610"
+    "canal": "ESPN Extra y Star +"
   },
   {
-    "partido": "Salernitana - Napoli",
+    "partido": "Arsenal - Manchester United",
+    "liga": "Liga de Inglaterra",
+    "hora": "11:30 a. m.",
+    "canal": "ESPN y Star +"
+  },
+  {
+    "partido": "Borussia Mönchengladbach - Bayer Leverkusen",
+    "liga": "Bundesliga",
+    "hora": "11:30 a. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Spezia - Roma",
     "liga": "Serie A",
     "hora": "12:00 p. m.",
+    "canal": "ESPN 3 y STAR +"
+  },
+  {
+    "partido": "Panathinaikos - Paok Salonika",
+    "liga": "Liga de Grecia",
+    "hora": "12:30 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Atlético de Madrid - Valladolid",
+    "partido": "Barcelona - Getafe",
     "liga": "Liga de Espana",
     "hora": "12:30 p. m.",
+    "canal": "ESPN 2 y Star +"
+  },
+  {
+    "partido": "Brujas - Charleroi",
+    "liga": "Liga de Bélgica",
+    "hora": "12:30 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Huesca - Real Oviedo",
+    "liga": "Segunda División de España",
+    "hora": "12:30 p. m.",
+    "canal": "DIRECTV SPORTS"
+  },
+  {
+    "partido": "Juventus - Atalanta",
+    "liga": "Serie A",
+    "hora": "2:45 p. m.",
+    "canal": "ESPN y Star +"
+  },
+  {
+    "partido": "Athletic Club - Real Madrid",
+    "liga": "Liga de Espana",
+    "hora": "3:00 p. m.",
+    "canal": "DirecTV"
+  },
+  {
+    "partido": "Brest - Lens",
+    "liga": "Copa de Francia",
+    "hora": "3:00 p. m.",
     "canal": "DirecTV 610"
   },
   {
-    "partido": "Colonia - Werder Bremen",
-    "liga": "Bundesliga",
-    "hora": "12:30 p. m.",
-    "canal": "ESPN 2 y Star +"
+    "partido": "Bolivia Sub 20 - Ecuador Sub 20",
+    "liga": "Sudamericano sub 20",
+    "hora": "4:00 p. m.",
+    "canal": "Caracol HD2 y Gol Caracol"
   },
   {
-    "partido": "Santa Clara - Benfica",
-    "liga": "Liga de Portugal",
-    "hora": "1:00 p. m.",
-    "canal": "Gol TV"
-  },
-  {
-    "partido": "Fiorentina - Torino",
-    "liga": "Serie A",
-    "hora": "2:45 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Sevilla - Cádiz",
-    "liga": "Liga de Espana",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN 2 y Star +"
-  },
-  {
-    "partido": "Vitória SC - Porto",
-    "liga": "Liga de Portugal",
-    "hora": "3:30 p. m.",
-    "canal": "Gol TV"
-  },
-  {
-    "partido": "Perú Sub 20 - Colombia Sub 20",
+    "partido": "Chile Sub 20 - Uruguay Sub 20",
     "liga": "Sudamericano sub 20",
     "hora": "6:30 p. m.",
-    "canal": "Caracol TV, RCN TV y Telepacífico"
+    "canal": "Caracol HD2 y Gol Caracol"
+  },
+  {
+    "partido": "Pachuca - FC Juárez",
+    "liga": "Liga de México",
+    "hora": "8:10 p. m.",
+    "canal": "Claro Sports"
   }
 ]
