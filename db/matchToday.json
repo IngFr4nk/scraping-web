@@ -1,38 +1,62 @@
 [
   {
-    "partido": "Bolognia - Cremonese",
-    "liga": "Serie A",
+    "partido": "Schalke 04 - RB Leipzig",
+    "liga": "Bundesliga",
     "hora": "12:30 p. m.",
-    "canal": "ESPN 3 y Star +"
+    "canal": "Star +"
   },
   {
-    "partido": "Inter - Empoli",
+    "partido": "Bayern Munich - Colonia",
+    "liga": "Bundesliga",
+    "hora": "2:30 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Hoffenheim - VfB Stuttgart",
+    "liga": "Bundesliga",
+    "hora": "2:30 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Hertha Berlin - Wolfsburgo",
+    "liga": "Bundesliga",
+    "hora": "2:30 p. m.",
+    "canal": "ESPN y Star +"
+  },
+  {
+    "partido": "Lazio - Milán",
     "liga": "Serie A",
     "hora": "2:45 p. m.",
     "canal": "ESPN y Star +"
   },
   {
-    "partido": "Valencia CF - Almería",
-    "liga": "Liga de Espana",
+    "partido": "Southampton - Newcastle",
+    "liga": "EFL Cup",
     "hora": "3:00 p. m.",
-    "canal": "DIRECTV SPORTS"
+    "canal": "ESPN y Star +"
   },
   {
-    "partido": "Fulham - Tottenham Hotspur",
-    "liga": "Liga de Inglaterra",
-    "hora": "3:00 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Paraguay Sub 20 - Perú Sub 20",
+    "partido": "Uruguay Sub 20 - Venezuela Sub 20",
     "liga": "Sudamericano sub 20",
     "hora": "5:00 p. m.",
-    "canal": "Caracol TV, Telepacífico y RCN"
+    "canal": "Gol Caracol y Caracol HD 2"
   },
   {
-    "partido": "Argentina Sub 20 - Brasil Sub 20",
-    "liga": "Sudamericano sub 20",
+    "partido": "Patronato - Gimnasia y Tiro",
+    "liga": "Copa de Argentina",
+    "hora": "5:40 p. m.",
+    "canal": "TyC Sports"
+  },
+  {
+    "partido": "Chile Sub 20 - Bolivia Sub 20",
+    "liga": "Suramericano sub-20",
     "hora": "7:30 p. m.",
-    "canal": "Caracol TV, Telepacífico y RCN"
+    "canal": "Gol Caracol y Caracol HD 2"
+  },
+  {
+    "partido": "Bucaramanga - Envigado F.C",
+    "liga": "Liga BetPlay",
+    "hora": "8:00 p. m.",
+    "canal": "Win Sports +"
   }
 ]
