@@ -1,62 +1,86 @@
 [
   {
-    "partido": "Schalke 04 - RB Leipzig",
+    "partido": "Mainz 05 - Borussia Dortmund",
     "liga": "Bundesliga",
     "hora": "12:30 p. m.",
-    "canal": "Star +"
+    "canal": "ESPN 2 y Star +"
   },
   {
-    "partido": "Bayern Munich - Colonia",
+    "partido": "Bayer Leverkusen - Bochum 1848",
+    "liga": "Bundesliga",
+    "hora": "2:30 p. m.",
+    "canal": "STAR + Y ESPN 2"
+  },
+  {
+    "partido": "FC Augsburgo - Borussia Mönchengladbach",
     "liga": "Bundesliga",
     "hora": "2:30 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Hoffenheim - VfB Stuttgart",
+    "partido": "Friburgo - Eintracht Frankfurt",
+    "liga": "Bundesliga",
+    "hora": "2:30 p. m.",
+    "canal": "Star+"
+  },
+  {
+    "partido": "Werder Bremen - Union Berlin",
     "liga": "Bundesliga",
     "hora": "2:30 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Hertha Berlin - Wolfsburgo",
-    "liga": "Bundesliga",
-    "hora": "2:30 p. m.",
-    "canal": "ESPN y Star +"
-  },
-  {
-    "partido": "Lazio - Milán",
-    "liga": "Serie A",
-    "hora": "2:45 p. m.",
-    "canal": "ESPN y Star +"
-  },
-  {
-    "partido": "Southampton - Newcastle",
+    "partido": "Nottingham Forest - Manchester United",
     "liga": "EFL Cup",
     "hora": "3:00 p. m.",
     "canal": "ESPN y Star +"
   },
   {
-    "partido": "Uruguay Sub 20 - Venezuela Sub 20",
+    "partido": "Barcelona - Real Sociedad",
+    "liga": "Copa del Rey",
+    "hora": "3:00 p. m.",
+    "canal": "DIRECTV SPORTS"
+  },
+  {
+    "partido": "Feyenoord - NEC Nimega",
+    "liga": "Liga de Holanda",
+    "hora": "3:00 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Unión Magdalena - Atlético Huila",
+    "liga": "Liga BetPlay",
+    "hora": "3:10 p. m.",
+    "canal": "WIN SPORTS, WIN SPORTS + y WIN SPORTS ONLINE"
+  },
+  {
+    "partido": "Osasuna - Sevilla",
+    "liga": "Copa del Rey",
+    "hora": "4:00 p. m.",
+    "canal": "DIRECTV SPORTS"
+  },
+  {
+    "partido": "Argentina Sub 20 - Perú Sub 20",
     "liga": "Sudamericano sub 20",
     "hora": "5:00 p. m.",
-    "canal": "Gol Caracol y Caracol HD 2"
+    "canal": "Caracol TV, Telepacífico y RCN"
   },
   {
-    "partido": "Patronato - Gimnasia y Tiro",
-    "liga": "Copa de Argentina",
-    "hora": "5:40 p. m.",
-    "canal": "TyC Sports"
-  },
-  {
-    "partido": "Chile Sub 20 - Bolivia Sub 20",
-    "liga": "Suramericano sub-20",
-    "hora": "7:30 p. m.",
-    "canal": "Gol Caracol y Caracol HD 2"
-  },
-  {
-    "partido": "Bucaramanga - Envigado F.C",
+    "partido": "Águilas Doradas - Junior",
     "liga": "Liga BetPlay",
-    "hora": "8:00 p. m.",
-    "canal": "Win Sports +"
+    "hora": "5:20 p. m.",
+    "canal": "WIN SPORTS + y WIN SPORTS ONLINE"
+  },
+  {
+    "partido": "Barcelona (ECU) - FC Dallas",
+    "liga": "Partido amistoso",
+    "hora": "7:15 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Brasil Sub 20 - Colombia Sub 20",
+    "liga": "Sudamericano sub 20",
+    "hora": "7:30 p. m.",
+    "canal": "Caracol TV, RCN TV y Telepacífico"
   }
 ]
