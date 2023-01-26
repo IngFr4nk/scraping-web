@@ -1,86 +1,50 @@
 [
   {
-    "partido": "Mainz 05 - Borussia Dortmund",
-    "liga": "Bundesliga",
-    "hora": "12:30 p. m.",
-    "canal": "ESPN 2 y Star +"
-  },
-  {
-    "partido": "Bayer Leverkusen - Bochum 1848",
-    "liga": "Bundesliga",
-    "hora": "2:30 p. m.",
-    "canal": "STAR + Y ESPN 2"
-  },
-  {
-    "partido": "FC Augsburgo - Borussia Mönchengladbach",
-    "liga": "Bundesliga",
-    "hora": "2:30 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Friburgo - Eintracht Frankfurt",
-    "liga": "Bundesliga",
-    "hora": "2:30 p. m.",
-    "canal": "Star+"
-  },
-  {
-    "partido": "Werder Bremen - Union Berlin",
-    "liga": "Bundesliga",
-    "hora": "2:30 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Nottingham Forest - Manchester United",
-    "liga": "EFL Cup",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN y Star +"
-  },
-  {
-    "partido": "Barcelona - Real Sociedad",
+    "partido": "Valencia CF - Athletic Club",
     "liga": "Copa del Rey",
-    "hora": "3:00 p. m.",
+    "hora": "2:00 p. m.",
     "canal": "DIRECTV SPORTS"
   },
   {
-    "partido": "Feyenoord - NEC Nimega",
-    "liga": "Liga de Holanda",
+    "partido": "Real Madrid - Atlético de Madrid",
+    "liga": "Copa del Rey",
     "hora": "3:00 p. m.",
-    "canal": "Star +"
+    "canal": "DirecTV"
   },
   {
-    "partido": "Unión Magdalena - Atlético Huila",
+    "partido": "Paços de Ferreira - Benfica",
+    "liga": "Liga de Portugal",
+    "hora": "3:15 p. m.",
+    "canal": "Gol TV"
+  },
+  {
+    "partido": "Boyacá Chicó - Alianza Petrolera",
     "liga": "Liga BetPlay",
-    "hora": "3:10 p. m.",
+    "hora": "4:00 p. m.",
     "canal": "WIN SPORTS, WIN SPORTS + y WIN SPORTS ONLINE"
   },
   {
-    "partido": "Osasuna - Sevilla",
-    "liga": "Copa del Rey",
-    "hora": "4:00 p. m.",
-    "canal": "DIRECTV SPORTS"
-  },
-  {
-    "partido": "Argentina Sub 20 - Perú Sub 20",
+    "partido": "Uruguay Sub 20 - Bolivia Sub 20",
     "liga": "Sudamericano sub 20",
     "hora": "5:00 p. m.",
-    "canal": "Caracol TV, Telepacífico y RCN"
+    "canal": "Caracol HD2, Gol Caracol y Telepacífico"
   },
   {
-    "partido": "Águilas Doradas - Junior",
+    "partido": "Deportes Tolima - América",
     "liga": "Liga BetPlay",
-    "hora": "5:20 p. m.",
+    "hora": "6:10 p. m.",
     "canal": "WIN SPORTS + y WIN SPORTS ONLINE"
   },
   {
-    "partido": "Barcelona (ECU) - FC Dallas",
-    "liga": "Partido amistoso",
-    "hora": "7:15 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Brasil Sub 20 - Colombia Sub 20",
+    "partido": "Venezuela Sub 20 - Ecuador Sub 20",
     "liga": "Sudamericano sub 20",
     "hora": "7:30 p. m.",
-    "canal": "Caracol TV, RCN TV y Telepacífico"
+    "canal": "Caracol HD2, Gol Caracol y Telepacífico"
+  },
+  {
+    "partido": "Atlético Nacional - Once Caldas",
+    "liga": "Liga BetPlay",
+    "hora": "8:20 p. m.",
+    "canal": "WIN SPORTS + y WIN SPORTS ONLINE"
   }
 ]
