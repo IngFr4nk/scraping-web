@@ -1,48 +1,42 @@
 [
   {
-    "partido": "Derby County - West Ham Utd.",
-    "liga": "FA Cup",
+    "partido": "Paderborn - VfB Stuttgart",
+    "liga": "Copa de Alemania",
+    "hora": "12:00 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Union Berlin - Wolfsburgo",
+    "liga": "Copa de Alemania",
     "hora": "2:45 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Udinese - Hellas Verona",
-    "liga": "Serie A",
-    "hora": "2:45 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Barracas Central - Godoy Cruz",
-    "liga": "Liga de Argentina",
+    "partido": "Inter - Atalanta",
+    "liga": "Copa de Italia",
     "hora": "3:00 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Zaragoza - Ponferradina",
-    "liga": "Segunda División de España",
+    "partido": "Newcastle - Southampton",
+    "liga": "EFL Cup",
     "hora": "3:00 p. m.",
-    "canal": "Star +"
+    "canal": "ESPN y Star +"
   },
   {
-    "partido": "Villarreal - Rayo Vallecano",
-    "liga": "Liga de Espana",
-    "hora": "3:00 p. m.",
-    "canal": "DIRECTV SPORTS"
+    "partido": "Arouca - Benfica",
+    "liga": "Liga de Portugal",
+    "hora": "4:15 p. m.",
+    "canal": "GOL TV y Gol TV Play"
   },
   {
-    "partido": "Banfield - Unión de Santa Fe",
-    "liga": "Liga de Argentina",
+    "partido": "Boyacá Chicó - Jaguares de Córdoba",
+    "liga": "Liga BetPlay",
     "hora": "6:00 p. m.",
-    "canal": "TYC SPORTS"
+    "canal": "Win Sports y Win +"
   },
   {
-    "partido": "Vélez Sarsfield - Gimnasia de La Plata",
-    "liga": "Liga de Argentina",
-    "hora": "6:00 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Once Caldas - Deportes Tolima",
+    "partido": "América - Unión Magdalena",
     "liga": "Liga BetPlay",
     "hora": "8:10 p. m.",
     "canal": "Win Sports +"
