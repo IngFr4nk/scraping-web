@@ -1,44 +1,92 @@
 [
   {
-    "partido": "Paderborn - VfB Stuttgart",
+    "partido": "RB Leipzig - Hoffenheim",
     "liga": "Copa de Alemania",
     "hora": "12:00 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Union Berlin - Wolfsburgo",
-    "liga": "Copa de Alemania",
-    "hora": "2:45 p. m.",
+    "partido": "Fiorentina - Torino",
+    "liga": "Copa de Italia",
+    "hora": "12:00 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Inter - Atalanta",
+    "partido": "Nantes - Marsella",
+    "liga": "Liga de Francia",
+    "hora": "1:00 p. m.",
+    "canal": "ESPN 4 y Star+"
+  },
+  {
+    "partido": "Al Ahly - Auckland City",
+    "liga": "Mundial de Clubes de la Fifa",
+    "hora": "2:00 p. m.",
+    "canal": "Directv"
+  },
+  {
+    "partido": "Marítimo - Porto",
+    "liga": "Liga de Portugal",
+    "hora": "2:00 p. m.",
+    "canal": "GOL TV y Gol TV Play"
+  },
+  {
+    "partido": "Mainz 05 - Bayern Munich",
+    "liga": "Copa de Alemania",
+    "hora": "2:45 p. m.",
+    "canal": "Star + y ESPN Extra"
+  },
+  {
+    "partido": "Lyon - Brest",
+    "liga": "Liga de Francia",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN 3 y Star+"
+  },
+  {
+    "partido": "Montpellier - Paris Saint-Germain",
+    "liga": "Liga de Francia",
+    "hora": "3:00 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Manchester United - Nottingham Forest",
+    "liga": "EFL Cup",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN 2 y Star+"
+  },
+  {
+    "partido": "Real Betis - Barcelona",
+    "liga": "Liga de Espana",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN y Star+"
+  },
+  {
+    "partido": "Roma - Cremonese",
     "liga": "Copa de Italia",
     "hora": "3:00 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Newcastle - Southampton",
-    "liga": "EFL Cup",
+    "partido": "Rennes - Strasbourg",
+    "liga": "Liga de Francia",
     "hora": "3:00 p. m.",
-    "canal": "ESPN y Star +"
+    "canal": "Star + y TV5 Monde"
   },
   {
-    "partido": "Arouca - Benfica",
+    "partido": "Mónaco - Auxerre",
+    "liga": "Liga de Francia",
+    "hora": "3:00 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Lens - Niza",
+    "liga": "Liga de Francia",
+    "hora": "3:00 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Sporting de Lisboa - Braga",
     "liga": "Liga de Portugal",
     "hora": "4:15 p. m.",
     "canal": "GOL TV y Gol TV Play"
-  },
-  {
-    "partido": "Boyacá Chicó - Jaguares de Córdoba",
-    "liga": "Liga BetPlay",
-    "hora": "6:00 p. m.",
-    "canal": "Win Sports y Win +"
-  },
-  {
-    "partido": "América - Unión Magdalena",
-    "liga": "Liga BetPlay",
-    "hora": "8:10 p. m.",
-    "canal": "Win Sports +"
   }
 ]
