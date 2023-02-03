@@ -1,32 +1,62 @@
 [
   {
-    "partido": "Adana Demirspor - Fenerbache",
-    "liga": "Liga de Turquía",
-    "hora": "12:00 p. m.",
+    "partido": "FC Augsburgo - Bayer Leverkusen",
+    "liga": "Bundesliga",
+    "hora": "2:30 p. m.",
     "canal": "STAR +"
   },
   {
-    "partido": "Real Madrid - Valencia CF",
+    "partido": "Uruguay Sub 20 - Ecuador Sub 20",
+    "liga": "Sudamericano sub 20",
+    "hora": "3:00 p. m.",
+    "canal": "Caracol Play"
+  },
+  {
+    "partido": "Athletic Club - Cádiz",
     "liga": "Liga de Espana",
     "hora": "3:00 p. m.",
-    "canal": "DIRECTV SPORTS"
+    "canal": "ESPN 3 y Star +"
   },
   {
-    "partido": "Juventus - Lazio",
-    "liga": "Copa de Italia",
+    "partido": "Chelsea - Fulham",
+    "liga": "Liga de Inglaterra",
     "hora": "3:00 p. m.",
-    "canal": "Star +"
+    "canal": "ESPN y Star +"
   },
   {
-    "partido": "Barranquilla - Real Cartagena",
+    "partido": "Brasil Sub 20 - Venezuela Sub 20",
+    "liga": "Sudamericano sub 20",
+    "hora": "5:30 p. m.",
+    "canal": "Caracol HD2 y Caracol Play"
+  },
+  {
+    "partido": "Pereira - Atlético Huila",
+    "liga": "Liga BetPlay",
+    "hora": "6:00 p. m.",
+    "canal": "Win Sports +"
+  },
+  {
+    "partido": "Newell`s Old Boys - Vélez Sarsfield",
+    "liga": "Liga de Argentina",
+    "hora": "6:00 p. m.",
+    "canal": "TyC Sports"
+  },
+  {
+    "partido": "Tigre - Rosario Central",
+    "liga": "Liga de Argentina",
+    "hora": "6:00 p. m.",
+    "canal": "STAR +"
+  },
+  {
+    "partido": "Cúcuta - Orsomarso",
     "liga": "Torneo Betplay",
-    "hora": "7:40 p. m.",
-    "canal": "WIN SPORTS, WIN SPORTS + y WIN SPORTS ONLINE"
+    "hora": "6:10 p. m.",
+    "canal": "Win Sports + / Win Sports"
   },
   {
-    "partido": "San Luis - Puebla",
-    "liga": "Liga de México",
-    "hora": "10:00 p. m.",
-    "canal": "Star +"
+    "partido": "Colombia Sub 20 - Paraguay Sub 20",
+    "liga": "Sudamericano sub 20",
+    "hora": "8:00 p. m.",
+    "canal": "Caracol y RCN"
   }
 ]
