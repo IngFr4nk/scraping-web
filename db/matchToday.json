@@ -1,236 +1,86 @@
 [
   {
-    "partido": "Cambuur - Ajax",
-    "liga": "Liga de Holanda",
-    "hora": "6:15 a. m.",
-    "canal": "ESPN y Star +"
-  },
-  {
-    "partido": "Spezia - Napoli",
-    "liga": "Serie A",
-    "hora": "6:30 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Clermont - Mónaco",
-    "liga": "Liga de Francia",
-    "hora": "7:00 a. m.",
-    "canal": "STAR + Y ESPN 2"
-  },
-  {
-    "partido": "Royal Antwerp - Brujas",
-    "liga": "Liga de Bélgica",
-    "hora": "7:30 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Mallorca - Real Madrid",
-    "liga": "Liga de Espana",
-    "hora": "8:00 a. m.",
-    "canal": "DIRECTV SPORTS"
-  },
-  {
-    "partido": "Feyenoord - PSV",
-    "liga": "Liga de Holanda",
-    "hora": "8:30 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Torino - Udinese",
-    "liga": "Serie A",
-    "hora": "9:00 a. m.",
-    "canal": "ESPN 2 y Star +"
-  },
-  {
-    "partido": "Nottingham Forest - Leeds",
-    "liga": "Liga de Inglaterra",
-    "hora": "9:00 a. m.",
-    "canal": "ESPN y Star +"
-  },
-  {
-    "partido": "VfB Stuttgart - Werder Bremen",
-    "liga": "Bundesliga",
-    "hora": "9:30 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "FC Andorra - Zaragoza",
-    "liga": "Segunda División de España",
-    "hora": "10:15 a. m.",
-    "canal": "DIRECTV SPORTS"
-  },
-  {
-    "partido": "Parma - Génoa",
-    "liga": "Serie B de Italia",
-    "hora": "10:15 a. m.",
-    "canal": "DIRECTV SPORTS"
-  },
-  {
-    "partido": "Girona - Valencia CF",
-    "liga": "Liga de Espana",
-    "hora": "10:15 a. m.",
-    "canal": "DIRECTV SPORTS"
-  },
-  {
-    "partido": "Braga - Famalicao",
-    "liga": "Liga de Portugal",
-    "hora": "10:30 a. m.",
-    "canal": "Gol TV Play"
-  },
-  {
-    "partido": "Groningen - FC Twente",
-    "liga": "Liga de Holanda",
-    "hora": "10:45 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Brest - Lens",
-    "liga": "Liga de Francia",
-    "hora": "11:00 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Galatasaray - Trabzonspor",
+    "partido": "Fenerbache - Konyaspor",
     "liga": "Liga de Turquía",
-    "hora": "11:00 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Wolfsburgo - Bayern Munich",
-    "liga": "Bundesliga",
-    "hora": "11:30 a. m.",
-    "canal": "ESPN 4 y Star +"
-  },
-  {
-    "partido": "Tottenham Hotspur - Manchester City",
-    "liga": "Liga de Inglaterra",
-    "hora": "11:30 a. m.",
-    "canal": "ESPN y Star +"
-  },
-  {
-    "partido": "Fiorentina - Bolognia",
-    "liga": "Serie A",
     "hora": "12:00 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Cartagena - Levante",
-    "liga": "Segunda División de España",
-    "hora": "12:30 p. m.",
-    "canal": "DIRECTV SPORTS"
-  },
-  {
-    "partido": "Ponferradina - Racing (Esp)",
-    "liga": "Segunda División de España",
+    "partido": "Hellas Verona - Lazio",
+    "liga": "Serie A",
     "hora": "12:30 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Gent - Genk",
-    "liga": "Liga de Bélgica",
-    "hora": "12:30 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Real Sociedad - Valladolid",
-    "liga": "Liga de Espana",
-    "hora": "12:30 p. m.",
-    "canal": "ESPN 2 y Star +"
-  },
-  {
-    "partido": "Porto - Vizela",
+    "partido": "Portimonense - Paços de Ferreira",
     "liga": "Liga de Portugal",
-    "hora": "1:00 p. m.",
-    "canal": "GOL TV Play"
+    "hora": "2:00 p. m.",
+    "canal": "Gol TV Play"
   },
   {
-    "partido": "Inter - Milán",
+    "partido": "Monza - Sampdoria",
     "liga": "Serie A",
     "hora": "2:45 p. m.",
-    "canal": "STAR + Y ESPN"
-  },
-  {
-    "partido": "Marsella - Niza",
-    "liga": "Liga de Francia",
-    "hora": "2:45 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Barcelona - Sevilla",
+    "partido": "Rayo Vallecano - Almería",
     "liga": "Liga de Espana",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN 2 y Star +"
-  },
-  {
-    "partido": "Independiente - Platense",
-    "liga": "Liga de Argentina",
-    "hora": "3:00 p. m.",
-    "canal": "AFA Play y TyC Sports"
-  },
-  {
-    "partido": "Lugo - Ibiza",
-    "liga": "Segunda División de España",
     "hora": "3:00 p. m.",
     "canal": "DIRECTV SPORTS"
   },
   {
-    "partido": "Deportivo Cali - Once Caldas",
-    "liga": "Liga BetPlay",
-    "hora": "3:15 p. m.",
-    "canal": "Win Sports +"
+    "partido": "Venezuela Sub 20 - Uruguay Sub 20",
+    "liga": "Sudamericano sub 20",
+    "hora": "3:00 p. m.",
+    "canal": "Caracol Play"
   },
   {
-    "partido": "Montevideo Torque - Danubio",
-    "liga": "Liga de Uruguay",
-    "hora": "4:00 p. m.",
+    "partido": "Blackburn Rov. - Wigan",
+    "liga": "Championship",
+    "hora": "3:00 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Deportivo Táchira - Estudiantes de Mérida",
-    "liga": "Liga de Venezuela",
+    "partido": "Rio Ave - Sporting de Lisboa",
+    "liga": "Liga de Portugal",
     "hora": "4:15 p. m.",
     "canal": "GOL TV Play"
   },
   {
-    "partido": "Boca Juniors - Central Córdoba",
-    "liga": "Liga de Argentina",
-    "hora": "5:15 p. m.",
-    "canal": "AFA Play, STAR + y ESPN"
+    "partido": "Paraguay Sub 20 - Brasil Sub 20",
+    "liga": "Sudamericano sub 20",
+    "hora": "5:30 p. m.",
+    "canal": "Caracol Play"
   },
   {
-    "partido": "Bucaramanga - Junior",
+    "partido": "Gimnasia de La Plata - Defensa y Justicia",
+    "liga": "Liga de Argentina",
+    "hora": "6:00 p. m.",
+    "canal": "AFA Play Y STAR +"
+  },
+  {
+    "partido": "Huracán - Banfield",
+    "liga": "Liga de Argentina",
+    "hora": "6:00 p. m.",
+    "canal": "AFA Play y TyC Sports"
+  },
+  {
+    "partido": "Águilas Doradas - Deportes Tolima",
     "liga": "Liga BetPlay",
-    "hora": "5:30 p. m.",
+    "hora": "6:00 p. m.",
     "canal": "Win Sports +"
   },
   {
-    "partido": "Nacional (Uru) - Liverpool Uruguay",
+    "partido": "Defensor Sporting - Fénix",
     "liga": "Liga de Uruguay",
     "hora": "7:00 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Godoy Cruz - Colón",
-    "liga": "Liga de Argentina",
-    "hora": "7:30 p. m.",
-    "canal": "AFA Play"
-  },
-  {
-    "partido": "Unión de Santa Fe - Instituto de Córdoba",
-    "liga": "Liga de Argentina",
-    "hora": "7:30 p. m.",
-    "canal": "AFA Play"
-  },
-  {
-    "partido": "Atlético Tucumán - Talleres de Córdoba",
-    "liga": "Liga de Argentina",
-    "hora": "7:30 p. m.",
-    "canal": "AFA Play Y STAR +"
-  },
-  {
-    "partido": "Unión Magdalena - Envigado F.C",
-    "liga": "Liga BetPlay",
-    "hora": "7:45 p. m.",
-    "canal": "Win Sports y Win +"
+    "partido": "Colombia Sub 20 - Ecuador Sub 20",
+    "liga": "Sudamericano sub 20",
+    "hora": "8:00 p. m.",
+    "canal": "Caracol TV, Telepacífico y RCN"
   }
 ]
