@@ -1,32 +1,50 @@
 [
   {
-    "partido": "Eintracht Frankfurt - Darmstadt 98",
-    "liga": "Copa de Alemania",
-    "hora": "2:45 p. m.",
+    "partido": "Ecuador Sub 20 - Venezuela Sub 20",
+    "liga": "Suramericano sub-20",
+    "hora": "3:00 p. m.",
+    "canal": "Gol Caracol y Caracol HD2"
+  },
+  {
+    "partido": "Lorient - Lens",
+    "liga": "Copa de Francia",
+    "hora": "3:00 p. m.",
+    "canal": "Directv Sports"
+  },
+  {
+    "partido": "Braga - Benfica",
+    "liga": "Copa de Portugal",
+    "hora": "3:30 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Salernitana - Juventus",
-    "liga": "Serie A",
-    "hora": "2:45 p. m.",
-    "canal": "Star + y ESPN"
-  },
-  {
-    "partido": "Atlético Nacional - Boyacá Chicó",
-    "liga": "Futbol Femenino",
-    "hora": "5:00 p. m.",
+    "partido": "Real Cartagena - Patriotas F.C",
+    "liga": "Torneo BetPlay",
+    "hora": "4:00 p. m.",
     "canal": "Win Sports +"
   },
   {
-    "partido": "Huancayo - Nacional (Par)",
+    "partido": "Uruguay Sub 20 - Paraguay Sub 20",
+    "liga": "Sudamericano sub 20",
+    "hora": "5:30 p. m.",
+    "canal": "Gol Caracol y Caracol HD2"
+  },
+  {
+    "partido": "Junior - Unión Magdalena",
+    "liga": "Liga BetPlay",
+    "hora": "6:00 p. m.",
+    "canal": "Win Sports +"
+  },
+  {
+    "partido": "Boston River - Zamora",
     "liga": "Copa Libertadores",
     "hora": "7:00 p. m.",
-    "canal": "Star + y ESPN"
+    "canal": "ESPN y Star +"
   },
   {
-    "partido": "Leones - Boca Juniors de Cali",
-    "liga": "Torneo BetPlay",
-    "hora": "7:30 p. m.",
-    "canal": "Win Sports +"
+    "partido": "Colombia Sub 20 - Brasil Sub 20",
+    "liga": "Sudamericano sub 20",
+    "hora": "8:00 p. m.",
+    "canal": "Caracol TV, RCN y Telepacífico"
   }
 ]
