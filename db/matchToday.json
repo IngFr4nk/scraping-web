@@ -1,50 +1,50 @@
 [
   {
-    "partido": "Ecuador Sub 20 - Venezuela Sub 20",
-    "liga": "Suramericano sub-20",
-    "hora": "3:00 p. m.",
-    "canal": "Gol Caracol y Caracol HD2"
+    "partido": "Schalke 04 - Wolfsburgo",
+    "liga": "Bundesliga",
+    "hora": "2:30 p. m.",
+    "canal": "Star + y ESPN 2"
   },
   {
-    "partido": "Lorient - Lens",
-    "liga": "Copa de Francia",
-    "hora": "3:00 p. m.",
-    "canal": "Directv Sports"
+    "partido": "Milán - Torino",
+    "liga": "Serie A",
+    "hora": "2:45 p. m.",
+    "canal": "Star + y ESPN"
   },
   {
-    "partido": "Braga - Benfica",
-    "liga": "Copa de Portugal",
-    "hora": "3:30 p. m.",
+    "partido": "Niza - AC Ajaccio",
+    "liga": "Liga de Francia",
+    "hora": "3:00 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Real Cartagena - Patriotas F.C",
-    "liga": "Torneo BetPlay",
-    "hora": "4:00 p. m.",
-    "canal": "Win Sports +"
+    "partido": "Cádiz - Girona",
+    "liga": "Liga de Espana",
+    "hora": "3:00 p. m.",
+    "canal": "Star + y ESPN Extra"
   },
   {
-    "partido": "Uruguay Sub 20 - Paraguay Sub 20",
-    "liga": "Sudamericano sub 20",
-    "hora": "5:30 p. m.",
-    "canal": "Gol Caracol y Caracol HD2"
-  },
-  {
-    "partido": "Junior - Unión Magdalena",
+    "partido": "Alianza Petrolera - Atlético Huila",
     "liga": "Liga BetPlay",
     "hora": "6:00 p. m.",
     "canal": "Win Sports +"
   },
   {
-    "partido": "Boston River - Zamora",
-    "liga": "Copa Libertadores",
-    "hora": "7:00 p. m.",
-    "canal": "ESPN y Star +"
+    "partido": "Colón - Sarmiento de Junín",
+    "liga": "Liga de Argentina",
+    "hora": "7:30 p. m.",
+    "canal": "TyC Sports Internacional"
   },
   {
-    "partido": "Colombia Sub 20 - Brasil Sub 20",
-    "liga": "Sudamericano sub 20",
-    "hora": "8:00 p. m.",
-    "canal": "Caracol TV, RCN y Telepacífico"
+    "partido": "Central Córdoba - Belgrano",
+    "liga": "Liga de Argentina",
+    "hora": "7:30 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Jaguares de Córdoba - Bucaramanga",
+    "liga": "Liga BetPlay",
+    "hora": "8:10 p. m.",
+    "canal": "Win Sports +"
   }
 ]
