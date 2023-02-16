@@ -1,50 +1,98 @@
 [
   {
-    "partido": "Arsenal - Manchester City",
-    "liga": "Liga de Inglaterra",
-    "hora": "2:30 p. m.",
+    "partido": "Qarabag - Gent",
+    "liga": "UEFA Europa Conference League",
+    "hora": "12:45 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Borussia Dortmund - Chelsea",
-    "liga": "Champions League",
+    "partido": "Shakhtar Donetsk - Rennes",
+    "liga": "Liga de Europa",
+    "hora": "12:45 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Trabzonspor - Basel",
+    "liga": "UEFA Europa Conference League",
+    "hora": "12:45 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Ajax - Union Berlin",
+    "liga": "Liga de Europa",
+    "hora": "12:45 p. m.",
+    "canal": "Star + y Fox Sports 2"
+  },
+  {
+    "partido": "Barcelona - Manchester United",
+    "liga": "Liga de Europa",
+    "hora": "12:45 p. m.",
+    "canal": "Star + y ESPN"
+  },
+  {
+    "partido": "Braga - Fiorentina",
+    "liga": "UEFA Europa Conference League",
+    "hora": "12:45 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Lazio - CFR Cluj",
+    "liga": "UEFA Europa Conference League",
+    "hora": "3:00 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Juventus - Nantes",
+    "liga": "Liga de Europa",
     "hora": "3:00 p. m.",
     "canal": "Star + y ESPN"
   },
   {
-    "partido": "Real Madrid - Elche",
-    "liga": "Liga de Espana",
+    "partido": "Sporting de Lisboa - Midtjylland",
+    "liga": "Liga de Europa",
     "hora": "3:00 p. m.",
-    "canal": "Star + y ESPN 3"
+    "canal": "Star +"
   },
   {
-    "partido": "Brujas - Benfica",
-    "liga": "Champions League",
+    "partido": "Sevilla - PSV",
+    "liga": "Liga de Europa",
     "hora": "3:00 p. m.",
     "canal": "Star + y ESPN 2"
   },
   {
-    "partido": "Boyacá Chicó - Real Cartagena",
-    "liga": "Copa Betplay",
-    "hora": "5:15 p. m.",
+    "partido": "Sheriff - Partizan",
+    "liga": "UEFA Europa Conference League",
+    "hora": "3:00 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Bayer Leverkusen - Mónaco",
+    "liga": "Liga de Europa",
+    "hora": "3:00 p. m.",
+    "canal": "Star + y Fox Sports 2"
+  },
+  {
+    "partido": "Ludogorets - Anderlecht",
+    "liga": "UEFA Europa Conference League",
+    "hora": "3:00 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Cúcuta - Once Caldas",
+    "liga": "Copa BetPlay",
+    "hora": "3:30 p. m.",
     "canal": "Win Sports y Win Sports +"
   },
   {
-    "partido": "El Nacional - Nacional Potosí",
+    "partido": "Zamora - Boston River",
     "liga": "Copa Libertadores",
     "hora": "7:00 p. m.",
     "canal": "Star + y ESPN"
   },
   {
-    "partido": "Equidad - Independiente Medellín",
+    "partido": "Atlético Nacional - Pereira",
     "liga": "Liga BetPlay",
     "hora": "8:00 p. m.",
     "canal": "Win Sports +"
-  },
-  {
-    "partido": "Chivas - Tijuana",
-    "liga": "Liga de México",
-    "hora": "8:00 p. m.",
-    "canal": "Claro Sports"
   }
 ]
