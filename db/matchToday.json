@@ -1,98 +1,50 @@
 [
   {
-    "partido": "Qarabag - Gent",
-    "liga": "UEFA Europa Conference League",
-    "hora": "12:45 p. m.",
+    "partido": "FC Augsburgo - Hoffenheim",
+    "liga": "Bundesliga",
+    "hora": "2:30 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Shakhtar Donetsk - Rennes",
-    "liga": "Liga de Europa",
-    "hora": "12:45 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Trabzonspor - Basel",
-    "liga": "UEFA Europa Conference League",
-    "hora": "12:45 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Ajax - Union Berlin",
-    "liga": "Liga de Europa",
-    "hora": "12:45 p. m.",
-    "canal": "Star + y Fox Sports 2"
-  },
-  {
-    "partido": "Barcelona - Manchester United",
-    "liga": "Liga de Europa",
-    "hora": "12:45 p. m.",
+    "partido": "Sassuolo - Napoli",
+    "liga": "Serie A",
+    "hora": "2:45 p. m.",
     "canal": "Star + y ESPN"
   },
   {
-    "partido": "Braga - Fiorentina",
-    "liga": "UEFA Europa Conference League",
-    "hora": "12:45 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Lazio - CFR Cluj",
-    "liga": "UEFA Europa Conference League",
-    "hora": "3:00 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Juventus - Nantes",
-    "liga": "Liga de Europa",
-    "hora": "3:00 p. m.",
-    "canal": "Star + y ESPN"
-  },
-  {
-    "partido": "Sporting de Lisboa - Midtjylland",
-    "liga": "Liga de Europa",
-    "hora": "3:00 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Sevilla - PSV",
-    "liga": "Liga de Europa",
+    "partido": "Girona - Almería",
+    "liga": "Liga de Espana",
     "hora": "3:00 p. m.",
     "canal": "Star + y ESPN 2"
   },
   {
-    "partido": "Sheriff - Partizan",
-    "liga": "UEFA Europa Conference League",
+    "partido": "Auxerre - Lyon",
+    "liga": "Liga de Francia",
     "hora": "3:00 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Bayer Leverkusen - Mónaco",
-    "liga": "Liga de Europa",
-    "hora": "3:00 p. m.",
-    "canal": "Star + y Fox Sports 2"
+    "partido": "Gimnasia de Jujuy - Instituto de Córdoba",
+    "liga": "Liga de Argentina",
+    "hora": "4:00 p. m.",
+    "canal": "TyC Sports Internacional"
   },
   {
-    "partido": "Ludogorets - Anderlecht",
-    "liga": "UEFA Europa Conference League",
-    "hora": "3:00 p. m.",
+    "partido": "Huracán - Barracas Central",
+    "liga": "Liga de Argentina",
+    "hora": "7:30 p. m.",
+    "canal": "TyC Sports Internacional"
+  },
+  {
+    "partido": "Arsenal de Sarandí - Racing Club",
+    "liga": "Liga de Argentina",
+    "hora": "7:30 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Cúcuta - Once Caldas",
-    "liga": "Copa BetPlay",
-    "hora": "3:30 p. m.",
-    "canal": "Win Sports y Win Sports +"
-  },
-  {
-    "partido": "Zamora - Boston River",
-    "liga": "Copa Libertadores",
-    "hora": "7:00 p. m.",
-    "canal": "Star + y ESPN"
-  },
-  {
-    "partido": "Atlético Nacional - Pereira",
+    "partido": "Atlético Huila - Deportes Tolima",
     "liga": "Liga BetPlay",
     "hora": "8:00 p. m.",
-    "canal": "Win Sports +"
+    "canal": "Win Sports y Win Sports +"
   }
 ]
