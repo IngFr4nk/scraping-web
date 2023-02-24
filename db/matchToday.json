@@ -1,116 +1,62 @@
 [
   {
-    "partido": "Nueva Zelanda - Argentina",
-    "liga": "Futbol Femenino",
-    "hora": "1:00 a. m.",
-    "canal": "FIFA+"
+    "partido": "Mainz 05 - Borussia Mönchengladbach",
+    "liga": "Bundesliga",
+    "hora": "2:30 p. m.",
+    "canal": "ESPN 4 y Star +"
   },
   {
-    "partido": "CFR Cluj - Lazio",
-    "liga": "UEFA Europa Conference League",
-    "hora": "12:45 p. m.",
-    "canal": "STAR +"
-  },
-  {
-    "partido": "Anderlecht - Ludogorets",
-    "liga": "UEFA Europa Conference League",
-    "hora": "12:45 p. m.",
-    "canal": "STAR +"
-  },
-  {
-    "partido": "PSV - Sevilla",
-    "liga": "Liga de Europa",
-    "hora": "12:45 p. m.",
-    "canal": "STAR + y ESPN 2"
-  },
-  {
-    "partido": "Partizan - Sheriff",
-    "liga": "UEFA Europa Conference League",
-    "hora": "12:45 p. m.",
-    "canal": "STAR +"
-  },
-  {
-    "partido": "Nantes - Juventus",
-    "liga": "Liga de Europa",
-    "hora": "12:45 p. m.",
-    "canal": "STAR + y ESPN"
-  },
-  {
-    "partido": "Midtjylland - Sporting de Lisboa",
-    "liga": "Liga de Europa",
-    "hora": "12:45 p. m.",
-    "canal": "STAR +"
-  },
-  {
-    "partido": "Mónaco - Bayer Leverkusen",
-    "liga": "Liga de Europa",
-    "hora": "12:45 p. m.",
-    "canal": "STAR + y FOX Sports 2"
-  },
-  {
-    "partido": "Roma - Red Bull Salzburg",
-    "liga": "Liga de Europa",
+    "partido": "Lille - Brest",
+    "liga": "Liga de Francia",
     "hora": "3:00 p. m.",
-    "canal": "STAR + y ESPN 2"
+    "canal": "Star +"
   },
   {
-    "partido": "Gent - Qarabag",
-    "liga": "UEFA Europa Conference League",
+    "partido": "Fulham - Wolverhampton",
+    "liga": "Liga de Inglaterra",
     "hora": "3:00 p. m.",
-    "canal": "STAR +"
+    "canal": "ESPN Extra y Star +"
   },
   {
-    "partido": "Fiorentina - Braga",
-    "liga": "UEFA Europa Conference League",
+    "partido": "Elche - Real Betis",
+    "liga": "Liga de Espana",
     "hora": "3:00 p. m.",
-    "canal": "STAR +"
+    "canal": "ESPN 2 y Star +"
   },
   {
-    "partido": "Manchester United - Barcelona",
-    "liga": "Liga de Europa",
-    "hora": "3:00 p. m.",
-    "canal": "STAR + y ESPN"
+    "partido": "Tigres - Cortuluá",
+    "liga": "Torneo Betplay",
+    "hora": "6:00 p. m.",
+    "canal": "Win Sports y Win +"
   },
   {
-    "partido": "Rennes - Shakhtar Donetsk",
-    "liga": "Liga de Europa",
-    "hora": "3:00 p. m.",
-    "canal": "STAR +"
-  },
-  {
-    "partido": "Union Berlin - Ajax",
-    "liga": "Liga de Europa",
-    "hora": "3:00 p. m.",
-    "canal": "STAR + y FOX Sports 2"
-  },
-  {
-    "partido": "Magallanes - Always Ready",
-    "liga": "Copa Libertadores",
-    "hora": "5:00 p. m.",
-    "canal": "STAR + y ESPN 2"
-  },
-  {
-    "partido": "Real Cartagena - Boyacá Chicó",
-    "liga": "Copa Betplay",
-    "hora": "5:30 p. m.",
-    "canal": "Win Sports +"
-  },
-  {
-    "partido": "Deportivo Maldonado - Fortaleza",
-    "liga": "Copa Libertadores",
+    "partido": "D Cuenca - Liga de Quito",
+    "liga": "Liga de Ecuador",
     "hora": "7:00 p. m.",
-    "canal": "STAR + y ESPN 2"
+    "canal": "Goltv y Star +"
   },
   {
-    "partido": "Universidad Católica (Ecu) - Millonarios",
-    "liga": "Copa Libertadores",
+    "partido": "Belgrano - Tigre",
+    "liga": "Liga de Argentina",
     "hora": "7:00 p. m.",
-    "canal": "STAR + y ESPN"
+    "canal": "TyC Sports Internacional"
   },
   {
-    "partido": "Deportivo Cali - Barranquilla",
-    "liga": "Copa Betplay",
+    "partido": "Rosario Central - Godoy Cruz",
+    "liga": "Liga de Argentina",
+    "hora": "7:00 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Águilas Doradas - Bucaramanga",
+    "liga": "Liga BetPlay",
     "hora": "8:00 p. m.",
-    "canal": "Win Sports +"
+    "canal": "Win Sports y Win +"
+  },
+  {
+    "partido": "Mazatlán - Pumas",
+    "liga": "Liga de México",
+    "hora": "10:10 p. m.",
+    "canal": "Star +"
   }
 ]
