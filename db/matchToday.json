@@ -1,176 +1,170 @@
 [
   {
-    "partido": "Espanyol - Mallorca",
+    "partido": "Fortuna Sittard - Feyenoord",
+    "liga": "Liga de Holanda",
+    "hora": "6:15 a. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Bolognia - Inter",
+    "liga": "Serie A",
+    "hora": "6:30 a. m.",
+    "canal": "Star + y ESPN"
+  },
+  {
+    "partido": "Lorient - Auxerre",
+    "liga": "Liga de Francia",
+    "hora": "7:00 a. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Athletic Club - Girona",
     "liga": "Liga de Espana",
     "hora": "8:00 a. m.",
-    "canal": "Star y ESPN"
+    "canal": "Star+ y ESPN Extra"
   },
   {
-    "partido": "Werder Bremen - Bochum 1848",
-    "liga": "Bundesliga",
-    "hora": "9:30 a. m.",
+    "partido": "Vitesse - Ajax",
+    "liga": "Liga de Holanda",
+    "hora": "8:30 a. m.",
     "canal": "Star +"
   },
   {
-    "partido": "RB Leipzig - Eintracht Frankfurt",
-    "liga": "Bundesliga",
-    "hora": "9:30 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Hoffenheim - Borussia Dortmund",
-    "liga": "Bundesliga",
-    "hora": "9:30 a. m.",
-    "canal": "Star + y ESPN 2"
-  },
-  {
-    "partido": "Hertha Berlin - FC Augsburgo",
-    "liga": "Bundesliga",
-    "hora": "9:30 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Colonia - Wolfsburgo",
-    "liga": "Bundesliga",
-    "hora": "9:30 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Everton - Aston Villa",
+    "partido": "Tottenham Hotspur - Chelsea",
     "liga": "Liga de Inglaterra",
-    "hora": "10:00 a. m.",
+    "hora": "8:30 a. m.",
+    "canal": "Star + y ESPN"
+  },
+  {
+    "partido": "Salernitana - Monza",
+    "liga": "Serie A",
+    "hora": "9:00 a. m.",
     "canal": "Star +"
   },
   {
-    "partido": "West Ham Utd. - Nottingham Forest",
-    "liga": "Liga de Inglaterra",
-    "hora": "10:00 a. m.",
-    "canal": "Star +"
+    "partido": "Friburgo - Bayer Leverkusen",
+    "liga": "Bundesliga",
+    "hora": "9:30 a. m.",
+    "canal": "Star + y ESPN"
   },
   {
-    "partido": "Leicester City - Arsenal",
-    "liga": "Liga de Inglaterra",
-    "hora": "10:00 a. m.",
-    "canal": "Star y ESPN"
-  },
-  {
-    "partido": "Leeds - Southampton",
-    "liga": "Liga de Inglaterra",
-    "hora": "10:00 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Cádiz - Rayo Vallecano",
+    "partido": "Celta de Vigo - Valladolid",
     "liga": "Liga de Espana",
     "hora": "10:15 a. m.",
     "canal": "DSports 610"
   },
   {
-    "partido": "Angers - Lyon",
-    "liga": "Liga de Francia",
+    "partido": "Santa Fe - América",
+    "liga": "Liga Femenina",
     "hora": "11:00 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Empoli - Napoli",
-    "liga": "Serie A",
-    "hora": "12:00 p. m.",
-    "canal": "Star + y ESPN 2"
-  },
-  {
-    "partido": "Bournemouth - Manchester City",
-    "liga": "Liga de Inglaterra",
-    "hora": "12:30 p. m.",
-    "canal": "Star y ESPN"
-  },
-  {
-    "partido": "Real Madrid - Atlético de Madrid",
-    "liga": "Liga de Espana",
-    "hora": "12:30 p. m.",
-    "canal": "DSports 610"
-  },
-  {
-    "partido": "Schalke 04 - VfB Stuttgart",
-    "liga": "Bundesliga",
-    "hora": "12:30 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Quindío - Fortaleza F.C",
-    "liga": "Torneo Betplay",
-    "hora": "2:00 p. m.",
     "canal": "Win Sports +"
   },
   {
-    "partido": "Lecce - Sassuolo",
+    "partido": "Mónaco - Niza",
+    "liga": "Liga de Francia",
+    "hora": "11:00 a. m.",
+    "canal": "Star+ y ESPN Extra"
+  },
+  {
+    "partido": "Bayern Munich - Union Berlin",
+    "liga": "Bundesliga",
+    "hora": "11:30 a. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Manchester United - Newcastle",
+    "liga": "EFL Cup",
+    "hora": "11:30 a. m.",
+    "canal": "Star + y ESPN 2"
+  },
+  {
+    "partido": "Udinese - Spezia",
+    "liga": "Serie A",
+    "hora": "12:00 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Almería - Barcelona",
+    "liga": "Liga de Espana",
+    "hora": "12:30 p. m.",
+    "canal": "Star + y ESPN"
+  },
+  {
+    "partido": "Santa Fe - Unión Magdalena",
+    "liga": "Liga BetPlay",
+    "hora": "2:00 p. m.",
+    "canal": "Win Sports y Win +"
+  },
+  {
+    "partido": "Marsella - Paris Saint-Germain",
+    "liga": "Liga de Francia",
+    "hora": "2:45 p. m.",
+    "canal": "Star + y ESPN"
+  },
+  {
+    "partido": "Milán - Atalanta",
     "liga": "Serie A",
     "hora": "2:45 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Crystal Palace - Liverpool",
-    "liga": "Liga de Inglaterra",
-    "hora": "2:45 p. m.",
-    "canal": "Star +"
+    "partido": "Colón - Huracán",
+    "liga": "Liga de Argentina",
+    "hora": "3:00 p. m.",
+    "canal": "AFA Play"
   },
   {
-    "partido": "San Lorenzo - Unión de Santa Fe",
+    "partido": "Defensa y Justicia - Atlético Tucumán",
     "liga": "Liga de Argentina",
     "hora": "3:00 p. m.",
     "canal": "TyC Sports Internacional"
   },
   {
-    "partido": "Montpellier - Lens",
-    "liga": "Liga de Francia",
-    "hora": "3:00 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Valencia CF - Real Sociedad",
+    "partido": "Sevilla - Osasuna",
     "liga": "Liga de Espana",
     "hora": "3:00 p. m.",
     "canal": "DSports 610"
   },
   {
-    "partido": "Vizela - Benfica",
+    "partido": "Porto - Gil Vicente",
     "liga": "Liga de Portugal",
     "hora": "3:30 p. m.",
     "canal": "GolTV Play"
   },
   {
-    "partido": "Junior - Equidad",
+    "partido": "Once Caldas - Millonarios",
     "liga": "Liga BetPlay",
-    "hora": "4:00 p. m.",
+    "hora": "4:10 p. m.",
     "canal": "Win Sports +"
   },
   {
-    "partido": "Estudiantes - Sarmiento de Junín",
+    "partido": "River Plate - Arsenal de Sarandí",
     "liga": "Liga de Argentina",
     "hora": "5:15 p. m.",
-    "canal": "AFA Play"
-  },
-  {
-    "partido": "Platense - Talleres de Córdoba",
-    "liga": "Liga de Argentina",
-    "hora": "5:15 p. m.",
-    "canal": "TyC Sports Internacional"
-  },
-  {
-    "partido": "Jaguares de Córdoba - Pereira",
-    "liga": "Liga BetPlay",
-    "hora": "6:10 p. m.",
-    "canal": "Win Sports y Win +"
-  },
-  {
-    "partido": "Vélez Sarsfield - Boca Juniors",
-    "liga": "Liga de Argentina",
-    "hora": "7:30 p. m.",
     "canal": "Star + y ESPN"
   },
   {
-    "partido": "América - Envigado F.C",
+    "partido": "Deportes Tolima - Deportivo Cali",
     "liga": "Liga BetPlay",
-    "hora": "8:20 p. m.",
+    "hora": "6:20 p. m.",
+    "canal": "Win Sports +"
+  },
+  {
+    "partido": "Banfield - Independiente",
+    "liga": "Liga de Argentina",
+    "hora": "7:30 p. m.",
+    "canal": "TyC Sports Internacional"
+  },
+  {
+    "partido": "Instituto de Córdoba - Newell`s Old Boys",
+    "liga": "Liga de Argentina",
+    "hora": "7:30 p. m.",
+    "canal": "AFA Play"
+  },
+  {
+    "partido": "Alianza Petrolera - Independiente Medellín",
+    "liga": "Liga BetPlay",
+    "hora": "8:30 p. m.",
     "canal": "Win Sports +"
   }
 ]
