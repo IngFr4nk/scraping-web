@@ -1,92 +1,68 @@
 [
   {
-    "partido": "Hellas Verona - Fiorentina",
+    "partido": "Cremonese - Roma",
     "liga": "Serie A",
     "hora": "12:30 p. m.",
+    "canal": "ESPN 2 / Star +"
+  },
+  {
+    "partido": "Stoke City - Brighton & Hove",
+    "liga": "FA Cup",
+    "hora": "2:15 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Sporting de Lisboa - Estoril",
-    "liga": "Liga de Portugal",
-    "hora": "2:00 p. m.",
-    "canal": "Goltv"
+    "partido": "Leicester City - Blackburn Rov.",
+    "liga": "FA Cup",
+    "hora": "2:30 p. m.",
+    "canal": "Star +"
   },
   {
-    "partido": "Lazio - Sampdoria",
+    "partido": "Juventus - Torino",
     "liga": "Serie A",
     "hora": "2:45 p. m.",
-    "canal": "ESPN Extra / Star +"
+    "canal": "ESPN 2 / Star +"
   },
   {
-    "partido": "Granada CF - Málaga",
-    "liga": "Segunda División de España",
-    "hora": "3:00 p. m.",
-    "canal": "Directv Sports"
+    "partido": "Fulham - Leeds",
+    "liga": "FA Cup",
+    "hora": "2:45 p. m.",
+    "canal": "Star +"
   },
   {
-    "partido": "Swansea City - Rotherham",
+    "partido": "Luton Town - Millwall",
     "liga": "Championship",
     "hora": "3:00 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Villarreal - Getafe",
-    "liga": "Liga de Espana",
+    "partido": "Bristol City - Manchester City",
+    "liga": "FA Cup",
     "hora": "3:00 p. m.",
-    "canal": "ESPN 2 / Star +"
+    "canal": "ESPN / Star +"
   },
   {
-    "partido": "Barracas Central - Gimnasia de La Plata",
-    "liga": "Liga de Argentina",
-    "hora": "3:00 p. m.",
-    "canal": "Star +"
+    "partido": "Lyon - Grenoble",
+    "liga": "Copa de Francia",
+    "hora": "3:10 p. m.",
+    "canal": "Directv Sports"
   },
   {
-    "partido": "Barranquilla - Cúcuta",
-    "liga": "Torneo BetPlay",
-    "hora": "4:00 p. m.",
-    "canal": "Win Sports +"
+    "partido": "Cerro Porteño - Curico Unido",
+    "liga": "Copa Libertadores",
+    "hora": "5:00 p. m.",
+    "canal": "ESPN / Star +"
   },
   {
-    "partido": "Vitória de Guimaraes - Braga",
-    "liga": "Liga de Portugal",
-    "hora": "4:15 p. m.",
-    "canal": "Goltv"
-  },
-  {
-    "partido": "Racing Club - Lanús",
-    "liga": "Liga de Argentina",
-    "hora": "5:15 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Boyacá Chicó - Deportivo Pasto",
-    "liga": "Liga BetPlay",
-    "hora": "6:00 p. m.",
-    "canal": "Win Sports y Win +"
-  },
-  {
-    "partido": "Montevideo Wanders - Liverpool Uruguay",
-    "liga": "Liga de Uruguay",
+    "partido": "Sporting Cristal - Nacional (Par)",
+    "liga": "Copa Libertadores",
     "hora": "7:00 p. m.",
-    "canal": "Star +"
+    "canal": "ESPN / Star +"
   },
   {
-    "partido": "Central Córdoba - Argentinos Juniors",
-    "liga": "Liga de Argentina",
+    "partido": "Flamengo - Independiente del Valle",
+    "liga": "Recopa Sudamericana",
     "hora": "7:30 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Atlético Nacional - Atlético Huila",
-    "liga": "Liga BetPlay",
-    "hora": "8:00 p. m.",
-    "canal": "Win Sports +"
-  },
-  {
-    "partido": "León - Monterrey",
-    "liga": "Liga de México",
-    "hora": "8:10 p. m.",
-    "canal": "Claro Sports"
+    "canal": "ESPN 2 / Star +"
   }
 ]
