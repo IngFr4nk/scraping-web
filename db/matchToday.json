@@ -24,7 +24,19 @@
     "canal": "Star +"
   },
   {
+    "partido": "Mainz 05 - Hoffenheim",
+    "liga": "Bundesliga",
+    "hora": "9:30 a. m.",
+    "canal": "Star +"
+  },
+  {
     "partido": "Bochum 1848 - Schalke 04",
+    "liga": "Bundesliga",
+    "hora": "9:30 a. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Borussia Mönchengladbach - Friburgo",
     "liga": "Bundesliga",
     "hora": "9:30 a. m.",
     "canal": "Star +"
@@ -36,15 +48,15 @@
     "canal": "ESPN 2 y Star+"
   },
   {
-    "partido": "Borussia Mönchengladbach - Friburgo",
-    "liga": "Bundesliga",
-    "hora": "9:30 a. m.",
+    "partido": "Aston Villa - Crystal Palace",
+    "liga": "Liga de Inglaterra",
+    "hora": "10:00 a. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Mainz 05 - Hoffenheim",
-    "liga": "Bundesliga",
-    "hora": "9:30 a. m.",
+    "partido": "Brighton & Hove - West Ham Utd.",
+    "liga": "Liga de Inglaterra",
+    "hora": "10:00 a. m.",
     "canal": "Star +"
   },
   {
@@ -54,12 +66,6 @@
     "canal": "ESPN / Star +"
   },
   {
-    "partido": "Aston Villa - Crystal Palace",
-    "liga": "Liga de Inglaterra",
-    "hora": "10:00 a. m.",
-    "canal": "Star +"
-  },
-  {
     "partido": "Wolverhampton - Tottenham Hotspur",
     "liga": "Liga de Inglaterra",
     "hora": "10:00 a. m.",
@@ -67,12 +73,6 @@
   },
   {
     "partido": "Chelsea - Leeds",
-    "liga": "Liga de Inglaterra",
-    "hora": "10:00 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Brighton & Hove - West Ham Utd.",
     "liga": "Liga de Inglaterra",
     "hora": "10:00 a. m.",
     "canal": "Star +"
@@ -96,10 +96,10 @@
     "canal": "ESPN 2 / Star+"
   },
   {
-    "partido": "Mallorca - Elche",
-    "liga": "Liga de Espana",
+    "partido": "Southampton - Leicester City",
+    "liga": "Liga de Inglaterra",
     "hora": "12:30 p. m.",
-    "canal": "Directv Sports"
+    "canal": "ESPN 4 / Star +"
   },
   {
     "partido": "VfB Stuttgart - Bayern Munich",
@@ -108,10 +108,10 @@
     "canal": "ESPN / Star +"
   },
   {
-    "partido": "Southampton - Leicester City",
-    "liga": "Liga de Inglaterra",
+    "partido": "Mallorca - Elche",
+    "liga": "Liga de Espana",
     "hora": "12:30 p. m.",
-    "canal": "ESPN 4 / Star +"
+    "canal": "Directv Sports"
   },
   {
     "partido": "Equidad - Alianza Petrolera",
@@ -126,6 +126,18 @@
     "canal": "ESPN / Star +"
   },
   {
+    "partido": "Atlético de Madrid - Sevilla",
+    "liga": "Liga de Espana",
+    "hora": "3:00 p. m.",
+    "canal": "Directv Sports"
+  },
+  {
+    "partido": "Gimnasia de La Plata - Colón",
+    "liga": "Liga de Argentina",
+    "hora": "3:00 p. m.",
+    "canal": "TyC Sports Internacional"
+  },
+  {
     "partido": "Paris Saint-Germain - Nantes",
     "liga": "Liga de Francia",
     "hora": "3:00 p. m.",
@@ -136,18 +148,6 @@
     "liga": "Liga de Argentina",
     "hora": "3:00 p. m.",
     "canal": "Star +"
-  },
-  {
-    "partido": "Gimnasia de La Plata - Colón",
-    "liga": "Liga de Argentina",
-    "hora": "3:00 p. m.",
-    "canal": "TyC Sports Internacional"
-  },
-  {
-    "partido": "Atlético de Madrid - Sevilla",
-    "liga": "Liga de Espana",
-    "hora": "3:00 p. m.",
-    "canal": "Directv Sports"
   },
   {
     "partido": "Envigado F.C - Santa Fe",
@@ -174,16 +174,16 @@
     "canal": "Win Sports +"
   },
   {
-    "partido": "Newell`s Old Boys - Barracas Central",
-    "liga": "Liga de Argentina",
-    "hora": "7:30 p. m.",
-    "canal": "Star +"
-  },
-  {
     "partido": "Atlético Tucumán - Banfield",
     "liga": "Liga de Argentina",
     "hora": "7:30 p. m.",
     "canal": "TyC Sports Internacional"
+  },
+  {
+    "partido": "Newell`s Old Boys - Barracas Central",
+    "liga": "Liga de Argentina",
+    "hora": "7:30 p. m.",
+    "canal": "Star +"
   },
   {
     "partido": "Independiente Medellín - Águilas Doradas",
