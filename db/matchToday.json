@@ -1,140 +1,68 @@
 [
   {
-    "partido": "Spezia - Hellas Verona",
-    "liga": "Serie A",
-    "hora": "6:30 a. m.",
-    "canal": "ESPN / Star +"
-  },
-  {
-    "partido": "Troyes - Mónaco",
-    "liga": "Liga de Francia",
-    "hora": "7:00 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Valladolid - Espanyol",
-    "liga": "Liga de Espana",
-    "hora": "8:00 a. m.",
-    "canal": "ESPN 2 / Star +"
-  },
-  {
-    "partido": "Nottingham Forest - Everton",
-    "liga": "Liga de Inglaterra",
-    "hora": "9:00 a. m.",
-    "canal": "ESPN / Star +"
-  },
-  {
-    "partido": "Olimpiakos - Levadiakos",
+    "partido": "Panathinaikos - Panetolikos",
     "liga": "Liga de Grecia",
-    "hora": "9:00 a. m.",
-    "canal": "Cosmote Sport 1 HD"
-  },
-  {
-    "partido": "Sampdoria - Salernitana",
-    "liga": "Serie A",
-    "hora": "9:00 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Bayer Leverkusen - Hertha Berlin",
-    "liga": "Bundesliga",
-    "hora": "9:30 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Barcelona - Valencia CF",
-    "liga": "Liga de Espana",
-    "hora": "10:15 a. m.",
-    "canal": "ESPN 2 / Star +"
-  },
-  {
-    "partido": "Lyon - Lorient",
-    "liga": "Liga de Francia",
-    "hora": "11:00 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Liverpool - Manchester United",
-    "liga": "Liga de Inglaterra",
-    "hora": "11:30 a. m.",
-    "canal": "ESPN / Star +"
-  },
-  {
-    "partido": "Wolfsburgo - Eintracht Frankfurt",
-    "liga": "Bundesliga",
-    "hora": "11:30 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Inter - Lecce",
-    "liga": "Serie A",
-    "hora": "12:00 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Rayo Vallecano - Athletic Club",
-    "liga": "Liga de Espana",
     "hora": "12:30 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Rennes - Marsella",
-    "liga": "Liga de Francia",
-    "hora": "2:45 p. m.",
-    "canal": "ESPN 2 / Star +"
+    "partido": "Sassuolo - Cremonese",
+    "liga": "Serie A",
+    "hora": "12:30 p. m.",
+    "canal": "Star +"
   },
   {
-    "partido": "Roma - Juventus",
+    "partido": "Torino - Bolognia",
     "liga": "Serie A",
     "hora": "2:45 p. m.",
-    "canal": "ESPN / Star +"
+    "canal": "Star +"
   },
   {
-    "partido": "Independiente - Instituto de Córdoba",
-    "liga": "Liga de Argentina",
-    "hora": "3:00 p. m.",
-    "canal": "TyC Sports Internacional"
-  },
-  {
-    "partido": "Real Betis - Real Madrid",
+    "partido": "Osasuna - Celta de Vigo",
     "liga": "Liga de Espana",
     "hora": "3:00 p. m.",
     "canal": "Directv Sports"
   },
   {
-    "partido": "Millonarios - Deportivo Cali",
-    "liga": "Liga BetPlay",
-    "hora": "3:30 p. m.",
-    "canal": "Win Sports +"
-  },
-  {
-    "partido": "Huracán - San Lorenzo",
-    "liga": "Liga de Argentina",
-    "hora": "5:15 p. m.",
-    "canal": "Tyc Sports Internacional"
-  },
-  {
-    "partido": "Deportivo Pasto - Atlético Nacional",
-    "liga": "Liga BetPlay",
-    "hora": "5:40 p. m.",
-    "canal": "Win Sports +"
-  },
-  {
-    "partido": "Tigre - Argentinos Juniors",
-    "liga": "Liga de Argentina",
-    "hora": "7:30 p. m.",
+    "partido": "Brentford - Fulham",
+    "liga": "Liga de Inglaterra",
+    "hora": "3:00 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Talleres de Córdoba - Vélez Sarsfield",
+    "partido": "Arsenal de Sarandí - Belgrano",
     "liga": "Liga de Argentina",
-    "hora": "7:30 p. m.",
+    "hora": "3:00 p. m.",
     "canal": "TyC Sports Internacional"
   },
   {
-    "partido": "Pereira - Deportes Tolima",
+    "partido": "Godoy Cruz - Racing Club",
+    "liga": "Liga de Argentina",
+    "hora": "3:00 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Plaza Colonia - Fénix",
+    "liga": "Liga de Uruguay",
+    "hora": "5:30 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Leones - Patriotas F.C",
+    "liga": "Torneo BetPlay",
+    "hora": "6:00 p. m.",
+    "canal": "Win Sports +"
+  },
+  {
+    "partido": "Boca Juniors - Defensa y Justicia",
+    "liga": "Liga de Argentina",
+    "hora": "7:00 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Atlético Huila - Boyacá Chicó",
     "liga": "Liga BetPlay",
-    "hora": "7:50 p. m.",
+    "hora": "8:00 p. m.",
     "canal": "Win Sports / Win +"
   }
 ]
