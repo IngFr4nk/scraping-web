@@ -1,68 +1,56 @@
 [
   {
-    "partido": "Panathinaikos - Panetolikos",
-    "liga": "Liga de Grecia",
-    "hora": "12:30 p. m.",
+    "partido": "Lazio - AZ Alkmaar",
+    "liga": "Conference League",
+    "hora": "12:45 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Sassuolo - Cremonese",
-    "liga": "Serie A",
-    "hora": "12:30 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Torino - Bolognia",
-    "liga": "Serie A",
-    "hora": "2:45 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Osasuna - Celta de Vigo",
-    "liga": "Liga de Espana",
+    "partido": "Chelsea - Borussia Dortmund",
+    "liga": "Champions League",
     "hora": "3:00 p. m.",
-    "canal": "Directv Sports"
+    "canal": "ESPN y Star+"
   },
   {
-    "partido": "Brentford - Fulham",
-    "liga": "Liga de Inglaterra",
+    "partido": "Benfica - Brujas",
+    "liga": "Champions League",
     "hora": "3:00 p. m.",
-    "canal": "Star +"
+    "canal": "ESPN 2 y Star+"
   },
   {
-    "partido": "Arsenal de Sarandí - Belgrano",
-    "liga": "Liga de Argentina",
-    "hora": "3:00 p. m.",
-    "canal": "TyC Sports Internacional"
+    "partido": "Audax - Universidad Católica",
+    "liga": "Copa Sudamericana",
+    "hora": "5:00 p. m.",
+    "canal": "Directv 613"
   },
   {
-    "partido": "Godoy Cruz - Racing Club",
-    "liga": "Liga de Argentina",
-    "hora": "3:00 p. m.",
-    "canal": "Star +"
+    "partido": "Tacuary - General Caballero",
+    "liga": "Copa Sudamericana",
+    "hora": "5:00 p. m.",
+    "canal": "ESPN 3 y Star+"
   },
   {
-    "partido": "Plaza Colonia - Fénix",
-    "liga": "Liga de Uruguay",
-    "hora": "5:30 p. m.",
-    "canal": "Star +"
+    "partido": "Caracas F.C - Puerto Cabello",
+    "liga": "Copa Sudamericana",
+    "hora": "7:00 p. m.",
+    "canal": "Directv 610"
   },
   {
-    "partido": "Leones - Patriotas F.C",
-    "liga": "Torneo BetPlay",
-    "hora": "6:00 p. m.",
+    "partido": "River Plate (Uru) - Peñarol",
+    "liga": "Copa Sudamericana",
+    "hora": "7:00 p. m.",
+    "canal": "ESPN 2 y Star+"
+  },
+  {
+    "partido": "Junior - Deportivo Cali",
+    "liga": "Liga Femenina",
+    "hora": "7:30 p. m.",
     "canal": "Win Sports +"
   },
   {
-    "partido": "Boca Juniors - Defensa y Justicia",
-    "liga": "Liga de Argentina",
-    "hora": "7:00 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Atlético Huila - Boyacá Chicó",
-    "liga": "Liga BetPlay",
-    "hora": "8:00 p. m.",
-    "canal": "Win Sports / Win +"
+    "partido": "Liga de Quito - Delfín SC",
+    "liga": "Copa Sudamericana",
+    "hora": "9:00 p. m.",
+    "canal": "ESPN 2 y Star+"
   }
 ]
