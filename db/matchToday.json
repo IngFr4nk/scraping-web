@@ -1,54 +1,66 @@
 [
   {
-    "partido": "Lazio - AZ Alkmaar",
-    "liga": "Conference League",
-    "hora": "12:45 p. m.",
-    "canal": "Star +"
+    "partido": "Tottenham Hotspur - Milán",
+    "liga": "Champions League",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN 2 y Star+"
   },
   {
-    "partido": "Chelsea - Borussia Dortmund",
+    "partido": "Bayern Munich - Paris Saint-Germain",
     "liga": "Champions League",
     "hora": "3:00 p. m.",
     "canal": "ESPN y Star+"
   },
   {
-    "partido": "Benfica - Brujas",
-    "liga": "Champions League",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN 2 y Star+"
-  },
-  {
-    "partido": "Audax - Universidad Católica",
-    "liga": "Copa Sudamericana",
+    "partido": "Magallanes - Independiente Medellín",
+    "liga": "Copa Libertadores",
     "hora": "5:00 p. m.",
-    "canal": "Directv 613"
+    "canal": "ESPN y Star+"
   },
   {
-    "partido": "Tacuary - General Caballero",
+    "partido": "Guabirá - Oriente Petrolero",
     "liga": "Copa Sudamericana",
     "hora": "5:00 p. m.",
     "canal": "ESPN 3 y Star+"
   },
   {
-    "partido": "Caracas F.C - Puerto Cabello",
+    "partido": "Defensor Sporting - Danubio",
     "liga": "Copa Sudamericana",
-    "hora": "7:00 p. m.",
-    "canal": "Directv 610"
+    "hora": "5:00 p. m.",
+    "canal": "Directv 613"
   },
   {
-    "partido": "River Plate (Uru) - Peñarol",
+    "partido": "Fortaleza F.C - Cúcuta",
+    "liga": "Torneo Betplay",
+    "hora": "6:00 p. m.",
+    "canal": "Win Sports +"
+  },
+  {
+    "partido": "Estudiantes de Mérida - Deportivo Táchira",
     "liga": "Copa Sudamericana",
     "hora": "7:00 p. m.",
     "canal": "ESPN 2 y Star+"
   },
   {
-    "partido": "Junior - Deportivo Cali",
-    "liga": "Liga Femenina",
-    "hora": "7:30 p. m.",
-    "canal": "Win Sports +"
+    "partido": "Águilas Doradas - Santa Fe",
+    "liga": "Copa Sudamericana",
+    "hora": "7:00 p. m.",
+    "canal": "Directv 610"
   },
   {
-    "partido": "Liga de Quito - Delfín SC",
+    "partido": "Millonarios - Atlético Mineiro",
+    "liga": "Copa Libertadores",
+    "hora": "7:30 p. m.",
+    "canal": "ESPN y Star+"
+  },
+  {
+    "partido": "Atlético FC - Real Cartagena",
+    "liga": "Torneo Betplay",
+    "hora": "8:00 p. m.",
+    "canal": "Win Sports y Win +"
+  },
+  {
+    "partido": "César Vallejo - Binacional",
     "liga": "Copa Sudamericana",
     "hora": "9:00 p. m.",
     "canal": "ESPN 2 y Star+"
