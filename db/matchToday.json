@@ -1,50 +1,32 @@
 [
   {
-    "partido": "Milán - Salernitana",
-    "liga": "Serie A",
-    "hora": "2:45 p. m.",
-    "canal": "ESPN 2 / Star +"
-  },
-  {
-    "partido": "Racing (Esp) - Huesca",
-    "liga": "Segunda División de España",
-    "hora": "3:00 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Girona - Atlético de Madrid",
-    "liga": "Liga de Espana",
+    "partido": "Manchester City - RB Leipzig",
+    "liga": "Champions League",
     "hora": "3:00 p. m.",
     "canal": "ESPN / Star +"
   },
   {
-    "partido": "Boca Juniors de Cali - Orsomarso",
-    "liga": "Torneo Betplay",
-    "hora": "4:00 p. m.",
-    "canal": "Win Sports +"
+    "partido": "Porto - Inter",
+    "liga": "Champions League",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN 2 / Star +"
   },
   {
-    "partido": "Quindío - Patriotas F.C",
-    "liga": "Torneo Betplay",
+    "partido": "Middlesbrough - Stoke City",
+    "liga": "Championship",
+    "hora": "3:00 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Deportes Tolima - Equidad",
+    "liga": "Liga BetPlay",
     "hora": "6:00 p. m.",
     "canal": "Win Sports +"
   },
   {
-    "partido": "Vélez Sarsfield - Platense",
-    "liga": "Liga de Argentina",
-    "hora": "7:00 p. m.",
-    "canal": "TyC Sports Internacional"
-  },
-  {
-    "partido": "Colón - Newell`s Old Boys",
-    "liga": "Liga de Argentina",
-    "hora": "7:00 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Once Caldas - Deportivo Pasto",
+    "partido": "Santa Fe - América",
     "liga": "Liga BetPlay",
     "hora": "8:10 p. m.",
-    "canal": "Win Sports y Win +"
+    "canal": "Win Sports +"
   }
 ]
