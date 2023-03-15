@@ -1,32 +1,56 @@
 [
   {
-    "partido": "Manchester City - RB Leipzig",
-    "liga": "Champions League",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN / Star +"
-  },
-  {
-    "partido": "Porto - Inter",
-    "liga": "Champions League",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN 2 / Star +"
-  },
-  {
-    "partido": "Middlesbrough - Stoke City",
-    "liga": "Championship",
-    "hora": "3:00 p. m.",
+    "partido": "Istanbul Basaksehir - Gent",
+    "liga": "Conference League",
+    "hora": "12:00 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Deportes Tolima - Equidad",
-    "liga": "Liga BetPlay",
+    "partido": "Southampton - Brentford",
+    "liga": "Liga de Inglaterra",
+    "hora": "2:30 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Brighton & Hove - Crystal Palace",
+    "liga": "Liga de Inglaterra",
+    "hora": "2:30 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Napoli - Eintracht Frankfurt",
+    "liga": "Champions League",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN 2 y Star+"
+  },
+  {
+    "partido": "Real Madrid - Liverpool",
+    "liga": "Champions League",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN y Star+"
+  },
+  {
+    "partido": "Llaneros - Jaguares de Córdoba",
+    "liga": "Copa Betplay",
     "hora": "6:00 p. m.",
     "canal": "Win Sports +"
   },
   {
-    "partido": "Santa Fe - América",
-    "liga": "Liga BetPlay",
-    "hora": "8:10 p. m.",
+    "partido": "Independiente Medellín - Magallanes",
+    "liga": "Copa Libertadores",
+    "hora": "7:00 p. m.",
+    "canal": "ESPN 2 y Star+"
+  },
+  {
+    "partido": "Atlético Mineiro - Millonarios",
+    "liga": "Copa Libertadores",
+    "hora": "7:30 p. m.",
+    "canal": "ESPN, Star+ y Pluto TV"
+  },
+  {
+    "partido": "Leones - Deportivo Cali",
+    "liga": "Copa Betplay",
+    "hora": "8:00 p. m.",
     "canal": "Win Sports +"
   }
 ]
