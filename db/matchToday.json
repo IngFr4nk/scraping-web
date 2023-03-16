@@ -1,54 +1,84 @@
 [
   {
-    "partido": "Istanbul Basaksehir - Gent",
+    "partido": "Sivasspor - Fiorentina",
     "liga": "Conference League",
-    "hora": "12:00 p. m.",
+    "hora": "12:45 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Southampton - Brentford",
-    "liga": "Liga de Inglaterra",
-    "hora": "2:30 p. m.",
+    "partido": "Feyenoord - Shakhtar Donetsk",
+    "liga": "Liga de Europa",
+    "hora": "12:45 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Brighton & Hove - Crystal Palace",
-    "liga": "Liga de Inglaterra",
-    "hora": "2:30 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Napoli - Eintracht Frankfurt",
-    "liga": "Champions League",
-    "hora": "3:00 p. m.",
+    "partido": "Friburgo - Juventus",
+    "liga": "Liga de Europa",
+    "hora": "12:45 p. m.",
     "canal": "ESPN 2 y Star+"
   },
   {
-    "partido": "Real Madrid - Liverpool",
-    "liga": "Champions League",
-    "hora": "3:00 p. m.",
+    "partido": "Fenerbache - Sevilla",
+    "liga": "Liga de Europa",
+    "hora": "12:45 p. m.",
+    "canal": "Fox Sports 2 y Star+"
+  },
+  {
+    "partido": "Real Betis - Manchester United",
+    "liga": "Liga de Europa",
+    "hora": "12:45 p. m.",
     "canal": "ESPN y Star+"
   },
   {
-    "partido": "Llaneros - Jaguares de Córdoba",
-    "liga": "Copa Betplay",
-    "hora": "6:00 p. m.",
-    "canal": "Win Sports +"
+    "partido": "Villarreal - Anderlecht",
+    "liga": "Conference League",
+    "hora": "3:00 p. m.",
+    "canal": "Star +"
   },
   {
-    "partido": "Independiente Medellín - Magallanes",
-    "liga": "Copa Libertadores",
-    "hora": "7:00 p. m.",
+    "partido": "Real Sociedad - Roma",
+    "liga": "Liga de Europa",
+    "hora": "3:00 p. m.",
     "canal": "ESPN 2 y Star+"
   },
   {
-    "partido": "Atlético Mineiro - Millonarios",
-    "liga": "Copa Libertadores",
-    "hora": "7:30 p. m.",
-    "canal": "ESPN, Star+ y Pluto TV"
+    "partido": "West Ham Utd. - AEK Larnaca",
+    "liga": "Conference League",
+    "hora": "3:00 p. m.",
+    "canal": "Star +"
   },
   {
-    "partido": "Leones - Deportivo Cali",
+    "partido": "Arsenal - Sporting de Lisboa",
+    "liga": "Liga de Europa",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN 2 y Star+"
+  },
+  {
+    "partido": "AZ Alkmaar - Lazio",
+    "liga": "Conference League",
+    "hora": "3:00 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Cerro Porteño - Fortaleza",
+    "liga": "Copa Libertadores",
+    "hora": "5:00 p. m.",
+    "canal": "ESPN y Star+"
+  },
+  {
+    "partido": "Bogotá - Alianza Petrolera",
+    "liga": "Copa Betplay",
+    "hora": "6:00 p. m.",
+    "canal": "Win Sports y Win +"
+  },
+  {
+    "partido": "Sporting Cristal - Huracán",
+    "liga": "Copa Libertadores",
+    "hora": "7:00 p. m.",
+    "canal": "ESPN y Star+"
+  },
+  {
+    "partido": "Quindío - Cúcuta",
     "liga": "Copa Betplay",
     "hora": "8:00 p. m.",
     "canal": "Win Sports +"
