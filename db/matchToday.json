@@ -1,152 +1,50 @@
 [
   {
-    "partido": "Sampdoria - Hellas Verona",
-    "liga": "Serie A",
-    "hora": "6:30 a. m.",
-    "canal": "Star + y ESPN 3"
+    "partido": "Fortaleza F.C - Llaneros",
+    "liga": "Torneo Betplay",
+    "hora": "2:00 p. m.",
+    "canal": "Win Sports / Win Sports +"
   },
   {
-    "partido": "AC Ajaccio - Mónaco",
-    "liga": "Liga de Francia",
-    "hora": "7:00 a. m.",
-    "canal": "Star + y ESPN"
-  },
-  {
-    "partido": "Sheffield United - Blackburn Rov.",
-    "liga": "FA Cup",
-    "hora": "7:00 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Real Betis - Mallorca",
-    "liga": "Liga de Espana",
-    "hora": "8:00 a. m.",
-    "canal": "Star + y ESPN Extra"
-  },
-  {
-    "partido": "Torino - Napoli",
-    "liga": "Serie A",
-    "hora": "9:00 a. m.",
-    "canal": "Star + y ESPN"
-  },
-  {
-    "partido": "Fiorentina - Lecce",
-    "liga": "Serie A",
-    "hora": "9:00 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Arsenal - Crystal Palace",
-    "liga": "Liga de Inglaterra",
-    "hora": "9:00 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Union Berlin - Eintracht Frankfurt",
-    "liga": "Bundesliga",
-    "hora": "9:30 a. m.",
-    "canal": "Star + y ESPN 2"
-  },
-  {
-    "partido": "Real Sociedad - Elche",
-    "liga": "Liga de Espana",
-    "hora": "10:15 a. m.",
-    "canal": "DSports 610"
-  },
-  {
-    "partido": "Osasuna - Villarreal",
-    "liga": "Liga de Espana",
-    "hora": "10:15 a. m.",
-    "canal": "Star + y ESPN Extra"
-  },
-  {
-    "partido": "Paris Saint-Germain - Rennes",
-    "liga": "Liga de Francia",
-    "hora": "11:00 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Bayer Leverkusen - Bayern Munich",
-    "liga": "Bundesliga",
-    "hora": "11:30 a. m.",
-    "canal": "Star + y ESPN 4"
-  },
-  {
-    "partido": "Manchester United - Fulham",
-    "liga": "FA Cup",
-    "hora": "11:30 a. m.",
-    "canal": "Star + y ESPN"
-  },
-  {
-    "partido": "Lazio - Roma",
-    "liga": "Serie A",
-    "hora": "12:00 p. m.",
-    "canal": "Star + y ESPN 2"
-  },
-  {
-    "partido": "Getafe - Sevilla",
-    "liga": "Liga de Espana",
-    "hora": "12:30 p. m.",
-    "canal": "DSports 610"
-  },
-  {
-    "partido": "Mainz 05 - Friburgo",
-    "liga": "Bundesliga",
-    "hora": "1:30 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Gimnasia de La Plata - Estudiantes",
-    "liga": "Liga de Argentina",
-    "hora": "2:30 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Reims - Marsella",
-    "liga": "Liga de Francia",
-    "hora": "2:45 p. m.",
-    "canal": "Star + y ESPN 3"
-  },
-  {
-    "partido": "Inter - Juventus",
-    "liga": "Serie A",
-    "hora": "2:45 p. m.",
-    "canal": "Star + y ESPN 2"
-  },
-  {
-    "partido": "Barcelona - Real Madrid",
-    "liga": "Liga de Espana",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN y Star+"
-  },
-  {
-    "partido": "América - Alianza Petrolera",
-    "liga": "Liga BetPlay",
-    "hora": "3:30 p. m.",
+    "partido": "Cúcuta - Quindío",
+    "liga": "Torneo Betplay",
+    "hora": "4:00 p. m.",
     "canal": "Win Sports +"
   },
   {
-    "partido": "Boca Juniors - Instituto de Córdoba",
-    "liga": "Liga de Argentina",
-    "hora": "5:00 p. m.",
-    "canal": "Star + y ESPN"
+    "partido": "Newell`s Old Boys - San Lorenzo",
+    "liga": "Superliga Argentina",
+    "hora": "4:30 p. m.",
+    "canal": "TyC Sports"
   },
   {
-    "partido": "Millonarios - Águilas Doradas",
+    "partido": "Bucaramanga - Deportes Tolima",
     "liga": "Liga BetPlay",
-    "hora": "5:45 p. m.",
+    "hora": "6:10 p. m.",
     "canal": "Win Sports +"
   },
   {
-    "partido": "Sarmiento de Junín - River Plate",
-    "liga": "Liga de Argentina",
-    "hora": "7:30 p. m.",
-    "canal": "Star + y ESPN"
+    "partido": "Talleres de Córdoba - Banfield",
+    "liga": "Superliga Argentina",
+    "hora": "7:00 p. m.",
+    "canal": "STAR +"
   },
   {
-    "partido": "Independiente Medellín - Jaguares de Córdoba",
+    "partido": "Huracán - Rosario Central",
+    "liga": "Superliga Argentina",
+    "hora": "7:00 p. m.",
+    "canal": "TyC Sports"
+  },
+  {
+    "partido": "Lanús - Argentinos Juniors",
+    "liga": "Superliga Argentina",
+    "hora": "7:00 p. m.",
+    "canal": "STAR +"
+  },
+  {
+    "partido": "Atlético Huila - Once Caldas",
     "liga": "Liga BetPlay",
-    "hora": "8:00 p. m.",
+    "hora": "8:20 p. m.",
     "canal": "Win Sports +"
   }
 ]
