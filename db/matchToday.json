@@ -1,50 +1,20 @@
 [
   {
-    "partido": "Fortaleza F.C - Llaneros",
+    "partido": "Atlético FC - Cortuluá",
     "liga": "Torneo Betplay",
-    "hora": "2:00 p. m.",
-    "canal": "Win Sports / Win Sports +"
-  },
-  {
-    "partido": "Cúcuta - Quindío",
-    "liga": "Torneo Betplay",
-    "hora": "4:00 p. m.",
+    "hora": "5:30 p. m.",
     "canal": "Win Sports +"
   },
   {
-    "partido": "Newell`s Old Boys - San Lorenzo",
-    "liga": "Superliga Argentina",
-    "hora": "4:30 p. m.",
-    "canal": "TyC Sports"
-  },
-  {
-    "partido": "Bucaramanga - Deportes Tolima",
-    "liga": "Liga BetPlay",
-    "hora": "6:10 p. m.",
-    "canal": "Win Sports +"
-  },
-  {
-    "partido": "Talleres de Córdoba - Banfield",
-    "liga": "Superliga Argentina",
-    "hora": "7:00 p. m.",
-    "canal": "STAR +"
-  },
-  {
-    "partido": "Huracán - Rosario Central",
+    "partido": "Vélez Sarsfield - Central Córdoba",
     "liga": "Superliga Argentina",
     "hora": "7:00 p. m.",
     "canal": "TyC Sports"
   },
   {
-    "partido": "Lanús - Argentinos Juniors",
-    "liga": "Superliga Argentina",
-    "hora": "7:00 p. m.",
-    "canal": "STAR +"
-  },
-  {
-    "partido": "Atlético Huila - Once Caldas",
+    "partido": "Santa Fe - Deportivo Cali",
     "liga": "Liga BetPlay",
-    "hora": "8:20 p. m.",
+    "hora": "8:00 p. m.",
     "canal": "Win Sports +"
   }
 ]
