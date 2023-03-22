@@ -1,18 +1,24 @@
 [
   {
-    "partido": "Atlético FC - Cortuluá",
-    "liga": "Torneo Betplay",
-    "hora": "5:30 p. m.",
-    "canal": "Win Sports +"
+    "partido": "Lyon - Chelsea",
+    "liga": "Champions femenina",
+    "hora": "12:45 p. m.",
+    "canal": "YouTube"
   },
   {
-    "partido": "Vélez Sarsfield - Central Córdoba",
-    "liga": "Superliga Argentina",
-    "hora": "7:00 p. m.",
-    "canal": "TyC Sports"
+    "partido": "Irlanda - Letonia",
+    "liga": "Partido amistoso",
+    "hora": "2:45 p. m.",
+    "canal": "Star +"
   },
   {
-    "partido": "Santa Fe - Deportivo Cali",
+    "partido": "Paris Saint-Germain - Wolfsburgo",
+    "liga": "Champions femenina",
+    "hora": "3:00 p. m.",
+    "canal": "YouTube"
+  },
+  {
+    "partido": "Millonarios - Deportivo Pasto",
     "liga": "Liga BetPlay",
     "hora": "8:00 p. m.",
     "canal": "Win Sports +"
