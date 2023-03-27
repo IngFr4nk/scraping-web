@@ -1,92 +1,62 @@
 [
   {
-    "partido": "Kazajistán - Dinamarca",
-    "liga": "Eliminatoria Eurocopa",
-    "hora": "8:00 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Zaragoza - Albacete",
-    "liga": "Segunda División de España",
-    "hora": "9:15 a. m.",
-    "canal": "Directv Sports"
-  },
-  {
-    "partido": "Ponferradina - Mirandés",
-    "liga": "Segunda División de España",
-    "hora": "9:15 a. m.",
-    "canal": "Directv Sports"
-  },
-  {
-    "partido": "Liechtenstein - Islandia",
-    "liga": "Eliminatoria Eurocopa",
-    "hora": "11:00 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Inglaterra - Ucrania",
-    "liga": "Eliminatoria Eurocopa",
-    "hora": "11:00 a. m.",
-    "canal": "ESPN / Star +"
-  },
-  {
-    "partido": "Eslovenia - San Marino",
-    "liga": "Eliminatoria Eurocopa",
-    "hora": "11:00 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Eslovaquia - Bosnia",
-    "liga": "Eliminatoria Eurocopa",
-    "hora": "11:00 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Granada CF - Real Oviedo",
-    "liga": "Segunda División de España",
-    "hora": "11:30 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Suecia Sub-21 - Colombia Sub 20",
+    "partido": "Grecia - Lituania",
     "liga": "Partido amistoso",
-    "hora": "12:00 p. m.",
-    "canal": "Gol Caracol"
+    "hora": "11:00 a. m.",
+    "canal": "STAR +"
   },
   {
-    "partido": "Luxemburgo - Portugal",
+    "partido": "Montenegro - Serbia",
     "liga": "Eliminatoria Eurocopa",
     "hora": "1:45 p. m.",
-    "canal": "ESPN / Star +"
+    "canal": "STAR +"
   },
   {
-    "partido": "Irlanda del Norte - Finlandia",
+    "partido": "Suecia - Azerbaiyán",
     "liga": "Eliminatoria Eurocopa",
     "hora": "1:45 p. m.",
-    "canal": "Star +"
+    "canal": "STAR +"
   },
   {
-    "partido": "Malta - Italia",
+    "partido": "Países Bajos - Gibraltar",
     "liga": "Eliminatoria Eurocopa",
     "hora": "1:45 p. m.",
-    "canal": "Star +"
+    "canal": "STAR +"
   },
   {
-    "partido": "Unión Magdalena - Junior",
-    "liga": "Liga BetPlay",
-    "hora": "3:15 p. m.",
+    "partido": "Irlanda - Francia",
+    "liga": "Eliminatoria Eurocopa",
+    "hora": "1:45 p. m.",
+    "canal": "STAR + y ESPN"
+  },
+  {
+    "partido": "Hungría - Bulgaria",
+    "liga": "Eliminatoria Eurocopa",
+    "hora": "1:45 p. m.",
+    "canal": "STAR +"
+  },
+  {
+    "partido": "Polonia - Albania",
+    "liga": "Eliminatoria Eurocopa",
+    "hora": "1:45 p. m.",
+    "canal": "STAR +"
+  },
+  {
+    "partido": "Boca Juniors de Cali - Atlético FC",
+    "liga": "Torneo Betplay",
+    "hora": "6:00 p. m.",
     "canal": "Win Sports +"
   },
   {
-    "partido": "Deportivo Cali - América",
-    "liga": "Liga BetPlay",
-    "hora": "5:30 p. m.",
-    "canal": "Win Sports +"
+    "partido": "Estados Unidos - El Salvador",
+    "liga": "Liga de Naciones Concacaf",
+    "hora": "6:30 p. m.",
+    "canal": "STAR +"
   },
   {
-    "partido": "Santa Fe - Millonarios",
+    "partido": "Jaguares de Córdoba - Deportivo Pasto",
     "liga": "Liga BetPlay",
-    "hora": "7:45 p. m.",
-    "canal": "Win Sports +"
+    "hora": "8:00 p. m.",
+    "canal": "Win Sports y Win +"
   }
 ]
