@@ -1,62 +1,62 @@
 [
   {
-    "partido": "Grecia - Lituania",
+    "partido": "Japón - Colombia",
     "liga": "Partido amistoso",
+    "hora": "5:20 a. m.",
+    "canal": "Caracol y RCN"
+  },
+  {
+    "partido": "Georgia - Noruega",
+    "liga": "Eliminatoria Eurocopa",
     "hora": "11:00 a. m.",
     "canal": "STAR +"
   },
   {
-    "partido": "Montenegro - Serbia",
+    "partido": "Suiza - Israel",
     "liga": "Eliminatoria Eurocopa",
     "hora": "1:45 p. m.",
     "canal": "STAR +"
   },
   {
-    "partido": "Suecia - Azerbaiyán",
+    "partido": "Escocia - España",
     "liga": "Eliminatoria Eurocopa",
     "hora": "1:45 p. m.",
     "canal": "STAR +"
   },
   {
-    "partido": "Países Bajos - Gibraltar",
+    "partido": "Turquía - Croacia",
     "liga": "Eliminatoria Eurocopa",
     "hora": "1:45 p. m.",
     "canal": "STAR +"
   },
   {
-    "partido": "Irlanda - Francia",
-    "liga": "Eliminatoria Eurocopa",
-    "hora": "1:45 p. m.",
-    "canal": "STAR + y ESPN"
-  },
-  {
-    "partido": "Hungría - Bulgaria",
-    "liga": "Eliminatoria Eurocopa",
+    "partido": "Alemania - Bélgica",
+    "liga": "Partido amistoso",
     "hora": "1:45 p. m.",
     "canal": "STAR +"
   },
   {
-    "partido": "Polonia - Albania",
-    "liga": "Eliminatoria Eurocopa",
-    "hora": "1:45 p. m.",
-    "canal": "STAR +"
-  },
-  {
-    "partido": "Boca Juniors de Cali - Atlético FC",
-    "liga": "Torneo Betplay",
-    "hora": "6:00 p. m.",
-    "canal": "Win Sports +"
-  },
-  {
-    "partido": "Estados Unidos - El Salvador",
-    "liga": "Liga de Naciones Concacaf",
+    "partido": "Argentina - Curazao",
+    "liga": "Partido amistoso",
     "hora": "6:30 p. m.",
+    "canal": "TyC Sports / Directv 610-619"
+  },
+  {
+    "partido": "Canadá - Honduras",
+    "liga": "Liga de Naciones Concacaf",
+    "hora": "7:00 p. m.",
     "canal": "STAR +"
   },
   {
-    "partido": "Jaguares de Córdoba - Deportivo Pasto",
+    "partido": "Boyacá Chicó - Equidad",
     "liga": "Liga BetPlay",
-    "hora": "8:00 p. m.",
+    "hora": "7:15 p. m.",
     "canal": "Win Sports y Win +"
+  },
+  {
+    "partido": "Costa Rica - Panamá",
+    "liga": "Liga de Naciones Concacaf",
+    "hora": "9:00 p. m.",
+    "canal": "STAR +"
   }
 ]
