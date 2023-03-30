@@ -1,32 +1,44 @@
 [
   {
-    "partido": "Barcelona - Roma",
+    "partido": "Wolfsburgo - Paris Saint-Germain",
     "liga": "Champions femenina",
     "hora": "11:45 a. m.",
-    "canal": "DAZN / YouTube UEFA"
+    "canal": "DAZN / Youtube UEFA"
   },
   {
-    "partido": "Arsenal - Bayern Munich",
+    "partido": "Chelsea - Lyon",
     "liga": "Champions femenina",
     "hora": "2:00 p. m.",
-    "canal": "DAZN / YouTube UEFA"
+    "canal": "DAZN / Youtube UEFA"
   },
   {
-    "partido": "Envigado F.C - Tigres",
+    "partido": "Cúcuta - Quindío",
     "liga": "Copa Betplay",
-    "hora": "3:00 p. m.",
+    "hora": "3:30 p. m.",
     "canal": "Win Sports +"
   },
   {
-    "partido": "Deportivo Cali - Leones",
-    "liga": "Copa Betplay",
-    "hora": "5:30 p. m.",
-    "canal": "Win Sports +"
+    "partido": "Colombia sub 17 - Uruguay Sub-17",
+    "liga": "Sudamericano Sub-17",
+    "hora": "4:30 p. m.",
+    "canal": "Directv Sports"
   },
   {
-    "partido": "Deportes Tolima - Millonarios",
-    "liga": "Liga BetPlay",
-    "hora": "8:00 p. m.",
+    "partido": "Defensa y Justicia - Vélez Sarsfield",
+    "liga": "Liga de Argentina",
+    "hora": "6:00 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Ecuador Sub-17 - Brasil sub 17",
+    "liga": "Sudamericano Sub-17",
+    "hora": "7:00 p. m.",
+    "canal": "Directv Sports"
+  },
+  {
+    "partido": "Unión Magdalena - Fortaleza F.C",
+    "liga": "Copa Betplay",
+    "hora": "7:30 p. m.",
     "canal": "Win Sports +"
   }
 ]
