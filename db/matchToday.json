@@ -1,44 +1,68 @@
 [
   {
-    "partido": "Wolfsburgo - Paris Saint-Germain",
-    "liga": "Champions femenina",
-    "hora": "11:45 a. m.",
-    "canal": "DAZN / Youtube UEFA"
+    "partido": "Fortuna Duesseldorf - Hamburgo",
+    "liga": "Bundesliga 2",
+    "hora": "11:30 a. m.",
+    "canal": "Star +"
   },
   {
-    "partido": "Chelsea - Lyon",
-    "liga": "Champions femenina",
+    "partido": "Eintracht Frankfurt - Bochum 1848",
+    "liga": "Bundesliga",
+    "hora": "1:30 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Marsella - Montpellier",
+    "liga": "Liga de Francia",
     "hora": "2:00 p. m.",
-    "canal": "DAZN / Youtube UEFA"
+    "canal": "Star +"
   },
   {
-    "partido": "Cúcuta - Quindío",
-    "liga": "Copa Betplay",
-    "hora": "3:30 p. m.",
+    "partido": "Burnley - Sunderland",
+    "liga": "Championship",
+    "hora": "2:00 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Mallorca - Osasuna",
+    "liga": "Liga de Espana",
+    "hora": "2:00 p. m.",
+    "canal": "ESPN 2 / Star +"
+  },
+  {
+    "partido": "Santa Fe - Deportivo Pasto",
+    "liga": "Liga Femenina",
+    "hora": "4:00 p. m.",
     "canal": "Win Sports +"
   },
   {
-    "partido": "Colombia sub 17 - Uruguay Sub-17",
+    "partido": "Bolivia Sub-17 - Perú Sub-17",
     "liga": "Sudamericano Sub-17",
     "hora": "4:30 p. m.",
     "canal": "Directv Sports"
   },
   {
-    "partido": "Defensa y Justicia - Vélez Sarsfield",
+    "partido": "Estudiantes - Newell`s Old Boys",
     "liga": "Liga de Argentina",
-    "hora": "6:00 p. m.",
+    "hora": "5:00 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Ecuador Sub-17 - Brasil sub 17",
+    "partido": "Deportivo Pasto - Pereira",
+    "liga": "Liga BetPlay",
+    "hora": "6:00 p. m.",
+    "canal": "Win Sports / Win +"
+  },
+  {
+    "partido": "Argentina Sub-17 - Venezuela sub 17",
     "liga": "Sudamericano Sub-17",
     "hora": "7:00 p. m.",
     "canal": "Directv Sports"
   },
   {
-    "partido": "Unión Magdalena - Fortaleza F.C",
-    "liga": "Copa Betplay",
-    "hora": "7:30 p. m.",
+    "partido": "Santa Fe - Boyacá Chicó",
+    "liga": "Liga BetPlay",
+    "hora": "8:10 p. m.",
     "canal": "Win Sports +"
   }
 ]
