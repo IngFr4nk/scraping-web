@@ -1,212 +1,128 @@
 [
   {
-    "partido": "Manchester City - Liverpool",
-    "liga": "Liga de Inglaterra",
-    "hora": "6:30 a. m.",
-    "canal": "Star + y ESPN"
+    "partido": "Bolognia - Udinese",
+    "liga": "Serie A",
+    "hora": "5:30 a. m.",
+    "canal": "Star + y ESPN 3"
   },
   {
-    "partido": "Girona - Espanyol",
+    "partido": "Celta de Vigo - Almería",
     "liga": "Liga de Espana",
     "hora": "7:00 a. m.",
-    "canal": "DSports 610"
+    "canal": "Star + y ESPN Extra"
   },
   {
-    "partido": "Cremonese - Atalanta",
+    "partido": "Spezia - Salernitana",
     "liga": "Serie A",
     "hora": "8:00 a. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Wolfsburgo - FC Augsburgo",
-    "liga": "Bundesliga",
-    "hora": "8:30 a. m.",
-    "canal": "Star +"
+    "partido": "Monza - Lazio",
+    "liga": "Serie A",
+    "hora": "8:00 a. m.",
+    "canal": "Star + y ESPN 3"
   },
   {
-    "partido": "RB Leipzig - Mainz 05",
-    "liga": "Bundesliga",
-    "hora": "8:30 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Friburgo - Hertha Berlin",
-    "liga": "Bundesliga",
-    "hora": "8:30 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Schalke 04 - Bayer Leverkusen",
-    "liga": "Bundesliga",
-    "hora": "8:30 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Union Berlin - VfB Stuttgart",
-    "liga": "Bundesliga",
-    "hora": "8:30 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Crystal Palace - Leicester City",
+    "partido": "West Ham Utd. - Southampton",
     "liga": "Liga de Inglaterra",
-    "hora": "9:00 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Arsenal - Leeds",
-    "liga": "Liga de Inglaterra",
-    "hora": "9:00 a. m.",
+    "hora": "8:00 a. m.",
     "canal": "Star + y ESPN"
   },
   {
-    "partido": "Nottingham Forest - Wolverhampton",
-    "liga": "Liga de Inglaterra",
-    "hora": "9:00 a. m.",
-    "canal": "Star +"
+    "partido": "Colonia - Borussia Mönchengladbach",
+    "liga": "Bundesliga",
+    "hora": "8:30 a. m.",
+    "canal": "Star + y ESPN 4"
   },
   {
-    "partido": "Bournemouth - Fulham",
-    "liga": "Liga de Inglaterra",
-    "hora": "9:00 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Athletic Club - Getafe",
+    "partido": "Real Madrid - Valladolid",
     "liga": "Liga de Espana",
     "hora": "9:15 a. m.",
     "canal": "DSports 610"
   },
   {
-    "partido": "Brighton & Hove - Brentford",
-    "liga": "Liga de Inglaterra",
-    "hora": "9:20 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Auxerre - Troyes",
+    "partido": "Mónaco - Strasbourg",
     "liga": "Liga de Francia",
     "hora": "10:00 a. m.",
+    "canal": "Star + y ESPN 3"
+  },
+  {
+    "partido": "Newcastle - Manchester United",
+    "liga": "Liga de Inglaterra",
+    "hora": "10:30 a. m.",
+    "canal": "Star + y ESPN"
+  },
+  {
+    "partido": "Werder Bremen - Hoffenheim",
+    "liga": "Bundesliga",
+    "hora": "10:30 a. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Inter - Fiorentina",
+    "partido": "Roma - Sampdoria",
     "liga": "Serie A",
     "hora": "11:00 a. m.",
-    "canal": "Star + y ESPN"
+    "canal": "Star +"
   },
   {
-    "partido": "Cádiz - Sevilla",
+    "partido": "Villarreal - Real Sociedad",
     "liga": "Liga de Espana",
     "hora": "11:30 a. m.",
-    "canal": "DSports 610"
+    "canal": "Star + y ESPN Extra"
   },
   {
-    "partido": "Chelsea - Aston Villa",
-    "liga": "Liga de Inglaterra",
-    "hora": "11:30 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Bayern Munich - Borussia Dortmund",
-    "liga": "Bundesliga",
-    "hora": "11:30 a. m.",
-    "canal": "Star + y ESPN 4"
-  },
-  {
-    "partido": "Rennes - Lens",
+    "partido": "Paris Saint-Germain - Lyon",
     "liga": "Liga de Francia",
-    "hora": "11:30 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "NEC Nimega - PSV",
-    "liga": "Liga de Holanda",
-    "hora": "1:00 p. m.",
+    "hora": "1:45 p. m.",
     "canal": "Star + y ESPN"
   },
   {
-    "partido": "Barracas Central - Boca Juniors",
-    "liga": "Liga de Argentina",
-    "hora": "1:30 p. m.",
-    "canal": "Star + y ESPN"
-  },
-  {
-    "partido": "Juventus - Hellas Verona",
+    "partido": "Napoli - Milán",
     "liga": "Serie A",
     "hora": "1:45 p. m.",
-    "canal": "Star +"
+    "canal": "Star + y ESPN 2"
   },
   {
-    "partido": "Peñarol - Nacional (Uru)",
-    "liga": "Liga de Uruguay",
-    "hora": "2:00 p. m.",
-    "canal": "STAR +"
-  },
-  {
-    "partido": "Envigado F.C - Once Caldas",
-    "liga": "Liga BetPlay",
+    "partido": "Leones - Real Santander",
+    "liga": "Torneo BetPlay",
     "hora": "2:00 p. m.",
     "canal": "Win Sports y Win Sports +"
   },
   {
-    "partido": "Elche - Barcelona",
+    "partido": "Atlético de Madrid - Real Betis",
     "liga": "Liga de Espana",
     "hora": "2:00 p. m.",
-    "canal": "Star + y ESPN 2"
+    "canal": "DSports 610"
   },
   {
-    "partido": "Sporting de Lisboa - Santa Clara",
-    "liga": "Liga de Portugal",
-    "hora": "2:30 p. m.",
-    "canal": "GolTV Play"
-  },
-  {
-    "partido": "Independiente Medellín - Deportes Tolima",
+    "partido": "América - Jaguares de Córdoba",
     "liga": "Liga BetPlay",
-    "hora": "4:10 p. m.",
+    "hora": "4:00 p. m.",
     "canal": "Win Sports +"
   },
   {
-    "partido": "Brasil sub 17 - Chile sub 17",
+    "partido": "Venezuela sub 17 - Paraguay sub 17",
     "liga": "Sudamericano Sub-17",
     "hora": "4:30 p. m.",
     "canal": "DSports"
   },
   {
-    "partido": "San Lorenzo - Independiente",
-    "liga": "Liga de Argentina",
-    "hora": "5:00 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Pachuca - Cruz Azul",
-    "liga": "Liga de México",
-    "hora": "6:00 p. m.",
-    "canal": "Claro Sports"
-  },
-  {
-    "partido": "Equidad - Atlético Nacional",
+    "partido": "Unión Magdalena - Águilas Doradas",
     "liga": "Liga BetPlay",
-    "hora": "6:20 p. m.",
-    "canal": "Win Sports +"
+    "hora": "6:10 p. m.",
+    "canal": "Win Sports y Win Sports +"
   },
   {
-    "partido": "Flamengo - Fluminense",
-    "liga": "Campeonato Carioca",
-    "hora": "6:30 p. m.",
-    "canal": "Gol TV"
-  },
-  {
-    "partido": "Colombia sub 17 - Ecuador Sub-17",
+    "partido": "Bolivia Sub-17 - Argentina Sub-17",
     "liga": "Sudamericano Sub-17",
     "hora": "7:00 p. m.",
-    "canal": "DSports, Telepacífico, Canal Capital"
+    "canal": "DSports"
   },
   {
-    "partido": "Bucaramanga - Millonarios",
+    "partido": "Atlético Huila - Deportivo Cali",
     "liga": "Liga BetPlay",
-    "hora": "8:30 p. m.",
-    "canal": "Win Sports +"
+    "hora": "8:20 p. m.",
+    "canal": "Win Sports y Win Sports +"
   }
 ]
