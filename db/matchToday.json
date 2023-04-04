@@ -1,74 +1,134 @@
 [
   {
-    "partido": "Empoli - Lecce",
-    "liga": "Serie A",
-    "hora": "11:30 a. m.",
+    "partido": "Eintracht Frankfurt - Union Berlin",
+    "liga": "Copa de Alemania",
+    "hora": "11:00 a. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Sassuolo - Torino",
-    "liga": "Serie A",
+    "partido": "Leicester City - Aston Villa",
+    "liga": "Liga de Inglaterra",
+    "hora": "1:45 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Leeds - Nottingham Forest",
+    "liga": "Liga de Inglaterra",
+    "hora": "1:45 p. m.",
+    "canal": "Star + y ESPN 3"
+  },
+  {
+    "partido": "Bayern Munich - Friburgo",
+    "liga": "Copa de Alemania",
     "hora": "1:45 p. m.",
     "canal": "Star + y ESPN Extra"
   },
   {
-    "partido": "Valencia CF - Rayo Vallecano",
-    "liga": "Liga de Espana",
-    "hora": "2:00 p. m.",
-    "canal": "Star + y ESPN 3"
+    "partido": "Bournemouth - Brighton & Hove",
+    "liga": "Liga de Inglaterra",
+    "hora": "1:45 p. m.",
+    "canal": "Star +"
   },
   {
-    "partido": "Everton - Tottenham Hotspur",
-    "liga": "Liga de Inglaterra",
+    "partido": "Juventus - Inter",
+    "liga": "Copa de Italia",
     "hora": "2:00 p. m.",
     "canal": "Star + y ESPN"
   },
   {
-    "partido": "Cúcuta - Bogotá",
-    "liga": "Torneo Betplay",
-    "hora": "4:00 p. m.",
-    "canal": "Win Sports +"
+    "partido": "Chelsea - Liverpool",
+    "liga": "Liga de Inglaterra",
+    "hora": "2:00 p. m.",
+    "canal": "Star + y ESPN 2"
   },
   {
-    "partido": "Chile sub 17 - Uruguay Sub-17",
+    "partido": "Athletic Club - Osasuna",
+    "liga": "Copa del Rey",
+    "hora": "2:00 p. m.",
+    "canal": "DSports"
+  },
+  {
+    "partido": "Venezuela sub 17 - Bolivia Sub-17",
     "liga": "Sudamericano Sub-17",
     "hora": "4:30 p. m.",
     "canal": "DSports"
   },
   {
-    "partido": "Atlético FC - Patriotas F.C",
-    "liga": "Torneo Betplay",
-    "hora": "6:00 p. m.",
-    "canal": "Win Sports +"
+    "partido": "The Strongest - River Plate",
+    "liga": "Copa Libertadores",
+    "hora": "5:00 p. m.",
+    "canal": "Star + y ESPN 4"
   },
   {
-    "partido": "Belgrano - Sarmiento de Junín",
-    "liga": "Liga de Argentina",
-    "hora": "6:00 p. m.",
+    "partido": "Goiás - Santa Fe",
+    "liga": "Copa Sudamericana",
+    "hora": "5:00 p. m.",
+    "canal": "DSports"
+  },
+  {
+    "partido": "Argentinos Juniors - Independiente del Valle",
+    "liga": "Copa Libertadores",
+    "hora": "5:00 p. m.",
+    "canal": "Star + y Fox Sports 2"
+  },
+  {
+    "partido": "Audax - Newell`s Old Boys",
+    "liga": "Copa Sudamericana",
+    "hora": "5:00 p. m.",
+    "canal": "DSports"
+  },
+  {
+    "partido": "Alianza Lima - Atlético Paranaense",
+    "liga": "Copa Libertadores",
+    "hora": "5:00 p. m.",
+    "canal": "Star + y ESPN"
+  },
+  {
+    "partido": "César Vallejo - Liga de Quito",
+    "liga": "Copa Sudamericana",
+    "hora": "7:00 p. m.",
+    "canal": "DSports"
+  },
+  {
+    "partido": "Estudiantes de Mérida - San Lorenzo",
+    "liga": "Copa Sudamericana",
+    "hora": "7:00 p. m.",
+    "canal": "Star + y ESPN 2"
+  },
+  {
+    "partido": "Independiente Medellín - Internacional",
+    "liga": "Copa Libertadores",
+    "hora": "7:00 p. m.",
+    "canal": "Star + y ESPN"
+  },
+  {
+    "partido": "Philadelphia Union - Atlas",
+    "liga": "Concacaf Champions",
+    "hora": "7:00 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Brasil sub 17 - Colombia sub 17",
+    "partido": "Paraguay sub 17 - Perú Sub-17",
     "liga": "Sudamericano Sub-17",
     "hora": "7:00 p. m.",
-    "canal": "DSports, Telepacífico, Canal Capital"
+    "canal": "DSports"
   },
   {
-    "partido": "Central Córdoba - Arsenal de Sarandí",
-    "liga": "Liga de Argentina",
-    "hora": "7:20 p. m.",
-    "canal": "TyC Sports Internacional"
+    "partido": "Blooming - Santos",
+    "liga": "Copa Sudamericana",
+    "hora": "7:30 p. m.",
+    "canal": "Star + y ESPN 3"
   },
   {
-    "partido": "Junior - Alianza Petrolera",
-    "liga": "Liga BetPlay",
-    "hora": "8:10 p. m.",
-    "canal": "Win Sports +"
+    "partido": "Millonarios - Defensa y Justicia",
+    "liga": "Copa Sudamericana",
+    "hora": "9:00 p. m.",
+    "canal": "DSports"
   },
   {
-    "partido": "Junior - Alianza Petrolera",
-    "liga": "Liga BetPlay",
-    "hora": "8:10 p. m.",
-    "canal": "Win Sports +"
+    "partido": "Metropolitanos - Nacional (Uru)",
+    "liga": "Copa Libertadores",
+    "hora": "9:00 p. m.",
+    "canal": "Star + y ESPN 2"
   }
 ]
