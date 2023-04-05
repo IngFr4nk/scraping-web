@@ -1,134 +1,134 @@
 [
   {
-    "partido": "Eintracht Frankfurt - Union Berlin",
+    "partido": "Volos - AEK de Atenas",
+    "liga": "Liga de Grecia",
+    "hora": "10:00 a. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Nürnberg - VfB Stuttgart",
     "liga": "Copa de Alemania",
     "hora": "11:00 a. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Leicester City - Aston Villa",
-    "liga": "Liga de Inglaterra",
-    "hora": "1:45 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Leeds - Nottingham Forest",
-    "liga": "Liga de Inglaterra",
-    "hora": "1:45 p. m.",
-    "canal": "Star + y ESPN 3"
-  },
-  {
-    "partido": "Bayern Munich - Friburgo",
+    "partido": "RB Leipzig - Borussia Dortmund",
     "liga": "Copa de Alemania",
     "hora": "1:45 p. m.",
-    "canal": "Star + y ESPN Extra"
-  },
-  {
-    "partido": "Bournemouth - Brighton & Hove",
-    "liga": "Liga de Inglaterra",
-    "hora": "1:45 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Juventus - Inter",
+    "partido": "West Ham Utd. - Newcastle",
+    "liga": "Liga de Inglaterra",
+    "hora": "2:00 p. m.",
+    "canal": "ESPN 2 / Star +"
+  },
+  {
+    "partido": "Manchester United - Brentford",
+    "liga": "Liga de Inglaterra",
+    "hora": "2:00 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Cremonese - Fiorentina",
     "liga": "Copa de Italia",
     "hora": "2:00 p. m.",
-    "canal": "Star + y ESPN"
+    "canal": "ESPN Extra / Star +"
   },
   {
-    "partido": "Chelsea - Liverpool",
-    "liga": "Liga de Inglaterra",
-    "hora": "2:00 p. m.",
-    "canal": "Star + y ESPN 2"
-  },
-  {
-    "partido": "Athletic Club - Osasuna",
+    "partido": "Barcelona - Real Madrid",
     "liga": "Copa del Rey",
     "hora": "2:00 p. m.",
-    "canal": "DSports"
+    "canal": "Directv Sports"
   },
   {
-    "partido": "Venezuela sub 17 - Bolivia Sub-17",
+    "partido": "Nantes - Lyon",
+    "liga": "Copa de Francia",
+    "hora": "2:10 p. m.",
+    "canal": "Directv Sports"
+  },
+  {
+    "partido": "Chile sub 17 - Colombia sub 17",
     "liga": "Sudamericano Sub-17",
     "hora": "4:30 p. m.",
-    "canal": "DSports"
+    "canal": "DSports, Telepacífico y Canal Capital"
   },
   {
-    "partido": "The Strongest - River Plate",
+    "partido": "Patronato - Atlético Nacional",
     "liga": "Copa Libertadores",
     "hora": "5:00 p. m.",
-    "canal": "Star + y ESPN 4"
+    "canal": "ESPN / Star +"
   },
   {
-    "partido": "Goiás - Santa Fe",
-    "liga": "Copa Sudamericana",
-    "hora": "5:00 p. m.",
-    "canal": "DSports"
-  },
-  {
-    "partido": "Argentinos Juniors - Independiente del Valle",
+    "partido": "Aucas - Flamengo",
     "liga": "Copa Libertadores",
     "hora": "5:00 p. m.",
-    "canal": "Star + y Fox Sports 2"
+    "canal": "Fox Sports 2 / Star +"
   },
   {
-    "partido": "Audax - Newell`s Old Boys",
+    "partido": "Fortaleza - Palestino",
     "liga": "Copa Sudamericana",
     "hora": "5:00 p. m.",
-    "canal": "DSports"
+    "canal": "ESPN 2 / Star +"
   },
   {
-    "partido": "Alianza Lima - Atlético Paranaense",
-    "liga": "Copa Libertadores",
+    "partido": "Danubio - Emelec",
+    "liga": "Copa Sudamericana",
     "hora": "5:00 p. m.",
-    "canal": "Star + y ESPN"
+    "canal": "ESPN 4 / Star +"
   },
   {
-    "partido": "César Vallejo - Liga de Quito",
+    "partido": "Oriente Petrolero - Estudiantes",
     "liga": "Copa Sudamericana",
-    "hora": "7:00 p. m.",
-    "canal": "DSports"
+    "hora": "5:00 p. m.",
+    "canal": "Directv Sports"
   },
   {
-    "partido": "Estudiantes de Mérida - San Lorenzo",
-    "liga": "Copa Sudamericana",
-    "hora": "7:00 p. m.",
-    "canal": "Star + y ESPN 2"
-  },
-  {
-    "partido": "Independiente Medellín - Internacional",
+    "partido": "Ñublense - Racing Club",
     "liga": "Copa Libertadores",
     "hora": "7:00 p. m.",
-    "canal": "Star + y ESPN"
+    "canal": "ESPN 4 / Star +"
   },
   {
-    "partido": "Philadelphia Union - Atlas",
-    "liga": "Concacaf Champions",
+    "partido": "Cerro Porteño - Barcelona (ECU)",
+    "liga": "Copa Libertadores",
     "hora": "7:00 p. m.",
-    "canal": "Star +"
+    "canal": "ESPN / Star +"
   },
   {
-    "partido": "Paraguay sub 17 - Perú Sub-17",
+    "partido": "Uruguay Sub-17 - Ecuador Sub-17",
     "liga": "Sudamericano Sub-17",
     "hora": "7:00 p. m.",
-    "canal": "DSports"
+    "canal": "Directv Sports"
   },
   {
-    "partido": "Blooming - Santos",
+    "partido": "Gimnasia de La Plata - Universitario",
     "liga": "Copa Sudamericana",
+    "hora": "7:00 p. m.",
+    "canal": "ESPN / Star +"
+  },
+  {
+    "partido": "América MG - Peñarol",
+    "liga": "Copa Sudamericana",
+    "hora": "7:00 p. m.",
+    "canal": "Directv Sports"
+  },
+  {
+    "partido": "Sporting Cristal - Fluminense",
+    "liga": "Copa Libertadores",
     "hora": "7:30 p. m.",
-    "canal": "Star + y ESPN 3"
+    "canal": "Fox Sports 2 / Star +"
   },
   {
-    "partido": "Millonarios - Defensa y Justicia",
-    "liga": "Copa Sudamericana",
-    "hora": "9:00 p. m.",
-    "canal": "DSports"
+    "partido": "Bolívar - Palmeiras",
+    "liga": "Copa Libertadores",
+    "hora": "7:30 p. m.",
+    "canal": "Fox Sports 3 / Star +"
   },
   {
-    "partido": "Metropolitanos - Nacional (Uru)",
+    "partido": "Pereira - Colo Colo",
     "liga": "Copa Libertadores",
     "hora": "9:00 p. m.",
-    "canal": "Star + y ESPN 2"
+    "canal": "ESPN / Star +"
   }
 ]
