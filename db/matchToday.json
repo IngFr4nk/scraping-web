@@ -21,13 +21,13 @@
     "partido": "West Ham Utd. - Newcastle",
     "liga": "Liga de Inglaterra",
     "hora": "2:00 p. m.",
-    "canal": "ESPN 2 / Star +"
+    "canal": "ESPN 3 / Star +"
   },
   {
-    "partido": "Manchester United - Brentford",
-    "liga": "Liga de Inglaterra",
+    "partido": "Barcelona - Real Madrid",
+    "liga": "Copa del Rey",
     "hora": "2:00 p. m.",
-    "canal": "Star +"
+    "canal": "Directv Sports"
   },
   {
     "partido": "Cremonese - Fiorentina",
@@ -36,10 +36,10 @@
     "canal": "ESPN Extra / Star +"
   },
   {
-    "partido": "Barcelona - Real Madrid",
-    "liga": "Copa del Rey",
+    "partido": "Manchester United - Brentford",
+    "liga": "Liga de Inglaterra",
     "hora": "2:00 p. m.",
-    "canal": "Directv Sports"
+    "canal": "Star +"
   },
   {
     "partido": "Nantes - Lyon",
@@ -60,22 +60,10 @@
     "canal": "ESPN / Star +"
   },
   {
-    "partido": "Aucas - Flamengo",
-    "liga": "Copa Libertadores",
-    "hora": "5:00 p. m.",
-    "canal": "Fox Sports 2 / Star +"
-  },
-  {
     "partido": "Fortaleza - Palestino",
     "liga": "Copa Sudamericana",
     "hora": "5:00 p. m.",
     "canal": "ESPN 2 / Star +"
-  },
-  {
-    "partido": "Danubio - Emelec",
-    "liga": "Copa Sudamericana",
-    "hora": "5:00 p. m.",
-    "canal": "ESPN 4 / Star +"
   },
   {
     "partido": "Oriente Petrolero - Estudiantes",
@@ -84,16 +72,16 @@
     "canal": "Directv Sports"
   },
   {
-    "partido": "Ñublense - Racing Club",
-    "liga": "Copa Libertadores",
-    "hora": "7:00 p. m.",
+    "partido": "Danubio - Emelec",
+    "liga": "Copa Sudamericana",
+    "hora": "5:00 p. m.",
     "canal": "ESPN 4 / Star +"
   },
   {
-    "partido": "Cerro Porteño - Barcelona (ECU)",
+    "partido": "Aucas - Flamengo",
     "liga": "Copa Libertadores",
-    "hora": "7:00 p. m.",
-    "canal": "ESPN / Star +"
+    "hora": "5:00 p. m.",
+    "canal": "Fox Sports 2 / Star +"
   },
   {
     "partido": "Uruguay Sub-17 - Ecuador Sub-17",
@@ -102,28 +90,46 @@
     "canal": "Directv Sports"
   },
   {
-    "partido": "Gimnasia de La Plata - Universitario",
-    "liga": "Copa Sudamericana",
-    "hora": "7:00 p. m.",
-    "canal": "ESPN / Star +"
-  },
-  {
     "partido": "América MG - Peñarol",
     "liga": "Copa Sudamericana",
     "hora": "7:00 p. m.",
     "canal": "Directv Sports"
   },
   {
-    "partido": "Sporting Cristal - Fluminense",
+    "partido": "Deportivo Cali - Jaguares de Córdoba",
+    "liga": "Copa Betplay",
+    "hora": "7:00 p. m.",
+    "canal": "Win Sports +"
+  },
+  {
+    "partido": "Cerro Porteño - Barcelona (ECU)",
     "liga": "Copa Libertadores",
-    "hora": "7:30 p. m.",
-    "canal": "Fox Sports 2 / Star +"
+    "hora": "7:00 p. m.",
+    "canal": "ESPN / Star +"
+  },
+  {
+    "partido": "Ñublense - Racing Club",
+    "liga": "Copa Libertadores",
+    "hora": "7:00 p. m.",
+    "canal": "ESPN 4 / Star +"
+  },
+  {
+    "partido": "Gimnasia de La Plata - Universitario",
+    "liga": "Copa Sudamericana",
+    "hora": "7:00 p. m.",
+    "canal": "ESPN / Star +"
   },
   {
     "partido": "Bolívar - Palmeiras",
     "liga": "Copa Libertadores",
     "hora": "7:30 p. m.",
     "canal": "Fox Sports 3 / Star +"
+  },
+  {
+    "partido": "Sporting Cristal - Fluminense",
+    "liga": "Copa Libertadores",
+    "hora": "7:30 p. m.",
+    "canal": "Fox Sports 2 / Star +"
   },
   {
     "partido": "Pereira - Colo Colo",
