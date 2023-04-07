@@ -1,140 +1,104 @@
 [
   {
-    "partido": "Volos - AEK de Atenas",
-    "liga": "Liga de Grecia",
+    "partido": "Watford - Huddersfield",
+    "liga": "Championship",
+    "hora": "9:00 a. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Salernitana - Inter",
+    "liga": "Serie A",
     "hora": "10:00 a. m.",
+    "canal": "ESPN 2 / Star +"
+  },
+  {
+    "partido": "Sunderland - Hull City",
+    "liga": "Championship",
+    "hora": "11:30 a. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Nürnberg - VfB Stuttgart",
-    "liga": "Copa de Alemania",
-    "hora": "11:00 a. m.",
+    "partido": "Benfica - Porto",
+    "liga": "Liga de Portugal",
+    "hora": "12:00 p. m.",
+    "canal": "Goltv"
+  },
+  {
+    "partido": "Lecce - Napoli",
+    "liga": "Serie A",
+    "hora": "12:00 p. m.",
+    "canal": "ESPN / Star +"
+  },
+  {
+    "partido": "Milán - Empoli",
+    "liga": "Serie A",
+    "hora": "2:00 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "RB Leipzig - Borussia Dortmund",
-    "liga": "Copa de Alemania",
-    "hora": "1:45 p. m.",
+    "partido": "Lens - Strasbourg",
+    "liga": "Liga de Francia",
+    "hora": "2:00 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "West Ham Utd. - Newcastle",
-    "liga": "Liga de Inglaterra",
+    "partido": "Sevilla - Celta de Vigo",
+    "liga": "Liga de Espana",
     "hora": "2:00 p. m.",
     "canal": "ESPN 3 / Star +"
   },
   {
-    "partido": "Barcelona - Real Madrid",
-    "liga": "Copa del Rey",
-    "hora": "2:00 p. m.",
-    "canal": "Directv Sports"
+    "partido": "Francia - Colombia",
+    "liga": "Amistoso femenino",
+    "hora": "2:10 p. m.",
+    "canal": "Caracol HD2 / Gol Caracol"
   },
   {
-    "partido": "Cremonese - Fiorentina",
-    "liga": "Copa de Italia",
-    "hora": "2:00 p. m.",
-    "canal": "ESPN Extra / Star +"
+    "partido": "Platense - Instituto de Córdoba",
+    "liga": "Liga de Argentina",
+    "hora": "5:00 p. m.",
+    "canal": "TyC Sports Internacional"
   },
   {
-    "partido": "Manchester United - Brentford",
-    "liga": "Liga de Inglaterra",
-    "hora": "2:00 p. m.",
+    "partido": "Lanús - Arsenal de Sarandí",
+    "liga": "Liga de Argentina",
+    "hora": "5:00 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Nantes - Lyon",
-    "liga": "Copa de Francia",
-    "hora": "2:10 p. m.",
-    "canal": "Directv Sports"
-  },
-  {
-    "partido": "Chile sub 17 - Colombia sub 17",
-    "liga": "Sudamericano Sub-17",
-    "hora": "4:30 p. m.",
-    "canal": "DSports, Telepacífico y Canal Capital"
-  },
-  {
-    "partido": "Patronato - Atlético Nacional",
-    "liga": "Copa Libertadores",
+    "partido": "Águilas Doradas - Atlético Huila",
+    "liga": "Liga BetPlay",
     "hora": "5:00 p. m.",
-    "canal": "ESPN / Star +"
+    "canal": "Win Sports / Win +"
   },
   {
-    "partido": "Fortaleza - Palestino",
-    "liga": "Copa Sudamericana",
-    "hora": "5:00 p. m.",
-    "canal": "ESPN 2 / Star +"
-  },
-  {
-    "partido": "Oriente Petrolero - Estudiantes",
-    "liga": "Copa Sudamericana",
-    "hora": "5:00 p. m.",
-    "canal": "Directv Sports"
-  },
-  {
-    "partido": "Danubio - Emelec",
-    "liga": "Copa Sudamericana",
-    "hora": "5:00 p. m.",
-    "canal": "ESPN 4 / Star +"
-  },
-  {
-    "partido": "Aucas - Flamengo",
-    "liga": "Copa Libertadores",
-    "hora": "5:00 p. m.",
-    "canal": "Fox Sports 2 / Star +"
-  },
-  {
-    "partido": "Uruguay Sub-17 - Ecuador Sub-17",
+    "partido": "Ecuador Sub-17 - Chile sub 17",
     "liga": "Sudamericano Sub-17",
     "hora": "7:00 p. m.",
     "canal": "Directv Sports"
   },
   {
-    "partido": "América MG - Peñarol",
-    "liga": "Copa Sudamericana",
+    "partido": "Uruguay Sub-17 - Brasil sub 17",
+    "liga": "Sudamericano Sub-17",
     "hora": "7:00 p. m.",
     "canal": "Directv Sports"
   },
   {
-    "partido": "Deportivo Cali - Jaguares de Córdoba",
-    "liga": "Copa Betplay",
-    "hora": "7:00 p. m.",
-    "canal": "Win Sports +"
-  },
-  {
-    "partido": "Cerro Porteño - Barcelona (ECU)",
-    "liga": "Copa Libertadores",
-    "hora": "7:00 p. m.",
-    "canal": "ESPN / Star +"
-  },
-  {
-    "partido": "Ñublense - Racing Club",
-    "liga": "Copa Libertadores",
-    "hora": "7:00 p. m.",
-    "canal": "ESPN 4 / Star +"
-  },
-  {
-    "partido": "Gimnasia de La Plata - Universitario",
-    "liga": "Copa Sudamericana",
-    "hora": "7:00 p. m.",
-    "canal": "ESPN / Star +"
-  },
-  {
-    "partido": "Bolívar - Palmeiras",
-    "liga": "Copa Libertadores",
+    "partido": "Talleres de Córdoba - Barracas Central",
+    "liga": "Liga de Argentina",
     "hora": "7:30 p. m.",
-    "canal": "Fox Sports 3 / Star +"
+    "canal": "TyC Sports Internacional"
   },
   {
-    "partido": "Sporting Cristal - Fluminense",
-    "liga": "Copa Libertadores",
+    "partido": "Vélez Sarsfield - Banfield",
+    "liga": "Liga de Argentina",
     "hora": "7:30 p. m.",
-    "canal": "Fox Sports 2 / Star +"
+    "canal": "Star +"
   },
   {
-    "partido": "Pereira - Colo Colo",
-    "liga": "Copa Libertadores",
-    "hora": "9:00 p. m.",
-    "canal": "ESPN / Star +"
+    "partido": "Puebla - Toluca",
+    "liga": "Liga de México",
+    "hora": "8:00 p. m.",
+    "canal": "Star +"
   }
 ]
