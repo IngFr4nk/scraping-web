@@ -1,62 +1,56 @@
 [
   {
-    "partido": "Italia - Colombia",
-    "liga": "Amistoso femenino",
-    "hora": "9:30 a. m.",
-    "canal": "Caracol HD2 / Gol Caracol"
-  },
-  {
-    "partido": "Barracas Central - Platense",
-    "liga": "Liga de Argentina",
-    "hora": "12:00 p. m.",
-    "canal": "TyC Sports Internacional"
-  },
-  {
-    "partido": "Benfica - Inter",
-    "liga": "Champions League",
-    "hora": "2:00 p. m.",
-    "canal": "ESPN 2 / Star +"
-  },
-  {
-    "partido": "Manchester City - Bayern Munich",
-    "liga": "Champions League",
-    "hora": "2:00 p. m.",
-    "canal": "ESPN / Star +"
-  },
-  {
-    "partido": "Equidad - Once Caldas",
-    "liga": "Liga BetPlay",
-    "hora": "4:00 p. m.",
-    "canal": "Win Sports / Win Sports +"
-  },
-  {
-    "partido": "Argentinos Juniors - Unión de Santa Fe",
-    "liga": "Liga de Argentina",
-    "hora": "5:00 p. m.",
-    "canal": "TyC Sports Internacional"
-  },
-  {
-    "partido": "Atlético Huila - Millonarios",
-    "liga": "Liga BetPlay",
-    "hora": "6:10 p. m.",
-    "canal": "Win Sports +"
-  },
-  {
-    "partido": "Banfield - Defensa y Justicia",
-    "liga": "Liga de Argentina",
-    "hora": "7:30 p. m.",
-    "canal": "TyC Sports Internacional"
-  },
-  {
-    "partido": "Central Córdoba - Lanús",
-    "liga": "Liga de Argentina",
-    "hora": "7:30 p. m.",
+    "partido": "CD Nacional - Braga",
+    "liga": "Copa de Portugal",
+    "hora": "1:30 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "América - Águilas Doradas",
+    "partido": "Real Madrid - Chelsea",
+    "liga": "Champions League",
+    "hora": "2:00 p. m.",
+    "canal": "ESPN y Star+"
+  },
+  {
+    "partido": "Milán - Napoli",
+    "liga": "Champions League",
+    "hora": "2:00 p. m.",
+    "canal": "ESPN 2 y Star+"
+  },
+  {
+    "partido": "Unión Magdalena - Pereira",
     "liga": "Liga BetPlay",
-    "hora": "8:20 p. m.",
+    "hora": "3:30 p. m.",
     "canal": "Win Sports +"
+  },
+  {
+    "partido": "San Lorenzo - Boca Juniors",
+    "liga": "Liga de Argentina",
+    "hora": "3:30 p. m.",
+    "canal": "ESPN 4 y Star+"
+  },
+  {
+    "partido": "Racing Club - Newell`s Old Boys",
+    "liga": "Liga de Argentina",
+    "hora": "5:00 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Rosario Central - Independiente",
+    "liga": "Liga de Argentina",
+    "hora": "7:30 p. m.",
+    "canal": "TyC Sports Internacional"
+  },
+  {
+    "partido": "Independiente Medellín - Deportivo Cali",
+    "liga": "Liga BetPlay",
+    "hora": "8:00 p. m.",
+    "canal": "Win Sports +"
+  },
+  {
+    "partido": "Atlas - Philadelphia Union",
+    "liga": "Concacaf Champions",
+    "hora": "9:00 p. m.",
+    "canal": "Star +"
   }
 ]
