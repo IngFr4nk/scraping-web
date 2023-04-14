@@ -1,86 +1,80 @@
 [
   {
-    "partido": "Feyenoord - Roma",
-    "liga": "Liga de Europa",
-    "hora": "11:45 a. m.",
-    "canal": "ESPN y Star+"
+    "partido": "Cremonese - Empoli",
+    "liga": "Serie A",
+    "hora": "11:30 a. m.",
+    "canal": "STAR +"
   },
   {
-    "partido": "Gent - West Ham Utd.",
-    "liga": "Conference League",
-    "hora": "11:45 a. m.",
-    "canal": "Star +"
+    "partido": "Schalke 04 - Hertha Berlin",
+    "liga": "Bundesliga",
+    "hora": "1:30 p. m.",
+    "canal": "ESPN 4 / Star +"
   },
   {
-    "partido": "Arsenal de Sarandí - Godoy Cruz",
-    "liga": "Liga de Argentina",
-    "hora": "12:00 p. m.",
-    "canal": "TyC Sports Internacional"
+    "partido": "Standard de Lieja - Charleroi",
+    "liga": "Liga de Bélgica",
+    "hora": "1:45 p. m.",
+    "canal": "STAR +"
   },
   {
-    "partido": "Juventus - Sporting de Lisboa",
-    "liga": "Liga de Europa",
+    "partido": "Spezia - Lazio",
+    "liga": "Serie A",
+    "hora": "1:45 p. m.",
+    "canal": "STAR +"
+  },
+  {
+    "partido": "Brasil sub 17 - Paraguay sub 17",
+    "liga": "Sudamericano Sub-17",
     "hora": "2:00 p. m.",
-    "canal": "ESPN 2 y Star+"
+    "canal": "Directv 610-619"
   },
   {
-    "partido": "Manchester United - Sevilla",
-    "liga": "Liga de Europa",
+    "partido": "Rayo Vallecano - Osasuna",
+    "liga": "Liga de Espana",
     "hora": "2:00 p. m.",
-    "canal": "ESPN y Star+"
+    "canal": "ESPN 2 / Star +"
   },
   {
-    "partido": "Basel - Niza",
-    "liga": "Conference League",
-    "hora": "2:00 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Lech Poznan - Fiorentina",
-    "liga": "Conference League",
-    "hora": "2:00 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Anderlecht - AZ Alkmaar",
-    "liga": "Conference League",
-    "hora": "2:00 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Colón - Talleres de Córdoba",
-    "liga": "Liga de Argentina",
-    "hora": "2:30 p. m.",
-    "canal": "TyC Sports Internacional"
-  },
-  {
-    "partido": "Envigado F.C - Deportes Tolima",
-    "liga": "Liga BetPlay",
-    "hora": "3:30 p. m.",
-    "canal": "Win Sports +"
-  },
-  {
-    "partido": "River Plate - Gimnasia de La Plata",
-    "liga": "Liga de Argentina",
-    "hora": "5:30 p. m.",
-    "canal": "ESPN 2 y Star+"
-  },
-  {
-    "partido": "Deportivo Pasto - Bucaramanga",
-    "liga": "Liga BetPlay",
-    "hora": "6:00 p. m.",
+    "partido": "Tigres - Real Santander",
+    "liga": "Torneo Betplay",
+    "hora": "4:00 p. m.",
     "canal": "Win Sports y Win +"
   },
   {
-    "partido": "Tigre - Sarmiento de Junín",
-    "liga": "Liga de Argentina",
-    "hora": "7:30 p. m.",
-    "canal": "Star +"
+    "partido": "Argentina Sub-17 - Venezuela sub 17",
+    "liga": "Sudamericano Sub-17",
+    "hora": "4:30 p. m.",
+    "canal": "Directv 610-619"
   },
   {
-    "partido": "Junior - Boyacá Chicó",
-    "liga": "Liga BetPlay",
-    "hora": "8:10 p. m.",
+    "partido": "Llaneros - Quindío",
+    "liga": "Torneo Betplay",
+    "hora": "6:00 p. m.",
     "canal": "Win Sports +"
+  },
+  {
+    "partido": "Nacional (Uru) - Fénix",
+    "liga": "Liga de Uruguay",
+    "hora": "6:00 p. m.",
+    "canal": "STAR +"
+  },
+  {
+    "partido": "Chile sub 17 - Ecuador Sub-17",
+    "liga": "Sudamericano Sub-17",
+    "hora": "7:00 p. m.",
+    "canal": "Directv 610-619"
+  },
+  {
+    "partido": "Alianza Petrolera - Jaguares de Córdoba",
+    "liga": "Liga BetPlay",
+    "hora": "8:00 p. m.",
+    "canal": "Win Sports y Win +"
+  },
+  {
+    "partido": "Mazatlán - Tijuana",
+    "liga": "Liga de México",
+    "hora": "10:00 p. m.",
+    "canal": "STAR +"
   }
 ]
