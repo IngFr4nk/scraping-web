@@ -1,56 +1,98 @@
 [
   {
-    "partido": "Fiorentina - Atalanta",
-    "liga": "Serie A",
-    "hora": "1:45 p. m.",
-    "canal": "ESPN 2 / Star +"
-  },
-  {
-    "partido": "Leeds - Liverpool",
-    "liga": "Liga de Inglaterra",
+    "partido": "Chelsea - Real Madrid",
+    "liga": "Champions League",
     "hora": "2:00 p. m.",
     "canal": "ESPN / Star +"
   },
   {
-    "partido": "Paraguay sub 17 - Argentina Sub-17",
-    "liga": "Sudamericano Sub-17",
+    "partido": "Napoli - Milán",
+    "liga": "Champions League",
     "hora": "2:00 p. m.",
+    "canal": "ESPN 2 / Star +"
+  },
+  {
+    "partido": "Internacional - Metropolitanos",
+    "liga": "Copa Libertadores",
+    "hora": "5:00 p. m.",
+    "canal": "ESPN / Star +"
+  },
+  {
+    "partido": "Red Bull Bragantino - Oriente Petrolero",
+    "liga": "Copa Sudamericana",
+    "hora": "5:00 p. m.",
+    "canal": "ESPN 3 / Star +"
+  },
+  {
+    "partido": "Fluminense - The Strongest",
+    "liga": "Copa Libertadores",
+    "hora": "5:00 p. m.",
+    "canal": "ESPN 4 / Star +"
+  },
+  {
+    "partido": "Newell`s Old Boys - Blooming",
+    "liga": "Copa Sudamericana",
+    "hora": "5:00 p. m.",
     "canal": "Directv Sports"
   },
   {
-    "partido": "Platense - Colón",
-    "liga": "Liga de Argentina",
-    "hora": "2:30 p. m.",
+    "partido": "Once Caldas - Alianza Petrolera",
+    "liga": "Liga BetPlay",
+    "hora": "6:00 p. m.",
+    "canal": "Win Sports / Win Sports +"
+  },
+  {
+    "partido": "Boca Juniors - Pereira",
+    "liga": "Copa Libertadores",
+    "hora": "7:00 p. m.",
+    "canal": "ESPN / Star +"
+  },
+  {
+    "partido": "Estudiantes - Tacuary",
+    "liga": "Copa Sudamericana",
+    "hora": "7:00 p. m.",
+    "canal": "ESPN 4 / Star +"
+  },
+  {
+    "partido": "Olimpia - Patronato",
+    "liga": "Copa Libertadores",
+    "hora": "7:00 p. m.",
+    "canal": "ESPN 2 / Star +"
+  },
+  {
+    "partido": "Atlético Paranaense - Atlético Mineiro",
+    "liga": "Copa Libertadores",
+    "hora": "7:00 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Chile sub 17 - Venezuela sub 17",
-    "liga": "Sudamericano Sub-17",
-    "hora": "4:30 p. m.",
-    "canal": "Directv Sports"
-  },
-  {
-    "partido": "Banfield - Central Córdoba",
-    "liga": "Liga de Argentina",
-    "hora": "5:00 p. m.",
-    "canal": "TyC Sports Internacional"
-  },
-  {
-    "partido": "Ecuador Sub-17 - Brasil sub 17",
-    "liga": "Sudamericano Sub-17",
+    "partido": "Palestino - Estudiantes de Mérida",
+    "liga": "Copa Sudamericana",
     "hora": "7:00 p. m.",
     "canal": "Directv Sports"
   },
   {
-    "partido": "Atlético Tucumán - Rosario Central",
-    "liga": "Liga de Argentina",
+    "partido": "Sao Paulo - Puerto Cabello",
+    "liga": "Copa Sudamericana",
     "hora": "7:30 p. m.",
-    "canal": "TyC Sports Internacional"
+    "canal": "Directv Sports"
   },
   {
-    "partido": "Atlético Huila - Deportivo Pasto",
+    "partido": "Jaguares de Córdoba - Equidad",
     "liga": "Liga BetPlay",
-    "hora": "7:40 p. m.",
+    "hora": "8:10 p. m.",
     "canal": "Win Sports / Win Sports +"
+  },
+  {
+    "partido": "Santa Fe - Gimnasia de La Plata",
+    "liga": "Copa Sudamericana",
+    "hora": "9:00 p. m.",
+    "canal": "ESPN / Star +"
+  },
+  {
+    "partido": "Independiente del Valle - Liverpool Uruguay",
+    "liga": "Copa Libertadores",
+    "hora": "9:00 p. m.",
+    "canal": "ESPN 2 / Star +"
   }
 ]
