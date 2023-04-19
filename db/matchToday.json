@@ -1,96 +1,78 @@
 [
   {
-    "partido": "Chelsea - Real Madrid",
+    "partido": "Bayern Munich - Manchester City",
     "liga": "Champions League",
     "hora": "2:00 p. m.",
-    "canal": "ESPN / Star +"
+    "canal": "ESPN / Star+"
   },
   {
-    "partido": "Napoli - Milán",
+    "partido": "Inter - Benfica",
     "liga": "Champions League",
     "hora": "2:00 p. m.",
+    "canal": "ESPN 2/ Star +"
+  },
+  {
+    "partido": "Guaraní - Danubio",
+    "liga": "Copa Sudamericana",
+    "hora": "5:00 p. m.",
     "canal": "ESPN 2 / Star +"
   },
   {
-    "partido": "Internacional - Metropolitanos",
+    "partido": "Nacional (Uru) - Independiente Medellín",
     "liga": "Copa Libertadores",
     "hora": "5:00 p. m.",
     "canal": "ESPN / Star +"
   },
   {
-    "partido": "Red Bull Bragantino - Oriente Petrolero",
-    "liga": "Copa Sudamericana",
-    "hora": "5:00 p. m.",
-    "canal": "ESPN 3 / Star +"
-  },
-  {
-    "partido": "Fluminense - The Strongest",
-    "liga": "Copa Libertadores",
-    "hora": "5:00 p. m.",
-    "canal": "ESPN 4 / Star +"
-  },
-  {
-    "partido": "Newell`s Old Boys - Blooming",
-    "liga": "Copa Sudamericana",
-    "hora": "5:00 p. m.",
-    "canal": "Directv Sports"
-  },
-  {
-    "partido": "Once Caldas - Alianza Petrolera",
-    "liga": "Liga BetPlay",
+    "partido": "Quindío - Real Cartagena",
+    "liga": "Torneo Betplay",
     "hora": "6:00 p. m.",
-    "canal": "Win Sports / Win Sports +"
+    "canal": "Win Sports +"
   },
   {
-    "partido": "Boca Juniors - Pereira",
+    "partido": "Defensa y Justicia - América MG",
+    "liga": "Copa Sudamericana",
+    "hora": "7:00 p. m.",
+    "canal": "ESPN 2 / Star +"
+  },
+  {
+    "partido": "River Plate - Sporting Cristal",
     "liga": "Copa Libertadores",
     "hora": "7:00 p. m.",
     "canal": "ESPN / Star +"
   },
   {
-    "partido": "Estudiantes - Tacuary",
-    "liga": "Copa Sudamericana",
-    "hora": "7:00 p. m.",
-    "canal": "ESPN 4 / Star +"
-  },
-  {
-    "partido": "Olimpia - Patronato",
+    "partido": "Corinthians - Argentinos Juniors",
     "liga": "Copa Libertadores",
-    "hora": "7:00 p. m.",
-    "canal": "ESPN 2 / Star +"
-  },
-  {
-    "partido": "Atlético Paranaense - Atlético Mineiro",
-    "liga": "Copa Libertadores",
-    "hora": "7:00 p. m.",
+    "hora": "7:30 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Palestino - Estudiantes de Mérida",
-    "liga": "Copa Sudamericana",
-    "hora": "7:00 p. m.",
-    "canal": "Directv Sports"
-  },
-  {
-    "partido": "Sao Paulo - Puerto Cabello",
-    "liga": "Copa Sudamericana",
+    "partido": "Flamengo - Ñublense",
+    "liga": "Copa Libertadores",
     "hora": "7:30 p. m.",
-    "canal": "Directv Sports"
+    "canal": "Star +"
   },
   {
-    "partido": "Jaguares de Córdoba - Equidad",
+    "partido": "Boyacá Chicó - América",
     "liga": "Liga BetPlay",
-    "hora": "8:10 p. m.",
-    "canal": "Win Sports / Win Sports +"
+    "hora": "8:00 p. m.",
+    "canal": "Win Sports +"
   },
   {
-    "partido": "Santa Fe - Gimnasia de La Plata",
+    "partido": "Colo Colo - Monagas",
+    "liga": "Copa Libertadores",
+    "hora": "8:00 p. m.",
+    "canal": "ESPN 4 / Star +"
+  },
+  {
+    "partido": "Liga de Quito - Magallanes",
     "liga": "Copa Sudamericana",
     "hora": "9:00 p. m.",
-    "canal": "ESPN / Star +"
+    "canal": "ESPN 4 / Star +"
   },
   {
-    "partido": "Independiente del Valle - Liverpool Uruguay",
+    "partido": "Barcelona (ECU) - Bolívar",
     "liga": "Copa Libertadores",
     "hora": "9:00 p. m.",
     "canal": "ESPN 2 / Star +"
