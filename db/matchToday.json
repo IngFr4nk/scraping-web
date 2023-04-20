@@ -1,80 +1,122 @@
 [
   {
-    "partido": "Bayern Munich - Manchester City",
-    "liga": "Champions League",
-    "hora": "2:00 p. m.",
-    "canal": "ESPN / Star+"
+    "partido": "Fiorentina - Lech Poznan",
+    "liga": "Conference League",
+    "hora": "11:45 a. m.",
+    "canal": "Star +"
   },
   {
-    "partido": "Inter - Benfica",
-    "liga": "Champions League",
-    "hora": "2:00 p. m.",
-    "canal": "ESPN 2/ Star +"
+    "partido": "AZ Alkmaar - Anderlecht",
+    "liga": "Conference League",
+    "hora": "11:45 a. m.",
+    "canal": "Star +"
   },
   {
-    "partido": "Guaraní - Danubio",
+    "partido": "Roma - Feyenoord",
+    "liga": "Liga de Europa",
+    "hora": "2:00 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Niza - Basel",
+    "liga": "Conference League",
+    "hora": "2:00 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Sporting de Lisboa - Juventus",
+    "liga": "Liga de Europa",
+    "hora": "2:00 p. m.",
+    "canal": "ESPN 2 y Star+"
+  },
+  {
+    "partido": "Sevilla - Manchester United",
+    "liga": "Liga de Europa",
+    "hora": "2:00 p. m.",
+    "canal": "ESPN y Star+"
+  },
+  {
+    "partido": "West Ham Utd. - Gent",
+    "liga": "Conference League",
+    "hora": "2:00 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Peñarol - Millonarios",
     "liga": "Copa Sudamericana",
     "hora": "5:00 p. m.",
-    "canal": "ESPN 2 / Star +"
+    "canal": "ESPN y Star+"
   },
   {
-    "partido": "Nacional (Uru) - Independiente Medellín",
+    "partido": "Santos - Audax",
+    "liga": "Copa Sudamericana",
+    "hora": "5:00 p. m.",
+    "canal": "Directv 612"
+  },
+  {
+    "partido": "Racing Club - Aucas",
     "liga": "Copa Libertadores",
     "hora": "5:00 p. m.",
-    "canal": "ESPN / Star +"
+    "canal": "ESPN 2 y Star+"
   },
   {
-    "partido": "Quindío - Real Cartagena",
+    "partido": "San Lorenzo - Fortaleza",
+    "liga": "Copa Sudamericana",
+    "hora": "5:00 p. m.",
+    "canal": "Directv 610"
+  },
+  {
+    "partido": "Fortaleza F.C - Valledupar",
     "liga": "Torneo Betplay",
     "hora": "6:00 p. m.",
-    "canal": "Win Sports +"
+    "canal": "Win Sports y Win +"
   },
   {
-    "partido": "Defensa y Justicia - América MG",
+    "partido": "Palmeiras - Cerro Porteño",
+    "liga": "Copa Libertadores",
+    "hora": "7:00 p. m.",
+    "canal": "ESPN 2 y Star+"
+  },
+  {
+    "partido": "Botafogo - César Vallejo",
     "liga": "Copa Sudamericana",
     "hora": "7:00 p. m.",
-    "canal": "ESPN 2 / Star +"
+    "canal": "ESPN 4 y Star+"
   },
   {
-    "partido": "River Plate - Sporting Cristal",
+    "partido": "Atlético Nacional - Melgar",
     "liga": "Copa Libertadores",
     "hora": "7:00 p. m.",
-    "canal": "ESPN / Star +"
+    "canal": "ESPN y Star+"
   },
   {
-    "partido": "Corinthians - Argentinos Juniors",
-    "liga": "Copa Libertadores",
-    "hora": "7:30 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Flamengo - Ñublense",
-    "liga": "Copa Libertadores",
-    "hora": "7:30 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Boyacá Chicó - América",
-    "liga": "Liga BetPlay",
+    "partido": "Patriotas F.C - Cúcuta",
+    "liga": "Torneo Betplay",
     "hora": "8:00 p. m.",
     "canal": "Win Sports +"
   },
   {
-    "partido": "Colo Colo - Monagas",
-    "liga": "Copa Libertadores",
-    "hora": "8:00 p. m.",
-    "canal": "ESPN 4 / Star +"
-  },
-  {
-    "partido": "Liga de Quito - Magallanes",
+    "partido": "Universitario - Goiás",
     "liga": "Copa Sudamericana",
     "hora": "9:00 p. m.",
-    "canal": "ESPN 4 / Star +"
+    "canal": "Directv 613"
   },
   {
-    "partido": "Barcelona (ECU) - Bolívar",
+    "partido": "Emelec - Huracán",
+    "liga": "Copa Sudamericana",
+    "hora": "9:00 p. m.",
+    "canal": "Directv 610"
+  },
+  {
+    "partido": "Deportes Tolima - Tigre",
+    "liga": "Copa Sudamericana",
+    "hora": "9:00 p. m.",
+    "canal": "ESPN y Star+"
+  },
+  {
+    "partido": "Libertad - Alianza Lima",
     "liga": "Copa Libertadores",
     "hora": "9:00 p. m.",
-    "canal": "ESPN 2 / Star +"
+    "canal": "ESPN 2 y Star+"
   }
 ]
