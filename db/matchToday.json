@@ -1,122 +1,50 @@
 [
   {
-    "partido": "Fiorentina - Lech Poznan",
-    "liga": "Conference League",
-    "hora": "11:45 a. m.",
+    "partido": "FC Augsburgo - VfB Stuttgart",
+    "liga": "Bundesliga",
+    "hora": "1:30 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "AZ Alkmaar - Anderlecht",
-    "liga": "Conference League",
-    "hora": "11:45 a. m.",
-    "canal": "Star +"
+    "partido": "Hellas Verona - Bolognia",
+    "liga": "Serie A",
+    "hora": "1:45 p. m.",
+    "canal": "ESPN 3 y Star+"
   },
   {
-    "partido": "Roma - Feyenoord",
-    "liga": "Liga de Europa",
+    "partido": "Angers - Paris Saint-Germain",
+    "liga": "Liga de Francia",
     "hora": "2:00 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Niza - Basel",
-    "liga": "Conference League",
-    "hora": "2:00 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Sporting de Lisboa - Juventus",
-    "liga": "Liga de Europa",
-    "hora": "2:00 p. m.",
-    "canal": "ESPN 2 y Star+"
-  },
-  {
-    "partido": "Sevilla - Manchester United",
-    "liga": "Liga de Europa",
+    "partido": "Arsenal - Southampton",
+    "liga": "Liga de Inglaterra",
     "hora": "2:00 p. m.",
     "canal": "ESPN y Star+"
   },
   {
-    "partido": "West Ham Utd. - Gent",
-    "liga": "Conference League",
+    "partido": "Espanyol - Cádiz",
+    "liga": "Liga de Espana",
     "hora": "2:00 p. m.",
-    "canal": "Star +"
+    "canal": "Directv Sports"
   },
   {
-    "partido": "Peñarol - Millonarios",
-    "liga": "Copa Sudamericana",
-    "hora": "5:00 p. m.",
-    "canal": "ESPN y Star+"
-  },
-  {
-    "partido": "Santos - Audax",
-    "liga": "Copa Sudamericana",
-    "hora": "5:00 p. m.",
-    "canal": "Directv 612"
-  },
-  {
-    "partido": "Racing Club - Aucas",
-    "liga": "Copa Libertadores",
-    "hora": "5:00 p. m.",
-    "canal": "ESPN 2 y Star+"
-  },
-  {
-    "partido": "San Lorenzo - Fortaleza",
-    "liga": "Copa Sudamericana",
-    "hora": "5:00 p. m.",
-    "canal": "Directv 610"
-  },
-  {
-    "partido": "Fortaleza F.C - Valledupar",
-    "liga": "Torneo Betplay",
-    "hora": "6:00 p. m.",
-    "canal": "Win Sports y Win +"
-  },
-  {
-    "partido": "Palmeiras - Cerro Porteño",
-    "liga": "Copa Libertadores",
-    "hora": "7:00 p. m.",
-    "canal": "ESPN 2 y Star+"
-  },
-  {
-    "partido": "Botafogo - César Vallejo",
-    "liga": "Copa Sudamericana",
-    "hora": "7:00 p. m.",
-    "canal": "ESPN 4 y Star+"
-  },
-  {
-    "partido": "Atlético Nacional - Melgar",
-    "liga": "Copa Libertadores",
-    "hora": "7:00 p. m.",
-    "canal": "ESPN y Star+"
-  },
-  {
-    "partido": "Patriotas F.C - Cúcuta",
-    "liga": "Torneo Betplay",
-    "hora": "8:00 p. m.",
+    "partido": "Equidad - Pereira",
+    "liga": "Liga Femenina",
+    "hora": "3:30 p. m.",
     "canal": "Win Sports +"
   },
   {
-    "partido": "Universitario - Goiás",
-    "liga": "Copa Sudamericana",
-    "hora": "9:00 p. m.",
-    "canal": "Directv 613"
+    "partido": "Colón - Vélez Sarsfield",
+    "liga": "Liga de Argentina",
+    "hora": "6:30 p. m.",
+    "canal": "TyC Sports Internacional"
   },
   {
-    "partido": "Emelec - Huracán",
-    "liga": "Copa Sudamericana",
-    "hora": "9:00 p. m.",
-    "canal": "Directv 610"
-  },
-  {
-    "partido": "Deportes Tolima - Tigre",
-    "liga": "Copa Sudamericana",
-    "hora": "9:00 p. m.",
-    "canal": "ESPN y Star+"
-  },
-  {
-    "partido": "Libertad - Alianza Lima",
-    "liga": "Copa Libertadores",
-    "hora": "9:00 p. m.",
-    "canal": "ESPN 2 y Star+"
+    "partido": "Deportivo Pasto - Águilas Doradas",
+    "liga": "Liga BetPlay",
+    "hora": "7:40 p. m.",
+    "canal": "Win Sports y Win +"
   }
 ]
