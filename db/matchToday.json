@@ -1,122 +1,50 @@
 [
   {
-    "partido": "Empoli - Inter",
-    "liga": "Serie A",
-    "hora": "5:30 a. m.",
+    "partido": "Fenerbache - Istanbul B",
+    "liga": "Liga de Turquía",
+    "hora": "12:00 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Lyon - Marsella",
-    "liga": "Liga de Francia",
-    "hora": "6:00 a. m.",
-    "canal": "ESPN 2 / Star +"
-  },
-  {
-    "partido": "Elche - Valencia CF",
-    "liga": "Liga de Espana",
-    "hora": "7:00 a. m.",
-    "canal": "ESPN 3 / Star +"
-  },
-  {
-    "partido": "Newcastle - Tottenham Hotspur",
-    "liga": "Liga de Inglaterra",
-    "hora": "8:00 a. m.",
-    "canal": "STAR +"
-  },
-  {
-    "partido": "Bournemouth - West Ham Utd.",
-    "liga": "Liga de Inglaterra",
-    "hora": "8:00 a. m.",
-    "canal": "ESPN Extra / Star +"
-  },
-  {
-    "partido": "Udinese - Cremonese",
-    "liga": "Serie A",
-    "hora": "8:00 a. m.",
-    "canal": "STAR +"
-  },
-  {
-    "partido": "Monza - Fiorentina",
-    "liga": "Serie A",
-    "hora": "8:00 a. m.",
-    "canal": "STAR +"
-  },
-  {
-    "partido": "Friburgo - Schalke 04",
-    "liga": "Bundesliga",
-    "hora": "8:30 a. m.",
-    "canal": "ESPN 2 / Star +"
-  },
-  {
-    "partido": "Barcelona - Atlético de Madrid",
-    "liga": "Liga de Espana",
-    "hora": "9:15 a. m.",
-    "canal": "Directv 610-619"
-  },
-  {
-    "partido": "Bayer Leverkusen - RB Leipzig",
-    "liga": "Bundesliga",
-    "hora": "10:30 a. m.",
-    "canal": "STAR +"
-  },
-  {
-    "partido": "Milán - Lecce",
-    "liga": "Serie A",
-    "hora": "11:00 a. m.",
-    "canal": "ESPN 2 / Star +"
-  },
-  {
-    "partido": "Mallorca - Getafe",
-    "liga": "Liga de Espana",
-    "hora": "11:30 a. m.",
-    "canal": "ESPN 3 / Star +"
-  },
-  {
-    "partido": "Borussia Mönchengladbach - Union Berlin",
-    "liga": "Bundesliga",
-    "hora": "12:30 p. m.",
-    "canal": "STAR +"
-  },
-  {
-    "partido": "Juventus - Napoli",
+    "partido": "Atalanta - Roma",
     "liga": "Serie A",
     "hora": "1:45 p. m.",
     "canal": "ESPN / Star +"
   },
   {
-    "partido": "Fortaleza F.C - Patriotas F.C",
+    "partido": "Deportivo Cali - Bucaramanga",
+    "liga": "Liga Femenina",
+    "hora": "2:00 p. m.",
+    "canal": "Win Sports +"
+  },
+  {
+    "partido": "Llaneros - Atlético FC",
     "liga": "Torneo Betplay",
-    "hora": "2:00 p. m.",
-    "canal": "Win Sports y Win +"
-  },
-  {
-    "partido": "Sevilla - Villarreal",
-    "liga": "Liga de Espana",
-    "hora": "2:00 p. m.",
-    "canal": "Directv 610-619"
-  },
-  {
-    "partido": "Envigado F.C - Atlético Nacional",
-    "liga": "Liga BetPlay",
     "hora": "4:00 p. m.",
     "canal": "Win Sports +"
   },
   {
-    "partido": "Plaza Colonia - Peñarol",
-    "liga": "Liga de Uruguay",
-    "hora": "4:30 p. m.",
-    "canal": "STAR +"
+    "partido": "Racing Club - Atlético Tucumán",
+    "liga": "Liga de Argentina",
+    "hora": "5:00 p. m.",
+    "canal": "Star +"
   },
   {
-    "partido": "Unión Magdalena - Millonarios",
-    "liga": "Liga BetPlay",
-    "hora": "6:10 p. m.",
-    "canal": "Win Sports y Win +"
+    "partido": "Bahía - Botafogo",
+    "liga": "Liga de Brasil",
+    "hora": "6:00 p. m.",
+    "canal": "ESPN Extra / Star +"
   },
   {
-    "partido": "Boyacá Chicó - Deportes Tolima",
+    "partido": "Real Cartagena - Cortuluá",
+    "liga": "Torneo Betplay",
+    "hora": "6:00 p. m.",
+    "canal": "Win Sports +"
+  },
+  {
+    "partido": "América - Pereira",
     "liga": "Liga BetPlay",
-    "hora": "8:20 p. m.",
-    "canal": "Win Sports y Win +"
+    "hora": "8:10 p. m.",
+    "canal": "Win Sports +"
   }
 ]
