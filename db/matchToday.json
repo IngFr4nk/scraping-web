@@ -1,80 +1,68 @@
 [
   {
-    "partido": "Atlético de Madrid - Mallorca",
+    "partido": "Villarreal - Espanyol",
     "liga": "Liga de Espana",
     "hora": "12:30 p. m.",
-    "canal": "Directv 610"
+    "canal": "Directv Sports"
   },
   {
-    "partido": "Getafe - Almería",
+    "partido": "Valencia CF - Valladolid",
     "liga": "Liga de Espana",
     "hora": "12:30 p. m.",
-    "canal": "Directv 613"
+    "canal": "Directv Sports"
   },
   {
-    "partido": "Nottingham Forest - Brighton & Hove",
+    "partido": "Everton - Newcastle",
     "liga": "Liga de Inglaterra",
-    "hora": "1:30 p. m.",
-    "canal": "Star +"
+    "hora": "1:45 p. m.",
+    "canal": "ESPN Extra / Star +"
   },
   {
-    "partido": "Chelsea - Brentford",
+    "partido": "Southampton - Bournemouth",
     "liga": "Liga de Inglaterra",
     "hora": "1:45 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "West Ham Utd. - Liverpool",
-    "liga": "Liga de Inglaterra",
-    "hora": "1:45 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Manchester City - Arsenal",
-    "liga": "Liga de Inglaterra",
-    "hora": "2:00 p. m.",
-    "canal": "ESPN y Star+"
-  },
-  {
-    "partido": "Inter - Juventus",
+    "partido": "Fiorentina - Cremonese",
     "liga": "Copa de Italia",
     "hora": "2:00 p. m.",
-    "canal": "ESPN 2 y Star+"
+    "canal": "ESPN 2 / Star +"
   },
   {
-    "partido": "Once Caldas - Boyacá Chicó",
+    "partido": "Tottenham Hotspur - Manchester United",
+    "liga": "Liga de Inglaterra",
+    "hora": "2:15 p. m.",
+    "canal": "ESPN  / Star +"
+  },
+  {
+    "partido": "Athletic Club - Sevilla",
+    "liga": "Liga de Espana",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN 3 / Star +"
+  },
+  {
+    "partido": "Pereira - Envigado F.C",
     "liga": "Liga BetPlay",
-    "hora": "2:00 p. m.",
+    "hora": "4:00 p. m.",
     "canal": "Win Sports y Win +"
   },
   {
-    "partido": "Celta de Vigo - Elche",
-    "liga": "Liga de Espana",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN EXTRA y Star+"
+    "partido": "Platense - Estudiantes",
+    "liga": "Liga de Argentina",
+    "hora": "6:00 p. m.",
+    "canal": "TyC Sports Internacional"
   },
   {
-    "partido": "Rayo Vallecano - Barcelona",
-    "liga": "Liga de Espana",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN 3 y Star+"
-  },
-  {
-    "partido": "Deportes Tolima - Jaguares de Córdoba",
+    "partido": "Deportivo Cali - Junior",
     "liga": "Liga BetPlay",
-    "hora": "4:10 p. m.",
+    "hora": "6:10 p. m.",
     "canal": "Win Sports +"
   },
   {
-    "partido": "Águilas Doradas - Santa Fe",
+    "partido": "Millonarios - América",
     "liga": "Liga BetPlay",
-    "hora": "6:20 p. m.",
-    "canal": "Win Sports y Win +"
-  },
-  {
-    "partido": "Atlético Nacional - Unión Magdalena",
-    "liga": "Liga BetPlay",
-    "hora": "8:30 p. m.",
+    "hora": "8:20 p. m.",
     "canal": "Win Sports +"
   }
 ]
