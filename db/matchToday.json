@@ -1,44 +1,122 @@
 [
   {
-    "partido": "Mallorca - Athletic Club",
+    "partido": "Almería - Elche",
     "liga": "Liga de Espana",
-    "hora": "12:00 p. m.",
+    "hora": "12:30 p. m.",
+    "canal": "ESPN 4 / Star +"
+  },
+  {
+    "partido": "Barcelona - Osasuna",
+    "liga": "Liga de Espana",
+    "hora": "12:30 p. m.",
     "canal": "ESPN 2 / Star +"
   },
   {
-    "partido": "Leicester City - Everton",
+    "partido": "Friburgo - RB Leipzig",
+    "liga": "Copa de Alemania",
+    "hora": "1:45 p. m.",
+    "canal": "ESPN 3 / Star +"
+  },
+  {
+    "partido": "Toulouse - Lens",
+    "liga": "Liga de Francia",
+    "hora": "2:00 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Arsenal - Chelsea",
     "liga": "Liga de Inglaterra",
     "hora": "2:00 p. m.",
     "canal": "ESPN / Star +"
   },
   {
-    "partido": "Sevilla - Girona",
+    "partido": "Tigres - Unión Magdalena",
+    "liga": "Copa Betplay",
+    "hora": "3:00 p. m.",
+    "canal": "Win Sports +"
+  },
+  {
+    "partido": "Real Sociedad - Real Madrid",
     "liga": "Liga de Espana",
-    "hora": "2:00 p. m.",
+    "hora": "3:00 p. m.",
     "canal": "Directv Sports"
   },
   {
-    "partido": "Envigado F.C - Atlético Huila",
-    "liga": "Liga BetPlay",
-    "hora": "3:00 p. m.",
-    "canal": "Win Sports / Win Sports +"
+    "partido": "Liverpool Uruguay - Argentinos Juniors",
+    "liga": "Copa Libertadores",
+    "hora": "5:00 p. m.",
+    "canal": "Fox Sports 2 / Star +"
   },
   {
-    "partido": "Jaguares de Córdoba - Once Caldas",
-    "liga": "Liga BetPlay",
-    "hora": "5:15 p. m.",
-    "canal": "Win Sports / Win Sports +"
+    "partido": "Tacuary - Oriente Petrolero",
+    "liga": "Copa Sudamericana",
+    "hora": "5:00 p. m.",
+    "canal": "ESPN 3 / Star +"
   },
   {
-    "partido": "Vasco da Gama - Bahía",
-    "liga": "Liga de Brasil",
-    "hora": "6:00 p. m.",
-    "canal": "ESPN Extra / Star +"
+    "partido": "Deportes Tolima - Sao Paulo",
+    "liga": "Copa Sudamericana",
+    "hora": "5:00 p. m.",
+    "canal": "ESPN / Star +"
   },
   {
-    "partido": "Patriotas F.C - Cortuluá",
-    "liga": "Torneo Betplay",
+    "partido": "Ñublense - Aucas",
+    "liga": "Copa Libertadores",
+    "hora": "5:00 p. m.",
+    "canal": "ESPN 2 / Star +"
+  },
+  {
+    "partido": "Huracán - Danubio",
+    "liga": "Copa Sudamericana",
+    "hora": "5:00 p. m.",
+    "canal": "ESPN 4 / Star +"
+  },
+  {
+    "partido": "Magallanes - César Vallejo",
+    "liga": "Copa Sudamericana",
+    "hora": "7:00 p. m.",
+    "canal": "ESPN 4 / Star +"
+  },
+  {
+    "partido": "Corinthians - Independiente del Valle",
+    "liga": "Copa Libertadores",
+    "hora": "7:00 p. m.",
+    "canal": "ESPN 2 / Star +"
+  },
+  {
+    "partido": "Atlético Nacional - Olimpia",
+    "liga": "Copa Libertadores",
+    "hora": "7:00 p. m.",
+    "canal": "ESPN / Star +"
+  },
+  {
+    "partido": "Red Bull Bragantino - Estudiantes",
+    "liga": "Copa Sudamericana",
+    "hora": "7:00 p. m.",
+    "canal": "Directv Sports"
+  },
+  {
+    "partido": "Fluminense - River Plate",
+    "liga": "Copa Libertadores",
+    "hora": "7:00 p. m.",
+    "canal": "Fox Sports 2 / Star +"
+  },
+  {
+    "partido": "Newell`s Old Boys - Santos",
+    "liga": "Copa Sudamericana",
     "hora": "7:30 p. m.",
-    "canal": "Win Sports +"
+    "canal": "Directv Sports"
+  },
+  {
+    "partido": "Alianza Petrolera - Orsomarso",
+    "liga": "Copa Betplay",
+    "hora": "7:40 p. m.",
+    "canal": "Win Sports / Win Sports +"
+  },
+  {
+    "partido": "Sporting Cristal - The Strongest",
+    "liga": "Copa Libertadores",
+    "hora": "9:00 p. m.",
+    "canal": "ESPN 2 / Star +"
   }
 ]
