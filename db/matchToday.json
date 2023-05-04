@@ -1,140 +1,122 @@
 [
   {
-    "partido": "Atalanta - Spezia",
-    "liga": "Serie A",
-    "hora": "11:00 a. m.",
-    "canal": "ESPN Extra / Star +"
-  },
-  {
-    "partido": "Juventus - Lecce",
-    "liga": "Serie A",
-    "hora": "11:00 a. m.",
-    "canal": "ESPN 2 / Star +"
-  },
-  {
-    "partido": "Sampdoria - Torino",
-    "liga": "Serie A",
-    "hora": "11:00 a. m.",
-    "canal": "STAR +"
-  },
-  {
-    "partido": "Valencia CF - Villarreal",
+    "partido": "Sevilla - Espanyol",
     "liga": "Liga de Espana",
     "hora": "12:30 p. m.",
-    "canal": "Directv 610-619"
+    "canal": "ESPN 4 / Star +"
   },
   {
-    "partido": "VfB Stuttgart - Eintracht Frankfurt",
-    "liga": "Copa de Alemania",
-    "hora": "1:45 p. m.",
-    "canal": "ESPN Extra / Star +"
-  },
-  {
-    "partido": "Monza - Roma",
+    "partido": "Udinese - Napoli",
     "liga": "Serie A",
-    "hora": "2:00 p. m.",
-    "canal": "STAR +"
+    "hora": "1:45 p. m.",
+    "canal": "ESPN 3 / Star+"
   },
   {
-    "partido": "Liverpool - Fulham",
-    "liga": "Liga de Inglaterra",
-    "hora": "2:00 p. m.",
-    "canal": "ESPN 3 / STAR +"
+    "partido": "Empoli - Bolognia",
+    "liga": "Serie A",
+    "hora": "1:45 p. m.",
+    "canal": "Star +"
   },
   {
-    "partido": "Manchester City - West Ham Utd.",
+    "partido": "Brighton & Hove - Manchester United",
     "liga": "Liga de Inglaterra",
     "hora": "2:00 p. m.",
     "canal": "ESPN / Star +"
   },
   {
-    "partido": "Milán - Cremonese",
-    "liga": "Serie A",
+    "partido": "Girona - Mallorca",
+    "liga": "Liga de Espana",
     "hora": "2:00 p. m.",
+    "canal": "Directv 610-619"
+  },
+  {
+    "partido": "Porto - Famalicao",
+    "liga": "Copa de Portugal",
+    "hora": "2:30 p. m.",
     "canal": "STAR +"
   },
   {
-    "partido": "Hellas Verona - Inter",
-    "liga": "Serie A",
-    "hora": "2:00 p. m.",
-    "canal": "ESPN 2 / Star +"
-  },
-  {
-    "partido": "Atlético de Madrid - Cádiz",
+    "partido": "Rayo Vallecano - Valladolid",
     "liga": "Liga de Espana",
     "hora": "3:00 p. m.",
     "canal": "Directv 610-619"
   },
   {
-    "partido": "Getafe - Celta de Vigo",
+    "partido": "Athletic Club - Real Betis",
     "liga": "Liga de Espana",
     "hora": "3:00 p. m.",
-    "canal": "Star +"
+    "canal": "ESPN 4 / Star +"
   },
   {
-    "partido": "Cúcuta - Real Cartagena",
+    "partido": "Jaguares de Córdoba - Deportivo Cali",
     "liga": "Copa Betplay",
     "hora": "3:45 p. m.",
     "canal": "Win Sports +"
   },
   {
-    "partido": "Palestino - San Lorenzo",
-    "liga": "Copa Sudamericana",
-    "hora": "5:00 p. m.",
-    "canal": "Directv 610-619"
-  },
-  {
-    "partido": "Internacional - Nacional (Uru)",
-    "liga": "Copa Libertadores",
-    "hora": "5:00 p. m.",
-    "canal": "ESPN / Star +"
-  },
-  {
-    "partido": "Cerro Porteño - Bolívar",
+    "partido": "Patronato - Melgar",
     "liga": "Copa Libertadores",
     "hora": "5:00 p. m.",
     "canal": "ESPN 2 / Star +"
   },
   {
-    "partido": "Puerto Cabello - Tigre",
+    "partido": "Gimnasia de La Plata - Goiás",
     "liga": "Copa Sudamericana",
-    "hora": "7:00 p. m.",
-    "canal": "Directv 610-619"
+    "hora": "5:00 p. m.",
+    "canal": "ESPN 3 / Star +"
   },
   {
-    "partido": "Guaraní - Emelec",
-    "liga": "Copa Sudamericana",
-    "hora": "7:00 p. m.",
-    "canal": "Directv 610-619"
-  },
-  {
-    "partido": "Colo Colo - Boca Juniors",
+    "partido": "Racing Club - Flamengo",
     "liga": "Copa Libertadores",
+    "hora": "5:00 p. m.",
+    "canal": "ESPN / Star +"
+  },
+  {
+    "partido": "Millonarios - Envigado F.C",
+    "liga": "Liga BetPlay",
+    "hora": "6:00 p. m.",
+    "canal": "Win Sports +"
+  },
+  {
+    "partido": "Defensa y Justicia - Peñarol",
+    "liga": "Copa Sudamericana",
+    "hora": "7:00 p. m.",
+    "canal": "Directv 610-619"
+  },
+  {
+    "partido": "Botafogo - Liga de Quito",
+    "liga": "Copa Sudamericana",
+    "hora": "7:00 p. m.",
+    "canal": "ESPN 3 / Star +"
+  },
+  {
+    "partido": "Libertad - Atlético Paranaense",
+    "liga": "Copa Libertadores",
+    "hora": "7:00 p. m.",
+    "canal": "ESPN 2 / Star +"
+  },
+  {
+    "partido": "Audax - Blooming",
+    "liga": "Copa Sudamericana",
     "hora": "7:00 p. m.",
     "canal": "ESPN 4 / Star +"
   },
   {
-    "partido": "Millonarios - América MG",
-    "liga": "Copa Sudamericana",
-    "hora": "7:00 p. m.",
+    "partido": "Atlético Nacional - América",
+    "liga": "Liga BetPlay",
+    "hora": "8:15 p. m.",
+    "canal": "Win Sports +"
+  },
+  {
+    "partido": "Pereira - Monagas",
+    "liga": "Copa Libertadores",
+    "hora": "9:00 p. m.",
     "canal": "ESPN / Star +"
   },
   {
-    "partido": "Atlético Mineiro - Alianza Lima",
-    "liga": "Copa Libertadores",
-    "hora": "7:30 p. m.",
-    "canal": "ESPN 2 / Star +"
-  },
-  {
-    "partido": "Barcelona (ECU) - Palmeiras",
-    "liga": "Copa Libertadores",
-    "hora": "7:30 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Independiente Medellín - Metropolitanos",
-    "liga": "Copa Libertadores",
+    "partido": "Universitario - Santa Fe",
+    "liga": "Copa Sudamericana",
     "hora": "9:00 p. m.",
-    "canal": "ESPN  / Star +"
+    "canal": "Directv Sports"
   }
 ]
