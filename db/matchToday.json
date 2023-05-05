@@ -1,122 +1,20 @@
 [
   {
-    "partido": "Sevilla - Espanyol",
-    "liga": "Liga de Espana",
-    "hora": "12:30 p. m.",
-    "canal": "ESPN 4 / Star +"
-  },
-  {
-    "partido": "Udinese - Napoli",
-    "liga": "Serie A",
-    "hora": "1:45 p. m.",
-    "canal": "ESPN 3 / Star+"
-  },
-  {
-    "partido": "Empoli - Bolognia",
-    "liga": "Serie A",
-    "hora": "1:45 p. m.",
+    "partido": "Bayer Leverkusen - Colonia",
+    "liga": "Bundesliga",
+    "hora": "1:10 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Brighton & Hove - Manchester United",
-    "liga": "Liga de Inglaterra",
-    "hora": "2:00 p. m.",
-    "canal": "ESPN / Star +"
-  },
-  {
-    "partido": "Girona - Mallorca",
-    "liga": "Liga de Espana",
-    "hora": "2:00 p. m.",
-    "canal": "Directv 610-619"
-  },
-  {
-    "partido": "Porto - Famalicao",
-    "liga": "Copa de Portugal",
-    "hora": "2:30 p. m.",
-    "canal": "STAR +"
-  },
-  {
-    "partido": "Rayo Vallecano - Valladolid",
-    "liga": "Liga de Espana",
-    "hora": "3:00 p. m.",
-    "canal": "Directv 610-619"
-  },
-  {
-    "partido": "Athletic Club - Real Betis",
-    "liga": "Liga de Espana",
-    "hora": "3:00 p. m.",
+    "partido": "Mainz 05 - Schalke 04",
+    "liga": "Bundesliga",
+    "hora": "1:30 p. m.",
     "canal": "ESPN 4 / Star +"
   },
   {
-    "partido": "Jaguares de Córdoba - Deportivo Cali",
-    "liga": "Copa Betplay",
-    "hora": "3:45 p. m.",
-    "canal": "Win Sports +"
-  },
-  {
-    "partido": "Patronato - Melgar",
-    "liga": "Copa Libertadores",
-    "hora": "5:00 p. m.",
-    "canal": "ESPN 2 / Star +"
-  },
-  {
-    "partido": "Gimnasia de La Plata - Goiás",
-    "liga": "Copa Sudamericana",
-    "hora": "5:00 p. m.",
-    "canal": "ESPN 3 / Star +"
-  },
-  {
-    "partido": "Racing Club - Flamengo",
-    "liga": "Copa Libertadores",
-    "hora": "5:00 p. m.",
-    "canal": "ESPN / Star +"
-  },
-  {
-    "partido": "Millonarios - Envigado F.C",
+    "partido": "Águilas Doradas - Equidad",
     "liga": "Liga BetPlay",
-    "hora": "6:00 p. m.",
-    "canal": "Win Sports +"
-  },
-  {
-    "partido": "Defensa y Justicia - Peñarol",
-    "liga": "Copa Sudamericana",
-    "hora": "7:00 p. m.",
-    "canal": "Directv 610-619"
-  },
-  {
-    "partido": "Botafogo - Liga de Quito",
-    "liga": "Copa Sudamericana",
-    "hora": "7:00 p. m.",
-    "canal": "ESPN 3 / Star +"
-  },
-  {
-    "partido": "Libertad - Atlético Paranaense",
-    "liga": "Copa Libertadores",
-    "hora": "7:00 p. m.",
-    "canal": "ESPN 2 / Star +"
-  },
-  {
-    "partido": "Audax - Blooming",
-    "liga": "Copa Sudamericana",
-    "hora": "7:00 p. m.",
-    "canal": "ESPN 4 / Star +"
-  },
-  {
-    "partido": "Atlético Nacional - América",
-    "liga": "Liga BetPlay",
-    "hora": "8:15 p. m.",
-    "canal": "Win Sports +"
-  },
-  {
-    "partido": "Pereira - Monagas",
-    "liga": "Copa Libertadores",
-    "hora": "9:00 p. m.",
-    "canal": "ESPN / Star +"
-  },
-  {
-    "partido": "Universitario - Santa Fe",
-    "liga": "Copa Sudamericana",
-    "hora": "9:00 p. m.",
-    "canal": "Directv Sports"
+    "hora": "6:30 p. m.",
+    "canal": "Win Sports / Win Sports +"
   }
 ]
