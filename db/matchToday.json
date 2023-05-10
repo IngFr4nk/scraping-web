@@ -1,14 +1,62 @@
 [
   {
-    "partido": "Real Madrid - Manchester City",
+    "partido": "Milán - Inter",
     "liga": "Champions League",
     "hora": "2:00 p. m.",
     "canal": "ESPN / Star +"
   },
   {
-    "partido": "Unión de Santa Fe - Almagro",
-    "liga": "Copa de Argentina",
+    "partido": "Internacional - Atlético Paranaense",
+    "liga": "Liga de Brasil",
+    "hora": "5:00 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Santos - Bahía",
+    "liga": "Liga de Brasil",
+    "hora": "5:00 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Red Bull Bragantino - América MG",
+    "liga": "Liga de Brasil",
+    "hora": "5:00 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Unión Magdalena - Boyacá Chicó",
+    "liga": "Liga BetPlay",
     "hora": "6:00 p. m.",
+    "canal": "Win Sports / Win Sports +"
+  },
+  {
+    "partido": "Flamengo - Goiás",
+    "liga": "Liga de Brasil",
+    "hora": "6:00 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Barracas Central - Estudiantes BA",
+    "liga": "Copa de Argentina",
+    "hora": "7:10 p. m.",
     "canal": "TyC Sports"
+  },
+  {
+    "partido": "Palmeiras - Gremio",
+    "liga": "Liga de Brasil",
+    "hora": "7:30 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Cruzeiro - Fluminense",
+    "liga": "Liga de Brasil",
+    "hora": "7:30 p. m.",
+    "canal": "ESPN 3 / Star +"
+  },
+  {
+    "partido": "Millonarios - Alianza Petrolera",
+    "liga": "Liga BetPlay",
+    "hora": "8:10 p. m.",
+    "canal": "Win Sports +"
   }
 ]
