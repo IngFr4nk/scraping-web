@@ -1,158 +1,44 @@
 [
   {
-    "partido": "Hellas Verona - Torino",
+    "partido": "Unión de Santa Fe - Sarmiento de Junín",
+    "liga": "Liga de Argentina",
+    "hora": "1:30 p. m.",
+    "canal": "Fanatiz / TyC Sports"
+  },
+  {
+    "partido": "Barracas Central - Central Córdoba",
+    "liga": "Liga de Argentina",
+    "hora": "1:30 p. m.",
+    "canal": "Fanatiz / TyC Sports"
+  },
+  {
+    "partido": "Sampdoria - Empoli",
     "liga": "Serie A",
-    "hora": "5:30 a. m.",
-    "canal": "ESPN Extra / Star +"
-  },
-  {
-    "partido": "Clermont - Lyon",
-    "liga": "Liga de Francia",
-    "hora": "6:00 a. m.",
-    "canal": "ESPN / Star +"
-  },
-  {
-    "partido": "Celta de Vigo - Valencia CF",
-    "liga": "Liga de Espana",
-    "hora": "7:00 a. m.",
-    "canal": "Directv Sports"
-  },
-  {
-    "partido": "Brentford - West Ham Utd.",
-    "liga": "Liga de Inglaterra",
-    "hora": "8:00 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Everton - Manchester City",
-    "liga": "Liga de Inglaterra",
-    "hora": "8:00 a. m.",
-    "canal": "ESPN / Star +"
-  },
-  {
-    "partido": "Monza - Napoli",
-    "liga": "Serie A",
-    "hora": "8:00 a. m.",
-    "canal": "ESPN 2 / Star +"
-  },
-  {
-    "partido": "Fiorentina - Udinese",
-    "liga": "Serie A",
-    "hora": "8:00 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "VfB Stuttgart - Bayer Leverkusen",
-    "liga": "Bundesliga",
-    "hora": "8:30 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Elche - Atlético de Madrid",
-    "liga": "Liga de Espana",
-    "hora": "9:15 a. m.",
-    "canal": "Directv Sports"
-  },
-  {
-    "partido": "Mónaco - Lille",
-    "liga": "Liga de Francia",
-    "hora": "10:00 a. m.",
-    "canal": "ESPN 2 / Star +"
-  },
-  {
-    "partido": "Arsenal - Brighton & Hove",
-    "liga": "Liga de Inglaterra",
-    "hora": "10:30 a. m.",
-    "canal": "ESPN / Star +"
-  },
-  {
-    "partido": "RB Leipzig - Werder Bremen",
-    "liga": "Bundesliga",
-    "hora": "10:30 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Bolognia - Roma",
-    "liga": "Serie A",
-    "hora": "11:00 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Valladolid - Sevilla",
-    "liga": "Liga de Espana",
-    "hora": "11:30 a. m.",
-    "canal": "Directv Sports"
-  },
-  {
-    "partido": "Juventus - Cremonese",
-    "liga": "Serie A",
-    "hora": "1:45 p. m.",
-    "canal": "ESPN 3 / Star +"
-  },
-  {
-    "partido": "Marsella - Angers",
-    "liga": "Liga de Francia",
     "hora": "1:45 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Corinthians - Sao Paulo",
-    "liga": "Liga de Brasil",
-    "hora": "2:00 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Independiente Medellín - Deportivo Pasto",
-    "liga": "Liga BetPlay",
-    "hora": "2:00 p. m.",
-    "canal": "Win Sports +"
-  },
-  {
-    "partido": "Vasco da Gama - Santos",
-    "liga": "Liga de Brasil",
-    "hora": "2:00 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Espanyol - Barcelona",
+    "partido": "Real Betis - Rayo Vallecano",
     "liga": "Liga de Espana",
     "hora": "2:00 p. m.",
-    "canal": "ESPN  / Star +"
+    "canal": "Star + / ESPN 2"
   },
   {
-    "partido": "Porto - Casa Pia",
-    "liga": "Liga de Portugal",
-    "hora": "2:30 p. m.",
-    "canal": "GolTV Play"
+    "partido": "Leicester City - Liverpool",
+    "liga": "Liga de Inglaterra",
+    "hora": "2:00 p. m.",
+    "canal": "Star + / ESPN"
   },
   {
-    "partido": "América - Once Caldas",
-    "liga": "Liga BetPlay",
-    "hora": "4:10 p. m.",
-    "canal": "Win Sports +"
-  },
-  {
-    "partido": "Boca Juniors - Belgrano",
+    "partido": "Gimnasia de La Plata - Lanús",
     "liga": "Liga de Argentina",
-    "hora": "5:00 p. m.",
-    "canal": "ESPN / Star +"
+    "hora": "4:00 p. m.",
+    "canal": "Fanatiz / TyC Sports"
   },
   {
-    "partido": "Alianza Petrolera - Atlético Nacional",
-    "liga": "Liga BetPlay",
-    "hora": "6:20 p. m.",
-    "canal": "Win Sports +"
-  },
-  {
-    "partido": "Talleres de Córdoba - River Plate",
+    "partido": "Vélez Sarsfield - Rosario Central",
     "liga": "Liga de Argentina",
-    "hora": "7:30 p. m.",
-    "canal": "ESPN / Star +"
-  },
-  {
-    "partido": "Santa Fe - Atlético Huila",
-    "liga": "Liga BetPlay",
-    "hora": "8:30 p. m.",
-    "canal": "Win Sports +"
+    "hora": "6:30 p. m.",
+    "canal": "Star + / Fanatiz"
   }
 ]
