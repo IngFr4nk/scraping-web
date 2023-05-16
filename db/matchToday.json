@@ -1,44 +1,14 @@
 [
   {
-    "partido": "Unión de Santa Fe - Sarmiento de Junín",
-    "liga": "Liga de Argentina",
-    "hora": "1:30 p. m.",
-    "canal": "Fanatiz / TyC Sports"
-  },
-  {
-    "partido": "Barracas Central - Central Córdoba",
-    "liga": "Liga de Argentina",
-    "hora": "1:30 p. m.",
-    "canal": "Fanatiz / TyC Sports"
-  },
-  {
-    "partido": "Sampdoria - Empoli",
-    "liga": "Serie A",
-    "hora": "1:45 p. m.",
+    "partido": "Istanbul B - Galatasaray",
+    "liga": "Liga de Turquía",
+    "hora": "12:00 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Real Betis - Rayo Vallecano",
-    "liga": "Liga de Espana",
+    "partido": "Inter - Milán",
+    "liga": "Champions League",
     "hora": "2:00 p. m.",
-    "canal": "Star + / ESPN 2"
-  },
-  {
-    "partido": "Leicester City - Liverpool",
-    "liga": "Liga de Inglaterra",
-    "hora": "2:00 p. m.",
-    "canal": "Star + / ESPN"
-  },
-  {
-    "partido": "Gimnasia de La Plata - Lanús",
-    "liga": "Liga de Argentina",
-    "hora": "4:00 p. m.",
-    "canal": "Fanatiz / TyC Sports"
-  },
-  {
-    "partido": "Vélez Sarsfield - Rosario Central",
-    "liga": "Liga de Argentina",
-    "hora": "6:30 p. m.",
-    "canal": "Star + / Fanatiz"
+    "canal": "ESPN / Star +"
   }
 ]
