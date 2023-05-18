@@ -1,74 +1,44 @@
 [
   {
-    "partido": "Manchester City - Real Madrid",
-    "liga": "Champions League",
+    "partido": "Fenerbache - Trabzonspor",
+    "liga": "Liga de Turquía",
+    "hora": "12:00 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Newcastle - Brighton & Hove",
+    "liga": "Liga de Inglaterra",
+    "hora": "1:30 p. m.",
+    "canal": "ESPN Extra / Star +"
+  },
+  {
+    "partido": "Basilea - Fiorentina",
+    "liga": "Conference League",
+    "hora": "2:00 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Bayer Leverkusen - Roma",
+    "liga": "Liga de Europa",
+    "hora": "2:00 p. m.",
+    "canal": "ESPN 3  / Star +"
+  },
+  {
+    "partido": "Sevilla - Juventus",
+    "liga": "Liga de Europa",
     "hora": "2:00 p. m.",
     "canal": "ESPN / Star +"
   },
   {
-    "partido": "Deportes Tolima - Atlético Nacional",
-    "liga": "Liga BetPlay",
-    "hora": "7:00 p. m.",
-    "canal": "WinSports.co / Directv 635 / Claro 1001"
+    "partido": "AZ Alkmaar - West Ham Utd.",
+    "liga": "Conference League",
+    "hora": "2:00 p. m.",
+    "canal": "Star +"
   },
   {
-    "partido": "Pereira - Alianza Petrolera",
-    "liga": "Liga BetPlay",
-    "hora": "7:00 p. m.",
-    "canal": "WinSports.co / Win Sports Online"
-  },
-  {
-    "partido": "Atlético Huila - Junior",
-    "liga": "Liga BetPlay",
-    "hora": "7:00 p. m.",
-    "canal": "WinSports.co / Directv 637 / Claro 503"
-  },
-  {
-    "partido": "Águilas Doradas - Jaguares de Córdoba",
-    "liga": "Liga BetPlay",
-    "hora": "7:00 p. m.",
-    "canal": "WinSports.co / Win Sports Online / Claro 1157"
-  },
-  {
-    "partido": "Once Caldas - Santa Fe",
-    "liga": "Liga BetPlay",
-    "hora": "7:00 p. m.",
-    "canal": "WinSports.co / Directv 636 / Claro 107"
-  },
-  {
-    "partido": "Deportivo Pasto - Envigado F.C",
-    "liga": "Liga BetPlay",
-    "hora": "7:00 p. m.",
-    "canal": "WinSports.co / Directv 639 / Claro 1010"
-  },
-  {
-    "partido": "Deportivo Cali - Boyacá Chicó",
-    "liga": "Liga BetPlay",
-    "hora": "7:00 p. m.",
-    "canal": "WinSports.co / Win Sports Online / Claro 153"
-  },
-  {
-    "partido": "Millonarios - Equidad",
-    "liga": "Liga BetPlay",
-    "hora": "7:00 p. m.",
-    "canal": "Win Sports + / Directv 634 / Claro 522"
-  },
-  {
-    "partido": "Bucaramanga - América",
-    "liga": "Liga BetPlay",
-    "hora": "7:00 p. m.",
-    "canal": "WinSports.co / Win Sports Online / Claro 152"
-  },
-  {
-    "partido": "Independiente Medellín - Unión Magdalena",
-    "liga": "Liga BetPlay",
-    "hora": "7:00 p. m.",
-    "canal": "Win Sports / Directv 635 / Claro 521"
-  },
-  {
-    "partido": "Gimnasia de Mendoza - All Boys",
-    "liga": "Copa de Argentina",
-    "hora": "7:10 p. m.",
-    "canal": "TyC Sports"
+    "partido": "Cortuluá - Santa Fe",
+    "liga": "Liga Femenina",
+    "hora": "7:30 p. m.",
+    "canal": "Win Sports +"
   }
 ]
