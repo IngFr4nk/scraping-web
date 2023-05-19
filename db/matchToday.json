@@ -1,44 +1,32 @@
 [
   {
-    "partido": "Fenerbache - Trabzonspor",
-    "liga": "Liga de Turquía",
-    "hora": "12:00 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Newcastle - Brighton & Hove",
-    "liga": "Liga de Inglaterra",
+    "partido": "Friburgo - Wolfsburgo",
+    "liga": "Bundesliga",
     "hora": "1:30 p. m.",
-    "canal": "ESPN Extra / Star +"
-  },
-  {
-    "partido": "Basilea - Fiorentina",
-    "liga": "Conference League",
-    "hora": "2:00 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Bayer Leverkusen - Roma",
-    "liga": "Liga de Europa",
-    "hora": "2:00 p. m.",
-    "canal": "ESPN 3  / Star +"
+    "partido": "Sassuolo - Monza",
+    "liga": "Serie A",
+    "hora": "1:45 p. m.",
+    "canal": "Star +"
   },
   {
-    "partido": "Sevilla - Juventus",
-    "liga": "Liga de Europa",
+    "partido": "Lyon - Mónaco",
+    "liga": "Liga de Francia",
     "hora": "2:00 p. m.",
     "canal": "ESPN / Star +"
   },
   {
-    "partido": "AZ Alkmaar - West Ham Utd.",
-    "liga": "Conference League",
+    "partido": "Cádiz - Valladolid",
+    "liga": "Liga de Espana",
     "hora": "2:00 p. m.",
-    "canal": "Star +"
+    "canal": "Directv Sports"
   },
   {
-    "partido": "Cortuluá - Santa Fe",
-    "liga": "Liga Femenina",
+    "partido": "Argentinos Juniors - Boca Juniors",
+    "liga": "Liga de Argentina",
     "hora": "7:30 p. m.",
-    "canal": "Win Sports +"
+    "canal": "ESPN / Star +"
   }
 ]
