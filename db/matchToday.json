@@ -1,68 +1,32 @@
 [
   {
-    "partido": "Tottenham Hotspur - Brentford",
-    "liga": "Liga de Inglaterra",
-    "hora": "6:30 a. m.",
-    "canal": "ESPN / Star +"
+    "partido": "Lecce - Spezia",
+    "liga": "Serie A",
+    "hora": "5:30 a. m.",
+    "canal": "ESPN y Star+"
   },
   {
-    "partido": "Girona - Villarreal",
+    "partido": "AC Ajaccio - Rennes",
+    "liga": "Liga de Francia",
+    "hora": "6:00 a. m.",
+    "canal": "ESPN 2 y Star+"
+  },
+  {
+    "partido": "Rayo Vallecano - Espanyol",
     "liga": "Liga de Espana",
     "hora": "7:00 a. m.",
-    "canal": "Directv Sports"
+    "canal": "ESPN 3 y Star+"
   },
   {
-    "partido": "Cremonese - Bolognia",
-    "liga": "Serie A",
+    "partido": "West Ham Utd. - Leeds",
+    "liga": "Liga de Inglaterra",
+    "hora": "7:30 a. m.",
+    "canal": "ESPN y Star+"
+  },
+  {
+    "partido": "Brighton & Hove - Southampton",
+    "liga": "Liga de Inglaterra",
     "hora": "8:00 a. m.",
-    "canal": "ESPN Extra / Star +"
-  },
-  {
-    "partido": "Werder Bremen - Colonia",
-    "liga": "Bundesliga",
-    "hora": "8:30 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Schalke 04 - Eintracht Frankfurt",
-    "liga": "Bundesliga",
-    "hora": "8:30 a. m.",
-    "canal": "ESPN 4 / Star +"
-  },
-  {
-    "partido": "Hoffenheim - Union Berlin",
-    "liga": "Bundesliga",
-    "hora": "8:30 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Hertha Berlin - Bochum 1848",
-    "liga": "Bundesliga",
-    "hora": "8:30 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Fulham - Crystal Palace",
-    "liga": "Liga de Inglaterra",
-    "hora": "9:00 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Liverpool - Aston Villa",
-    "liga": "Liga de Inglaterra",
-    "hora": "9:00 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Wolverhampton - Everton",
-    "liga": "Liga de Inglaterra",
-    "hora": "9:00 a. m.",
-    "canal": "ESPN / Star +"
-  },
-  {
-    "partido": "Bournemouth - Manchester United",
-    "liga": "Liga de Inglaterra",
-    "hora": "9:00 a. m.",
     "canal": "Star +"
   },
   {
@@ -72,117 +36,27 @@
     "canal": "ESPN 3 y Star+"
   },
   {
-    "partido": "Athletic Club - Celta de Vigo",
-    "liga": "Liga de Espana",
-    "hora": "9:15 a. m.",
-    "canal": "Directv Sports"
-  },
-  {
-    "partido": "Nantes - Montpellier",
-    "liga": "Liga de Francia",
-    "hora": "10:00 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Atalanta - Hellas Verona",
-    "liga": "Serie A",
-    "hora": "11:00 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Bayern Munich - RB Leipzig",
-    "liga": "Bundesliga",
-    "hora": "11:30 a. m.",
-    "canal": "ESPN 4 / Star +"
-  },
-  {
-    "partido": "Getafe - Elche",
-    "liga": "Liga de Espana",
-    "hora": "11:30 a. m.",
-    "canal": "Directv Sports"
-  },
-  {
-    "partido": "Almería - Mallorca",
-    "liga": "Liga de Espana",
-    "hora": "11:30 a. m.",
-    "canal": "ESPN 3 / Star +"
-  },
-  {
-    "partido": "Nottingham Forest - Arsenal",
+    "partido": "Manchester City - Chelsea",
     "liga": "Liga de Inglaterra",
-    "hora": "11:30 a. m.",
-    "canal": "ESPN / Star +"
+    "hora": "10:00 a. m.",
+    "canal": "ESPN y Star+"
   },
   {
-    "partido": "Valencia CF - Real Madrid",
-    "liga": "Liga de Espana",
-    "hora": "11:30 a. m.",
-    "canal": "ESPN 3 y Star+"
-  },
-  {
-    "partido": "Guatemala - Nueva Zelanda",
+    "partido": "Israel - Colombia",
     "liga": "Mundial Sub-20 Argentina",
     "hora": "1:00 p. m.",
-    "canal": "Directv 613"
+    "canal": "Directv, Caracol y RCN"
   },
   {
-    "partido": "Estados Unidos - Ecuador",
-    "liga": "Mundial Sub-20 Argentina",
-    "hora": "1:00 p. m.",
-    "canal": "Directv 610"
-  },
-  {
-    "partido": "Milán - Sampdoria",
-    "liga": "Serie A",
-    "hora": "1:45 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Barcelona - Real Sociedad",
-    "liga": "Liga de Espana",
-    "hora": "2:00 p. m.",
-    "canal": "ESPN / Star +"
-  },
-  {
-    "partido": "Lille - Marsella",
-    "liga": "Liga de Francia",
-    "hora": "2:00 p. m.",
-    "canal": "ESPN Extra / Star +"
-  },
-  {
-    "partido": "Argentina - Uzbekistan",
-    "liga": "Mundial Sub-20 Argentina",
-    "hora": "4:00 p. m.",
-    "canal": "Directv 610"
-  },
-  {
-    "partido": "Fiyi - Eslovaquia",
-    "liga": "Mundial Sub-20 Argentina",
-    "hora": "4:00 p. m.",
-    "canal": "Directv 613"
-  },
-  {
-    "partido": "Botafogo - Fluminense",
-    "liga": "Liga de Brasil",
-    "hora": "4:30 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Deportivo Pasto - Atlético Nacional",
-    "liga": "Liga BetPlay",
-    "hora": "5:00 p. m.",
+    "partido": "Cortuluá - Cúcuta",
+    "liga": "Torneo Betplay",
+    "hora": "3:00 p. m.",
     "canal": "Win Sports +"
   },
   {
-    "partido": "Santos - Palmeiras",
-    "liga": "Liga de Brasil",
-    "hora": "7:00 p. m.",
-    "canal": "ESPN 3 / Star +"
-  },
-  {
-    "partido": "Independiente Medellín - Millonarios",
+    "partido": "Boyacá Chicó - América",
     "liga": "Liga BetPlay",
-    "hora": "8:00 p. m.",
+    "hora": "6:00 p. m.",
     "canal": "Win Sports +"
   }
 ]
