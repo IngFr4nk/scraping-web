@@ -1,140 +1,110 @@
 [
   {
-    "partido": "Villarreal - Cádiz",
+    "partido": "Mallorca - Valencia CF",
     "liga": "Liga de Espana",
     "hora": "12:30 p. m.",
-    "canal": "Directv Sports"
+    "canal": "Directv Sports 610-619"
   },
   {
-    "partido": "Elche - Sevilla",
-    "liga": "Liga de Espana",
-    "hora": "12:30 p. m.",
-    "canal": "ESPN 3 / Star +"
-  },
-  {
-    "partido": "Real Madrid - Rayo Vallecano",
-    "liga": "Liga de Espana",
-    "hora": "12:30 p. m.",
-    "canal": "Directv Sports"
-  },
-  {
-    "partido": "Italia - Nigeria",
+    "partido": "Uruguay Sub 20 - Inglaterra sub 20",
     "liga": "Mundial Sub-20 Argentina",
     "hora": "1:00 p. m.",
-    "canal": "Directv Sports"
+    "canal": "Directv Sports 610-619"
   },
   {
-    "partido": "Senegal sub 20 - Israel",
+    "partido": "Gambia - Francia Sub 20",
     "liga": "Mundial Sub-20 Argentina",
     "hora": "1:00 p. m.",
-    "canal": "DSports / DGO"
+    "canal": "Directv Sports 610-619"
   },
   {
-    "partido": "Brighton & Hove - Manchester City",
+    "partido": "Manchester United - Chelsea",
     "liga": "Liga de Inglaterra",
-    "hora": "2:00 p. m.",
-    "canal": "ESPN 2 / Star+"
-  },
-  {
-    "partido": "Fiorentina - Inter",
-    "liga": "Copa de Italia",
     "hora": "2:00 p. m.",
     "canal": "ESPN / Star +"
   },
   {
-    "partido": "Espanyol - Atlético de Madrid",
+    "partido": "Osasuna - Athletic Club",
     "liga": "Liga de Espana",
-    "hora": "3:00 p. m.",
+    "hora": "2:30 p. m.",
     "canal": "ESPN 3 / Star +"
   },
   {
-    "partido": "Real Betis - Getafe",
-    "liga": "Liga de Espana",
-    "hora": "3:00 p. m.",
-    "canal": "Directv Sports"
+    "partido": "Cúcuta - Valledupar",
+    "liga": "Torneo Betplay",
+    "hora": "4:00 p. m.",
+    "canal": "Win Sports +"
   },
   {
-    "partido": "Japón - Colombia",
+    "partido": "Iraq Sub 20 - Túnez sub 20",
     "liga": "Mundial Sub-20 Argentina",
     "hora": "4:00 p. m.",
-    "canal": "Caracol TV, RCN y Directv Sports"
+    "canal": "Directv Sports 610-619"
   },
   {
-    "partido": "Brasil Sub 20 - República Dominicana sub 20",
+    "partido": "Corea Sub 20 - Honduras Sub 20",
     "liga": "Mundial Sub-20 Argentina",
     "hora": "4:00 p. m.",
-    "canal": "DSports / DGO"
+    "canal": "Directv Sports 610-619"
   },
   {
-    "partido": "Patronato - Olimpia",
+    "partido": "The Strongest - Fluminense",
     "liga": "Copa Libertadores",
     "hora": "5:00 p. m.",
-    "canal": "ESPN y Star+"
+    "canal": "ESPN / Star +"
   },
   {
-    "partido": "Fortaleza - San Lorenzo",
+    "partido": "Tacuary - Estudiantes",
     "liga": "Copa Sudamericana",
     "hora": "5:00 p. m.",
-    "canal": "Directv Sports"
+    "canal": "ESPN 4 / Star +"
   },
   {
-    "partido": "Cerro Porteño - Palmeiras",
-    "liga": "Copa Libertadores",
+    "partido": "Danubio - Guaraní",
+    "liga": "Copa Sudamericana",
     "hora": "5:00 p. m.",
-    "canal": "Fox Sports 2 / Star +"
+    "canal": "ESPN 2 / Star +"
   },
   {
-    "partido": "Liverpool Uruguay - Independiente del Valle",
+    "partido": "Sporting Cristal - River Plate",
     "liga": "Copa Libertadores",
-    "hora": "5:00 p. m.",
-    "canal": "ESPN 2 y Star+"
+    "hora": "7:00 p. m.",
+    "canal": "ESPN / Star +"
   },
   {
-    "partido": "Tigre - Deportes Tolima",
+    "partido": "Metropolitanos - Internacional",
+    "liga": "Copa Libertadores",
+    "hora": "7:00 p. m.",
+    "canal": "FOX Sports 2 / Star +"
+  },
+  {
+    "partido": "Huracán - Emelec",
     "liga": "Copa Sudamericana",
     "hora": "7:00 p. m.",
-    "canal": "Directv Sports"
+    "canal": "Directv Sports 610-619"
   },
   {
-    "partido": "Pereira - Boca Juniors",
-    "liga": "Copa Libertadores",
-    "hora": "7:00 p. m.",
-    "canal": "ESPN y Star+"
-  },
-  {
-    "partido": "Audax - Santos",
+    "partido": "Oriente Petrolero - Red Bull Bragantino",
     "liga": "Copa Sudamericana",
     "hora": "7:00 p. m.",
     "canal": "ESPN 4 / Star +"
   },
   {
-    "partido": "Argentinos Juniors - Corinthians",
-    "liga": "Copa Libertadores",
-    "hora": "7:30 p. m.",
-    "canal": "ESPN 2 y Star+"
+    "partido": "Estudiantes de Mérida - Palestino",
+    "liga": "Copa Sudamericana",
+    "hora": "7:00 p. m.",
+    "canal": "Directv Sports 610-619"
   },
   {
-    "partido": "Ñublense - Flamengo",
-    "liga": "Copa Libertadores",
-    "hora": "7:30 p. m.",
-    "canal": "Fox Sports 2 / Star +"
+    "partido": "César Vallejo - Botafogo",
+    "liga": "Copa Sudamericana",
+    "hora": "7:00 p. m.",
+    "canal": "ESPN 3 / Star +"
   },
   {
-    "partido": "Real Cartagena - Quindío",
+    "partido": "Patriotas F.C - Cortuluá",
     "liga": "Torneo Betplay",
     "hora": "7:30 p. m.",
-    "canal": "Win Sports +"
-  },
-  {
-    "partido": "Melgar - Atlético Nacional",
-    "liga": "Copa Libertadores",
-    "hora": "9:00 p. m.",
-    "canal": "ESPN / Star +"
-  },
-  {
-    "partido": "Blooming - Newell`s Old Boys",
-    "liga": "Copa Sudamericana",
-    "hora": "9:00 p. m.",
-    "canal": "Directv Sports"
+    "canal": "Win Sports y Win +"
   }
 ]
