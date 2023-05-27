@@ -1,26 +1,164 @@
 [
   {
-    "partido": "Eslovaquia Sub 20 - Estados Unidos sub 20",
-    "liga": "Mundial Sub-20 Argentina",
-    "hora": "1:00 p. m.",
-    "canal": "DSports / DGO"
-  },
-  {
-    "partido": "Ecuador Sub 20 - Fiji Sub 20",
-    "liga": "Mundial Sub-20 Argentina",
-    "hora": "1:00 p. m.",
-    "canal": "DSports / DGO"
-  },
-  {
-    "partido": "Sampdoria - Sassuolo",
+    "partido": "Salernitana - Udinese",
     "liga": "Serie A",
-    "hora": "1:45 p. m.",
+    "hora": "8:00 a. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Atlético Tucumán - Arsenal de Sarandí",
-    "liga": "Liga de Argentina",
-    "hora": "7:30 p. m.",
-    "canal": "AFA Play"
+    "partido": "Spezia - Torino",
+    "liga": "Serie A",
+    "hora": "8:00 a. m.",
+    "canal": "Star + / ESPN 3"
+  },
+  {
+    "partido": "Borussia Mönchengladbach - FC Augsburgo",
+    "liga": "Bundesliga",
+    "hora": "8:30 a. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "RB Leipzig - Schalke 04",
+    "liga": "Bundesliga",
+    "hora": "8:30 a. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Borussia Dortmund - Mainz 05",
+    "liga": "Bundesliga",
+    "hora": "8:30 a. m.",
+    "canal": "Star + / ESPN"
+  },
+  {
+    "partido": "Wolfsburgo - Hertha Berlin",
+    "liga": "Bundesliga",
+    "hora": "8:30 a. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Eintracht Frankfurt - Friburgo",
+    "liga": "Bundesliga",
+    "hora": "8:30 a. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "VfB Stuttgart - Hoffenheim",
+    "liga": "Bundesliga",
+    "hora": "8:30 a. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Union Berlin - Werder Bremen",
+    "liga": "Bundesliga",
+    "hora": "8:30 a. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Colonia - Bayern Munich",
+    "liga": "Bundesliga",
+    "hora": "8:30 a. m.",
+    "canal": "Star + / Fox Sports 2"
+  },
+  {
+    "partido": "Bochum 1848 - Bayer Leverkusen",
+    "liga": "Bundesliga",
+    "hora": "8:30 a. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Fiorentina - Roma",
+    "liga": "Serie A",
+    "hora": "11:00 a. m.",
+    "canal": "Star + / ESPN 2"
+  },
+  {
+    "partido": "Sevilla - Real Madrid",
+    "liga": "Liga de Espana",
+    "hora": "12:00 p. m.",
+    "canal": "Star + / ESPN"
+  },
+  {
+    "partido": "República Dominicana sub 20 - Italia Sub 20",
+    "liga": "Mundial Sub-20 Argentina",
+    "hora": "1:00 p. m.",
+    "canal": "DSports / DGO"
+  },
+  {
+    "partido": "Brasil Sub 20 - Nigeria Sub 20",
+    "liga": "Mundial Sub-20 Argentina",
+    "hora": "1:00 p. m.",
+    "canal": "DSports / DGO"
+  },
+  {
+    "partido": "Inter - Atalanta",
+    "liga": "Serie A",
+    "hora": "1:45 p. m.",
+    "canal": "Star + / ESPN 2"
+  },
+  {
+    "partido": "Lyon - Reims",
+    "liga": "Liga de Francia",
+    "hora": "2:00 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Lille - Nantes",
+    "liga": "Liga de Francia",
+    "hora": "2:00 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Lens - AC Ajaccio",
+    "liga": "Liga de Francia",
+    "hora": "2:00 p. m.",
+    "canal": "Star + / ESPN Extra"
+  },
+  {
+    "partido": "Marsella - Stade Brestois",
+    "liga": "Liga de Francia",
+    "hora": "2:00 p. m.",
+    "canal": "Star + / ESPN"
+  },
+  {
+    "partido": "Strasbourg - Paris Saint-Germain",
+    "liga": "Liga de Francia",
+    "hora": "2:00 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Rennes - Mónaco",
+    "liga": "Liga de Francia",
+    "hora": "2:00 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Colombia Sub 20 - Senegal sub 20",
+    "liga": "Mundial Sub-20 Argentina",
+    "hora": "4:00 p. m.",
+    "canal": "RCN / Caracol TV / Caracol Play"
+  },
+  {
+    "partido": "Real Cartagena - Llaneros",
+    "liga": "Torneo Betplay",
+    "hora": "4:00 p. m.",
+    "canal": "Win Sports y Win +"
+  },
+  {
+    "partido": "Japón Sub 20 - Israel",
+    "liga": "Mundial Sub-20 Argentina",
+    "hora": "4:00 p. m.",
+    "canal": "DSports / DGO"
+  },
+  {
+    "partido": "Águilas Doradas - Deportivo Pasto",
+    "liga": "Liga BetPlay",
+    "hora": "6:00 p. m.",
+    "canal": "Win Sports +"
+  },
+  {
+    "partido": "Millonarios - Boyacá Chicó",
+    "liga": "Liga BetPlay",
+    "hora": "8:15 p. m.",
+    "canal": "Win Sports +"
   }
 ]
