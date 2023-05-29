@@ -1,182 +1,32 @@
 [
   {
-    "partido": "Hellas Verona - Empoli",
-    "liga": "Serie A",
-    "hora": "5:30 a. m.",
-    "canal": "Star +"
+    "partido": "Colón - Central Córdoba",
+    "liga": "Liga de Argentina",
+    "hora": "2:30 p. m.",
+    "canal": "TyC Sports"
   },
   {
-    "partido": "Monza - Lecce",
-    "liga": "Serie A",
-    "hora": "8:00 a. m.",
-    "canal": "Star +"
+    "partido": "Banfield - Rosario Central",
+    "liga": "Liga de Argentina",
+    "hora": "5:00 p. m.",
+    "canal": "TyC Sports"
   },
   {
-    "partido": "Bolognia - Napoli",
-    "liga": "Serie A",
-    "hora": "8:00 a. m.",
-    "canal": "Star +"
+    "partido": "Vélez Sarsfield - River Plate",
+    "liga": "Liga de Argentina",
+    "hora": "7:30 p. m.",
+    "canal": "ESPN / Star +"
   },
   {
-    "partido": "Chelsea - Newcastle",
-    "liga": "Liga de Inglaterra",
-    "hora": "10:30 a. m.",
-    "canal": "Star +"
+    "partido": "Independiente Medellín - Atlético Nacional",
+    "liga": "Liga Femenina",
+    "hora": "7:30 p. m.",
+    "canal": "Win Sports"
   },
   {
-    "partido": "Arsenal - Wolverhampton",
-    "liga": "Liga de Inglaterra",
-    "hora": "10:30 a. m.",
-    "canal": "Star+"
-  },
-  {
-    "partido": "Crystal Palace - Nottingham Forest",
-    "liga": "Liga de Inglaterra",
-    "hora": "10:30 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Southampton - Liverpool",
-    "liga": "Liga de Inglaterra",
-    "hora": "10:30 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Manchester United - Fulham",
-    "liga": "Liga de Inglaterra",
-    "hora": "10:30 a. m.",
-    "canal": "ESPN Extra / Star +"
-  },
-  {
-    "partido": "Aston Villa - Brighton & Hove",
-    "liga": "Liga de Inglaterra",
-    "hora": "10:30 a. m.",
-    "canal": "ESPN 4 / Star +"
-  },
-  {
-    "partido": "Leeds - Tottenham Hotspur",
-    "liga": "Liga de Inglaterra",
-    "hora": "10:30 a. m.",
-    "canal": "ESPN 2 / Star +"
-  },
-  {
-    "partido": "Leicester City - West Ham Utd.",
-    "liga": "Liga de Inglaterra",
-    "hora": "10:30 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Brentford - Manchester City",
-    "liga": "Liga de Inglaterra",
-    "hora": "10:30 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Everton - Bournemouth",
-    "liga": "Liga de Inglaterra",
-    "hora": "10:30 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Lazio - Cremonese",
-    "liga": "Serie A",
-    "hora": "11:00 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Girona - Real Betis",
-    "liga": "Liga de Espana",
-    "hora": "12:00 p. m.",
-    "canal": "ESPN 3 / Star +"
-  },
-  {
-    "partido": "Cádiz - Celta de Vigo",
-    "liga": "Liga de Espana",
-    "hora": "12:00 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Real Madrid - Real Sociedad",
-    "liga": "Liga de Espana",
-    "hora": "12:00 p. m.",
-    "canal": "DSports 610-619"
-  },
-  {
-    "partido": "Almería - Valladolid",
-    "liga": "Liga de Espana",
-    "hora": "12:00 p. m.",
-    "canal": "DSports 610-619"
-  },
-  {
-    "partido": "Rayo Vallecano - Villarreal",
-    "liga": "Liga de Espana",
-    "hora": "12:00 p. m.",
-    "canal": "ESPN Extra / Star +"
-  },
-  {
-    "partido": "Valencia CF - Espanyol",
-    "liga": "Liga de Espana",
-    "hora": "12:00 p. m.",
-    "canal": "DSports 610-619"
-  },
-  {
-    "partido": "Barcelona - Mallorca",
-    "liga": "Liga de Espana",
-    "hora": "12:00 p. m.",
-    "canal": "DSports 610-619"
-  },
-  {
-    "partido": "Athletic Club - Elche",
-    "liga": "Liga de Espana",
-    "hora": "12:00 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Iraq Sub 20 - Inglaterra sub 20",
-    "liga": "Mundial Sub-20 Argentina",
-    "hora": "1:00 p. m.",
-    "canal": "DSports / DGO"
-  },
-  {
-    "partido": "Túnez sub 20 - Uruguay Sub 20",
-    "liga": "Mundial Sub-20 Argentina",
-    "hora": "1:00 p. m.",
-    "canal": "DSports / DGO"
-  },
-  {
-    "partido": "Juventus - Milán",
-    "liga": "Serie A",
-    "hora": "1:45 p. m.",
-    "canal": "ESPN 2 / Star +"
-  },
-  {
-    "partido": "Corea Sub 20 - Gambia sub 20",
-    "liga": "Mundial Sub-20 Argentina",
-    "hora": "4:00 p. m.",
-    "canal": "DSports / DGO"
-  },
-  {
-    "partido": "Honduras Sub 20 - Francia Sub 20",
-    "liga": "Mundial Sub-20 Argentina",
-    "hora": "4:00 p. m.",
-    "canal": "DSports / DGO"
-  },
-  {
-    "partido": "Cúcuta - Patriotas F.C",
+    "partido": "Cortuluá - Valledupar",
     "liga": "Torneo Betplay",
-    "hora": "4:00 p. m.",
-    "canal": "Win Sports +"
-  },
-  {
-    "partido": "Atlético Nacional - Alianza Petrolera",
-    "liga": "Liga BetPlay",
-    "hora": "6:00 p. m.",
-    "canal": "Win Sports +"
-  },
-  {
-    "partido": "América - Independiente Medellín",
-    "liga": "Liga BetPlay",
-    "hora": "8:15 p. m.",
+    "hora": "7:30 p. m.",
     "canal": "Win Sports +"
   }
 ]
