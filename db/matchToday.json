@@ -1,26 +1,50 @@
 [
   {
-    "partido": "Estados Unidos sub 20 - Nueva Zelanda Sub 20",
+    "partido": "Colombia Sub 20 - Eslovaquia Sub 20",
     "liga": "Mundial Sub-20 Argentina",
     "hora": "12:30 p. m.",
-    "canal": "DSports"
+    "canal": "Caracol TV / RCN / DSports"
   },
   {
-    "partido": "Uzbekistán Sub 20 - Israel",
+    "partido": "Brasil Sub 20 - Túnez sub 20",
+    "liga": "Mundial Sub-20 Argentina",
+    "hora": "12:30 p. m.",
+    "canal": "DSports / DGO"
+  },
+  {
+    "partido": "Sevilla - Roma",
+    "liga": "Liga de Europa",
+    "hora": "2:00 p. m.",
+    "canal": "ESPN / Star+"
+  },
+  {
+    "partido": "Argentina Sub 20 - Nigeria Sub 20",
     "liga": "Mundial Sub-20 Argentina",
     "hora": "4:00 p. m.",
     "canal": "DSports"
   },
   {
-    "partido": "Llaneros - Real Cartagena",
-    "liga": "Torneo Betplay",
-    "hora": "6:00 p. m.",
+    "partido": "Inglaterra sub 20 - Italia Sub 20",
+    "liga": "Mundial Sub-20 Argentina",
+    "hora": "4:00 p. m.",
+    "canal": "DSports"
+  },
+  {
+    "partido": "Boyacá Chicó - Independiente Medellín",
+    "liga": "Liga BetPlay",
+    "hora": "6:15 p. m.",
     "canal": "Win Sports +"
   },
   {
-    "partido": "Quindío - Fortaleza F.C",
-    "liga": "Torneo Betplay",
-    "hora": "8:00 p. m.",
-    "canal": "Win Sports / Win Sports +"
+    "partido": "América - Millonarios",
+    "liga": "Liga BetPlay",
+    "hora": "8:30 p. m.",
+    "canal": "Win Sports +"
+  },
+  {
+    "partido": "León - Los Ángeles",
+    "liga": "Concacaf Cup",
+    "hora": "9:00 p. m.",
+    "canal": "Star +"
   }
 ]
