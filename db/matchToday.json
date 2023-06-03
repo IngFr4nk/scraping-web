@@ -1,26 +1,122 @@
 [
   {
-    "partido": "Sassuolo - Fiorentina",
+    "partido": "Manchester City - Manchester United",
+    "liga": "FA Cup",
+    "hora": "9:00 a. m.",
+    "canal": "ESPN y Star+"
+  },
+  {
+    "partido": "Torino - Inter",
     "liga": "Serie A",
-    "hora": "1:30 p. m.",
+    "hora": "11:30 a. m.",
+    "canal": "ESPN 3 y Star+"
+  },
+  {
+    "partido": "Belgrano - Vélez Sarsfield",
+    "liga": "Liga de Argentina",
+    "hora": "12:00 p. m.",
+    "canal": "TyC Sports Internacional"
+  },
+  {
+    "partido": "Israel Sub 20 - Brasil Sub 20",
+    "liga": "Mundial Sub-20 Argentina",
+    "hora": "12:30 p. m.",
+    "canal": "Directv 610"
+  },
+  {
+    "partido": "RB Leipzig - Eintracht Frankfurt",
+    "liga": "Copa de Alemania",
+    "hora": "1:00 p. m.",
     "canal": "ESPN 2 y Star+"
   },
   {
-    "partido": "Estudiantes - Barracas Central",
+    "partido": "Empoli - Lazio",
+    "liga": "Serie A",
+    "hora": "2:00 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Fortaleza - Bahía",
+    "liga": "Liga de Brasil",
+    "hora": "2:00 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Paris Saint-Germain - Clermont",
+    "liga": "Liga de Francia",
+    "hora": "2:00 p. m.",
+    "canal": "ESPN y Star+"
+  },
+  {
+    "partido": "AC Ajaccio - Marsella",
+    "liga": "Liga de Francia",
+    "hora": "2:00 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Niza - Lyon",
+    "liga": "Liga de Francia",
+    "hora": "2:00 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Auxerre - Lens",
+    "liga": "Liga de Francia",
+    "hora": "2:00 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Mónaco - Toulouse",
+    "liga": "Liga de Francia",
+    "hora": "2:00 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Cremonese - Salernitana",
+    "liga": "Serie A",
+    "hora": "2:00 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "River Plate - Defensa y Justicia",
+    "liga": "Liga de Argentina",
+    "hora": "2:30 p. m.",
+    "canal": "ESPN 4 / Star +"
+  },
+  {
+    "partido": "Colombia Sub 20 - Italia Sub 20",
+    "liga": "Mundial Sub-20 Argentina",
+    "hora": "4:00 p. m.",
+    "canal": "Directv, Caracol y RCN"
+  },
+  {
+    "partido": "Cruzeiro - Atlético Mineiro",
+    "liga": "Liga de Brasil",
+    "hora": "4:30 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Central Córdoba - Huracán",
     "liga": "Liga de Argentina",
     "hora": "5:00 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Tigre - Talleres de Córdoba",
-    "liga": "Liga de Argentina",
-    "hora": "7:30 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Argentinos Juniors - Platense",
-    "liga": "Liga de Argentina",
-    "hora": "7:30 p. m.",
     "canal": "TyC Sports Internacional"
+  },
+  {
+    "partido": "Independiente Medellín - Boyacá Chicó",
+    "liga": "Liga BetPlay",
+    "hora": "6:20 p. m.",
+    "canal": "Win Sports +"
+  },
+  {
+    "partido": "Santos - Internacional",
+    "liga": "Liga de Brasil",
+    "hora": "7:00 p. m.",
+    "canal": "ESPN 3 y Star+"
+  },
+  {
+    "partido": "Millonarios - América",
+    "liga": "Liga BetPlay",
+    "hora": "8:30 p. m.",
+    "canal": "Win Sports +"
   }
 ]
