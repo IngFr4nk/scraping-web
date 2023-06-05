@@ -1,140 +1,32 @@
 [
   {
-    "partido": "Unión de Santa Fe - Gimnasia de La Plata",
-    "liga": "Liga de Argentina",
-    "hora": "9:00 a. m.",
-    "canal": "TyC Sports Internacional"
-  },
-  {
-    "partido": "Braga - Porto",
-    "liga": "Copa de Portugal",
-    "hora": "11:15 a. m.",
+    "partido": "Venezuela - Costa Rica",
+    "liga": "Torneo Maurice Revello",
+    "hora": "7:00 a. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Napoli - Sampdoria",
-    "liga": "Serie A",
-    "hora": "11:30 a. m.",
-    "canal": "ESPN 2 / Star +"
-  },
-  {
-    "partido": "Real Madrid - Athletic Club",
-    "liga": "Liga de Espana",
-    "hora": "11:30 a. m.",
-    "canal": "Directv 613"
-  },
-  {
-    "partido": "Real Sociedad - Sevilla",
-    "liga": "Liga de Espana",
-    "hora": "11:30 a. m.",
-    "canal": "ESPN 3 / Star +"
-  },
-  {
-    "partido": "Villarreal - Atlético de Madrid",
-    "liga": "Liga de Espana",
-    "hora": "11:30 a. m.",
-    "canal": "ESPN / Star +"
-  },
-  {
-    "partido": "Mallorca - Rayo Vallecano",
-    "liga": "Liga de Espana",
-    "hora": "11:30 a. m.",
-    "canal": "Directv 612"
-  },
-  {
-    "partido": "Osasuna - Girona",
-    "liga": "Liga de Espana",
-    "hora": "11:30 a. m.",
-    "canal": "ESPN Extra / Star +"
-  },
-  {
-    "partido": "San Lorenzo - Colón",
-    "liga": "Liga de Argentina",
-    "hora": "12:00 p. m.",
-    "canal": "TyC Sports Internacional"
-  },
-  {
-    "partido": "Corea Sub 20 - Nigeria Sub 20",
-    "liga": "Mundial Sub-20 Argentina",
-    "hora": "12:30 p. m.",
-    "canal": "Directv 610"
-  },
-  {
-    "partido": "Atalanta - Monza",
-    "liga": "Serie A",
-    "hora": "2:00 p. m.",
+    "partido": "Francia - Arabia Saudí",
+    "liga": "Torneo Maurice Revello",
+    "hora": "10:30 a. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Milán - Hellas Verona",
-    "liga": "Serie A",
-    "hora": "2:00 p. m.",
+    "partido": "Hamburgo - VfB Stuttgart",
+    "liga": "Bundesliga",
+    "hora": "1:45 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Roma - Spezia",
-    "liga": "Serie A",
-    "hora": "2:00 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Udinese - Juventus",
-    "liga": "Serie A",
-    "hora": "2:00 p. m.",
-    "canal": "ESPN 2 / Star +"
-  },
-  {
-    "partido": "Espanyol - Almería",
-    "liga": "Liga de Espana",
-    "hora": "2:00 p. m.",
-    "canal": "ESPN 3 / Star +"
-  },
-  {
-    "partido": "Fluminense - Red Bull Bragantino",
+    "partido": "Vasco da Gama - Flamengo",
     "liga": "Liga de Brasil",
-    "hora": "2:00 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Celta de Vigo - Barcelona",
-    "liga": "Liga de Espana",
-    "hora": "2:00 p. m.",
-    "canal": "ESPN / Star +"
-  },
-  {
-    "partido": "Palmeiras - Coritiba",
-    "liga": "Liga de Brasil",
-    "hora": "2:30 p. m.",
-    "canal": "ESPN 3 / Star +"
-  },
-  {
-    "partido": "Godoy Cruz - Independiente",
-    "liga": "Liga de Argentina",
-    "hora": "3:00 p. m.",
-    "canal": "TyC Sports Internacional"
-  },
-  {
-    "partido": "Fortaleza F.C - Llaneros",
-    "liga": "Torneo Betplay",
-    "hora": "4:00 p. m.",
-    "canal": "Win Sports +"
-  },
-  {
-    "partido": "Estados Unidos sub 20 - Uruguay Sub 20",
-    "liga": "Mundial Sub-20 Argentina",
-    "hora": "4:00 p. m.",
-    "canal": "Directv 610"
-  },
-  {
-    "partido": "Águilas Doradas - Atlético Nacional",
-    "liga": "Liga BetPlay",
     "hora": "6:00 p. m.",
-    "canal": "Win Sports +"
+    "canal": "Star +"
   },
   {
-    "partido": "Alianza Petrolera - Deportivo Pasto",
-    "liga": "Liga BetPlay",
-    "hora": "8:15 p. m.",
+    "partido": "Pereira - Deportivo Cali",
+    "liga": "Liga Femenina",
+    "hora": "7:30 p. m.",
     "canal": "Win Sports +"
   }
 ]
