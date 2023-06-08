@@ -1,80 +1,74 @@
 [
   {
-    "partido": "Japón - Marruecos",
+    "partido": "Arabia Saudí - Venezuela",
     "liga": "Torneo Maurice Revello",
     "hora": "7:00 a. m.",
     "canal": "Star +"
   },
   {
-    "partido": "C. de Marfil - Panamá",
+    "partido": "Francia - Costa Rica",
     "liga": "Torneo Maurice Revello",
     "hora": "10:30 a. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Fiorentina - West Ham Utd.",
-    "liga": "Conference League",
-    "hora": "2:00 p. m.",
+    "partido": "Uruguay Sub 20 - Italia Sub 20",
+    "liga": "Mundial Sub-20 Argentina",
+    "hora": "12:30 p. m.",
+    "canal": "DSports 610-619"
+  },
+  {
+    "partido": "Italia Sub 20 - Corea Sub 20",
+    "liga": "Mundial Sub-20 Argentina",
+    "hora": "4:00 p. m.",
+    "canal": "DSports 610-619"
+  },
+  {
+    "partido": "Goiás - Gimnasia de La Plata",
+    "liga": "Copa Sudamericana",
+    "hora": "5:00 p. m.",
+    "canal": "ESPN 3 / Star +"
+  },
+  {
+    "partido": "Danubio - Huracán",
+    "liga": "Copa Sudamericana",
+    "hora": "5:00 p. m.",
+    "canal": "DSports 610-619"
+  },
+  {
+    "partido": "Metropolitanos - Independiente Medellín",
+    "liga": "Copa Libertadores",
+    "hora": "5:00 p. m.",
     "canal": "ESPN / Star +"
   },
   {
-    "partido": "Independiente del Valle - Corinthians",
-    "liga": "Copa Libertadores",
+    "partido": "Sao Paulo - Deportes Tolima",
+    "liga": "Copa Sudamericana",
     "hora": "5:00 p. m.",
     "canal": "ESPN 2 / Star +"
   },
   {
-    "partido": "Nacional (Uru) - Internacional",
-    "liga": "Copa Libertadores",
-    "hora": "5:00 p. m.",
-    "canal": "ESPN / Star +"
-  },
-  {
-    "partido": "Argentinos Juniors - Liverpool Uruguay",
-    "liga": "Copa Libertadores",
-    "hora": "5:00 p. m.",
-    "canal": "Fox Sports 2 / Star +"
-  },
-  {
-    "partido": "Estudiantes - Red Bull Bragantino",
+    "partido": "San Lorenzo - Palestino",
     "liga": "Copa Sudamericana",
     "hora": "7:00 p. m.",
-    "canal": "DSports"
+    "canal": "ESPN 2 / Star +"
   },
   {
-    "partido": "Aucas - Ñublense",
+    "partido": "Flamengo - Racing Club",
     "liga": "Copa Libertadores",
     "hora": "7:00 p. m.",
-    "canal": "ESPN / Star +"
-  },
-  {
-    "partido": "Blooming - Audax",
-    "liga": "Copa Sudamericana",
-    "hora": "7:00 p. m.",
-    "canal": "DSports"
-  },
-  {
-    "partido": "Palmeiras - Barcelona (ECU)",
-    "liga": "Copa Libertadores",
-    "hora": "7:30 p. m.",
-    "canal": "Fox Sports 2 / Star +"
-  },
-  {
-    "partido": "River Plate - Fluminense",
-    "liga": "Copa Libertadores",
-    "hora": "7:30 p. m.",
     "canal": "ESPN 4 / Star +"
   },
   {
-    "partido": "The Strongest - Sporting Cristal",
+    "partido": "Olimpia - Atlético Nacional",
     "liga": "Copa Libertadores",
-    "hora": "9:00 p. m.",
-    "canal": "ESPN / Star+"
+    "hora": "7:00 p. m.",
+    "canal": "ESPN / Star +"
   },
   {
-    "partido": "Emelec - Guaraní",
+    "partido": "Santa Fe - Universitario",
     "liga": "Copa Sudamericana",
     "hora": "9:00 p. m.",
-    "canal": "ESPN 3 / Star +"
+    "canal": "DSports 610-619"
   }
 ]
