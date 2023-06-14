@@ -1,32 +1,20 @@
 [
   {
-    "partido": "Japón - C. de Marfil",
-    "liga": "Torneo Maurice Revello",
-    "hora": "7:00 a. m.",
-    "canal": "Star +"
+    "partido": "Países Bajos - Croacia",
+    "liga": "Liga Europea de Naciones",
+    "hora": "1:45 p. m.",
+    "canal": "Star + / ESPN"
   },
   {
-    "partido": "Panamá - Marruecos",
-    "liga": "Torneo Maurice Revello",
-    "hora": "10:30 a. m.",
-    "canal": "Star +"
+    "partido": "Santa Fe - Atlético Nacional",
+    "liga": "Liga Femenina",
+    "hora": "6:00 p. m.",
+    "canal": "Win Sports +"
   },
   {
-    "partido": "Defensa y Justicia - Belgrano",
-    "liga": "Liga de Argentina",
-    "hora": "4:00 p. m.",
-    "canal": "ESPN / Star +"
-  },
-  {
-    "partido": "Colón - Estudiantes",
-    "liga": "Liga de Argentina",
-    "hora": "4:00 p. m.",
-    "canal": "TyC Sports"
-  },
-  {
-    "partido": "Gimnasia de La Plata - Huracán",
-    "liga": "Liga de Argentina",
-    "hora": "6:30 p. m.",
-    "canal": "TyC Sports"
+    "partido": "América - Pereira",
+    "liga": "Liga Femenina",
+    "hora": "8:15 p. m.",
+    "canal": "Win Sports +"
   }
 ]
