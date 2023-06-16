@@ -1,20 +1,86 @@
 [
   {
-    "partido": "España - Italia",
-    "liga": "Liga Europea de Naciones",
-    "hora": "1:45 p. m.",
-    "canal": "Star + / ESPN"
+    "partido": "Finlandia - Eslovenia",
+    "liga": "Eurocopa",
+    "hora": "11:00 a. m.",
+    "canal": "Star + / ESPN 2"
   },
   {
-    "partido": "Panamá - Canadá",
-    "liga": "Liga de Naciones Concacaf",
-    "hora": "6:00 p. m.",
+    "partido": "Bielorrusia - Israel",
+    "liga": "Eurocopa",
+    "hora": "1:45 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Estados Unidos - México",
-    "liga": "Liga de Naciones Concacaf",
-    "hora": "9:00 p. m.",
-    "canal": "Star + / ESPN 3"
+    "partido": "Macedonia - Ucrania",
+    "liga": "Eurocopa",
+    "hora": "1:45 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Letonia - Turquía",
+    "liga": "Eurocopa",
+    "hora": "1:45 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Malta - Inglaterra",
+    "liga": "Eurocopa",
+    "hora": "1:45 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "San Marino - Kazajistán",
+    "liga": "Eurocopa",
+    "hora": "1:45 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Andorra - Suiza",
+    "liga": "Eurocopa",
+    "hora": "1:45 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Dinamarca - Irlanda del Norte",
+    "liga": "Eurocopa",
+    "hora": "1:45 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Grecia - Irlanda",
+    "liga": "Eurocopa",
+    "hora": "1:45 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Polonia - Alemania",
+    "liga": "Partido amistoso",
+    "hora": "1:45 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Gibraltar - Francia",
+    "liga": "Eurocopa",
+    "hora": "1:45 p. m.",
+    "canal": "Star + / ESPN 2"
+  },
+  {
+    "partido": "Kosovo - Rumania",
+    "liga": "Eurocopa",
+    "hora": "1:45 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Gales - Armenia",
+    "liga": "Eurocopa",
+    "hora": "1:45 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Colombia - Irak",
+    "liga": "Partido amistoso",
+    "hora": "2:00 p. m.",
+    "canal": "RCN / Caracol TV / Gol Caracol"
   }
 ]
