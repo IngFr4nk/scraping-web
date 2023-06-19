@@ -1,32 +1,50 @@
 [
   {
-    "partido": "Países Bajos - Italia",
-    "liga": "Liga Europea de Naciones",
-    "hora": "8:00 a. m.",
-    "canal": "ESPN / Star +"
+    "partido": "Ucrania - Malta",
+    "liga": "Eurocopa",
+    "hora": "11:00 a. m.",
+    "canal": "ESPN 2 / Star +"
   },
   {
-    "partido": "Croacia - España",
-    "liga": "Liga Europea de Naciones",
+    "partido": "Turquía - Gales",
+    "liga": "Eurocopa",
+    "hora": "1:45 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Suiza - Rumania",
+    "liga": "Eurocopa",
+    "hora": "1:45 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Eslovenia - Dinamarca",
+    "liga": "Eurocopa",
+    "hora": "1:45 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Irlanda - Gibraltar",
+    "liga": "Eurocopa",
+    "hora": "1:45 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Francia - Grecia",
+    "liga": "Eurocopa",
+    "hora": "1:45 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Inglaterra - Macedonia",
+    "liga": "Eurocopa",
     "hora": "1:45 p. m.",
     "canal": "ESPN / Star +"
   },
   {
-    "partido": "Colo Colo - Deportivo Cali",
-    "liga": "Partido amistoso",
-    "hora": "3:00 p. m.",
+    "partido": "Irlanda del Norte - Kazajistán",
+    "liga": "Eurocopa",
+    "hora": "1:45 p. m.",
     "canal": "Star +"
-  },
-  {
-    "partido": "Patriotas F.C - Llaneros",
-    "liga": "Torneo Betplay",
-    "hora": "6:00 p. m.",
-    "canal": "Win Sports +"
-  },
-  {
-    "partido": "Canadá - Estados Unidos",
-    "liga": "Liga de Naciones Concacaf",
-    "hora": "7:30 p. m.",
-    "canal": "ESPN / Star +"
   }
 ]
