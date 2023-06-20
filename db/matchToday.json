@@ -1,48 +1,78 @@
 [
   {
-    "partido": "Ucrania - Malta",
-    "liga": "Eurocopa",
-    "hora": "11:00 a. m.",
-    "canal": "ESPN 2 / Star +"
-  },
-  {
-    "partido": "Turquía - Gales",
+    "partido": "Moldavia - Polonia",
     "liga": "Eurocopa",
     "hora": "1:45 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Suiza - Rumania",
+    "partido": "Liechtenstein - Eslovaquia",
     "liga": "Eurocopa",
     "hora": "1:45 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Eslovenia - Dinamarca",
+    "partido": "Islas Faroe - Albania",
     "liga": "Eurocopa",
     "hora": "1:45 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Irlanda - Gibraltar",
+    "partido": "Escocia - Georgia",
     "liga": "Eurocopa",
     "hora": "1:45 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Francia - Grecia",
+    "partido": "Alemania - Colombia",
+    "liga": "Partido amistoso",
+    "hora": "1:45 p. m.",
+    "canal": "Caracol TV y RCN TV"
+  },
+  {
+    "partido": "Montenegro - República Checa",
+    "liga": "Partido amistoso",
+    "hora": "1:45 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Bulgaria - Serbia",
     "liga": "Eurocopa",
     "hora": "1:45 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Inglaterra - Macedonia",
-    "liga": "Eurocopa",
+    "partido": "Bosnia - Luxemburgo",
+    "liga": "Eliminatorias europeas",
     "hora": "1:45 p. m.",
-    "canal": "ESPN / Star +"
+    "canal": "Star +"
   },
   {
-    "partido": "Irlanda del Norte - Kazajistán",
+    "partido": "Estonia - Bélgica",
+    "liga": "Eurocopa",
+    "hora": "1:45 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Islandia - Portugal",
+    "liga": "Eurocopa",
+    "hora": "1:45 p. m.",
+    "canal": "Star + y ESPN"
+  },
+  {
+    "partido": "Hungría - Lituania",
+    "liga": "Eurocopa",
+    "hora": "1:45 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Austria - Suecia",
+    "liga": "Eurocopa",
+    "hora": "1:45 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Noruega - Chipre",
     "liga": "Eurocopa",
     "hora": "1:45 p. m.",
     "canal": "Star +"
