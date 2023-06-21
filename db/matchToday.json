@@ -1,80 +1,98 @@
 [
   {
-    "partido": "Moldavia - Polonia",
-    "liga": "Eurocopa",
-    "hora": "1:45 p. m.",
+    "partido": "Cruzeiro - Fortaleza",
+    "liga": "Liga de Brasil",
+    "hora": "5:00 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Liechtenstein - Eslovaquia",
-    "liga": "Eurocopa",
-    "hora": "1:45 p. m.",
+    "partido": "Estudiantes - San Lorenzo",
+    "liga": "Liga de Argentina",
+    "hora": "5:00 p. m.",
+    "canal": "Tyc Sports"
+  },
+  {
+    "partido": "Sao Paulo - Atlético Paranaense",
+    "liga": "Liga de Brasil",
+    "hora": "5:00 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Islas Faroe - Albania",
-    "liga": "Eurocopa",
-    "hora": "1:45 p. m.",
+    "partido": "Santos - Corinthians",
+    "liga": "Liga de Brasil",
+    "hora": "6:00 p. m.",
+    "canal": "ESPN 3 / Star +"
+  },
+  {
+    "partido": "Orlando City - Philadelphia Union",
+    "liga": "Liga de Estados Unidos",
+    "hora": "6:30 p. m.",
+    "canal": "Apple TV"
+  },
+  {
+    "partido": "Atlanta United - New York City",
+    "liga": "Liga de Estados Unidos",
+    "hora": "6:30 p. m.",
+    "canal": "Apple TV"
+  },
+  {
+    "partido": "FC Cincinatti - Toronto FC",
+    "liga": "Liga de Estados Unidos",
+    "hora": "6:30 p. m.",
+    "canal": "Apple TV"
+  },
+  {
+    "partido": "New York Red Bulls - Charlotte FC",
+    "liga": "Liga de Estados Unidos",
+    "hora": "6:30 p. m.",
+    "canal": "Apple TV"
+  },
+  {
+    "partido": "CF Montreal - Nashville SC",
+    "liga": "Liga de Estados Unidos",
+    "hora": "6:30 p. m.",
+    "canal": "Apple TV"
+  },
+  {
+    "partido": "Bahía - Palmeiras",
+    "liga": "Liga de Brasil",
+    "hora": "7:30 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Escocia - Georgia",
-    "liga": "Eurocopa",
-    "hora": "1:45 p. m.",
+    "partido": "Colombia - Panamá",
+    "liga": "Amistoso femenino",
+    "hora": "7:30 p. m.",
+    "canal": "Caracol HD2 / Gol Caracol"
+  },
+  {
+    "partido": "Houston Dynamo - San Jose Earthquakes",
+    "liga": "Liga de Estados Unidos",
+    "hora": "7:30 p. m.",
+    "canal": "Apple TV"
+  },
+  {
+    "partido": "Fluminense - Atlético Mineiro",
+    "liga": "Liga de Brasil",
+    "hora": "7:30 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Alemania - Colombia",
-    "liga": "Partido amistoso",
-    "hora": "1:45 p. m.",
-    "canal": "Caracol TV y RCN TV"
+    "partido": "Central Córdoba - Gimnasia de La Plata",
+    "liga": "Liga de Argentina",
+    "hora": "7:30 p. m.",
+    "canal": "AFA Play"
   },
   {
-    "partido": "Montenegro - República Checa",
-    "liga": "Partido amistoso",
-    "hora": "1:45 p. m.",
-    "canal": "Star +"
+    "partido": "Atlético Nacional - Millonarios",
+    "liga": "Liga BetPlay",
+    "hora": "8:00 p. m.",
+    "canal": "Win Sports +"
   },
   {
-    "partido": "Bulgaria - Serbia",
-    "liga": "Eurocopa",
-    "hora": "1:45 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Bosnia - Luxemburgo",
-    "liga": "Eliminatorias europeas",
-    "hora": "1:45 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Estonia - Bélgica",
-    "liga": "Eurocopa",
-    "hora": "1:45 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Islandia - Portugal",
-    "liga": "Eurocopa",
-    "hora": "1:45 p. m.",
-    "canal": "Star + y ESPN"
-  },
-  {
-    "partido": "Hungría - Lituania",
-    "liga": "Eurocopa",
-    "hora": "1:45 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Austria - Suecia",
-    "liga": "Eurocopa",
-    "hora": "1:45 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Noruega - Chipre",
-    "liga": "Eurocopa",
-    "hora": "1:45 p. m.",
-    "canal": "Star +"
+    "partido": "Colorado Rapids - Vancouver",
+    "liga": "Liga de Estados Unidos",
+    "hora": "8:30 p. m.",
+    "canal": "Apple TV"
   }
 ]
