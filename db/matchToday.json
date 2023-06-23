@@ -1,56 +1,20 @@
 [
   {
-    "partido": "Tigre - Vélez Sarsfield",
+    "partido": "Huracán - Newell`s Old Boys",
     "liga": "Superliga Argentina",
-    "hora": "3:00 p. m.",
-    "canal": "Fanatiz / TyC Sports"
+    "hora": "5:00 p. m.",
+    "canal": "Star + / ESPN"
   },
   {
-    "partido": "Racing Club - Barracas Central",
+    "partido": "Argentinos Juniors - Defensa y Justicia",
     "liga": "Superliga Argentina",
-    "hora": "4:00 p. m.",
+    "hora": "7:30 p. m.",
     "canal": "Fanatiz / AFA Play / TyC Sports"
   },
   {
-    "partido": "Gremio - América MG",
-    "liga": "Liga de Brasil",
-    "hora": "5:00 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "River Plate - Instituto de Córdoba",
-    "liga": "Superliga Argentina",
-    "hora": "5:45 p. m.",
-    "canal": "Star + / ESPN 2"
-  },
-  {
-    "partido": "Coritiba - Internacional",
-    "liga": "Liga de Brasil",
-    "hora": "6:00 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Vasco da Gama - Goiás",
-    "liga": "Liga de Brasil",
-    "hora": "6:00 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Cuiabá - Botafogo",
-    "liga": "Liga de Brasil",
-    "hora": "6:00 p. m.",
-    "canal": "Star + / ESPN 3"
-  },
-  {
-    "partido": "Red Bull Bragantino - Flamengo",
-    "liga": "Liga de Brasil",
-    "hora": "7:30 p. m.",
-    "canal": "Star + / Fanatiz"
-  },
-  {
-    "partido": "Godoy Cruz - Boca Juniors",
-    "liga": "Superliga Argentina",
-    "hora": "7:45 p. m.",
-    "canal": "ESPN 2 / Star +"
+    "partido": "Llaneros - Patriotas F.C",
+    "liga": "Torneo Betplay",
+    "hora": "8:00 p. m.",
+    "canal": "Win Sports +"
   }
 ]
