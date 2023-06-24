@@ -1,20 +1,44 @@
 [
   {
-    "partido": "Huracán - Newell`s Old Boys",
-    "liga": "Superliga Argentina",
-    "hora": "5:00 p. m.",
-    "canal": "Star + / ESPN"
+    "partido": "Alemania - Vietnam",
+    "liga": "Amistoso femenino",
+    "hora": "11:15 a. m.",
+    "canal": "ESPN 3 / Star +"
   },
   {
-    "partido": "Argentinos Juniors - Defensa y Justicia",
-    "liga": "Superliga Argentina",
-    "hora": "7:30 p. m.",
-    "canal": "Fanatiz / AFA Play / TyC Sports"
+    "partido": "Unión de Santa Fe - Independiente",
+    "liga": "Liga de Argentina",
+    "hora": "3:00 p. m.",
+    "canal": "TyC Sports"
   },
   {
-    "partido": "Llaneros - Patriotas F.C",
-    "liga": "Torneo Betplay",
-    "hora": "8:00 p. m.",
+    "partido": "Fluminense - Bahía",
+    "liga": "Liga de Brasil",
+    "hora": "4:30 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Lanús - Talleres de Córdoba",
+    "liga": "Liga de Argentina",
+    "hora": "6:00 p. m.",
+    "canal": "AFA Play"
+  },
+  {
+    "partido": "Millonarios - Atlético Nacional",
+    "liga": "Liga BetPlay",
+    "hora": "7:00 p. m.",
     "canal": "Win Sports +"
+  },
+  {
+    "partido": "Cruzeiro - Sao Paulo",
+    "liga": "Liga de Brasil",
+    "hora": "7:00 p. m.",
+    "canal": "ESPN 3 / Star +"
+  },
+  {
+    "partido": "Estados Unidos - Jamaica",
+    "liga": "Copa de Oro",
+    "hora": "8:30 p. m.",
+    "canal": "ESPN 3 / Star +"
   }
 ]
