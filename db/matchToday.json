@@ -1,20 +1,74 @@
 [
   {
-    "partido": "Belgrano - Banfield",
-    "liga": "Superliga Argentina",
-    "hora": "6:00 p. m.",
-    "canal": "TyC Sports"
+    "partido": "San Lorenzo - Estudiantes de Mérida",
+    "liga": "Copa Sudamericana",
+    "hora": "5:00 p. m.",
+    "canal": "DSports"
   },
   {
-    "partido": "Vasco da Gama - Cuiabá",
-    "liga": "Liga de Brasil",
+    "partido": "Atlético Paranaense - Alianza Lima",
+    "liga": "Copa Libertadores",
+    "hora": "5:00 p. m.",
+    "canal": "ESPN 2 / Star +"
+  },
+  {
+    "partido": "Palestino - Fortaleza",
+    "liga": "Copa Sudamericana",
+    "hora": "5:00 p. m.",
+    "canal": "DSports"
+  },
+  {
+    "partido": "Libertad - Atlético Mineiro",
+    "liga": "Copa Libertadores",
+    "hora": "5:00 p. m.",
+    "canal": "ESPN / Star +"
+  },
+  {
+    "partido": "Canadá - Guadalupe",
+    "liga": "Copa de Oro",
+    "hora": "6:00 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Olimpia - Melgar",
+    "liga": "Copa Libertadores",
     "hora": "7:00 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Costa Rica - Panamá",
-    "liga": "Copa de Oro",
-    "hora": "7:30 p. m.",
+    "partido": "River Plate - The Strongest",
+    "liga": "Copa Libertadores",
+    "hora": "7:00 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Fluminense - Sporting Cristal",
+    "liga": "Copa Libertadores",
+    "hora": "7:00 p. m.",
     "canal": "ESPN 2 / Star +"
+  },
+  {
+    "partido": "Atlético Nacional - Patronato",
+    "liga": "Copa Libertadores",
+    "hora": "7:00 p. m.",
+    "canal": "ESPN / Star +"
+  },
+  {
+    "partido": "Sao Paulo - Tigre",
+    "liga": "Copa Sudamericana",
+    "hora": "7:30 p. m.",
+    "canal": "DSports"
+  },
+  {
+    "partido": "Deportes Tolima - Puerto Cabello",
+    "liga": "Copa Sudamericana",
+    "hora": "7:30 p. m.",
+    "canal": "ESPN 3 / Star +"
+  },
+  {
+    "partido": "Guatemala - Cuba",
+    "liga": "Copa de Oro",
+    "hora": "7:45 p. m.",
+    "canal": "Star +"
   }
 ]
