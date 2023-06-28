@@ -1,74 +1,80 @@
 [
   {
-    "partido": "San Lorenzo - Estudiantes de Mérida",
+    "partido": "Red Bull Bragantino - Tacuary",
     "liga": "Copa Sudamericana",
     "hora": "5:00 p. m.",
-    "canal": "DSports"
+    "canal": "Star +"
   },
   {
-    "partido": "Atlético Paranaense - Alianza Lima",
+    "partido": "Nacional (Uru) - Metropolitanos",
     "liga": "Copa Libertadores",
     "hora": "5:00 p. m.",
-    "canal": "ESPN 2 / Star +"
+    "canal": "ESPN 4 / Star +"
   },
   {
-    "partido": "Palestino - Fortaleza",
-    "liga": "Copa Sudamericana",
-    "hora": "5:00 p. m.",
-    "canal": "DSports"
-  },
-  {
-    "partido": "Libertad - Atlético Mineiro",
+    "partido": "Internacional - Independiente Medellín",
     "liga": "Copa Libertadores",
     "hora": "5:00 p. m.",
     "canal": "ESPN / Star +"
   },
   {
-    "partido": "Canadá - Guadalupe",
-    "liga": "Copa de Oro",
-    "hora": "6:00 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Olimpia - Melgar",
-    "liga": "Copa Libertadores",
-    "hora": "7:00 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "River Plate - The Strongest",
-    "liga": "Copa Libertadores",
-    "hora": "7:00 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Fluminense - Sporting Cristal",
-    "liga": "Copa Libertadores",
-    "hora": "7:00 p. m.",
-    "canal": "ESPN 2 / Star +"
-  },
-  {
-    "partido": "Atlético Nacional - Patronato",
-    "liga": "Copa Libertadores",
-    "hora": "7:00 p. m.",
-    "canal": "ESPN / Star +"
-  },
-  {
-    "partido": "Sao Paulo - Tigre",
+    "partido": "Estudiantes - Oriente Petrolero",
     "liga": "Copa Sudamericana",
-    "hora": "7:30 p. m.",
-    "canal": "DSports"
-  },
-  {
-    "partido": "Deportes Tolima - Puerto Cabello",
-    "liga": "Copa Sudamericana",
-    "hora": "7:30 p. m.",
+    "hora": "5:00 p. m.",
     "canal": "ESPN 3 / Star +"
   },
   {
-    "partido": "Guatemala - Cuba",
+    "partido": "Jamaica - Trinidad y Tobago",
     "liga": "Copa de Oro",
-    "hora": "7:45 p. m.",
+    "hora": "6:30 p. m.",
     "canal": "Star +"
+  },
+  {
+    "partido": "Emelec - Danubio",
+    "liga": "Copa Sudamericana",
+    "hora": "7:00 p. m.",
+    "canal": "ESPN 2 / Star +"
+  },
+  {
+    "partido": "Guaraní - Huracán",
+    "liga": "Copa Sudamericana",
+    "hora": "7:00 p. m.",
+    "canal": "DSports"
+  },
+  {
+    "partido": "Independiente del Valle - Argentinos Juniors",
+    "liga": "Copa Libertadores",
+    "hora": "7:30 p. m.",
+    "canal": "Fox Sports 2 / Star +"
+  },
+  {
+    "partido": "Racing Club - Ñublense",
+    "liga": "Copa Libertadores",
+    "hora": "7:30 p. m.",
+    "canal": "ESPN 4 / Star +"
+  },
+  {
+    "partido": "Flamengo - Aucas",
+    "liga": "Copa Libertadores",
+    "hora": "7:30 p. m.",
+    "canal": "ESPN / Star +"
+  },
+  {
+    "partido": "Corinthians - Liverpool Uruguay",
+    "liga": "Copa Libertadores",
+    "hora": "7:30 p. m.",
+    "canal": "Fox Sports 3 / Star +"
+  },
+  {
+    "partido": "Santa Fe - Goiás",
+    "liga": "Copa Sudamericana",
+    "hora": "9:00 p. m.",
+    "canal": "DSports"
+  },
+  {
+    "partido": "Universitario - Gimnasia de La Plata",
+    "liga": "Copa Sudamericana",
+    "hora": "9:00 p. m.",
+    "canal": "ESPN 2 / Star +"
   }
 ]
