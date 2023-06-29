@@ -1,80 +1,74 @@
 [
   {
-    "partido": "Red Bull Bragantino - Tacuary",
+    "partido": "Newell`s Old Boys - Audax",
     "liga": "Copa Sudamericana",
     "hora": "5:00 p. m.",
-    "canal": "Star +"
+    "canal": "Star + / ESPN 4"
   },
   {
-    "partido": "Nacional (Uru) - Metropolitanos",
+    "partido": "Boca Juniors - Monagas",
     "liga": "Copa Libertadores",
     "hora": "5:00 p. m.",
-    "canal": "ESPN 4 / Star +"
+    "canal": "Star + / ESPN 2"
   },
   {
-    "partido": "Internacional - Independiente Medellín",
+    "partido": "Colo Colo - Pereira",
     "liga": "Copa Libertadores",
     "hora": "5:00 p. m.",
     "canal": "ESPN / Star +"
   },
   {
-    "partido": "Estudiantes - Oriente Petrolero",
+    "partido": "Santos - Blooming",
     "liga": "Copa Sudamericana",
     "hora": "5:00 p. m.",
-    "canal": "ESPN 3 / Star +"
+    "canal": "Star + / ESPN 3"
   },
   {
-    "partido": "Jamaica - Trinidad y Tobago",
+    "partido": "Catar - Honduras",
     "liga": "Copa de Oro",
-    "hora": "6:30 p. m.",
+    "hora": "6:45 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Emelec - Danubio",
+    "partido": "Liga de Quito - César Vallejo",
     "liga": "Copa Sudamericana",
     "hora": "7:00 p. m.",
-    "canal": "ESPN 2 / Star +"
+    "canal": "DGO / DSports"
   },
   {
-    "partido": "Guaraní - Huracán",
+    "partido": "Botafogo - Magallanes",
     "liga": "Copa Sudamericana",
     "hora": "7:00 p. m.",
-    "canal": "DSports"
+    "canal": "DGO / DSports"
   },
   {
-    "partido": "Independiente del Valle - Argentinos Juniors",
-    "liga": "Copa Libertadores",
-    "hora": "7:30 p. m.",
-    "canal": "Fox Sports 2 / Star +"
+    "partido": "Peñarol - América MG",
+    "liga": "Copa Sudamericana",
+    "hora": "7:00 p. m.",
+    "canal": "DGO / DSports"
   },
   {
-    "partido": "Racing Club - Ñublense",
+    "partido": "Barcelona (ECU) - Cerro Porteño",
     "liga": "Copa Libertadores",
-    "hora": "7:30 p. m.",
-    "canal": "ESPN 4 / Star +"
+    "hora": "7:00 p. m.",
+    "canal": "Star + / ESPN 4"
   },
   {
-    "partido": "Flamengo - Aucas",
+    "partido": "Palmeiras - Bolívar",
     "liga": "Copa Libertadores",
-    "hora": "7:30 p. m.",
+    "hora": "7:00 p. m.",
+    "canal": "Star + / Fox Sports 2"
+  },
+  {
+    "partido": "Defensa y Justicia - Millonarios",
+    "liga": "Copa Sudamericana",
+    "hora": "7:00 p. m.",
     "canal": "ESPN / Star +"
   },
   {
-    "partido": "Corinthians - Liverpool Uruguay",
-    "liga": "Copa Libertadores",
-    "hora": "7:30 p. m.",
-    "canal": "Fox Sports 3 / Star +"
-  },
-  {
-    "partido": "Santa Fe - Goiás",
-    "liga": "Copa Sudamericana",
+    "partido": "Haití - México",
+    "liga": "Copa de Oro",
     "hora": "9:00 p. m.",
-    "canal": "DSports"
-  },
-  {
-    "partido": "Universitario - Gimnasia de La Plata",
-    "liga": "Copa Sudamericana",
-    "hora": "9:00 p. m.",
-    "canal": "ESPN 2 / Star +"
+    "canal": "Star + / ESPN 2"
   }
 ]
