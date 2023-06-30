@@ -1,74 +1,32 @@
 [
   {
-    "partido": "Newell`s Old Boys - Audax",
-    "liga": "Copa Sudamericana",
+    "partido": "Platense - Lanús",
+    "liga": "Superliga Argentina",
     "hora": "5:00 p. m.",
-    "canal": "Star + / ESPN 4"
+    "canal": "Fanatiz / AFA Play"
   },
   {
-    "partido": "Boca Juniors - Monagas",
-    "liga": "Copa Libertadores",
-    "hora": "5:00 p. m.",
-    "canal": "Star + / ESPN 2"
-  },
-  {
-    "partido": "Colo Colo - Pereira",
-    "liga": "Copa Libertadores",
-    "hora": "5:00 p. m.",
-    "canal": "ESPN / Star +"
-  },
-  {
-    "partido": "Santos - Blooming",
-    "liga": "Copa Sudamericana",
-    "hora": "5:00 p. m.",
-    "canal": "Star + / ESPN 3"
-  },
-  {
-    "partido": "Catar - Honduras",
+    "partido": "El Salvador - Panamá",
     "liga": "Copa de Oro",
-    "hora": "6:45 p. m.",
+    "hora": "7:30 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Liga de Quito - César Vallejo",
-    "liga": "Copa Sudamericana",
-    "hora": "7:00 p. m.",
-    "canal": "DGO / DSports"
+    "partido": "Vélez Sarsfield - Arsenal de Sarandí",
+    "liga": "Superliga Argentina",
+    "hora": "7:30 p. m.",
+    "canal": "Fanatiz / AFA Play"
   },
   {
-    "partido": "Botafogo - Magallanes",
-    "liga": "Copa Sudamericana",
-    "hora": "7:00 p. m.",
-    "canal": "DGO / DSports"
+    "partido": "Atlético Tucumán - Unión de Santa Fe",
+    "liga": "Superliga Argentina",
+    "hora": "7:30 p. m.",
+    "canal": "Fanatiz / AFA Play"
   },
   {
-    "partido": "Peñarol - América MG",
-    "liga": "Copa Sudamericana",
-    "hora": "7:00 p. m.",
-    "canal": "DGO / DSports"
-  },
-  {
-    "partido": "Barcelona (ECU) - Cerro Porteño",
-    "liga": "Copa Libertadores",
-    "hora": "7:00 p. m.",
-    "canal": "Star + / ESPN 4"
-  },
-  {
-    "partido": "Palmeiras - Bolívar",
-    "liga": "Copa Libertadores",
-    "hora": "7:00 p. m.",
-    "canal": "Star + / Fox Sports 2"
-  },
-  {
-    "partido": "Defensa y Justicia - Millonarios",
-    "liga": "Copa Sudamericana",
-    "hora": "7:00 p. m.",
-    "canal": "ESPN / Star +"
-  },
-  {
-    "partido": "Haití - México",
-    "liga": "Copa de Oro",
-    "hora": "9:00 p. m.",
-    "canal": "Star + / ESPN 2"
+    "partido": "América - Santa Fe",
+    "liga": "Liga Femenina",
+    "hora": "8:00 p. m.",
+    "canal": "Win Sports +"
   }
 ]
