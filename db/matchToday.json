@@ -1,20 +1,38 @@
 [
   {
-    "partido": "Goiás - Coritiba",
-    "liga": "Liga de Brasil",
-    "hora": "6:00 p. m.",
+    "partido": "Canadá - Cuba",
+    "liga": "Copa de Oro",
+    "hora": "5:30 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Newell`s Old Boys - Gimnasia de La Plata",
-    "liga": "Liga de Argentina",
-    "hora": "6:00 p. m.",
-    "canal": "AFA Play"
+    "partido": "Guadalupe - Guatemala",
+    "liga": "Copa de Oro",
+    "hora": "5:30 p. m.",
+    "canal": "Star +"
   },
   {
-    "partido": "León - Chivas",
-    "liga": "Liga de México",
-    "hora": "9:00 p. m.",
-    "canal": "Claro Sports"
+    "partido": "Lanús - Vélez Sarsfield",
+    "liga": "Liga de Argentina",
+    "hora": "6:00 p. m.",
+    "canal": "TyC Sports"
+  },
+  {
+    "partido": "Inter Miami - Columbus Crew",
+    "liga": "Liga de Estados Unidos",
+    "hora": "6:30 p. m.",
+    "canal": "Apple TV"
+  },
+  {
+    "partido": "Panamá - El Salvador",
+    "liga": "Copa de Oro",
+    "hora": "7:30 p. m.",
+    "canal": "ESPN 2 / Star +"
+  },
+  {
+    "partido": "LA Galaxy - Los Ángeles",
+    "liga": "Liga de Estados Unidos",
+    "hora": "9:30 p. m.",
+    "canal": "Apple TV"
   }
 ]
