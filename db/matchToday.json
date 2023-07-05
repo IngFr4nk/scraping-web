@@ -1,38 +1,38 @@
 [
   {
-    "partido": "Canadá - Cuba",
-    "liga": "Copa de Oro",
-    "hora": "5:30 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Guadalupe - Guatemala",
-    "liga": "Copa de Oro",
-    "hora": "5:30 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Lanús - Vélez Sarsfield",
+    "partido": "Godoy Cruz - Platense",
     "liga": "Liga de Argentina",
-    "hora": "6:00 p. m.",
+    "hora": "1:30 p. m.",
     "canal": "TyC Sports"
   },
   {
-    "partido": "Inter Miami - Columbus Crew",
-    "liga": "Liga de Estados Unidos",
-    "hora": "6:30 p. m.",
-    "canal": "Apple TV"
+    "partido": "Independiente del Valle - Envigado F.C",
+    "liga": "Copa Libertadores Sub-20",
+    "hora": "2:00 p. m.",
+    "canal": "Youtube Conmebol Libertadores"
   },
   {
-    "partido": "Panamá - El Salvador",
-    "liga": "Copa de Oro",
+    "partido": "Tigre - Banfield",
+    "liga": "Liga de Argentina",
+    "hora": "3:00 p. m.",
+    "canal": "AFA Play"
+  },
+  {
+    "partido": "Rosario Central - Estudiantes",
+    "liga": "Liga de Argentina",
+    "hora": "4:00 p. m.",
+    "canal": "TyC Sports"
+  },
+  {
+    "partido": "Racing Club - San Lorenzo",
+    "liga": "Liga de Argentina",
+    "hora": "5:30 p. m.",
+    "canal": "AFA Play"
+  },
+  {
+    "partido": "River Plate - Colón",
+    "liga": "Liga de Argentina",
     "hora": "7:30 p. m.",
-    "canal": "ESPN 2 / Star +"
-  },
-  {
-    "partido": "LA Galaxy - Los Ángeles",
-    "liga": "Liga de Estados Unidos",
-    "hora": "9:30 p. m.",
-    "canal": "Apple TV"
+    "canal": "ESPN / Star +"
   }
 ]
