@@ -1,38 +1,26 @@
 [
   {
-    "partido": "Godoy Cruz - Platense",
+    "partido": "Arsenal de Sarandí - Defensa y Justicia",
     "liga": "Liga de Argentina",
-    "hora": "1:30 p. m.",
+    "hora": "12:00 p. m.",
     "canal": "TyC Sports"
   },
   {
-    "partido": "Independiente del Valle - Envigado F.C",
-    "liga": "Copa Libertadores Sub-20",
-    "hora": "2:00 p. m.",
-    "canal": "Youtube Conmebol Libertadores"
+    "partido": "Unión de Santa Fe - Boca Juniors",
+    "liga": "Liga de Argentina",
+    "hora": "2:30 p. m.",
+    "canal": "ESPN 4 / Star +"
   },
   {
-    "partido": "Tigre - Banfield",
+    "partido": "Sarmiento de Junín - Talleres de Córdoba",
     "liga": "Liga de Argentina",
-    "hora": "3:00 p. m.",
-    "canal": "AFA Play"
-  },
-  {
-    "partido": "Rosario Central - Estudiantes",
-    "liga": "Liga de Argentina",
-    "hora": "4:00 p. m.",
+    "hora": "5:00 p. m.",
     "canal": "TyC Sports"
   },
   {
-    "partido": "Racing Club - San Lorenzo",
-    "liga": "Liga de Argentina",
-    "hora": "5:30 p. m.",
-    "canal": "AFA Play"
-  },
-  {
-    "partido": "River Plate - Colón",
+    "partido": "Huracán - Atlético Tucumán",
     "liga": "Liga de Argentina",
     "hora": "7:30 p. m.",
-    "canal": "ESPN / Star +"
+    "canal": "TyC Sports"
   }
 ]
