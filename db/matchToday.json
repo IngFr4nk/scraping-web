@@ -1,26 +1,14 @@
 [
   {
-    "partido": "Arsenal de Sarandí - Defensa y Justicia",
-    "liga": "Liga de Argentina",
-    "hora": "12:00 p. m.",
-    "canal": "TyC Sports"
-  },
-  {
-    "partido": "Unión de Santa Fe - Boca Juniors",
-    "liga": "Liga de Argentina",
-    "hora": "2:30 p. m.",
-    "canal": "ESPN 4 / Star +"
-  },
-  {
-    "partido": "Sarmiento de Junín - Talleres de Córdoba",
+    "partido": "Gimnasia de La Plata - Independiente",
     "liga": "Liga de Argentina",
     "hora": "5:00 p. m.",
     "canal": "TyC Sports"
   },
   {
-    "partido": "Huracán - Atlético Tucumán",
+    "partido": "Central Córdoba - Newell`s Old Boys",
     "liga": "Liga de Argentina",
     "hora": "7:30 p. m.",
-    "canal": "TyC Sports"
+    "canal": "AFA Play"
   }
 ]
