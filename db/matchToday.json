@@ -1,14 +1,44 @@
 [
   {
-    "partido": "Gimnasia de La Plata - Independiente",
-    "liga": "Liga de Argentina",
-    "hora": "5:00 p. m.",
-    "canal": "TyC Sports"
+    "partido": "Vasco da Gama - Cruzeiro",
+    "liga": "Liga de Brasil",
+    "hora": "2:00 p. m.",
+    "canal": "Star +"
   },
   {
-    "partido": "Central Córdoba - Newell`s Old Boys",
+    "partido": "Estudiantes - Racing Club",
     "liga": "Liga de Argentina",
-    "hora": "7:30 p. m.",
+    "hora": "4:00 p. m.",
     "canal": "AFA Play"
+  },
+  {
+    "partido": "Panamá - Catar",
+    "liga": "Copa de Oro",
+    "hora": "6:00 p. m.",
+    "canal": "ESPN 2 / Star +"
+  },
+  {
+    "partido": "San Lorenzo - River Plate",
+    "liga": "Liga de Argentina",
+    "hora": "6:30 p. m.",
+    "canal": "ESPN / Star +"
+  },
+  {
+    "partido": "Millonarios - Atlético Nacional",
+    "liga": "Partido amistoso",
+    "hora": "7:00 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Palmeiras - Flamengo",
+    "liga": "Liga de Brasil",
+    "hora": "7:00 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "México - Costa Rica",
+    "liga": "Copa de Oro",
+    "hora": "8:30 p. m.",
+    "canal": "ESPN 2 / Star +"
   }
 ]
