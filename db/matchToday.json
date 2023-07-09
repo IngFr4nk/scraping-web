@@ -1,44 +1,62 @@
 [
   {
-    "partido": "Vasco da Gama - Cruzeiro",
+    "partido": "Santos - Goiás",
+    "liga": "Liga de Brasil",
+    "hora": "9:00 a. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Instituto de Córdoba - Tigre",
+    "liga": "Liga de Argentina",
+    "hora": "1:30 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Platense - Sarmiento de Junín",
+    "liga": "Liga de Argentina",
+    "hora": "1:30 p. m.",
+    "canal": "TyC Sports Internacional"
+  },
+  {
+    "partido": "Fluminense - Internacional",
     "liga": "Liga de Brasil",
     "hora": "2:00 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Estudiantes - Racing Club",
+    "partido": "Red Bull Bragantino - Sao Paulo",
+    "liga": "Liga de Brasil",
+    "hora": "2:00 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Vélez Sarsfield - Godoy Cruz",
     "liga": "Liga de Argentina",
     "hora": "4:00 p. m.",
-    "canal": "AFA Play"
+    "canal": "TyC Sports Internacional"
   },
   {
-    "partido": "Panamá - Catar",
-    "liga": "Copa de Oro",
-    "hora": "6:00 p. m.",
-    "canal": "ESPN 2 / Star +"
+    "partido": "Gremio - Botafogo",
+    "liga": "Liga de Brasil",
+    "hora": "4:30 p. m.",
+    "canal": "Star +"
   },
   {
-    "partido": "San Lorenzo - River Plate",
+    "partido": "Fortaleza - Atlético Paranaense",
+    "liga": "Liga de Brasil",
+    "hora": "4:30 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Defensa y Justicia - Lanús",
     "liga": "Liga de Argentina",
     "hora": "6:30 p. m.",
-    "canal": "ESPN / Star +"
+    "canal": "TyC Sports Internacional"
   },
   {
-    "partido": "Millonarios - Atlético Nacional",
-    "liga": "Partido amistoso",
-    "hora": "7:00 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Palmeiras - Flamengo",
-    "liga": "Liga de Brasil",
-    "hora": "7:00 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "México - Costa Rica",
-    "liga": "Copa de Oro",
-    "hora": "8:30 p. m.",
-    "canal": "ESPN 2 / Star +"
+    "partido": "Banfield - Arsenal de Sarandí",
+    "liga": "Liga de Argentina",
+    "hora": "6:30 p. m.",
+    "canal": "AFA Play"
   }
 ]
