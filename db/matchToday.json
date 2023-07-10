@@ -1,62 +1,26 @@
 [
   {
-    "partido": "Santos - Goiás",
-    "liga": "Liga de Brasil",
-    "hora": "9:00 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Instituto de Córdoba - Tigre",
+    "partido": "Barracas Central - Argentinos Juniors",
     "liga": "Liga de Argentina",
-    "hora": "1:30 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Platense - Sarmiento de Junín",
-    "liga": "Liga de Argentina",
-    "hora": "1:30 p. m.",
+    "hora": "12:00 p. m.",
     "canal": "TyC Sports Internacional"
   },
   {
-    "partido": "Fluminense - Internacional",
-    "liga": "Liga de Brasil",
-    "hora": "2:00 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Red Bull Bragantino - Sao Paulo",
-    "liga": "Liga de Brasil",
-    "hora": "2:00 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Vélez Sarsfield - Godoy Cruz",
+    "partido": "Colón - Belgrano",
     "liga": "Liga de Argentina",
-    "hora": "4:00 p. m.",
+    "hora": "2:30 p. m.",
     "canal": "TyC Sports Internacional"
   },
   {
-    "partido": "Gremio - Botafogo",
-    "liga": "Liga de Brasil",
-    "hora": "4:30 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Fortaleza - Atlético Paranaense",
-    "liga": "Liga de Brasil",
-    "hora": "4:30 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Defensa y Justicia - Lanús",
+    "partido": "Boca Juniors - Huracán",
     "liga": "Liga de Argentina",
-    "hora": "6:30 p. m.",
+    "hora": "5:30 p. m.",
+    "canal": "Star + y ESPN 4"
+  },
+  {
+    "partido": "Talleres de Córdoba - Unión de Santa Fe",
+    "liga": "Liga de Argentina",
+    "hora": "7:30 p. m.",
     "canal": "TyC Sports Internacional"
-  },
-  {
-    "partido": "Banfield - Arsenal de Sarandí",
-    "liga": "Liga de Argentina",
-    "hora": "6:30 p. m.",
-    "canal": "AFA Play"
   }
 ]
