@@ -1,26 +1,38 @@
 [
   {
-    "partido": "Barracas Central - Argentinos Juniors",
+    "partido": "Rosario Central - Central Córdoba",
     "liga": "Liga de Argentina",
-    "hora": "12:00 p. m.",
-    "canal": "TyC Sports Internacional"
+    "hora": "4:45 p. m.",
+    "canal": "AFA Play"
   },
   {
-    "partido": "Colón - Belgrano",
-    "liga": "Liga de Argentina",
-    "hora": "2:30 p. m.",
-    "canal": "TyC Sports Internacional"
+    "partido": "Colo Colo - América MG",
+    "liga": "Copa Sudamericana",
+    "hora": "5:00 p. m.",
+    "canal": "ESPN 2 / Star +"
   },
   {
-    "partido": "Boca Juniors - Huracán",
+    "partido": "Independiente - Newell`s Old Boys",
     "liga": "Liga de Argentina",
-    "hora": "5:30 p. m.",
-    "canal": "Star + y ESPN 4"
+    "hora": "6:00 p. m.",
+    "canal": "TyC Sports"
   },
   {
-    "partido": "Talleres de Córdoba - Unión de Santa Fe",
+    "partido": "Barcelona (ECU) - Estudiantes",
+    "liga": "Copa Sudamericana",
+    "hora": "7:00 p. m.",
+    "canal": "DSports"
+  },
+  {
+    "partido": "Corinthians - Universitario",
+    "liga": "Copa Sudamericana",
+    "hora": "7:30 p. m.",
+    "canal": "DSports"
+  },
+  {
+    "partido": "Atlético Tucumán - Gimnasia de La Plata",
     "liga": "Liga de Argentina",
     "hora": "7:30 p. m.",
-    "canal": "TyC Sports Internacional"
+    "canal": "AFA Play"
   }
 ]
