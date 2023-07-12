@@ -1,38 +1,32 @@
 [
   {
-    "partido": "Rosario Central - Central Córdoba",
-    "liga": "Liga de Argentina",
-    "hora": "4:45 p. m.",
-    "canal": "AFA Play"
-  },
-  {
-    "partido": "Colo Colo - América MG",
+    "partido": "Patronato - Botafogo",
     "liga": "Copa Sudamericana",
     "hora": "5:00 p. m.",
+    "canal": "DSports"
+  },
+  {
+    "partido": "Estados Unidos - Panamá",
+    "liga": "Copa de Oro",
+    "hora": "6:30 p. m.",
+    "canal": "ESPN Extra / Star +"
+  },
+  {
+    "partido": "Sporting Cristal - Emelec",
+    "liga": "Copa Sudamericana",
+    "hora": "7:00 p. m.",
     "canal": "ESPN 2 / Star +"
   },
   {
-    "partido": "Independiente - Newell`s Old Boys",
-    "liga": "Liga de Argentina",
-    "hora": "6:00 p. m.",
-    "canal": "TyC Sports"
-  },
-  {
-    "partido": "Barcelona (ECU) - Estudiantes",
+    "partido": "Independiente Medellín - San Lorenzo",
     "liga": "Copa Sudamericana",
     "hora": "7:00 p. m.",
-    "canal": "DSports"
+    "canal": "ESPN / Star +"
   },
   {
-    "partido": "Corinthians - Universitario",
-    "liga": "Copa Sudamericana",
-    "hora": "7:30 p. m.",
-    "canal": "DSports"
-  },
-  {
-    "partido": "Atlético Tucumán - Gimnasia de La Plata",
-    "liga": "Liga de Argentina",
-    "hora": "7:30 p. m.",
-    "canal": "AFA Play"
+    "partido": "Jamaica - México",
+    "liga": "Copa de Oro",
+    "hora": "9:00 p. m.",
+    "canal": "ESPN 4 / Star +"
   }
 ]
