@@ -1,38 +1,44 @@
 [
   {
-    "partido": "Portugal - Noruega",
-    "liga": "Europeo Sub-19",
-    "hora": "11:00 a. m.",
-    "canal": "UEFA TV"
+    "partido": "Australia - Francia",
+    "liga": "Amistoso femenino",
+    "hora": "8:30 a. m.",
+    "canal": "Star +"
   },
   {
-    "partido": "Peñarol - Boca Juniors",
-    "liga": "Copa Libertadores Sub-20",
-    "hora": "1:30 p. m.",
-    "canal": "Youtube Conmebol Libertadores"
+    "partido": "Envigado F.C - Bucaramanga",
+    "liga": "Liga BetPlay",
+    "hora": "4:00 p. m.",
+    "canal": "Win Sports y Win Sports +"
   },
   {
-    "partido": "España - Italia",
-    "liga": "Europeo Sub-19",
-    "hora": "2:00 p. m.",
-    "canal": "UEFA TV"
-  },
-  {
-    "partido": "Ñublense - Audax",
-    "liga": "Copa Sudamericana",
+    "partido": "Godoy Cruz - Defensa y Justicia",
+    "liga": "Liga de Argentina",
     "hora": "5:00 p. m.",
-    "canal": "ESPN 2 / Star +"
+    "canal": "TyC Sports Internacional"
   },
   {
-    "partido": "Independiente del Valle - Cerro Porteño",
-    "liga": "Copa Libertadores Sub-20",
+    "partido": "Sarmiento de Junín - Vélez Sarsfield",
+    "liga": "Liga de Argentina",
     "hora": "5:00 p. m.",
-    "canal": "Youtube Conmebol Libertadores"
+    "canal": "Star +"
   },
   {
-    "partido": "Libertad - Tigre",
-    "liga": "Copa Sudamericana",
-    "hora": "7:00 p. m.",
+    "partido": "Armenia - Perú",
+    "liga": "Amistoso femenino",
+    "hora": "6:10 p. m.",
     "canal": "DSports"
+  },
+  {
+    "partido": "Huracán - Talleres de Córdoba",
+    "liga": "Liga de Argentina",
+    "hora": "7:30 p. m.",
+    "canal": "TyC Sports Internacional"
+  },
+  {
+    "partido": "Atlético Huila - Unión Magdalena",
+    "liga": "Liga BetPlay",
+    "hora": "7:40 p. m.",
+    "canal": "Win Sports y Win Sports +"
   }
 ]
