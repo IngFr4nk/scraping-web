@@ -1,44 +1,134 @@
 [
   {
-    "partido": "Australia - Francia",
-    "liga": "Amistoso femenino",
-    "hora": "8:30 a. m.",
+    "partido": "Unión de Santa Fe - Platense",
+    "liga": "Liga de Argentina",
+    "hora": "12:00 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Envigado F.C - Bucaramanga",
+    "partido": "Racing Club - Rosario Central",
+    "liga": "Liga de Argentina",
+    "hora": "2:00 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Independiente Medellín - Equidad",
     "liga": "Liga BetPlay",
     "hora": "4:00 p. m.",
     "canal": "Win Sports y Win Sports +"
   },
   {
-    "partido": "Godoy Cruz - Defensa y Justicia",
-    "liga": "Liga de Argentina",
-    "hora": "5:00 p. m.",
-    "canal": "TyC Sports Internacional"
+    "partido": "América MG - Vasco da Gama",
+    "liga": "Liga de Brasil",
+    "hora": "4:30 p. m.",
+    "canal": "Star +"
   },
   {
-    "partido": "Sarmiento de Junín - Vélez Sarsfield",
+    "partido": "River Plate - Estudiantes",
+    "liga": "Liga de Argentina",
+    "hora": "5:00 p. m.",
+    "canal": "Star + y ESPN"
+  },
+  {
+    "partido": "Lanús - Banfield",
     "liga": "Liga de Argentina",
     "hora": "5:00 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Armenia - Perú",
-    "liga": "Amistoso femenino",
-    "hora": "6:10 p. m.",
-    "canal": "DSports"
-  },
-  {
-    "partido": "Huracán - Talleres de Córdoba",
-    "liga": "Liga de Argentina",
-    "hora": "7:30 p. m.",
-    "canal": "TyC Sports Internacional"
-  },
-  {
-    "partido": "Atlético Huila - Unión Magdalena",
+    "partido": "Junior - Águilas Doradas",
     "liga": "Liga BetPlay",
-    "hora": "7:40 p. m.",
-    "canal": "Win Sports y Win Sports +"
+    "hora": "6:10 p. m.",
+    "canal": "Win Sports +"
+  },
+  {
+    "partido": "Philadelphia Union - New York City",
+    "liga": "Liga de Estados Unidos",
+    "hora": "6:30 p. m.",
+    "canal": "Apple TV"
+  },
+  {
+    "partido": "CF Montreal - Charlotte FC",
+    "liga": "Liga de Estados Unidos",
+    "hora": "6:30 p. m.",
+    "canal": "Apple TV"
+  },
+  {
+    "partido": "New England Revolution - D.C. United",
+    "liga": "Liga de Estados Unidos",
+    "hora": "6:30 p. m.",
+    "canal": "Apple TV"
+  },
+  {
+    "partido": "FC Cincinatti - Nashville SC",
+    "liga": "Liga de Estados Unidos",
+    "hora": "6:30 p. m.",
+    "canal": "Apple TV"
+  },
+  {
+    "partido": "Atlanta United - Orlando City",
+    "liga": "Liga de Estados Unidos",
+    "hora": "6:30 p. m.",
+    "canal": "Apple TV"
+  },
+  {
+    "partido": "Corinthians - Gremio",
+    "liga": "Liga de Brasil",
+    "hora": "7:00 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Botafogo - Red Bull Bragantino",
+    "liga": "Liga de Argentina",
+    "hora": "7:00 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Chicago Fire - Toronto FC",
+    "liga": "Liga de Estados Unidos",
+    "hora": "7:30 p. m.",
+    "canal": "Apple TV"
+  },
+  {
+    "partido": "Minnesota United - Los Ángeles",
+    "liga": "Liga de Estados Unidos",
+    "hora": "7:30 p. m.",
+    "canal": "Apple TV"
+  },
+  {
+    "partido": "Deportivo Pasto - Millonarios",
+    "liga": "Liga BetPlay",
+    "hora": "8:20 p. m.",
+    "canal": "Win Sports +"
+  },
+  {
+    "partido": "Real Salt Lake - New York Red Bulls",
+    "liga": "Liga de Estados Unidos",
+    "hora": "8:30 p. m.",
+    "canal": "Apple TV"
+  },
+  {
+    "partido": "Colorado Rapids - Houston Dynamo",
+    "liga": "Liga de Estados Unidos",
+    "hora": "8:30 p. m.",
+    "canal": "Apple TV"
+  },
+  {
+    "partido": "Seattle Sounders - FC Dallas",
+    "liga": "Liga de Estados Unidos",
+    "hora": "9:30 p. m.",
+    "canal": "Apple TV"
+  },
+  {
+    "partido": "Vancouver - LA Galaxy",
+    "liga": "Liga de Estados Unidos",
+    "hora": "9:30 p. m.",
+    "canal": "Apple TV"
+  },
+  {
+    "partido": "Portland Timbers - Columbus Crew",
+    "liga": "Liga de Estados Unidos",
+    "hora": "9:30 p. m.",
+    "canal": "Apple TV"
   }
 ]
