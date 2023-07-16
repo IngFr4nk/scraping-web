@@ -1,134 +1,80 @@
 [
   {
-    "partido": "Unión de Santa Fe - Platense",
+    "partido": "Belgrano - San Lorenzo",
     "liga": "Liga de Argentina",
     "hora": "12:00 p. m.",
-    "canal": "Star +"
+    "canal": "TyC Sports Internacional"
   },
   {
-    "partido": "Racing Club - Rosario Central",
-    "liga": "Liga de Argentina",
+    "partido": "Fortaleza - Cuiabá",
+    "liga": "Liga de Brasil",
     "hora": "2:00 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Independiente Medellín - Equidad",
-    "liga": "Liga BetPlay",
-    "hora": "4:00 p. m.",
-    "canal": "Win Sports y Win Sports +"
+    "partido": "Fluminense - Flamengo",
+    "liga": "Liga de Brasil",
+    "hora": "2:00 p. m.",
+    "canal": "Star +"
   },
   {
-    "partido": "América MG - Vasco da Gama",
+    "partido": "Portugal - Italia",
+    "liga": "Europeo Sub-19",
+    "hora": "2:00 p. m.",
+    "canal": "UEFA TV"
+  },
+  {
+    "partido": "Sao Paulo - Santos",
+    "liga": "Liga de Brasil",
+    "hora": "2:00 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Gimnasia de La Plata - Boca Juniors",
+    "liga": "Liga de Argentina",
+    "hora": "2:30 p. m.",
+    "canal": "Star + y ESPN"
+  },
+  {
+    "partido": "Internacional - Palmeiras",
     "liga": "Liga de Brasil",
     "hora": "4:30 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "River Plate - Estudiantes",
-    "liga": "Liga de Argentina",
-    "hora": "5:00 p. m.",
-    "canal": "Star + y ESPN"
-  },
-  {
-    "partido": "Lanús - Banfield",
-    "liga": "Liga de Argentina",
-    "hora": "5:00 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Junior - Águilas Doradas",
-    "liga": "Liga BetPlay",
-    "hora": "6:10 p. m.",
-    "canal": "Win Sports +"
-  },
-  {
-    "partido": "Philadelphia Union - New York City",
-    "liga": "Liga de Estados Unidos",
-    "hora": "6:30 p. m.",
-    "canal": "Apple TV"
-  },
-  {
-    "partido": "CF Montreal - Charlotte FC",
-    "liga": "Liga de Estados Unidos",
-    "hora": "6:30 p. m.",
-    "canal": "Apple TV"
-  },
-  {
-    "partido": "New England Revolution - D.C. United",
-    "liga": "Liga de Estados Unidos",
-    "hora": "6:30 p. m.",
-    "canal": "Apple TV"
-  },
-  {
-    "partido": "FC Cincinatti - Nashville SC",
-    "liga": "Liga de Estados Unidos",
-    "hora": "6:30 p. m.",
-    "canal": "Apple TV"
-  },
-  {
-    "partido": "Atlanta United - Orlando City",
-    "liga": "Liga de Estados Unidos",
-    "hora": "6:30 p. m.",
-    "canal": "Apple TV"
-  },
-  {
-    "partido": "Corinthians - Gremio",
+    "partido": "Atlético Paranaense - Bahía",
     "liga": "Liga de Brasil",
-    "hora": "7:00 p. m.",
+    "hora": "4:30 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Botafogo - Red Bull Bragantino",
-    "liga": "Liga de Argentina",
-    "hora": "7:00 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Chicago Fire - Toronto FC",
-    "liga": "Liga de Estados Unidos",
-    "hora": "7:30 p. m.",
-    "canal": "Apple TV"
-  },
-  {
-    "partido": "Minnesota United - Los Ángeles",
-    "liga": "Liga de Estados Unidos",
-    "hora": "7:30 p. m.",
-    "canal": "Apple TV"
-  },
-  {
-    "partido": "Deportivo Pasto - Millonarios",
+    "partido": "América - Deportes Tolima",
     "liga": "Liga BetPlay",
-    "hora": "8:20 p. m.",
+    "hora": "5:15 p. m.",
     "canal": "Win Sports +"
   },
   {
-    "partido": "Real Salt Lake - New York Red Bulls",
-    "liga": "Liga de Estados Unidos",
-    "hora": "8:30 p. m.",
-    "canal": "Apple TV"
+    "partido": "México - Panamá",
+    "liga": "Copa de Oro",
+    "hora": "6:30 p. m.",
+    "canal": "Star +"
   },
   {
-    "partido": "Colorado Rapids - Houston Dynamo",
-    "liga": "Liga de Estados Unidos",
-    "hora": "8:30 p. m.",
-    "canal": "Apple TV"
+    "partido": "Once Caldas - Atlético Nacional",
+    "liga": "Liga BetPlay",
+    "hora": "7:30 p. m.",
+    "canal": "Win Sports +"
   },
   {
-    "partido": "Seattle Sounders - FC Dallas",
-    "liga": "Liga de Estados Unidos",
-    "hora": "9:30 p. m.",
-    "canal": "Apple TV"
+    "partido": "Central Córdoba - Independiente",
+    "liga": "Liga de Argentina",
+    "hora": "7:30 p. m.",
+    "canal": "TyC Sports Internacional"
   },
   {
-    "partido": "Vancouver - LA Galaxy",
-    "liga": "Liga de Estados Unidos",
-    "hora": "9:30 p. m.",
-    "canal": "Apple TV"
-  },
-  {
-    "partido": "Portland Timbers - Columbus Crew",
-    "liga": "Liga de Estados Unidos",
-    "hora": "9:30 p. m.",
-    "canal": "Apple TV"
+    "partido": "Argentinos Juniors - Colón",
+    "liga": "Liga de Argentina",
+    "hora": "7:30 p. m.",
+    "canal": "AFA Play"
   }
 ]
