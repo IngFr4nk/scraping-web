@@ -1,80 +1,32 @@
 [
   {
-    "partido": "Belgrano - San Lorenzo",
+    "partido": "Tigre - Barracas Central",
     "liga": "Liga de Argentina",
-    "hora": "12:00 p. m.",
-    "canal": "TyC Sports Internacional"
-  },
-  {
-    "partido": "Fortaleza - Cuiabá",
-    "liga": "Liga de Brasil",
-    "hora": "2:00 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Fluminense - Flamengo",
-    "liga": "Liga de Brasil",
-    "hora": "2:00 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Portugal - Italia",
-    "liga": "Europeo Sub-19",
-    "hora": "2:00 p. m.",
-    "canal": "UEFA TV"
-  },
-  {
-    "partido": "Sao Paulo - Santos",
-    "liga": "Liga de Brasil",
-    "hora": "2:00 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Gimnasia de La Plata - Boca Juniors",
-    "liga": "Liga de Argentina",
-    "hora": "2:30 p. m.",
-    "canal": "Star + y ESPN"
-  },
-  {
-    "partido": "Internacional - Palmeiras",
-    "liga": "Liga de Brasil",
-    "hora": "4:30 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Atlético Paranaense - Bahía",
-    "liga": "Liga de Brasil",
-    "hora": "4:30 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "América - Deportes Tolima",
-    "liga": "Liga BetPlay",
-    "hora": "5:15 p. m.",
-    "canal": "Win Sports +"
-  },
-  {
-    "partido": "México - Panamá",
-    "liga": "Copa de Oro",
-    "hora": "6:30 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Once Caldas - Atlético Nacional",
-    "liga": "Liga BetPlay",
-    "hora": "7:30 p. m.",
-    "canal": "Win Sports +"
-  },
-  {
-    "partido": "Central Córdoba - Independiente",
-    "liga": "Liga de Argentina",
-    "hora": "7:30 p. m.",
-    "canal": "TyC Sports Internacional"
-  },
-  {
-    "partido": "Argentinos Juniors - Colón",
-    "liga": "Liga de Argentina",
-    "hora": "7:30 p. m.",
+    "hora": "4:00 p. m.",
     "canal": "AFA Play"
+  },
+  {
+    "partido": "Arsenal de Sarandí - Instituto de Córdoba",
+    "liga": "Liga de Argentina",
+    "hora": "4:00 p. m.",
+    "canal": "TyC Sports Internacional"
+  },
+  {
+    "partido": "Goiás - Atlético Mineiro",
+    "liga": "Liga de Brasil",
+    "hora": "6:00 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Newell`s Old Boys - Atlético Tucumán",
+    "liga": "Liga de Argentina",
+    "hora": "6:30 p. m.",
+    "canal": "TyC Sports Internacional"
+  },
+  {
+    "partido": "Pereira - Deportivo Cali",
+    "liga": "Liga BetPlay",
+    "hora": "8:00 p. m.",
+    "canal": "Win Sports +"
   }
 ]
