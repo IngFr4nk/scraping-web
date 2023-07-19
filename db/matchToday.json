@@ -1,26 +1,38 @@
 [
   {
-    "partido": "West Ham Utd. - Tottenham Hotspur",
+    "partido": "Real Betis - Mónaco",
     "liga": "Partido amistoso",
-    "hora": "5:00 a. m.",
+    "hora": "1:00 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "América MG - Colo Colo",
+    "partido": "Botafogo - Patronato",
     "liga": "Copa Sudamericana",
     "hora": "5:00 p. m.",
-    "canal": "DSports"
-  },
-  {
-    "partido": "Estudiantes - Barcelona (ECU)",
-    "liga": "Copa Sudamericana",
-    "hora": "7:00 p. m.",
     "canal": "ESPN 2 / Star +"
   },
   {
-    "partido": "Universitario - Corinthians",
+    "partido": "San Lorenzo - Independiente Medellín",
     "liga": "Copa Sudamericana",
-    "hora": "7:30 p. m.",
-    "canal": "ESPN / Star +"
+    "hora": "7:00 p. m.",
+    "canal": "DSports"
+  },
+  {
+    "partido": "Racing Club - San Martín de Tuc.",
+    "liga": "Copa de Argentina",
+    "hora": "7:00 p. m.",
+    "canal": "TyC Sports"
+  },
+  {
+    "partido": "Emelec - Sporting Cristal",
+    "liga": "Copa Sudamericana",
+    "hora": "7:00 p. m.",
+    "canal": "DSports"
+  },
+  {
+    "partido": "Santa Fe - Jaguares de Córdoba",
+    "liga": "Liga BetPlay",
+    "hora": "8:00 p. m.",
+    "canal": "Win Sports +"
   }
 ]
