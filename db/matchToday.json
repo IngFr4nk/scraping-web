@@ -1,44 +1,32 @@
 [
   {
-    "partido": "filipinas - Suiza",
+    "partido": "Suecia - Sudáfrica",
     "liga": "Mundial Femenino",
     "hora": "12:00 a. m.",
-    "canal": "DSports"
+    "canal": "Directv 610"
   },
   {
-    "partido": "España - Costa Rica",
+    "partido": "Países Bajos - Portugal",
     "liga": "Mundial Femenino",
     "hora": "2:30 a. m.",
-    "canal": "Caracol TV / RCN / DSports"
+    "canal": "Directv 610"
   },
   {
-    "partido": "Deportes Tolima - Once Caldas",
-    "liga": "Liga BetPlay",
-    "hora": "4:00 p. m.",
-    "canal": "Win Sports +"
-  },
-  {
-    "partido": "Equidad - Envigado F.C",
-    "liga": "Liga BetPlay",
-    "hora": "6:15 p. m.",
-    "canal": "Win Sports / Win Sports +"
-  },
-  {
-    "partido": "Inter Miami - Cruz Azul",
-    "liga": "Concacaf Cup",
-    "hora": "7:00 p. m.",
-    "canal": "Apple TV"
-  },
-  {
-    "partido": "Estados Unidos - Vietnam",
+    "partido": "Francia - Jamaica",
     "liga": "Mundial Femenino",
-    "hora": "8:00 p. m.",
-    "canal": "DSports"
+    "hora": "5:00 a. m.",
+    "canal": "Directv 610"
   },
   {
-    "partido": "Deportivo Pasto - Alianza Petrolera",
+    "partido": "Bucaramanga - Atlético Huila",
     "liga": "Liga BetPlay",
-    "hora": "8:30 p. m.",
-    "canal": "Win Sports / Win Sports +"
+    "hora": "3:45 p. m.",
+    "canal": "Win Sports y Win +"
+  },
+  {
+    "partido": "Independiente Medellín - Junior",
+    "liga": "Liga BetPlay",
+    "hora": "8:10 p. m.",
+    "canal": "Win Sports +"
   }
 ]
