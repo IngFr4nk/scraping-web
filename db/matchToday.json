@@ -1,92 +1,98 @@
 [
   {
-    "partido": "Nueva Zelanda Femenino - Filipinas Femenino",
+    "partido": "Japón Femenino - Costa Rica Femenino",
     "liga": "Mundial Femenino",
-    "hora": "12:30 a. m.",
+    "hora": "12:00 a. m.",
     "canal": "DGO / DSports"
   },
   {
-    "partido": "Suiza Femenino - Noruega Femenino",
+    "partido": "España Femenino - Zambia Femenino",
     "liga": "Mundial Femenino",
-    "hora": "3:00 a. m.",
+    "hora": "2:30 a. m.",
     "canal": "DGO / DSports"
   },
   {
-    "partido": "Udinese - RB Leipzig",
+    "partido": "Tottenham Hotspur - Roma",
     "liga": "Partido amistoso",
-    "hora": "11:00 a. m.",
+    "hora": "6:30 a. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Barracas Central - Arsenal de Sarandí",
-    "liga": "Copa de Argentina",
-    "hora": "1:30 p. m.",
-    "canal": "Fanatiz / AFA Play / TyC Sports"
+    "partido": "Canadá - Irlanda Femenino",
+    "liga": "Mundial Femenino",
+    "hora": "7:00 a. m.",
+    "canal": "DGO / DSports"
   },
   {
-    "partido": "All Boys - Estudiantes",
-    "liga": "Copa de Argentina",
-    "hora": "1:30 p. m.",
-    "canal": "TyC Sports Internacional"
-  },
-  {
-    "partido": "Sporting de Lisboa - Real Sociedad",
-    "liga": "Partido amistoso",
-    "hora": "2:30 p. m.",
-    "canal": "Star + / ESPN 2"
-  },
-  {
-    "partido": "Patronato - Argentinos Juniors",
-    "liga": "Copa de Argentina",
-    "hora": "4:00 p. m.",
-    "canal": "TyC Sports Internacional"
-  },
-  {
-    "partido": "Colón - Tigre",
-    "liga": "Copa de Argentina",
-    "hora": "4:00 p. m.",
-    "canal": "Fanatiz / AFA Play / TyC Sports"
-  },
-  {
-    "partido": "Instituto de Córdoba - Lanús",
-    "liga": "Copa de Argentina",
-    "hora": "6:30 p. m.",
-    "canal": "Fanatiz / AFA Play / TyC Sports"
-  },
-  {
-    "partido": "Inter Miami - Atlanta United",
+    "partido": "San Luis - New England Revolution",
     "liga": "Concacaf Cup",
     "hora": "6:30 p. m.",
     "canal": "Apple TV"
   },
   {
-    "partido": "Quindío - Bogotá",
-    "liga": "Torneo Betplay",
+    "partido": "Philadelphia Union - Querétaro",
+    "liga": "Concacaf Cup",
+    "hora": "6:30 p. m.",
+    "canal": "Apple TV"
+  },
+  {
+    "partido": "CF Montreal - D.C. United",
+    "liga": "Concacaf Cup",
+    "hora": "6:30 p. m.",
+    "canal": "Apple TV"
+  },
+  {
+    "partido": "New York City - Toronto FC",
+    "liga": "Concacaf Cup",
+    "hora": "6:30 p. m.",
+    "canal": "Apple TV"
+  },
+  {
+    "partido": "San Lorenzo - Platense",
+    "liga": "Copa de Argentina",
+    "hora": "7:10 p. m.",
+    "canal": "TyC Sports Internacional"
+  },
+  {
+    "partido": "Gremio - Flamengo",
+    "liga": "Copa de Brasil",
     "hora": "7:30 p. m.",
+    "canal": "Globo Internacional"
+  },
+  {
+    "partido": "Real Madrid - Manchester United",
+    "liga": "Partido amistoso",
+    "hora": "7:30 p. m.",
+    "canal": "Star + / ESPN"
+  },
+  {
+    "partido": "Estados Unidos Femenino - Paises Bajos Femenino",
+    "liga": "Mundial Femenino",
+    "hora": "8:00 p. m.",
+    "canal": "DGO / DSports"
+  },
+  {
+    "partido": "América - Atlético Nacional",
+    "liga": "Copa Betplay",
+    "hora": "8:00 p. m.",
     "canal": "Win Sports + / winsportsonline.com"
   },
   {
-    "partido": "Santos Laguna - Houston Dynamo",
-    "liga": "Concacaf Cup",
-    "hora": "7:30 p. m.",
-    "canal": "Apple TV"
-  },
-  {
-    "partido": "Mazatlán - FC Juárez",
+    "partido": "Monterrey - Real Salt Lake",
     "liga": "Concacaf Cup",
     "hora": "8:30 p. m.",
     "canal": "Apple TV"
   },
   {
-    "partido": "FC Dallas - Necaxa",
-    "liga": "Concacaf Cup",
-    "hora": "8:30 p. m.",
-    "canal": "Apple TV"
-  },
-  {
-    "partido": "LA Galaxy - León",
-    "liga": "Concacaf Cup",
+    "partido": "Barcelona - Arsenal",
+    "liga": "Partido amistoso",
     "hora": "9:30 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Portland Timbers - Tigres",
+    "liga": "Concacaf Cup",
+    "hora": "10:00 p. m.",
     "canal": "Apple TV"
   }
 ]
