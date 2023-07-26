@@ -10,6 +10,7 @@ jobs:
   deploy:
     runs-on: ubuntu-22.04
     name: Deploy API to cloudFlare workers
+    environment: Production
     steps:
       - uses: actions/checkout@v3
       - uses: actions/setup-node@v3
@@ -23,3 +24,4 @@ jobs:
         with:
           apiToken: ${{ secrets.CF_API_TOKEN }}
           workingDirectory: src
+          command: publish --env production
