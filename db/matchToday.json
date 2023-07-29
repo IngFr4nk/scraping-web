@@ -1,26 +1,68 @@
 [
   {
-    "partido": "Inglaterra Femenino - Dinamarca Femenino",
+    "partido": "Suecia Femenino - Italia Femenino",
     "liga": "Mundial Femenino",
-    "hora": "3:30 a. m.",
+    "hora": "2:30 a. m.",
     "canal": "DSports"
   },
   {
-    "partido": "China Femenino - Haití Femenino",
+    "partido": "Francia Femenino - Brasil Femenino",
     "liga": "Mundial Femenino",
-    "hora": "6:00 a. m.",
+    "hora": "5:00 a. m.",
+    "canal": "Caracol / RCN / DSports"
+  },
+  {
+    "partido": "Panamá Femenino - Jamaica Femenino",
+    "liga": "Mundial Femenino",
+    "hora": "7:30 a. m.",
     "canal": "DSports"
   },
   {
-    "partido": "Patriotas F.C - Real Cartagena",
-    "liga": "Torneo Betplay",
-    "hora": "6:00 p. m.",
+    "partido": "Fluminense - Santos",
+    "liga": "Liga de Brasil",
+    "hora": "2:00 p. m.",
+    "canal": "ESPN 2 / Star +"
+  },
+  {
+    "partido": "Independiente - Boca Juniors",
+    "liga": "Liga de Argentina",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN / Star +"
+  },
+  {
+    "partido": "Real Madrid - Barcelona",
+    "liga": "Partido amistoso",
+    "hora": "4:00 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Deportes Tolima - Águilas Doradas",
+    "liga": "Liga BetPlay",
+    "hora": "4:00 p. m.",
+    "canal": "Win Sports / Win Sports +"
+  },
+  {
+    "partido": "Alianza Petrolera - Millonarios",
+    "liga": "Liga BetPlay",
+    "hora": "6:10 p. m.",
     "canal": "Win Sports +"
   },
   {
-    "partido": "Cortuluá - Llaneros",
-    "liga": "Torneo Betplay",
-    "hora": "8:00 p. m.",
-    "canal": "Win Sports / Win Sports +"
+    "partido": "Atlético Mineiro - Flamengo",
+    "liga": "Liga de Brasil",
+    "hora": "7:00 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Atlético Nacional - Jaguares de Córdoba",
+    "liga": "Liga BetPlay",
+    "hora": "8:20 p. m.",
+    "canal": "Win Sports +"
+  },
+  {
+    "partido": "Corea Femenino - Marruecos Femenino",
+    "liga": "Mundial Femenino",
+    "hora": "11:30 p. m.",
+    "canal": "DSports"
   }
 ]
