@@ -1,44 +1,74 @@
 [
   {
-    "partido": "Japón Femenino - España Femenino",
+    "partido": "Estados Unidos Femenino - Portugal Femenino",
     "liga": "Mundial Femenino",
     "hora": "2:00 a. m.",
-    "canal": "DSports"
+    "canal": "Directv, Caracol y RCN"
   },
   {
-    "partido": "Costa Rica Femenino - Zambia Femenino",
+    "partido": "Vietnam Femenino - Paises Bajos Femenino",
     "liga": "Mundial Femenino",
     "hora": "2:00 a. m.",
-    "canal": "DSports"
+    "canal": "Directv Sports"
   },
   {
-    "partido": "Irlanda Femenino - Nigeria Femenino",
+    "partido": "Haití Femenino - Dinamarca Femenino",
     "liga": "Mundial Femenino",
-    "hora": "5:00 a. m.",
-    "canal": "DSports"
+    "hora": "6:00 a. m.",
+    "canal": "Directv Sports"
   },
   {
-    "partido": "Canadá Femenino - Australia Femenino",
+    "partido": "China Femenino - Inglaterra Femenino",
     "liga": "Mundial Femenino",
-    "hora": "5:00 a. m.",
-    "canal": "RCN / Caracol / DSports"
+    "hora": "6:00 a. m.",
+    "canal": "Directv Sports"
   },
   {
-    "partido": "Envigado F.C - Unión Magdalena",
-    "liga": "Liga BetPlay",
-    "hora": "4:00 p. m.",
-    "canal": "Win Sports / Win Sports +"
+    "partido": "Argentinos Juniors - Fluminense",
+    "liga": "Copa Libertadores",
+    "hora": "5:00 p. m.",
+    "canal": "ESPN 2 y Star+"
   },
   {
-    "partido": "Boyacá Chicó - Equidad",
-    "liga": "Liga BetPlay",
-    "hora": "6:10 p. m.",
-    "canal": "Win Sports / Win Sports +"
+    "partido": "Libertad - Fortaleza",
+    "liga": "Copa Sudamericana",
+    "hora": "5:00 p. m.",
+    "canal": "Directv Sports"
   },
   {
-    "partido": "Junior - Bucaramanga",
-    "liga": "Liga BetPlay",
-    "hora": "8:20 p. m.",
+    "partido": "River Plate - Internacional",
+    "liga": "Copa Libertadores",
+    "hora": "7:00 p. m.",
+    "canal": "ESPN y Star+"
+  },
+  {
+    "partido": "Emelec - Defensa y Justicia",
+    "liga": "Copa Sudamericana",
+    "hora": "7:00 p. m.",
+    "canal": "ESPN 2 y Star+"
+  },
+  {
+    "partido": "Bolívar - Atlético Paranaense",
+    "liga": "Copa Libertadores",
+    "hora": "7:00 p. m.",
+    "canal": "Fox Sports 2 y Star+"
+  },
+  {
+    "partido": "Leones - Quindío",
+    "liga": "Torneo Betplay",
+    "hora": "7:30 p. m.",
     "canal": "Win Sports +"
+  },
+  {
+    "partido": "Corinthians - Newell`s Old Boys",
+    "liga": "Copa Sudamericana",
+    "hora": "7:30 p. m.",
+    "canal": "Directv Sports"
+  },
+  {
+    "partido": "Barcelona - Milán",
+    "liga": "Partido amistoso",
+    "hora": "10:00 p. m.",
+    "canal": "Star +"
   }
 ]
