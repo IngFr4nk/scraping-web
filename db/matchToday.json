@@ -1,62 +1,50 @@
 [
   {
-    "partido": "Sudáfrica Femenino - Italia Femenino",
+    "partido": "Marruecos Femenino - Colombia Femenino",
     "liga": "Mundial Femenino",
-    "hora": "2:00 a. m.",
+    "hora": "5:00 a. m.",
+    "canal": "RCN / Caracol / Directv Sports"
+  },
+  {
+    "partido": "Corea Femenino - Alemania Femenino",
+    "liga": "Mundial Femenino",
+    "hora": "5:00 a. m.",
     "canal": "Directv Sports"
   },
   {
-    "partido": "Argentina Femenino - Suecia Femenino",
-    "liga": "Mundial Femenino",
-    "hora": "2:00 a. m.",
-    "canal": "Directv, Caracol y RCN"
-  },
-  {
-    "partido": "Jamaica Femenino - Brasil Femenino",
-    "liga": "Mundial Femenino",
-    "hora": "5:00 a. m.",
-    "canal": "Directv, Caracol y RCN"
-  },
-  {
-    "partido": "Panamá Femenino - Francia Femenino",
-    "liga": "Mundial Femenino",
-    "hora": "5:00 a. m.",
-    "canal": "Directv, Caracol y RCN"
-  },
-  {
-    "partido": "Estudiantes - Goiás",
+    "partido": "San Lorenzo - Sao Paulo",
     "liga": "Copa Sudamericana",
     "hora": "5:00 p. m.",
+    "canal": "ESPN 2 / Star +"
+  },
+  {
+    "partido": "América MG - Red Bull Bragantino",
+    "liga": "Copa Sudamericana",
+    "hora": "7:00 p. m.",
+    "canal": "ESPN 3 / Star +"
+  },
+  {
+    "partido": "Atlético Nacional - Racing Club",
+    "liga": "Copa Libertadores",
+    "hora": "7:00 p. m.",
+    "canal": "ESPN / Star +"
+  },
+  {
+    "partido": "Flamengo - Olimpia",
+    "liga": "Copa Libertadores",
+    "hora": "7:00 p. m.",
+    "canal": "ESPN 2 / Star +"
+  },
+  {
+    "partido": "Ñublense - Liga de Quito",
+    "liga": "Copa Sudamericana",
+    "hora": "7:00 p. m.",
     "canal": "Directv Sports"
   },
   {
-    "partido": "Botafogo - Guaraní",
-    "liga": "Copa Sudamericana",
-    "hora": "5:00 p. m.",
-    "canal": "ESPN 3 y Star+"
-  },
-  {
-    "partido": "Nacional (Uru) - Boca Juniors",
-    "liga": "Copa Libertadores",
-    "hora": "7:00 p. m.",
-    "canal": "ESPN y Star+"
-  },
-  {
-    "partido": "Pereira - Independiente del Valle",
-    "liga": "Copa Libertadores",
-    "hora": "7:00 p. m.",
-    "canal": "ESPN 2 y Star+"
-  },
-  {
-    "partido": "Atlético Mineiro - Palmeiras",
-    "liga": "Copa Libertadores",
-    "hora": "7:30 p. m.",
-    "canal": "Fox Sports 2 y Star+"
-  },
-  {
-    "partido": "Santa Fe - Independiente Medellín",
-    "liga": "Liga BetPlay",
-    "hora": "7:30 p. m.",
-    "canal": "Win Sports +"
+    "partido": "Real Salt Lake - León",
+    "liga": "Concacaf Cup",
+    "hora": "9:30 p. m.",
+    "canal": "Apple TV"
   }
 ]
