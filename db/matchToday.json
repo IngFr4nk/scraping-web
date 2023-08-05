@@ -1,32 +1,68 @@
 [
   {
-    "partido": "Atlético Huila - Alianza Petrolera",
+    "partido": "Suiza Femenino - España Femenino",
+    "liga": "Mundial Femenino",
+    "hora": "12:00 a. m.",
+    "canal": "Caracol / RCN / Directv Sports"
+  },
+  {
+    "partido": "Japón Femenino - Noruega Femenino",
+    "liga": "Mundial Femenino",
+    "hora": "3:00 a. m.",
+    "canal": "Directv Sports"
+  },
+  {
+    "partido": "Bayer Leverkusen - West Ham Utd.",
+    "liga": "Partido amistoso",
+    "hora": "6:30 a. m.",
+    "canal": "ESPN / Star +"
+  },
+  {
+    "partido": "Santos - Atlético Paranaense",
+    "liga": "Liga de Brasil",
+    "hora": "2:00 p. m.",
+    "canal": "ESPN 2 / Star +"
+  },
+  {
+    "partido": "Unión Magdalena - Junior",
     "liga": "Liga BetPlay",
-    "hora": "6:15 p. m.",
-    "canal": "Win Sports + / Win Sports"
+    "hora": "4:00 p. m.",
+    "canal": "Win Sports +"
   },
   {
-    "partido": "Chicago Fire - América (México)",
-    "liga": "Concacaf Cup",
-    "hora": "7:00 p. m.",
-    "canal": "Apple TV"
+    "partido": "Internacional - Corinthians",
+    "liga": "Liga de Brasil",
+    "hora": "4:30 p. m.",
+    "canal": "Star +"
   },
   {
-    "partido": "Columbus Crew - Minnesota United",
-    "liga": "Concacaf Cup",
-    "hora": "7:00 p. m.",
-    "canal": "Apple TV"
-  },
-  {
-    "partido": "Águilas Doradas - Once Caldas",
+    "partido": "Pereira - Boyacá Chicó",
     "liga": "Liga BetPlay",
-    "hora": "8:30 p. m.",
-    "canal": "Win Sports + / winsportsonline.com"
+    "hora": "6:10 p. m.",
+    "canal": "Win Sports / Win Sports +"
   },
   {
-    "partido": "Tigres - Vancouver",
-    "liga": "Concacaf Cup",
-    "hora": "9:30 p. m.",
-    "canal": "Apple TV"
+    "partido": "Fluminense - Palmeiras",
+    "liga": "Liga de Brasil",
+    "hora": "7:00 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Independiente Medellín - Envigado F.C",
+    "liga": "Liga BetPlay",
+    "hora": "8:20 p. m.",
+    "canal": "Win Sports +"
+  },
+  {
+    "partido": "Paises Bajos Femenino - Sudáfrica Femenino",
+    "liga": "Mundial Femenino",
+    "hora": "9:00 p. m.",
+    "canal": "Directv Sports"
+  },
+  {
+    "partido": "Real Betis - Real Sociedad",
+    "liga": "Partido amistoso",
+    "hora": "9:00 p. m.",
+    "canal": "ESPN / Star +"
   }
 ]
