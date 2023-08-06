@@ -1,68 +1,62 @@
 [
   {
-    "partido": "Suiza Femenino - España Femenino",
+    "partido": "Suecia Femenino - Estados Unidos Femenino",
     "liga": "Mundial Femenino",
-    "hora": "12:00 a. m.",
+    "hora": "4:00 a. m.",
     "canal": "Caracol / RCN / Directv Sports"
   },
   {
-    "partido": "Japón Femenino - Noruega Femenino",
-    "liga": "Mundial Femenino",
-    "hora": "3:00 a. m.",
-    "canal": "Directv Sports"
+    "partido": "Leicester City - Coventry City",
+    "liga": "Championship",
+    "hora": "6:00 a. m.",
+    "canal": "Star +"
   },
   {
-    "partido": "Bayer Leverkusen - West Ham Utd.",
-    "liga": "Partido amistoso",
-    "hora": "6:30 a. m.",
+    "partido": "Leeds - Cardiff",
+    "liga": "Championship",
+    "hora": "8:30 a. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Manchester City - Arsenal",
+    "liga": "Community Shield",
+    "hora": "10:00 a. m.",
     "canal": "ESPN / Star +"
   },
   {
-    "partido": "Santos - Atlético Paranaense",
+    "partido": "Sao Paulo - Atlético Mineiro",
     "liga": "Liga de Brasil",
     "hora": "2:00 p. m.",
-    "canal": "ESPN 2 / Star +"
+    "canal": "ESPN / Star +"
   },
   {
-    "partido": "Unión Magdalena - Junior",
+    "partido": "Equidad - América",
     "liga": "Liga BetPlay",
     "hora": "4:00 p. m.",
     "canal": "Win Sports +"
   },
   {
-    "partido": "Internacional - Corinthians",
+    "partido": "Cruzeiro - Botafogo",
     "liga": "Liga de Brasil",
     "hora": "4:30 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Pereira - Boyacá Chicó",
+    "partido": "Deportivo Cali - Atlético Nacional",
     "liga": "Liga BetPlay",
     "hora": "6:10 p. m.",
-    "canal": "Win Sports / Win Sports +"
-  },
-  {
-    "partido": "Fluminense - Palmeiras",
-    "liga": "Liga de Brasil",
-    "hora": "7:00 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Independiente Medellín - Envigado F.C",
-    "liga": "Liga BetPlay",
-    "hora": "8:20 p. m.",
     "canal": "Win Sports +"
   },
   {
-    "partido": "Paises Bajos Femenino - Sudáfrica Femenino",
-    "liga": "Mundial Femenino",
-    "hora": "9:00 p. m.",
-    "canal": "Directv Sports"
+    "partido": "FC Dallas - Inter Miami",
+    "liga": "Concacaf Cup",
+    "hora": "7:00 p. m.",
+    "canal": "Apple TV"
   },
   {
-    "partido": "Real Betis - Real Sociedad",
-    "liga": "Partido amistoso",
-    "hora": "9:00 p. m.",
-    "canal": "ESPN / Star +"
+    "partido": "Deportivo Pasto - Santa Fe",
+    "liga": "Liga BetPlay",
+    "hora": "8:20 p. m.",
+    "canal": "Win Sports +"
   }
 ]
