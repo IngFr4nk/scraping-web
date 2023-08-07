@@ -1,62 +1,62 @@
 [
   {
-    "partido": "Suecia Femenino - Estados Unidos Femenino",
+    "partido": "Inglaterra Femenino - Nigeria Femenino",
     "liga": "Mundial Femenino",
-    "hora": "4:00 a. m.",
+    "hora": "2:30 a. m.",
+    "canal": "DGO / DSports"
+  },
+  {
+    "partido": "Inglaterra Femenino - Nigeria Femenino",
+    "liga": "Mundial Femenino",
+    "hora": "2:30 a. m.",
     "canal": "Caracol / RCN / Directv Sports"
   },
   {
-    "partido": "Leicester City - Coventry City",
-    "liga": "Championship",
-    "hora": "6:00 a. m.",
-    "canal": "Star +"
+    "partido": "Australia Femenino - Dinamarca Femenino",
+    "liga": "Mundial Femenino",
+    "hora": "5:30 a. m.",
+    "canal": "Directv Sports"
   },
   {
-    "partido": "Leeds - Cardiff",
-    "liga": "Championship",
-    "hora": "8:30 a. m.",
-    "canal": "Star +"
+    "partido": "Australia Femenino - Dinamarca Femenino",
+    "liga": "Mundial Femenino",
+    "hora": "5:30 a. m.",
+    "canal": "DGO / DSports"
   },
   {
-    "partido": "Manchester City - Arsenal",
-    "liga": "Community Shield",
+    "partido": "Bayern Munich - Mónaco",
+    "liga": "Partido amistoso",
     "hora": "10:00 a. m.",
-    "canal": "ESPN / Star +"
-  },
-  {
-    "partido": "Sao Paulo - Atlético Mineiro",
-    "liga": "Liga de Brasil",
-    "hora": "2:00 p. m.",
-    "canal": "ESPN / Star +"
-  },
-  {
-    "partido": "Equidad - América",
-    "liga": "Liga BetPlay",
-    "hora": "4:00 p. m.",
-    "canal": "Win Sports +"
-  },
-  {
-    "partido": "Cruzeiro - Botafogo",
-    "liga": "Liga de Brasil",
-    "hora": "4:30 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Deportivo Cali - Atlético Nacional",
+    "partido": "Liverpool - Darmstadt 98",
+    "liga": "Partido amistoso",
+    "hora": "1:00 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Atlético FC - Bogotá",
+    "liga": "Torneo Betplay",
+    "hora": "3:00 p. m.",
+    "canal": "Win Sports / Win Sports +"
+  },
+  {
+    "partido": "Bucaramanga - Jaguares de Córdoba",
     "liga": "Liga BetPlay",
-    "hora": "6:10 p. m.",
+    "hora": "5:15 p. m.",
+    "canal": "Win Sports / Win Sports +"
+  },
+  {
+    "partido": "Millonarios - Deportes Tolima",
+    "liga": "Liga BetPlay",
+    "hora": "7:30 p. m.",
     "canal": "Win Sports +"
   },
   {
-    "partido": "FC Dallas - Inter Miami",
-    "liga": "Concacaf Cup",
-    "hora": "7:00 p. m.",
-    "canal": "Apple TV"
-  },
-  {
-    "partido": "Deportivo Pasto - Santa Fe",
-    "liga": "Liga BetPlay",
-    "hora": "8:20 p. m.",
-    "canal": "Win Sports +"
+    "partido": "Atlético FC - Bogotá",
+    "liga": "Torneo Betplay",
+    "hora": "7:30 p. m.",
+    "canal": "Win Sports + / Win Sports"
   }
 ]
