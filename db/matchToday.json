@@ -1,80 +1,128 @@
 [
   {
-    "partido": "Japón Femenino - Suecia Femenino",
-    "liga": "Mundial Femenino",
-    "hora": "2:30 a. m.",
-    "canal": "Directv, Caracol y RCN"
+    "partido": "Stade Brestois - Lens",
+    "liga": "Liga de Francia",
+    "hora": "6:00 a. m.",
+    "canal": "Star + / ESPN"
   },
   {
-    "partido": "Almería - Rayo Vallecano",
+    "partido": "Feyenoord - Fortuna Sittard",
+    "liga": "Liga de Holanda",
+    "hora": "7:30 a. m.",
+    "canal": "Star + / ESPN Extra"
+  },
+  {
+    "partido": "Brentford - Tottenham Hotspur",
+    "liga": "Liga de Inglaterra",
+    "hora": "8:00 a. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Atlético Mineiro - Bahía",
+    "liga": "Liga de Brasil",
+    "hora": "9:00 a. m.",
+    "canal": "Star + / Fanatiz"
+  },
+  {
+    "partido": "Celta de Vigo - Osasuna",
+    "liga": "Liga de Espana",
+    "hora": "10:00 a. m.",
+    "canal": "Star + / ESPN 2"
+  },
+  {
+    "partido": "Rennes - Metz",
+    "liga": "Liga de Francia",
+    "hora": "10:00 a. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Chelsea - Liverpool",
+    "liga": "Liga de Inglaterra",
+    "hora": "10:30 a. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Villarreal - Real Betis",
     "liga": "Liga de Espana",
     "hora": "12:30 p. m.",
-    "canal": "ESPN 2 y Star+"
+    "canal": "DGO / DSports"
   },
   {
-    "partido": "Burnley - Manchester City",
-    "liga": "Liga de Inglaterra",
-    "hora": "2:00 p. m.",
-    "canal": "ESPN y Star+"
-  },
-  {
-    "partido": "Niza - Lille",
+    "partido": "Strasbourg - Lyon",
     "liga": "Liga de Francia",
-    "hora": "2:00 p. m.",
+    "hora": "1:45 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Génoa - Modena",
-    "liga": "Copa de Italia",
+    "partido": "Corinthians - Coritiba",
+    "liga": "Liga de Brasil",
     "hora": "2:00 p. m.",
-    "canal": "Star +"
+    "canal": "Star + / Fanatiz"
   },
   {
-    "partido": "Braga - Famalicao",
-    "liga": "Liga de Portugal",
-    "hora": "2:15 p. m.",
-    "canal": "GolTV"
+    "partido": "Gremio - Fluminense",
+    "liga": "Liga de Brasil",
+    "hora": "2:00 p. m.",
+    "canal": "Star + / Fanatiz"
   },
   {
-    "partido": "Sevilla - Valencia CF",
+    "partido": "América MG - Goiás",
+    "liga": "Liga de Brasil",
+    "hora": "2:00 p. m.",
+    "canal": "Star + / Fanatiz"
+  },
+  {
+    "partido": "Getafe - Barcelona",
     "liga": "Liga de Espana",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN 2 y Star+"
+    "hora": "2:30 p. m.",
+    "canal": "Star + / ESPN"
   },
   {
-    "partido": "Águilas Doradas - Deportivo Cali",
+    "partido": "América - Independiente Medellín",
     "liga": "Liga BetPlay",
-    "hora": "6:20 p. m.",
+    "hora": "4:00 p. m.",
     "canal": "Win Sports +"
   },
   {
-    "partido": "Philadelphia Union - Querétaro",
-    "liga": "Concacaf Cup",
-    "hora": "7:00 p. m.",
-    "canal": "Apple TV"
-  },
-  {
-    "partido": "Inter Miami - Charlotte FC",
-    "liga": "Concacaf Cup",
-    "hora": "7:30 p. m.",
-    "canal": "Apple TV"
-  },
-  {
-    "partido": "Nashville SC - Minnesota United",
-    "liga": "Concacaf Cup",
-    "hora": "7:30 p. m.",
-    "canal": "Apple TV"
-  },
-  {
-    "partido": "Deportes Tolima - Atlético Huila",
+    "partido": "América - Independiente Medellín",
     "liga": "Liga BetPlay",
-    "hora": "8:30 p. m.",
-    "canal": "Win Sports y Win +"
+    "hora": "4:00 p. m.",
+    "canal": "Win Sports +"
   },
   {
-    "partido": "Los Ángeles - Monterrey",
-    "liga": "Concacaf Cup",
-    "hora": "9:30 p. m.",
-    "canal": "Apple TV"
+    "partido": "Flamengo - Sao Paulo",
+    "liga": "Liga de Brasil",
+    "hora": "4:30 p. m.",
+    "canal": "Star + / Fanatiz"
+  },
+  {
+    "partido": "Fortaleza - Santos",
+    "liga": "Liga de Brasil",
+    "hora": "4:30 p. m.",
+    "canal": "Star + / Fanatiz"
+  },
+  {
+    "partido": "Jaguares de Córdoba - Millonarios",
+    "liga": "Liga BetPlay",
+    "hora": "6:10 p. m.",
+    "canal": "Win Sports +"
+  },
+  {
+    "partido": "Jaguares de Córdoba - Millonarios",
+    "liga": "Liga BetPlay",
+    "hora": "6:10 p. m.",
+    "canal": "Win Sports +"
+  },
+  {
+    "partido": "Atlético Nacional - Bucaramanga",
+    "liga": "Liga BetPlay",
+    "hora": "8:20 p. m.",
+    "canal": "Win Sports +"
+  },
+  {
+    "partido": "Atlético Nacional - Bucaramanga",
+    "liga": "Liga BetPlay",
+    "hora": "8:20 p. m.",
+    "canal": "Win Sports +"
   }
 ]
