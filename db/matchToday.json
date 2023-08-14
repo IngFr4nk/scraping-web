@@ -1,128 +1,50 @@
 [
   {
-    "partido": "Stade Brestois - Lens",
-    "liga": "Liga de Francia",
-    "hora": "6:00 a. m.",
-    "canal": "Star + / ESPN"
-  },
-  {
-    "partido": "Feyenoord - Fortuna Sittard",
-    "liga": "Liga de Holanda",
-    "hora": "7:30 a. m.",
-    "canal": "Star + / ESPN Extra"
-  },
-  {
-    "partido": "Brentford - Tottenham Hotspur",
-    "liga": "Liga de Inglaterra",
-    "hora": "8:00 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Atlético Mineiro - Bahía",
-    "liga": "Liga de Brasil",
-    "hora": "9:00 a. m.",
-    "canal": "Star + / Fanatiz"
-  },
-  {
-    "partido": "Celta de Vigo - Osasuna",
-    "liga": "Liga de Espana",
-    "hora": "10:00 a. m.",
-    "canal": "Star + / ESPN 2"
-  },
-  {
-    "partido": "Rennes - Metz",
-    "liga": "Liga de Francia",
-    "hora": "10:00 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Chelsea - Liverpool",
-    "liga": "Liga de Inglaterra",
-    "hora": "10:30 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Villarreal - Real Betis",
+    "partido": "Cádiz - Alavés",
     "liga": "Liga de Espana",
     "hora": "12:30 p. m.",
-    "canal": "DGO / DSports"
+    "canal": "ESPN 2 y Star+"
   },
   {
-    "partido": "Strasbourg - Lyon",
-    "liga": "Liga de Francia",
+    "partido": "VfL Osnabrück - Colonia",
+    "liga": "Copa de Alemania",
     "hora": "1:45 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Corinthians - Coritiba",
-    "liga": "Liga de Brasil",
+    "partido": "Manchester United - Wolverhampton",
+    "liga": "Liga de Inglaterra",
     "hora": "2:00 p. m.",
-    "canal": "Star + / Fanatiz"
+    "canal": "Star +"
   },
   {
-    "partido": "Gremio - Fluminense",
-    "liga": "Liga de Brasil",
-    "hora": "2:00 p. m.",
-    "canal": "Star + / Fanatiz"
-  },
-  {
-    "partido": "América MG - Goiás",
-    "liga": "Liga de Brasil",
-    "hora": "2:00 p. m.",
-    "canal": "Star + / Fanatiz"
-  },
-  {
-    "partido": "Getafe - Barcelona",
+    "partido": "Atlético de Madrid - Granada CF",
     "liga": "Liga de Espana",
     "hora": "2:30 p. m.",
-    "canal": "Star + / ESPN"
+    "canal": "Directv 610"
   },
   {
-    "partido": "América - Independiente Medellín",
-    "liga": "Liga BetPlay",
+    "partido": "Orsomarso - Llaneros",
+    "liga": "Torneo Betplay",
     "hora": "4:00 p. m.",
-    "canal": "Win Sports +"
+    "canal": "Win Sports + / Win Sports"
   },
   {
-    "partido": "América - Independiente Medellín",
-    "liga": "Liga BetPlay",
-    "hora": "4:00 p. m.",
-    "canal": "Win Sports +"
-  },
-  {
-    "partido": "Flamengo - Sao Paulo",
+    "partido": "Palmeiras - Cruzeiro",
     "liga": "Liga de Brasil",
-    "hora": "4:30 p. m.",
-    "canal": "Star + / Fanatiz"
+    "hora": "5:00 p. m.",
+    "canal": "Fanatiz / Star +"
   },
   {
-    "partido": "Fortaleza - Santos",
+    "partido": "Red Bull Bragantino - Vasco da Gama",
     "liga": "Liga de Brasil",
-    "hora": "4:30 p. m.",
-    "canal": "Star + / Fanatiz"
+    "hora": "7:00 p. m.",
+    "canal": "Fanatiz / Star +"
   },
   {
-    "partido": "Jaguares de Córdoba - Millonarios",
+    "partido": "Boyacá Chicó - Unión Magdalena",
     "liga": "Liga BetPlay",
-    "hora": "6:10 p. m.",
-    "canal": "Win Sports +"
-  },
-  {
-    "partido": "Jaguares de Córdoba - Millonarios",
-    "liga": "Liga BetPlay",
-    "hora": "6:10 p. m.",
-    "canal": "Win Sports +"
-  },
-  {
-    "partido": "Atlético Nacional - Bucaramanga",
-    "liga": "Liga BetPlay",
-    "hora": "8:20 p. m.",
-    "canal": "Win Sports +"
-  },
-  {
-    "partido": "Atlético Nacional - Bucaramanga",
-    "liga": "Liga BetPlay",
-    "hora": "8:20 p. m.",
-    "canal": "Win Sports +"
+    "hora": "7:40 p. m.",
+    "canal": "Win Sports y Win +"
   }
 ]
