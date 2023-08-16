@@ -1,44 +1,32 @@
 [
   {
-    "partido": "España Femenino - Suecia Femenino",
+    "partido": "Australia Femenino - Inglaterra Femenino",
     "liga": "Mundial Femenino",
-    "hora": "3:00 a. m.",
+    "hora": "5:00 a. m.",
     "canal": "Directv, Caracol y RCN"
   },
   {
-    "partido": "Colón - Lanús",
-    "liga": "Copa de Argentina",
-    "hora": "3:00 p. m.",
-    "canal": "TyC Sports Internacional"
+    "partido": "Manchester City - Sevilla",
+    "liga": "Supercopa de Europa",
+    "hora": "2:00 p. m.",
+    "canal": "ESPN y Star+"
   },
   {
-    "partido": "Philadelphia Union - Inter Miami",
-    "liga": "Concacaf Cup",
+    "partido": "Santa Fe - Deportivo Cali",
+    "liga": "Copa BetPlay",
     "hora": "6:00 p. m.",
-    "canal": "Apple TV"
+    "canal": "Win Sports +"
   },
   {
-    "partido": "Atlético Paranaense - Cuiabá",
+    "partido": "Flamengo - Gremio",
     "liga": "Copa de Brasil",
-    "hora": "6:00 p. m.",
-    "canal": "Fanatiz / Star +"
-  },
-  {
-    "partido": "Independiente - Central Córdoba",
-    "liga": "Copa de Argentina",
     "hora": "7:30 p. m.",
-    "canal": "TyC Sports Internacional"
+    "canal": "Globo Internacional"
   },
   {
-    "partido": "Boca Juniors de Cali - Real Santander",
-    "liga": "Torneo Betplay",
-    "hora": "7:40 p. m.",
-    "canal": "Win Sports + / Win Sports"
-  },
-  {
-    "partido": "Monterrey - Nashville SC",
-    "liga": "Concacaf Cup",
+    "partido": "Junior - Cúcuta",
+    "liga": "Copa Betplay",
     "hora": "8:30 p. m.",
-    "canal": "Apple TV"
+    "canal": "Win Sports +"
   }
 ]
