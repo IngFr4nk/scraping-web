@@ -1,30 +1,12 @@
 [
   {
-    "partido": "Australia Femenino - Inglaterra Femenino",
-    "liga": "Mundial Femenino",
-    "hora": "5:00 a. m.",
-    "canal": "Directv, Caracol y RCN"
-  },
-  {
-    "partido": "Manchester City - Sevilla",
-    "liga": "Supercopa de Europa",
-    "hora": "2:00 p. m.",
-    "canal": "ESPN y Star+"
-  },
-  {
-    "partido": "Santa Fe - Deportivo Cali",
-    "liga": "Copa BetPlay",
+    "partido": "Bucaramanga - Millonarios",
+    "liga": "Copa Betplay",
     "hora": "6:00 p. m.",
     "canal": "Win Sports +"
   },
   {
-    "partido": "Flamengo - Gremio",
-    "liga": "Copa de Brasil",
-    "hora": "7:30 p. m.",
-    "canal": "Globo Internacional"
-  },
-  {
-    "partido": "Junior - Cúcuta",
+    "partido": "Atlético Nacional - América",
     "liga": "Copa Betplay",
     "hora": "8:30 p. m.",
     "canal": "Win Sports +"
