@@ -1,38 +1,38 @@
 [
   {
-    "partido": "Boyacá Chicó - Atlético Huila",
+    "partido": "Chelsea - Luton Town",
+    "liga": "Liga de Inglaterra",
+    "hora": "9:00 a. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Las Palmas - Real Sociedad",
+    "liga": "Liga de Espana",
+    "hora": "12:30 p. m.",
+    "canal": "ESPN Extra / Star +"
+  },
+  {
+    "partido": "RB Leipzig - VfB Stuttgart",
+    "liga": "Bundesliga",
+    "hora": "1:30 p. m.",
+    "canal": "ESPN 2 / Star +"
+  },
+  {
+    "partido": "Celta de Vigo - Real Madrid",
+    "liga": "Liga de Espana",
+    "hora": "2:30 p. m.",
+    "canal": "ESPN / Star +"
+  },
+  {
+    "partido": "Once Caldas - Bucaramanga",
     "liga": "Liga BetPlay",
-    "hora": "4:00 p. m.",
+    "hora": "6:15 p. m.",
     "canal": "Win Sports +"
   },
   {
-    "partido": "Liga de Quito - Sao Paulo",
-    "liga": "Copa Sudamericana",
-    "hora": "5:00 p. m.",
-    "canal": "Star + / ESPN"
-  },
-  {
-    "partido": "América MG - Fortaleza",
-    "liga": "Copa Sudamericana",
-    "hora": "5:00 p. m.",
-    "canal": "Star + / ESPN 2"
-  },
-  {
-    "partido": "Atlético Nacional - Deportivo Pasto",
-    "liga": "Liga BetPlay",
-    "hora": "6:20 p. m.",
-    "canal": "Win Sports +"
-  },
-  {
-    "partido": "Fluminense - Olimpia",
-    "liga": "Copa Libertadores",
-    "hora": "7:30 p. m.",
-    "canal": "Star + / ESPN 2"
-  },
-  {
-    "partido": "Deportivo Cali - Millonarios",
+    "partido": "Águilas Doradas - Independiente Medellín",
     "liga": "Liga BetPlay",
     "hora": "8:30 p. m.",
-    "canal": "Win Sports +"
+    "canal": "Win Sports / Win Sports +"
   }
 ]
