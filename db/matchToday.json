@@ -1,50 +1,62 @@
 [
   {
-    "partido": "Salernitana - Udinese",
-    "liga": "Serie A",
-    "hora": "11:30 a. m.",
-    "canal": "ESPN Extra / Star +"
-  },
-  {
-    "partido": "Getafe - Alavés",
-    "liga": "Liga de Espana",
-    "hora": "12:30 p. m.",
-    "canal": "Directv Sports"
-  },
-  {
-    "partido": "Cagliari - Inter",
-    "liga": "Serie A",
+    "partido": "Fulham - Tottenham Hotspur",
+    "liga": "EFL Cup",
     "hora": "1:45 p. m.",
-    "canal": "ESPN / Star +"
+    "canal": "Star +"
   },
   {
-    "partido": "Rayo Vallecano - Atlético de Madrid",
-    "liga": "Liga de Espana",
-    "hora": "2:30 p. m.",
-    "canal": "ESPN Extra / Star +"
+    "partido": "Galatasaray - Molde",
+    "liga": "Champions League",
+    "hora": "2:00 p. m.",
+    "canal": "Star + y ESPN"
   },
   {
-    "partido": "Banfield - Rosario Central",
-    "liga": "Superliga Argentina",
+    "partido": "Panathinaikos - Braga",
+    "liga": "Champions League",
+    "hora": "2:00 p. m.",
+    "canal": "Star + y Fox Sports 2"
+  },
+  {
+    "partido": "Salford City - Leeds",
+    "liga": "EFL Cup",
+    "hora": "2:00 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Youg Boys - Maccabi Haifa",
+    "liga": "Champions League",
+    "hora": "2:00 p. m.",
+    "canal": "Star + y ESPN 4"
+  },
+  {
+    "partido": "Cúcuta - Cortuluá",
+    "liga": "Torneo Betplay",
+    "hora": "3:30 p. m.",
+    "canal": "Win Sports +"
+  },
+  {
+    "partido": "Internacional - Bolívar",
+    "liga": "Copa Libertadores",
+    "hora": "5:00 p. m.",
+    "canal": "Star + y ESPN"
+  },
+  {
+    "partido": "Patriotas F.C - Quindío",
+    "liga": "Torneo Betplay",
     "hora": "6:00 p. m.",
-    "canal": "TyC Sports"
-  },
-  {
-    "partido": "Independiente Medellín - Boyacá Chicó",
-    "liga": "Liga BetPlay",
-    "hora": "6:15 p. m.",
     "canal": "Win Sports +"
   },
   {
-    "partido": "Atlético Tucumán - Instituto de Córdoba",
-    "liga": "Superliga Argentina",
+    "partido": "Estudiantes - Corinthians",
+    "liga": "Copa Sudamericana",
     "hora": "7:30 p. m.",
-    "canal": "TyC Sports"
+    "canal": "Star + y ESPN"
   },
   {
-    "partido": "Bucaramanga - Deportivo Cali",
+    "partido": "Deportivo Pasto - Once Caldas",
     "liga": "Liga BetPlay",
-    "hora": "8:30 p. m.",
-    "canal": "Win Sports +"
+    "hora": "8:10 p. m.",
+    "canal": "Win Sports y Win +"
   }
 ]
