@@ -1,20 +1,26 @@
 [
   {
-    "partido": "Cúcuta - Real Santander",
+    "partido": "Tigres - Bogotá",
     "liga": "Torneo Betplay",
+    "hora": "2:00 p. m.",
+    "canal": "Win Sports / Win Sports +"
+  },
+  {
+    "partido": "Envigado F.C - América",
+    "liga": "Liga BetPlay",
     "hora": "4:00 p. m.",
     "canal": "Win Sports +"
   },
   {
-    "partido": "Atlético FC - Boca Juniors de Cali",
-    "liga": "Torneo Betplay",
-    "hora": "6:00 p. m.",
-    "canal": "Win Sports / Win Sports +"
+    "partido": "Deportes Tolima - Pereira",
+    "liga": "Liga BetPlay",
+    "hora": "6:10 p. m.",
+    "canal": "Win Sports +"
   },
   {
-    "partido": "Alianza Petrolera - Boyacá Chicó",
+    "partido": "Deportivo Cali - Santa Fe",
     "liga": "Liga BetPlay",
-    "hora": "8:10 p. m.",
+    "hora": "8:20 p. m.",
     "canal": "Win Sports +"
   }
 ]
