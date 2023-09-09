@@ -1,38 +1,62 @@
 [
   {
-    "partido": "Georgia - España",
-    "liga": "Eurocopa",
-    "hora": "11:00 a. m.",
-    "canal": "ESPN 2 / Star +"
+    "partido": "Azerbaiyán - Bélgica",
+    "liga": "Eliminatoria Eurocopa",
+    "hora": "8:00 a. m.",
+    "canal": "Star + / ESPN"
   },
   {
-    "partido": "Croacia - Letonia",
-    "liga": "Eurocopa",
+    "partido": "Ucrania - Inglaterra",
+    "liga": "Eliminatoria Eurocopa",
+    "hora": "11:00 a. m.",
+    "canal": "ESPN / Star +"
+  },
+  {
+    "partido": "Independiente - Estudiantes",
+    "liga": "Copa de Argentina",
+    "hora": "1:15 p. m.",
+    "canal": "TyC Sports"
+  },
+  {
+    "partido": "Macedonia - Italia",
+    "liga": "Eliminatoria Eurocopa",
+    "hora": "1:45 p. m.",
+    "canal": "ESPN / Star +"
+  },
+  {
+    "partido": "Alemania - Japón",
+    "liga": "Partido amistoso",
     "hora": "1:45 p. m.",
     "canal": "ESPN 3 / Star +"
   },
   {
-    "partido": "Eslovaquia - Portugal",
-    "liga": "Eurocopa",
-    "hora": "1:45 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Uruguay - Chile",
-    "liga": "Eliminatorias",
-    "hora": "6:00 p. m.",
-    "canal": "Caracol / RCN"
-  },
-  {
-    "partido": "Deportivo Pasto - Jaguares de Córdoba",
+    "partido": "Equidad - Boyacá Chicó",
     "liga": "Liga BetPlay",
-    "hora": "7:40 p. m.",
+    "hora": "4:00 p. m.",
     "canal": "Win Sports / Win Sports +"
   },
   {
-    "partido": "Brasil - Bolivia",
-    "liga": "Eliminatorias",
-    "hora": "7:45 p. m.",
-    "canal": "Caracol / RCN"
+    "partido": "Racing Club - Huracán",
+    "liga": "Copa de Argentina",
+    "hora": "6:10 p. m.",
+    "canal": "TyC Sports"
+  },
+  {
+    "partido": "Junior - Unión Magdalena",
+    "liga": "Liga BetPlay",
+    "hora": "6:10 p. m.",
+    "canal": "Win Sports +"
+  },
+  {
+    "partido": "Inter Miami - Sporting Kansas City",
+    "liga": "Major League Soccer",
+    "hora": "6:30 p. m.",
+    "canal": "Apple TV"
+  },
+  {
+    "partido": "Independiente Medellín - Atlético Nacional",
+    "liga": "Liga BetPlay",
+    "hora": "8:20 p. m.",
+    "canal": "Win Sports +"
   }
 ]
