@@ -1,32 +1,44 @@
 [
   {
-    "partido": "Deportes Tolima - Independiente Medellín",
-    "liga": "Liga BetPlay",
-    "hora": "4:30 p. m.",
+    "partido": "Bayern Munich - Bayer Leverkusen",
+    "liga": "Bundesliga",
+    "hora": "1:30 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Paris Saint-Germain - Niza",
+    "liga": "Liga de Francia",
+    "hora": "2:00 p. m.",
+    "canal": "ESPN / Star +"
+  },
+  {
+    "partido": "Rayo Vallecano - Alavés",
+    "liga": "Liga de Espana",
+    "hora": "2:00 p. m.",
+    "canal": "ESPN 2 / Star+"
+  },
+  {
+    "partido": "Fortaleza F.C - Cortuluá",
+    "liga": "Torneo Betplay",
+    "hora": "4:00 p. m.",
     "canal": "Win Sports +"
   },
   {
-    "partido": "Santos - Cruzeiro",
-    "liga": "Liga de Brasil",
-    "hora": "5:00 p. m.",
-    "canal": "ESPN 3 / Star +"
+    "partido": "Defensa y Justicia - Boca Juniors",
+    "liga": "Liga de Argentina",
+    "hora": "4:45 p. m.",
+    "canal": "ESPN / Star +"
   },
   {
-    "partido": "Águilas Doradas - Unión Magdalena",
+    "partido": "Once Caldas - Envigado F.C",
     "liga": "Liga BetPlay",
-    "hora": "5:45 p. m.",
-    "canal": "Win Sports +"
+    "hora": "6:15 p. m.",
+    "canal": "Win Sports / Win Sports +"
   },
   {
-    "partido": "Deportivo Cali - Atlético Huila",
+    "partido": "Millonarios - Bucaramanga",
     "liga": "Liga BetPlay",
-    "hora": "6:40 p. m.",
-    "canal": "Win Sports +"
-  },
-  {
-    "partido": "Alianza Petrolera - Junior",
-    "liga": "Liga BetPlay",
-    "hora": "8:50 p. m.",
+    "hora": "8:30 p. m.",
     "canal": "Win Sports +"
   }
 ]
