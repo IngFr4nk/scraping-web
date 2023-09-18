@@ -1,98 +1,44 @@
 [
   {
-    "partido": "Wolverhampton - Liverpool",
-    "liga": "Liga de Inglaterra",
-    "hora": "6:30 a. m.",
-    "canal": "ESPN / Star +"
-  },
-  {
-    "partido": "Juventus - Lazio",
+    "partido": "Salernitana - Torino",
     "liga": "Serie A",
-    "hora": "8:00 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Aston Villa - Crystal Palace",
-    "liga": "Liga de Inglaterra",
-    "hora": "9:00 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Manchester United - Brighton & Hove",
-    "liga": "Liga de Inglaterra",
-    "hora": "9:00 a. m.",
-    "canal": "ESPN 2 / Star +"
-  },
-  {
-    "partido": "Tottenham Hotspur - Sheffield United",
-    "liga": "Liga de Inglaterra",
-    "hora": "9:00 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "West Ham Utd. - Manchester City",
-    "liga": "Liga de Inglaterra",
-    "hora": "9:00 a. m.",
-    "canal": "Star + / ESPN"
-  },
-  {
-    "partido": "Valencia CF - Atlético de Madrid",
-    "liga": "Liga de Espana",
-    "hora": "9:15 a. m.",
-    "canal": "Directv Sports"
-  },
-  {
-    "partido": "Inter - Milán",
-    "liga": "Serie A",
-    "hora": "11:00 a. m.",
-    "canal": "ESPN / Star +"
-  },
-  {
-    "partido": "Newcastle - Brentford",
-    "liga": "Liga de Inglaterra",
     "hora": "11:30 a. m.",
-    "canal": "ESPN 2 / Star +"
+    "canal": "Star +"
   },
   {
-    "partido": "Newell`s Old Boys - Unión de Santa Fe",
-    "liga": "Superliga Argentina",
-    "hora": "1:00 p. m.",
-    "canal": "TyC Sports"
-  },
-  {
-    "partido": "Génoa - Napoli",
-    "liga": "Serie A",
+    "partido": "Nottingham Forest - Burnley",
+    "liga": "Liga de Inglaterra",
     "hora": "1:45 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Barcelona - Real Betis",
+    "partido": "Granada CF - Girona",
     "liga": "Liga de Espana",
     "hora": "2:00 p. m.",
-    "canal": "ESPN / Star +"
-  },
-  {
-    "partido": "San Lorenzo - Racing Club",
-    "liga": "Superliga Argentina",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN 2 / Star +"
-  },
-  {
-    "partido": "Atlanta United - Inter Miami",
-    "liga": "Major League Soccer",
-    "hora": "4:00 p. m.",
-    "canal": "Apple TV"
-  },
-  {
-    "partido": "Atlético Mineiro - Botafogo",
-    "liga": "Liga de Brasil",
-    "hora": "7:00 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "América - Boyacá Chicó",
+    "partido": "Envigado F.C - Jaguares de Córdoba",
     "liga": "Liga BetPlay",
-    "hora": "8:15 p. m.",
+    "hora": "4:00 p. m.",
+    "canal": "Win Sports +"
+  },
+  {
+    "partido": "Unión Magdalena - Once Caldas",
+    "liga": "Liga BetPlay",
+    "hora": "4:30 p. m.",
+    "canal": "Win Sports / Win Sports +"
+  },
+  {
+    "partido": "Bucaramanga - Pereira",
+    "liga": "Liga BetPlay",
+    "hora": "6:40 p. m.",
+    "canal": "Win Sports +"
+  },
+  {
+    "partido": "Independiente Medellín - Millonarios",
+    "liga": "Liga BetPlay",
+    "hora": "8:50 p. m.",
     "canal": "Win Sports +"
   }
 ]
