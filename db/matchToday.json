@@ -1,44 +1,92 @@
 [
   {
-    "partido": "Salernitana - Torino",
-    "liga": "Serie A",
-    "hora": "11:30 a. m.",
-    "canal": "Star +"
+    "partido": "Milán - Newcastle",
+    "liga": "Champions League",
+    "hora": "11:45 a. m.",
+    "canal": "ESPN y Star+"
   },
   {
-    "partido": "Nottingham Forest - Burnley",
-    "liga": "Liga de Inglaterra",
-    "hora": "1:45 p. m.",
-    "canal": "Star +"
+    "partido": "Youg Boys - RB Leipzig",
+    "liga": "Champions League",
+    "hora": "11:45 a. m.",
+    "canal": "ESPN 2 y Star+"
   },
   {
-    "partido": "Granada CF - Girona",
-    "liga": "Liga de Espana",
+    "partido": "Manchester City - Estrella Roja",
+    "liga": "Champions League",
     "hora": "2:00 p. m.",
-    "canal": "Star +"
+    "canal": "ESPN y Star+"
   },
   {
-    "partido": "Envigado F.C - Jaguares de Córdoba",
-    "liga": "Liga BetPlay",
+    "partido": "Barcelona - Royal Antwerp",
+    "liga": "Champions League",
+    "hora": "2:00 p. m.",
+    "canal": "ESPN 2 y Star+"
+  },
+  {
+    "partido": "Paris Saint-Germain - Borussia Dortmund",
+    "liga": "Champions League",
+    "hora": "2:00 p. m.",
+    "canal": "ESPN 4 y Star+"
+  },
+  {
+    "partido": "Lazio - Atlético de Madrid",
+    "liga": "Champions League",
+    "hora": "2:00 p. m.",
+    "canal": "Fox Sports 2 y Star+"
+  },
+  {
+    "partido": "Patriotas F.C - Orsomarso",
+    "liga": "Torneo Betplay",
+    "hora": "2:00 p. m.",
+    "canal": "Win Sports y Win +"
+  },
+  {
+    "partido": "Shakhtar Donetsk - Porto",
+    "liga": "Champions League",
+    "hora": "2:00 p. m.",
+    "canal": "ESPN 3 y Star+"
+  },
+  {
+    "partido": "Feyenoord - Celtic",
+    "liga": "Champions League",
+    "hora": "2:00 p. m.",
+    "canal": "Fox Sports 3 y Star+"
+  },
+  {
+    "partido": "Quindío - Llaneros",
+    "liga": "Torneo Betplay",
     "hora": "4:00 p. m.",
     "canal": "Win Sports +"
   },
   {
-    "partido": "Unión Magdalena - Once Caldas",
-    "liga": "Liga BetPlay",
-    "hora": "4:30 p. m.",
-    "canal": "Win Sports / Win Sports +"
+    "partido": "Central Córdoba - Boca Juniors",
+    "liga": "Copa de Argentina",
+    "hora": "4:45 p. m.",
+    "canal": "Star +"
   },
   {
-    "partido": "Bucaramanga - Pereira",
-    "liga": "Liga BetPlay",
-    "hora": "6:40 p. m.",
+    "partido": "Barranquilla - Atlético FC",
+    "liga": "Torneo Betplay",
+    "hora": "6:10 p. m.",
     "canal": "Win Sports +"
   },
   {
-    "partido": "Independiente Medellín - Millonarios",
+    "partido": "Rosario Central - Independiente",
+    "liga": "Copa de Argentina",
+    "hora": "7:00 p. m.",
+    "canal": "TyC Sports Internacional"
+  },
+  {
+    "partido": "América MG - Red Bull Bragantino",
+    "liga": "Liga de Brasil",
+    "hora": "7:30 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Equidad - Deportivo Cali",
     "liga": "Liga BetPlay",
-    "hora": "8:50 p. m.",
+    "hora": "8:20 p. m.",
     "canal": "Win Sports +"
   }
 ]
