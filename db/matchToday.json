@@ -1,90 +1,114 @@
 [
   {
-    "partido": "Milán - Newcastle",
+    "partido": "Real Madrid - Union Berlin",
     "liga": "Champions League",
     "hora": "11:45 a. m.",
     "canal": "ESPN y Star+"
   },
   {
-    "partido": "Youg Boys - RB Leipzig",
+    "partido": "Galatasaray - Copenhague",
     "liga": "Champions League",
     "hora": "11:45 a. m.",
     "canal": "ESPN 2 y Star+"
   },
   {
-    "partido": "Manchester City - Estrella Roja",
-    "liga": "Champions League",
-    "hora": "2:00 p. m.",
-    "canal": "ESPN y Star+"
-  },
-  {
-    "partido": "Barcelona - Royal Antwerp",
-    "liga": "Champions League",
-    "hora": "2:00 p. m.",
-    "canal": "ESPN 2 y Star+"
-  },
-  {
-    "partido": "Paris Saint-Germain - Borussia Dortmund",
-    "liga": "Champions League",
-    "hora": "2:00 p. m.",
-    "canal": "ESPN 4 y Star+"
-  },
-  {
-    "partido": "Lazio - Atlético de Madrid",
-    "liga": "Champions League",
-    "hora": "2:00 p. m.",
-    "canal": "Fox Sports 2 y Star+"
-  },
-  {
-    "partido": "Patriotas F.C - Orsomarso",
-    "liga": "Torneo Betplay",
-    "hora": "2:00 p. m.",
-    "canal": "Win Sports y Win +"
-  },
-  {
-    "partido": "Shakhtar Donetsk - Porto",
-    "liga": "Champions League",
-    "hora": "2:00 p. m.",
-    "canal": "ESPN 3 y Star+"
-  },
-  {
-    "partido": "Feyenoord - Celtic",
+    "partido": "Benfica - Red Bull Salzburg",
     "liga": "Champions League",
     "hora": "2:00 p. m.",
     "canal": "Fox Sports 3 y Star+"
   },
   {
-    "partido": "Quindío - Llaneros",
-    "liga": "Torneo Betplay",
+    "partido": "Bayern Munich - Manchester United",
+    "liga": "Champions League",
+    "hora": "2:00 p. m.",
+    "canal": "ESPN y Star+"
+  },
+  {
+    "partido": "Braga - Napoli",
+    "liga": "Champions League",
+    "hora": "2:00 p. m.",
+    "canal": "ESPN 3 y Star+"
+  },
+  {
+    "partido": "Real Sociedad - Inter",
+    "liga": "Champions League",
+    "hora": "2:00 p. m.",
+    "canal": "ESPN 2 y Star+"
+  },
+  {
+    "partido": "Arsenal - PSV",
+    "liga": "Champions League",
+    "hora": "2:00 p. m.",
+    "canal": "Fox Sports 2 y Star+"
+  },
+  {
+    "partido": "Sevilla - Lens",
+    "liga": "Champions League",
+    "hora": "2:00 p. m.",
+    "canal": "ESPN 4 y Star+"
+  },
+  {
+    "partido": "Defensa y Justicia - Tigre",
+    "liga": "Copa de Argentina",
+    "hora": "2:00 p. m.",
+    "canal": "TyC Sports Internacional"
+  },
+  {
+    "partido": "Boyacá Chicó - Junior",
+    "liga": "Liga BetPlay",
     "hora": "4:00 p. m.",
     "canal": "Win Sports +"
   },
   {
-    "partido": "Central Córdoba - Boca Juniors",
+    "partido": "Vélez Sarsfield - Arsenal de Sarandí",
     "liga": "Copa de Argentina",
-    "hora": "4:45 p. m.",
+    "hora": "4:30 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Barranquilla - Atlético FC",
-    "liga": "Torneo Betplay",
+    "partido": "Estudiantes - San Lorenzo",
+    "liga": "Copa de Argentina",
+    "hora": "4:30 p. m.",
+    "canal": "TyC Sports Internacional"
+  },
+  {
+    "partido": "Goiás - Flamengo",
+    "liga": "Liga de Brasil",
+    "hora": "5:00 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Águilas Doradas - América",
+    "liga": "Liga BetPlay",
     "hora": "6:10 p. m.",
     "canal": "Win Sports +"
   },
   {
-    "partido": "Rosario Central - Independiente",
+    "partido": "Instituto de Córdoba - Colón",
     "liga": "Copa de Argentina",
     "hora": "7:00 p. m.",
     "canal": "TyC Sports Internacional"
   },
   {
-    "partido": "América MG - Red Bull Bragantino",
+    "partido": "Racing Club - Newell`s Old Boys",
+    "liga": "Copa de Argentina",
+    "hora": "7:00 p. m.",
+    "canal": "ESPN y Star+"
+  },
+  {
+    "partido": "Fluminense - Cruzeiro",
+    "liga": "Liga de Brasil",
+    "hora": "7:30 p. m.",
+    "canal": "ESPN 2 y Star+"
+  },
+  {
+    "partido": "Sao Paulo - Fortaleza",
     "liga": "Liga de Brasil",
     "hora": "7:30 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Equidad - Deportivo Cali",
+    "partido": "Atlético Nacional - Santa Fe",
     "liga": "Liga BetPlay",
     "hora": "8:20 p. m.",
     "canal": "Win Sports +"
