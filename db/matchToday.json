@@ -1,114 +1,144 @@
 [
   {
-    "partido": "Real Madrid - Union Berlin",
-    "liga": "Champions League",
+    "partido": "Genk - Fiorentina",
+    "liga": "Conference League",
+    "hora": "11:45 a. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "LASK Linz - Liverpool",
+    "liga": "Liga de Europa",
     "hora": "11:45 a. m.",
     "canal": "ESPN y Star+"
   },
   {
-    "partido": "Galatasaray - Copenhague",
-    "liga": "Champions League",
+    "partido": "Sheriff - Roma",
+    "liga": "Liga de Europa",
     "hora": "11:45 a. m.",
     "canal": "ESPN 2 y Star+"
   },
   {
-    "partido": "Benfica - Red Bull Salzburg",
-    "liga": "Champions League",
-    "hora": "2:00 p. m.",
-    "canal": "Fox Sports 3 y Star+"
+    "partido": "Panathinaikos - Villarreal",
+    "liga": "Liga de Europa",
+    "hora": "11:45 a. m.",
+    "canal": "ESPN EXTRA y Star+"
   },
   {
-    "partido": "Bayern Munich - Manchester United",
-    "liga": "Champions League",
+    "partido": "Rennes - Maccabi Haifa FC",
+    "liga": "Liga de Europa",
+    "hora": "11:45 a. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Bayer Leverkusen - BK Häcken",
+    "liga": "Liga de Europa",
+    "hora": "11:45 a. m.",
+    "canal": "ESPN 3 y Star+"
+  },
+  {
+    "partido": "Legia Varsovia - Aston Villa",
+    "liga": "Conference League",
+    "hora": "11:45 a. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Ajax - Marsella",
+    "liga": "Liga de Europa",
     "hora": "2:00 p. m.",
     "canal": "ESPN y Star+"
   },
   {
-    "partido": "Braga - Napoli",
-    "liga": "Champions League",
+    "partido": "Rangers - Real Betis",
+    "liga": "Liga de Europa",
+    "hora": "2:00 p. m.",
+    "canal": "ESPN 2 y Star+"
+  },
+  {
+    "partido": "Olimpiakos - Friburgo",
+    "liga": "Liga de Europa",
+    "hora": "2:00 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Brighton & Hove - AEK de Atenas",
+    "liga": "Liga de Europa",
+    "hora": "2:00 p. m.",
+    "canal": "ESPN EXTRA y Star+"
+  },
+  {
+    "partido": "Brujas - Besiktas",
+    "liga": "Conference League",
+    "hora": "2:00 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Atalanta - Raków",
+    "liga": "Liga de Europa",
     "hora": "2:00 p. m.",
     "canal": "ESPN 3 y Star+"
   },
   {
-    "partido": "Real Sociedad - Inter",
-    "liga": "Champions League",
+    "partido": "Sturm Graz - Sporting de Lisboa",
+    "liga": "Liga de Europa",
     "hora": "2:00 p. m.",
-    "canal": "ESPN 2 y Star+"
+    "canal": "Star +"
   },
   {
-    "partido": "Arsenal - PSV",
-    "liga": "Champions League",
-    "hora": "2:00 p. m.",
-    "canal": "Fox Sports 2 y Star+"
-  },
-  {
-    "partido": "Sevilla - Lens",
-    "liga": "Champions League",
-    "hora": "2:00 p. m.",
-    "canal": "ESPN 4 y Star+"
-  },
-  {
-    "partido": "Defensa y Justicia - Tigre",
+    "partido": "Belgrano - Platense",
     "liga": "Copa de Argentina",
-    "hora": "2:00 p. m.",
+    "hora": "3:00 p. m.",
     "canal": "TyC Sports Internacional"
   },
   {
-    "partido": "Boyacá Chicó - Junior",
+    "partido": "Pereira - Unión Magdalena",
     "liga": "Liga BetPlay",
     "hora": "4:00 p. m.",
     "canal": "Win Sports +"
   },
   {
-    "partido": "Vélez Sarsfield - Arsenal de Sarandí",
-    "liga": "Copa de Argentina",
-    "hora": "4:30 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Estudiantes - San Lorenzo",
-    "liga": "Copa de Argentina",
-    "hora": "4:30 p. m.",
-    "canal": "TyC Sports Internacional"
-  },
-  {
-    "partido": "Goiás - Flamengo",
+    "partido": "Vasco da Gama - Coritiba",
     "liga": "Liga de Brasil",
     "hora": "5:00 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Águilas Doradas - América",
+    "partido": "Atlético Paranaense - Internacional",
+    "liga": "Liga de Brasil",
+    "hora": "5:30 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Deportes Tolima - Envigado F.C",
+    "liga": "Liga BetPlay",
+    "hora": "5:45 p. m.",
+    "canal": "Win Sports"
+  },
+  {
+    "partido": "Bucaramanga - Deportivo Pasto",
     "liga": "Liga BetPlay",
     "hora": "6:10 p. m.",
     "canal": "Win Sports +"
   },
   {
-    "partido": "Instituto de Córdoba - Colón",
-    "liga": "Copa de Argentina",
-    "hora": "7:00 p. m.",
-    "canal": "TyC Sports Internacional"
-  },
-  {
-    "partido": "Racing Club - Newell`s Old Boys",
+    "partido": "River Plate - Atlético Tucumán",
     "liga": "Copa de Argentina",
     "hora": "7:00 p. m.",
     "canal": "ESPN y Star+"
   },
   {
-    "partido": "Fluminense - Cruzeiro",
-    "liga": "Liga de Brasil",
-    "hora": "7:30 p. m.",
-    "canal": "ESPN 2 y Star+"
+    "partido": "River Plate - Atlético Tucumán",
+    "liga": "Copa de Argentina",
+    "hora": "7:00 p. m.",
+    "canal": "ESPN y Star+"
   },
   {
-    "partido": "Sao Paulo - Fortaleza",
+    "partido": "Gremio - Palmeiras",
     "liga": "Liga de Brasil",
     "hora": "7:30 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Atlético Nacional - Santa Fe",
+    "partido": "Millonarios - Atlético Huila",
     "liga": "Liga BetPlay",
     "hora": "8:20 p. m.",
     "canal": "Win Sports +"
