@@ -1,44 +1,68 @@
 [
   {
-    "partido": "Torino - Hellas Verona",
-    "liga": "Serie A",
-    "hora": "11:30 a. m.",
-    "canal": "Star +"
+    "partido": "Union Berlin - Braga",
+    "liga": "Champions League",
+    "hora": "11:45 a. m.",
+    "canal": "ESPN  / Star +"
   },
   {
-    "partido": "Fiorentina - Cagliari",
-    "liga": "Serie A",
-    "hora": "1:45 p. m.",
+    "partido": "Red Bull Salzburg - Real Sociedad",
+    "liga": "Champions League",
+    "hora": "11:45 a. m.",
     "canal": "ESPN 2 / Star +"
   },
   {
-    "partido": "Las Palmas - Celta de Vigo",
-    "liga": "Liga de Espana",
+    "partido": "Manchester United - Galatasaray",
+    "liga": "Champions League",
     "hora": "2:00 p. m.",
-    "canal": "ESPN 3 / Star +"
+    "canal": "ESPN 2 / Star +"
   },
   {
-    "partido": "Fulham - Chelsea",
-    "liga": "Liga de Inglaterra",
+    "partido": "Copenhague - Bayern Munich",
+    "liga": "Champions League",
+    "hora": "2:00 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Lens - Arsenal",
+    "liga": "Champions League",
+    "hora": "2:00 p. m.",
+    "canal": "Star + / Fox Sports 2"
+  },
+  {
+    "partido": "Napoli - Real Madrid",
+    "liga": "Champions League",
     "hora": "2:00 p. m.",
     "canal": "ESPN / Star +"
   },
   {
-    "partido": "Botafogo - Goiás",
-    "liga": "Liga de Brasil",
-    "hora": "6:00 p. m.",
-    "canal": "Star +"
+    "partido": "Inter - Benfica",
+    "liga": "Champions League",
+    "hora": "2:00 p. m.",
+    "canal": "ESPN 2 / Star +"
   },
   {
-    "partido": "Quindío - Orsomarso",
+    "partido": "PSV - Sevilla",
+    "liga": "Champions League",
+    "hora": "2:00 p. m.",
+    "canal": "ESPN 3 / Star +"
+  },
+  {
+    "partido": "Cortuluá - Real Cartagena",
     "liga": "Torneo BetPlay",
-    "hora": "6:00 p. m.",
+    "hora": "4:00 p. m.",
     "canal": "Win Sports +"
   },
   {
-    "partido": "Atlético Huila - Equidad",
-    "liga": "Liga BetPlay",
-    "hora": "8:10 p. m.",
+    "partido": "Fortaleza - Corinthians",
+    "liga": "Copa Sudamericana",
+    "hora": "7:30 p. m.",
+    "canal": "DSports 610"
+  },
+  {
+    "partido": "Leones - Real Soacha",
+    "liga": "Torneo Betplay",
+    "hora": "8:15 p. m.",
     "canal": "Win Sports y Win +"
   }
 ]
