@@ -1,84 +1,84 @@
 [
   {
-    "partido": "Atlético de Madrid - Feyenoord",
-    "liga": "Champions League",
+    "partido": "Marsella - Brighton & Hove",
+    "liga": "Liga de Europa",
     "hora": "11:45 a. m.",
-    "canal": "ESPN / Star +"
+    "canal": "ESPN EXTRA y Star+"
   },
   {
-    "partido": "Royal Antwerp - Shakhtar Donetsk",
-    "liga": "Champions League",
+    "partido": "Real Betis - Sparta Praga",
+    "liga": "Liga de Europa",
     "hora": "11:45 a. m.",
-    "canal": "ESPN 2 / Star +"
+    "canal": "ESPN y Star+"
   },
   {
-    "partido": "Porto - Barcelona",
-    "liga": "Champions League",
+    "partido": "Sporting de Lisboa - Atalanta",
+    "liga": "Liga de Europa",
+    "hora": "11:45 a. m.",
+    "canal": "ESPN 2 y Star+"
+  },
+  {
+    "partido": "AEK de Atenas - Ajax",
+    "liga": "Liga de Europa",
+    "hora": "11:45 a. m.",
+    "canal": "ESPN 3 y Star+"
+  },
+  {
+    "partido": "Villarreal - Rennes",
+    "liga": "Liga de Europa",
     "hora": "2:00 p. m.",
-    "canal": "ESPN 2 / Star +"
+    "canal": "ESPN 3 y Star+"
   },
   {
-    "partido": "RB Leipzig - Manchester City",
-    "liga": "Champions League",
+    "partido": "Molde - Bayer Leverkusen",
+    "liga": "Liga de Europa",
     "hora": "2:00 p. m.",
-    "canal": "ESPN / Star +"
+    "canal": "ESPN EXTRA y Star+"
   },
   {
-    "partido": "Borussia Dortmund - Milán",
-    "liga": "Champions League",
+    "partido": "Liverpool - royal union sg",
+    "liga": "Liga de Europa",
     "hora": "2:00 p. m.",
-    "canal": "ESPN 3 / Star +"
+    "canal": "ESPN y Star+"
   },
   {
-    "partido": "Newcastle - Paris Saint-Germain",
-    "liga": "Champions League",
-    "hora": "2:00 p. m.",
-    "canal": "ESPN 4 / Star +"
+    "partido": "Palmeiras - Barcelona (ECU)",
+    "liga": "Copa Libertadores Femenina",
+    "hora": "3:00 p. m.",
+    "canal": "Win Sports"
   },
   {
-    "partido": "Estrella Roja - Young Boys",
-    "liga": "Champions League",
-    "hora": "2:00 p. m.",
-    "canal": "Star +"
+    "partido": "Tigres - Quindío",
+    "liga": "Torneo Betplay",
+    "hora": "3:30 p. m.",
+    "canal": "Win Sports +"
   },
   {
-    "partido": "Celtic - Lazio",
-    "liga": "Champions League",
-    "hora": "2:00 p. m.",
-    "canal": "Star + / Fox Sports 2"
+    "partido": "Santa Fe - Olimpia",
+    "liga": "Copa Libertadores Femenina",
+    "hora": "5:30 p. m.",
+    "canal": "Win Sports"
   },
   {
-    "partido": "San Lorenzo - San Martín San Juan",
-    "liga": "Copa de Argentina",
-    "hora": "3:10 p. m.",
-    "canal": "TyC Sports"
+    "partido": "Caracas F.C - Atlético Nacional",
+    "liga": "Copa Libertadores Femenina",
+    "hora": "5:30 p. m.",
+    "canal": "Win Sports"
   },
   {
-    "partido": "Defensa y Justicia - Liga de Quito",
-    "liga": "Copa Sudamericana",
-    "hora": "5:00 p. m.",
-    "canal": "DSports 610"
-  },
-  {
-    "partido": "Pereira - Santa Fe",
+    "partido": "Independiente Medellín - Cúcuta",
     "liga": "Copa Betplay",
     "hora": "6:00 p. m.",
     "canal": "Win Sports +"
   },
   {
-    "partido": "Internacional - Fluminense",
+    "partido": "Palmeiras - Boca Juniors",
     "liga": "Copa Libertadores",
     "hora": "7:30 p. m.",
-    "canal": "ESPN / Star +"
+    "canal": "ESPN y Star+"
   },
   {
-    "partido": "Chicago Fire - Inter Miami",
-    "liga": "Major League Soccer",
-    "hora": "7:30 p. m.",
-    "canal": "Apple TV"
-  },
-  {
-    "partido": "Atlético Nacional - Águilas Doradas",
+    "partido": "Alianza Petrolera - Millonarios",
     "liga": "Copa Betplay",
     "hora": "8:30 p. m.",
     "canal": "Win Sports +"
