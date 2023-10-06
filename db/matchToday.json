@@ -1,45 +1,15 @@
 [
   {
-    "partido": "Marsella - Brighton & Hove",
-    "liga": "Liga de Europa",
-    "hora": "11:45 a. m.",
-    "canal": "ESPN EXTRA y Star+"
-  },
-  {
-    "partido": "Real Betis - Sparta Praga",
-    "liga": "Liga de Europa",
-    "hora": "11:45 a. m.",
-    "canal": "ESPN y Star+"
-  },
-  {
-    "partido": "Sporting de Lisboa - Atalanta",
-    "liga": "Liga de Europa",
-    "hora": "11:45 a. m.",
-    "canal": "ESPN 2 y Star+"
-  },
-  {
-    "partido": "AEK de Atenas - Ajax",
-    "liga": "Liga de Europa",
-    "hora": "11:45 a. m.",
-    "canal": "ESPN 3 y Star+"
-  },
-  {
-    "partido": "Villarreal - Rennes",
+    "partido": "Liverpool - Royale Union SG",
     "liga": "Liga de Europa",
     "hora": "2:00 p. m.",
-    "canal": "ESPN 3 y Star+"
+    "canal": "ESPN y Star+"
   },
   {
     "partido": "Molde - Bayer Leverkusen",
     "liga": "Liga de Europa",
     "hora": "2:00 p. m.",
     "canal": "ESPN EXTRA y Star+"
-  },
-  {
-    "partido": "Liverpool - royal union sg",
-    "liga": "Liga de Europa",
-    "hora": "2:00 p. m.",
-    "canal": "ESPN y Star+"
   },
   {
     "partido": "Palmeiras - Barcelona (ECU)",
@@ -54,13 +24,13 @@
     "canal": "Win Sports +"
   },
   {
-    "partido": "Santa Fe - Olimpia",
+    "partido": "Caracas F.C - Atlético Nacional",
     "liga": "Copa Libertadores Femenina",
     "hora": "5:30 p. m.",
     "canal": "Win Sports"
   },
   {
-    "partido": "Caracas F.C - Atlético Nacional",
+    "partido": "Santa Fe - Olimpia",
     "liga": "Copa Libertadores Femenina",
     "hora": "5:30 p. m.",
     "canal": "Win Sports"
