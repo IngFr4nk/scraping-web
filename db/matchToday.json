@@ -1,32 +1,20 @@
 [
   {
-    "partido": "Colo Colo - Libertad",
-    "liga": "Copa Libertadores Femenina",
+    "partido": "San Lorenzo - San Martín San Juan",
+    "liga": "Copa de Argentina",
     "hora": "3:00 p. m.",
-    "canal": "Win Sports"
+    "canal": "TyC Sports"
   },
   {
-    "partido": "Boca Juniors - Nacional (Uru)",
-    "liga": "Copa Libertadores Femenina",
-    "hora": "3:00 p. m.",
-    "canal": "Win Sports +"
-  },
-  {
-    "partido": "Corinthians - Always Ready",
-    "liga": "Copa Libertadores Femenina",
-    "hora": "5:30 p. m.",
-    "canal": "Win Sports"
-  },
-  {
-    "partido": "América - Internacional",
-    "liga": "Copa Libertadores Femenina",
-    "hora": "5:30 p. m.",
-    "canal": "Win Sports +"
-  },
-  {
-    "partido": "Vélez Sarsfield - Atlético Tucumán",
+    "partido": "Belgrano - Boca Juniors",
     "liga": "Superliga Argentina",
-    "hora": "6:30 p. m.",
-    "canal": "Star +"
+    "hora": "6:00 p. m.",
+    "canal": "ESPN 2 / Star +"
+  },
+  {
+    "partido": "Alianza Petrolera - Bucaramanga",
+    "liga": "Liga BetPlay",
+    "hora": "8:00 p. m.",
+    "canal": "Win Sports y Win +"
   }
 ]
