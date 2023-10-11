@@ -1,20 +1,44 @@
 [
   {
-    "partido": "San Lorenzo - San Martín San Juan",
-    "liga": "Copa de Argentina",
+    "partido": "Gales - Gibraltar",
+    "liga": "Partido amistoso",
+    "hora": "1:45 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Atlético Nacional - Palmeiras",
+    "liga": "Copa Libertadores Femenina",
     "hora": "3:00 p. m.",
-    "canal": "TyC Sports"
+    "canal": "Win Sports +"
   },
   {
-    "partido": "Belgrano - Boca Juniors",
-    "liga": "Superliga Argentina",
-    "hora": "6:00 p. m.",
-    "canal": "ESPN 2 / Star +"
+    "partido": "Barcelona (ECU) - Caracas F.C",
+    "liga": "Copa Libertadores Femenina",
+    "hora": "3:00 p. m.",
+    "canal": "Win Sports"
   },
   {
-    "partido": "Alianza Petrolera - Bucaramanga",
+    "partido": "Olimpia - Universitario",
+    "liga": "Copa Libertadores Femenina",
+    "hora": "5:30 p. m.",
+    "canal": "Win Sports"
+  },
+  {
+    "partido": "Universidad de Chile - Santa Fe",
+    "liga": "Copa Libertadores Femenina",
+    "hora": "5:30 p. m.",
+    "canal": "Win Sports +"
+  },
+  {
+    "partido": "Deportivo Cali - Deportes Tolima",
     "liga": "Liga BetPlay",
-    "hora": "8:00 p. m.",
-    "canal": "Win Sports y Win +"
+    "hora": "6:15 p. m.",
+    "canal": "Win Sports +"
+  },
+  {
+    "partido": "Pereira - Águilas Doradas",
+    "liga": "Liga BetPlay",
+    "hora": "8:30 p. m.",
+    "canal": "Win Sports +"
   }
 ]
