@@ -1,48 +1,60 @@
 [
   {
-    "partido": "Ucrania - Macedonia",
-    "liga": "Eliminatoria Eurocopa",
-    "hora": "8:00 a. m.",
+    "partido": "Suiza - Bielorrusia",
+    "liga": "Eliminatorias europeas",
+    "hora": "10:50 a. m.",
     "canal": "ESPN / Star +"
   },
   {
-    "partido": "Dinamarca - Kazajistán",
+    "partido": "Noruega - España",
+    "liga": "Eliminatorias europeas",
+    "hora": "1:30 p. m.",
+    "canal": "ESPN y Star +"
+  },
+  {
+    "partido": "Gales - Croacia",
+    "liga": "Eliminatorias europeas",
+    "hora": "1:45 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Turquía - Letonia",
     "liga": "Eliminatoria Eurocopa",
     "hora": "1:45 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Italia - Malta",
+    "partido": "Polonia - Moldavia",
     "liga": "Eliminatoria Eurocopa",
     "hora": "1:45 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Hungría - Serbia",
-    "liga": "Eliminatoria Eurocopa",
-    "hora": "1:45 p. m.",
-    "canal": "ESPN / Star +"
-  },
-  {
-    "partido": "Pereira - Equidad",
+    "partido": "Águilas Doradas - Alianza Petrolera",
     "liga": "Liga BetPlay",
-    "hora": "4:00 p. m.",
+    "hora": "3:00 p. m.",
     "canal": "Win Sports +"
   },
   {
-    "partido": "Atlético Nacional - Independiente Medellín",
+    "partido": "Corinthians - América",
+    "liga": "Copa Libertadores Femenina",
+    "hora": "3:30 p. m.",
+    "canal": "Win Sports"
+  },
+  {
+    "partido": "Internacional - Colo Colo",
+    "liga": "Copa Libertadores Femenina",
+    "hora": "5:30 p. m.",
+    "canal": "Win Sports"
+  },
+  {
+    "partido": "Deportivo Cali - América",
     "liga": "Liga BetPlay",
     "hora": "6:10 p. m.",
     "canal": "Win Sports +"
   },
   {
-    "partido": "Cuiabá - Cruzeiro",
-    "liga": "Liga de Brasil",
-    "hora": "7:00 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Millonarios - Junior",
+    "partido": "Deportes Tolima - Santa Fe",
     "liga": "Liga BetPlay",
     "hora": "8:20 p. m.",
     "canal": "Win Sports +"
