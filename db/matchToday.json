@@ -1,62 +1,44 @@
 [
   {
-    "partido": "Suiza - Bielorrusia",
-    "liga": "Eliminatorias europeas",
-    "hora": "10:50 a. m.",
+    "partido": "Azerbaiyán - Austria",
+    "liga": "Eliminatoria Eurocopa",
+    "hora": "7:50 a. m.",
+    "canal": "ESPN 3 / Star +"
+  },
+  {
+    "partido": "Bosnia - Portugal",
+    "liga": "Eliminatoria Eurocopa",
+    "hora": "1:30 p. m.",
     "canal": "ESPN / Star +"
   },
   {
-    "partido": "Noruega - España",
+    "partido": "Bélgica - Suecia",
     "liga": "Eliminatorias europeas",
     "hora": "1:30 p. m.",
-    "canal": "ESPN y Star +"
+    "canal": "ESPN 2 / Star +"
   },
   {
-    "partido": "Gales - Croacia",
-    "liga": "Eliminatorias europeas",
-    "hora": "1:45 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Turquía - Letonia",
+    "partido": "Grecia - Países Bajos",
     "liga": "Eliminatoria Eurocopa",
     "hora": "1:45 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Polonia - Moldavia",
-    "liga": "Eliminatoria Eurocopa",
-    "hora": "1:45 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Águilas Doradas - Alianza Petrolera",
-    "liga": "Liga BetPlay",
-    "hora": "3:00 p. m.",
-    "canal": "Win Sports +"
-  },
-  {
-    "partido": "Corinthians - América",
-    "liga": "Copa Libertadores Femenina",
+    "partido": "Boca Juniors de Cali - Fortaleza F.C",
+    "liga": "Torneo BetPlay",
     "hora": "3:30 p. m.",
-    "canal": "Win Sports"
-  },
-  {
-    "partido": "Internacional - Colo Colo",
-    "liga": "Copa Libertadores Femenina",
-    "hora": "5:30 p. m.",
-    "canal": "Win Sports"
-  },
-  {
-    "partido": "Deportivo Cali - América",
-    "liga": "Liga BetPlay",
-    "hora": "6:10 p. m.",
     "canal": "Win Sports +"
   },
   {
-    "partido": "Deportes Tolima - Santa Fe",
+    "partido": "Atlético Huila - Envigado F.C",
     "liga": "Liga BetPlay",
-    "hora": "8:20 p. m.",
+    "hora": "6:00 p. m.",
+    "canal": "Win Sports y Win +"
+  },
+  {
+    "partido": "Bucaramanga - Boyacá Chicó",
+    "liga": "Liga BetPlay",
+    "hora": "8:15 p. m.",
     "canal": "Win Sports +"
   }
 ]
