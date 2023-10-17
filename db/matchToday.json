@@ -1,44 +1,74 @@
 [
   {
-    "partido": "Azerbaiyán - Austria",
+    "partido": "Finlandia - Kazajistán",
     "liga": "Eliminatoria Eurocopa",
-    "hora": "7:50 a. m.",
-    "canal": "ESPN 3 / Star +"
-  },
-  {
-    "partido": "Bosnia - Portugal",
-    "liga": "Eliminatoria Eurocopa",
-    "hora": "1:30 p. m.",
-    "canal": "ESPN / Star +"
-  },
-  {
-    "partido": "Bélgica - Suecia",
-    "liga": "Eliminatorias europeas",
-    "hora": "1:30 p. m.",
+    "hora": "11:00 a. m.",
     "canal": "ESPN 2 / Star +"
   },
   {
-    "partido": "Grecia - Países Bajos",
+    "partido": "Malta - Dinamarca",
     "liga": "Eliminatoria Eurocopa",
     "hora": "1:45 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Boca Juniors de Cali - Fortaleza F.C",
-    "liga": "Torneo BetPlay",
-    "hora": "3:30 p. m.",
-    "canal": "Win Sports +"
+    "partido": "Serbia - Montenegro",
+    "liga": "Eliminatoria Eurocopa",
+    "hora": "1:45 p. m.",
+    "canal": "Star +"
   },
   {
-    "partido": "Atlético Huila - Envigado F.C",
-    "liga": "Liga BetPlay",
-    "hora": "6:00 p. m.",
-    "canal": "Win Sports y Win +"
+    "partido": "Irlanda del Norte - Eslovenia",
+    "liga": "Eliminatoria Eurocopa",
+    "hora": "1:45 p. m.",
+    "canal": "Star +"
   },
   {
-    "partido": "Bucaramanga - Boyacá Chicó",
-    "liga": "Liga BetPlay",
-    "hora": "8:15 p. m.",
-    "canal": "Win Sports +"
+    "partido": "Inglaterra - Italia",
+    "liga": "Eliminatoria Eurocopa",
+    "hora": "1:45 p. m.",
+    "canal": "ESPN / Star +"
+  },
+  {
+    "partido": "Francia - Escocia",
+    "liga": "Eliminatoria Eurocopa",
+    "hora": "2:00 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Venezuela - Chile",
+    "liga": "Eliminatorias",
+    "hora": "4:00 p. m.",
+    "canal": "Caracol / RCN"
+  },
+  {
+    "partido": "Paraguay - Bolivia",
+    "liga": "Eliminatorias",
+    "hora": "5:30 p. m.",
+    "canal": "Caracol Play"
+  },
+  {
+    "partido": "Ecuador - Colombia",
+    "liga": "Eliminatorias",
+    "hora": "6:30 p. m.",
+    "canal": "Caracol / RCN"
+  },
+  {
+    "partido": "Uruguay - Brasil",
+    "liga": "Eliminatorias",
+    "hora": "7:00 p. m.",
+    "canal": "Caracol Play"
+  },
+  {
+    "partido": "Palmeiras - Atlético Nacional",
+    "liga": "Copa Libertadores Femenina",
+    "hora": "7:30 p. m.",
+    "canal": "Win Sports"
+  },
+  {
+    "partido": "Perú - Argentina",
+    "liga": "Eliminatorias",
+    "hora": "9:00 p. m.",
+    "canal": "Caracol / RCN"
   }
 ]
