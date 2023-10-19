@@ -1,49 +1,31 @@
 [
   {
-    "partido": "Barranquilla - Atlético FC",
-    "liga": "Torneo Betplay",
-    "hora": "3:30 p. m.",
-    "canal": "Win Sports +"
+    "partido": "Colón - River Plate",
+    "liga": "Superliga Argentina",
+    "hora": "4:30 p. m.",
+    "canal": "Star +"
   },
   {
-    "partido": "Cúcuta - Llaneros",
-    "liga": "Torneo Betplay",
-    "hora": "6:00 p. m.",
-    "canal": "Win Sports +"
-  },
-  {
-    "partido": "América MG - Botafogo",
+    "partido": "Cruzeiro - Flamengo",
     "liga": "Liga de Brasil",
-    "hora": "6:00 p. m.",
+    "hora": "5:00 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Palmeiras - Atlético Mineiro",
+    "liga": "Liga de Brasil",
+    "hora": "5:00 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Fluminense - Corinthians",
+    "liga": "Liga de Brasil",
+    "hora": "7:30 p. m.",
     "canal": "ESPN 3 / Star +"
   },
   {
-    "partido": "Inter Miami - Charlotte FC",
-    "liga": "Major League Soccer",
-    "hora": "7:00 p. m.",
-    "canal": "Apple TV"
-  },
-  {
-    "partido": "Independiente - Barracas Central",
-    "liga": "Superliga Argentina",
-    "hora": "7:00 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Corinthians - Internacional",
-    "liga": "Copa Libertadores Femenina",
-    "hora": "7:30 p. m.",
-    "canal": "Win Sports"
-  },
-  {
-    "partido": "Goiás - Sao Paulo",
-    "liga": "Liga de Brasil",
-    "hora": "7:30 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Millonarios - Unión Magdalena",
-    "liga": "Liga BetPlay",
+    "partido": "Pereira - Atlético Nacional",
+    "liga": "Copa Betplay",
     "hora": "8:00 p. m.",
     "canal": "Win Sports +"
   }
