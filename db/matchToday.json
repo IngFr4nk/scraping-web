@@ -1,32 +1,44 @@
 [
   {
-    "partido": "Colón - River Plate",
-    "liga": "Superliga Argentina",
-    "hora": "4:30 p. m.",
+    "partido": "Borussia Dortmund - Werder Bremen",
+    "liga": "Bundesliga",
+    "hora": "1:00 p. m.",
+    "canal": "ESPN 2 / Star +"
+  },
+  {
+    "partido": "Le Havre - Lens",
+    "liga": "Liga de Francia",
+    "hora": "2:00 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Cruzeiro - Flamengo",
-    "liga": "Liga de Brasil",
-    "hora": "5:00 p. m.",
-    "canal": "Star +"
+    "partido": "Osasuna - Granada CF",
+    "liga": "Liga de Espana",
+    "hora": "2:00 p. m.",
+    "canal": "Directv Sports"
   },
   {
-    "partido": "Palmeiras - Atlético Mineiro",
-    "liga": "Liga de Brasil",
-    "hora": "5:00 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Fluminense - Corinthians",
-    "liga": "Liga de Brasil",
-    "hora": "7:30 p. m.",
-    "canal": "ESPN 3 / Star +"
-  },
-  {
-    "partido": "Pereira - Atlético Nacional",
-    "liga": "Copa Betplay",
-    "hora": "8:00 p. m.",
+    "partido": "Envigado F.C - Deportivo Cali",
+    "liga": "Liga BetPlay",
+    "hora": "4:00 p. m.",
     "canal": "Win Sports +"
+  },
+  {
+    "partido": "Jaguares de Córdoba - Deportivo Pasto",
+    "liga": "Liga BetPlay",
+    "hora": "6:10 p. m.",
+    "canal": "Win Sports / Win Sports +"
+  },
+  {
+    "partido": "Boca Juniors - Unión de Santa Fe",
+    "liga": "Superliga Argentina",
+    "hora": "7:30 p. m.",
+    "canal": "ESPN / Star +"
+  },
+  {
+    "partido": "Equidad - Águilas Doradas",
+    "liga": "Liga BetPlay",
+    "hora": "8:20 p. m.",
+    "canal": "Win Sports / Win Sports +"
   }
 ]
