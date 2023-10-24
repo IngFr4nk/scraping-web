@@ -1,92 +1,56 @@
 [
   {
-    "partido": "Roma - Monza",
-    "liga": "Serie A",
-    "hora": "5:30 a. m.",
+    "partido": "Inter - Red Bull Salzburg",
+    "liga": "Champions League",
+    "hora": "11:45 a. m.",
     "canal": "ESPN y Star+"
   },
   {
-    "partido": "Las Palmas - Rayo Vallecano",
-    "liga": "Liga de Espana",
-    "hora": "7:00 a. m.",
-    "canal": "Directv 610"
-  },
-  {
-    "partido": "Bolognia - Frosinone",
-    "liga": "Serie A",
-    "hora": "8:00 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Salernitana - Cagliari",
-    "liga": "Serie A",
-    "hora": "8:00 a. m.",
+    "partido": "Galatasaray - Bayern Munich",
+    "liga": "Champions League",
+    "hora": "11:45 a. m.",
     "canal": "ESPN 2 y Star+"
   },
   {
-    "partido": "Girona - Almería",
-    "liga": "Liga de Espana",
-    "hora": "9:15 a. m.",
-    "canal": "ESPN 3 y Star+"
-  },
-  {
-    "partido": "Mónaco - Metz",
-    "liga": "Liga de Francia",
-    "hora": "10:00 a. m.",
-    "canal": "ESPN 2 y Star+"
-  },
-  {
-    "partido": "Aston Villa - West Ham Utd.",
-    "liga": "Liga de Inglaterra",
-    "hora": "10:30 a. m.",
-    "canal": "ESPN y Star+"
-  },
-  {
-    "partido": "Atalanta - Génoa",
-    "liga": "Serie A",
-    "hora": "11:00 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Villarreal - Alavés",
-    "liga": "Liga de Espana",
-    "hora": "11:30 a. m.",
-    "canal": "Directv 610"
-  },
-  {
-    "partido": "Milán - Juventus",
-    "liga": "Serie A",
-    "hora": "1:45 p. m.",
-    "canal": "ESPN y Star+"
-  },
-  {
-    "partido": "Fortaleza F.C - Leones",
-    "liga": "Torneo Betplay",
-    "hora": "2:00 p. m.",
-    "canal": "Win Sports y Win +"
-  },
-  {
-    "partido": "Barcelona - Athletic Club",
-    "liga": "Liga de Espana",
+    "partido": "Lens - PSV",
+    "liga": "Champions League",
     "hora": "2:00 p. m.",
     "canal": "ESPN 3 y Star+"
   },
   {
-    "partido": "Boyacá Chicó - Atlético Nacional",
-    "liga": "Liga BetPlay",
-    "hora": "4:00 p. m.",
-    "canal": "Win Sports +"
+    "partido": "Benfica - Real Sociedad",
+    "liga": "Champions League",
+    "hora": "2:00 p. m.",
+    "canal": "Fox Sports 2 y Star+"
   },
   {
-    "partido": "Independiente Medellín - Pereira",
-    "liga": "Liga BetPlay",
-    "hora": "6:10 p. m.",
-    "canal": "Win Sports +"
+    "partido": "Braga - Real Madrid",
+    "liga": "Champions League",
+    "hora": "2:00 p. m.",
+    "canal": "ESPN y Star+"
   },
   {
-    "partido": "Alianza Petrolera - Deportes Tolima",
+    "partido": "Union Berlin - Napoli",
+    "liga": "Champions League",
+    "hora": "2:00 p. m.",
+    "canal": "Fox Sports 3 y Star+"
+  },
+  {
+    "partido": "Manchester United - Copenhague",
+    "liga": "Champions League",
+    "hora": "2:00 p. m.",
+    "canal": "ESPN 2 y Star+"
+  },
+  {
+    "partido": "Águilas Doradas - Envigado F.C",
     "liga": "Liga BetPlay",
-    "hora": "8:20 p. m.",
+    "hora": "6:00 p. m.",
     "canal": "Win Sports y Win +"
+  },
+  {
+    "partido": "Deportivo Cali - Jaguares de Córdoba",
+    "liga": "Liga BetPlay",
+    "hora": "8:10 p. m.",
+    "canal": "Win Sports +"
   }
 ]
