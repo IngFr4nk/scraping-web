@@ -1,66 +1,48 @@
 [
   {
-    "partido": "Feyenoord - Lazio",
-    "liga": "Champions League",
+    "partido": "Marsella - AEK de Atenas",
+    "liga": "Liga de Europa",
     "hora": "11:45 a. m.",
-    "canal": "ESPN 2 y Star +"
+    "canal": "ESPN Extra y Star +"
   },
   {
-    "partido": "Barcelona - Shakhtar Donetsk",
-    "liga": "Champions League",
+    "partido": "Sturm Graz - Atalanta",
+    "liga": "Liga de Europa",
     "hora": "11:45 a. m.",
     "canal": "ESPN y Star +"
   },
   {
-    "partido": "Paris Saint-Germain - Milán",
-    "liga": "Champions League",
-    "hora": "2:00 p. m.",
-    "canal": "ESPN y Star +"
-  },
-  {
-    "partido": "Young Boys - Manchester City",
-    "liga": "Champions League",
-    "hora": "2:00 p. m.",
-    "canal": "ESPN 2 y Star +"
-  },
-  {
-    "partido": "RB Leipzig - Estrella Roja",
-    "liga": "Champions League",
-    "hora": "2:00 p. m.",
+    "partido": "Raków - Sporting de Lisboa",
+    "liga": "Liga de Europa",
+    "hora": "11:45 a. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Royal Antwerp - Porto",
-    "liga": "Champions League",
-    "hora": "2:00 p. m.",
+    "partido": "Olimpiakos - West Ham Utd.",
+    "liga": "Liga de Europa",
+    "hora": "11:45 a. m.",
     "canal": "ESPN 3 y Star +"
   },
   {
-    "partido": "Celtic - Atlético de Madrid",
-    "liga": "Champions League",
-    "hora": "2:00 p. m.",
+    "partido": "Sparta Praga - Rangers",
+    "liga": "Liga de Europa",
+    "hora": "11:45 a. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Newcastle - Borussia Dortmund",
-    "liga": "Champions League",
-    "hora": "2:00 p. m.",
-    "canal": "ESPN 4 y Star +"
-  },
-  {
-    "partido": "Bucaramanga - Equidad",
+    "partido": "Deportivo Pasto - Independiente Medellín",
     "liga": "Liga BetPlay",
     "hora": "4:00 p. m.",
-    "canal": "Win Sports y Win +"
+    "canal": "Win Sports +"
   },
   {
-    "partido": "Pereira - Junior",
+    "partido": "Once Caldas - América",
     "liga": "Liga BetPlay",
     "hora": "6:10 p. m.",
     "canal": "Win Sports +"
   },
   {
-    "partido": "Millonarios - Boyacá Chicó",
+    "partido": "Atlético Nacional - Alianza Petrolera",
     "liga": "Liga BetPlay",
     "hora": "8:20 p. m.",
     "canal": "Win Sports +"
