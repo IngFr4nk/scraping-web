@@ -1,104 +1,110 @@
 [
   {
-    "partido": "Chelsea - Brentford",
-    "liga": "Liga de Inglaterra",
-    "hora": "6:30 a. m.",
+    "partido": "Brest - Paris Saint-Germain",
+    "liga": "Liga de Francia",
+    "hora": "7:00 a. m.",
     "canal": "ESPN / Star +"
   },
   {
-    "partido": "Almería - Las Palmas",
-    "liga": "Liga de Espana",
-    "hora": "7:00 a. m.",
-    "canal": "ESPN 3 y Star +"
-  },
-  {
-    "partido": "Sassuolo - Bolognia",
-    "liga": "Serie A",
+    "partido": "West Ham Utd. - Everton",
+    "liga": "Liga de Inglaterra",
     "hora": "8:00 a. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Werder Bremen - Union Berlin",
-    "liga": "Bundesliga",
+    "partido": "PSV - Ajax",
+    "liga": "Liga de Holanda",
     "hora": "8:30 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Bayern Munich - Darmstadt 98",
-    "liga": "Bundesliga",
-    "hora": "8:30 a. m.",
-    "canal": "ESPN 4 / Star +"
-  },
-  {
-    "partido": "Arsenal - Sheffield United",
-    "liga": "Liga de Inglaterra",
-    "hora": "9:00 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Bournemouth - Burnley",
-    "liga": "Liga de Inglaterra",
-    "hora": "9:00 a. m.",
     "canal": "ESPN 2 / Star +"
   },
   {
-    "partido": "Barcelona - Real Madrid",
+    "partido": "Brighton & Hove - Fulham",
+    "liga": "Liga de Inglaterra",
+    "hora": "9:00 a. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Aston Villa - Luton Town",
+    "liga": "Liga de Inglaterra",
+    "hora": "9:00 a. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Liverpool - Nottingham Forest",
+    "liga": "Liga de Inglaterra",
+    "hora": "9:00 a. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Eintracht Frankfurt - Borussia Dortmund",
+    "liga": "Bundesliga",
+    "hora": "9:30 a. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Rayo Vallecano - Real Sociedad",
     "liga": "Liga de Espana",
-    "hora": "9:15 a. m.",
+    "hora": "10:15 a. m.",
+    "canal": "Directv Sports"
+  },
+  {
+    "partido": "Manchester United - Manchester City",
+    "liga": "Liga de Inglaterra",
+    "hora": "10:30 a. m.",
     "canal": "ESPN / Star +"
   },
   {
-    "partido": "Lecce - Torino",
-    "liga": "Serie A",
-    "hora": "11:00 a. m.",
-    "canal": "ESPN 2 / Star +"
-  },
-  {
-    "partido": "Wolverhampton - Newcastle",
-    "liga": "Liga de Inglaterra",
-    "hora": "11:30 a. m.",
-    "canal": "ESPN Extra / Star +"
-  },
-  {
-    "partido": "RB Leipzig - Colonia",
+    "partido": "Bayer Leverkusen - Friburgo",
     "liga": "Bundesliga",
     "hora": "11:30 a. m.",
-    "canal": "ESPN 4 / Star+"
-  },
-  {
-    "partido": "Juventus - Hellas Verona",
-    "liga": "Serie A",
-    "hora": "1:45 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Cádiz - Sevilla",
+    "partido": "Inter - Roma",
+    "liga": "Serie A",
+    "hora": "12:00 p. m.",
+    "canal": "ESPN 2 / Star +"
+  },
+  {
+    "partido": "Athletic Club - Valencia CF",
     "liga": "Liga de Espana",
-    "hora": "2:00 p. m.",
+    "hora": "12:30 p. m.",
     "canal": "ESPN 3 / Star +"
   },
   {
-    "partido": "Lens - Nantes",
-    "liga": "Liga de Francia",
-    "hora": "2:00 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Fortaleza - Liga de Quito",
-    "liga": "Copa Sudamericana",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN / Star +"
-  },
-  {
-    "partido": "Boca Juniors - Estudiantes",
-    "liga": "Superliga Argentina",
-    "hora": "5:00 p. m.",
-    "canal": "ESPN 2 / Star +"
-  },
-  {
-    "partido": "Atlético Mineiro - Fluminense",
+    "partido": "Atlético Paranaense - Sao Paulo",
     "liga": "Liga de Brasil",
-    "hora": "8:00 p. m.",
+    "hora": "2:00 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Napoli - Milán",
+    "liga": "Serie A",
+    "hora": "2:45 p. m.",
     "canal": "ESPN 3 / Star +"
+  },
+  {
+    "partido": "Atlético de Madrid - Alavés",
+    "liga": "Liga de Espana",
+    "hora": "3:00 p. m.",
+    "canal": "Directv Sports"
+  },
+  {
+    "partido": "Colombia - Estados Unidos",
+    "liga": "Juegos Panamericanos",
+    "hora": "4:00 p. m.",
+    "canal": "Panam Sports Channel"
+  },
+  {
+    "partido": "Gimnasia de La Plata - River Plate",
+    "liga": "Superliga Argentina",
+    "hora": "4:30 p. m.",
+    "canal": "ESPN 2 / Star +"
+  },
+  {
+    "partido": "Estados Unidos Femenino - Colombia Femenino",
+    "liga": "Amistoso femenino",
+    "hora": "4:30 p. m.",
+    "canal": "Caracol HD2 / Gol Caracol"
   }
 ]
