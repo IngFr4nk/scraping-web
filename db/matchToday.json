@@ -1,110 +1,38 @@
 [
   {
-    "partido": "Brest - Paris Saint-Germain",
-    "liga": "Liga de Francia",
-    "hora": "7:00 a. m.",
-    "canal": "ESPN / Star +"
-  },
-  {
-    "partido": "West Ham Utd. - Everton",
-    "liga": "Liga de Inglaterra",
-    "hora": "8:00 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "PSV - Ajax",
-    "liga": "Liga de Holanda",
-    "hora": "8:30 a. m.",
-    "canal": "ESPN 2 / Star +"
-  },
-  {
-    "partido": "Brighton & Hove - Fulham",
-    "liga": "Liga de Inglaterra",
-    "hora": "9:00 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Aston Villa - Luton Town",
-    "liga": "Liga de Inglaterra",
-    "hora": "9:00 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Liverpool - Nottingham Forest",
-    "liga": "Liga de Inglaterra",
-    "hora": "9:00 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Eintracht Frankfurt - Borussia Dortmund",
-    "liga": "Bundesliga",
-    "hora": "9:30 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Rayo Vallecano - Real Sociedad",
-    "liga": "Liga de Espana",
-    "hora": "10:15 a. m.",
-    "canal": "Directv Sports"
-  },
-  {
-    "partido": "Manchester United - Manchester City",
-    "liga": "Liga de Inglaterra",
-    "hora": "10:30 a. m.",
-    "canal": "ESPN / Star +"
-  },
-  {
-    "partido": "Bayer Leverkusen - Friburgo",
-    "liga": "Bundesliga",
-    "hora": "11:30 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Inter - Roma",
+    "partido": "Empoli - Atalanta",
     "liga": "Serie A",
-    "hora": "12:00 p. m.",
-    "canal": "ESPN 2 / Star +"
-  },
-  {
-    "partido": "Athletic Club - Valencia CF",
-    "liga": "Liga de Espana",
     "hora": "12:30 p. m.",
-    "canal": "ESPN 3 / Star +"
-  },
-  {
-    "partido": "Atlético Paranaense - Sao Paulo",
-    "liga": "Liga de Brasil",
-    "hora": "2:00 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Napoli - Milán",
+    "partido": "Lazio - Fiorentina",
     "liga": "Serie A",
     "hora": "2:45 p. m.",
-    "canal": "ESPN 3 / Star +"
+    "canal": "ESPN 3 y Star +"
   },
   {
-    "partido": "Atlético de Madrid - Alavés",
+    "partido": "Granada CF - Villarreal",
     "liga": "Liga de Espana",
     "hora": "3:00 p. m.",
-    "canal": "Directv Sports"
+    "canal": "ESPN 2 y Star +"
   },
   {
-    "partido": "Colombia - Estados Unidos",
-    "liga": "Juegos Panamericanos",
+    "partido": "Cúcuta - Barranquilla",
+    "liga": "Torneo Betplay",
     "hora": "4:00 p. m.",
-    "canal": "Panam Sports Channel"
+    "canal": "Win Sports +"
   },
   {
-    "partido": "Gimnasia de La Plata - River Plate",
+    "partido": "Huracán - Barracas Central",
     "liga": "Superliga Argentina",
-    "hora": "4:30 p. m.",
-    "canal": "ESPN 2 / Star +"
+    "hora": "7:00 p. m.",
+    "canal": "ESPN / Star +"
   },
   {
-    "partido": "Estados Unidos Femenino - Colombia Femenino",
-    "liga": "Amistoso femenino",
-    "hora": "4:30 p. m.",
-    "canal": "Caracol HD2 / Gol Caracol"
+    "partido": "América - Millonarios",
+    "liga": "Liga BetPlay",
+    "hora": "8:00 p. m.",
+    "canal": "Win Sports +"
   }
 ]
