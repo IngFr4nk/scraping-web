@@ -1,38 +1,32 @@
 [
   {
-    "partido": "Empoli - Atalanta",
-    "liga": "Serie A",
-    "hora": "12:30 p. m.",
+    "partido": "Central Córdoba - Unión de Santa Fe",
+    "liga": "Liga de Argentina",
+    "hora": "7:00 a. m.",
+    "canal": "TyC Sports Internacional"
+  },
+  {
+    "partido": "Salernitana - Sampdoria",
+    "liga": "Copa de Italia",
+    "hora": "12:00 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Lazio - Fiorentina",
-    "liga": "Serie A",
-    "hora": "2:45 p. m.",
-    "canal": "ESPN 3 y Star +"
-  },
-  {
-    "partido": "Granada CF - Villarreal",
-    "liga": "Liga de Espana",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN 2 y Star +"
-  },
-  {
-    "partido": "Cúcuta - Barranquilla",
+    "partido": "Fortaleza F.C - Real Cartagena",
     "liga": "Torneo Betplay",
-    "hora": "4:00 p. m.",
+    "hora": "5:00 p. m.",
     "canal": "Win Sports +"
   },
   {
-    "partido": "Huracán - Barracas Central",
-    "liga": "Superliga Argentina",
-    "hora": "7:00 p. m.",
-    "canal": "ESPN / Star +"
+    "partido": "Bahía - Fluminense",
+    "liga": "Liga de Brasil",
+    "hora": "5:00 p. m.",
+    "canal": "ESPN 2 y Star+"
   },
   {
-    "partido": "América - Millonarios",
-    "liga": "Liga BetPlay",
-    "hora": "8:00 p. m.",
-    "canal": "Win Sports +"
+    "partido": "Llaneros - Atlético FC",
+    "liga": "Torneo Betplay",
+    "hora": "7:40 p. m.",
+    "canal": "Win Sports y Win +"
   }
 ]
