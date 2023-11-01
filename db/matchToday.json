@@ -1,32 +1,44 @@
 [
   {
-    "partido": "Central Córdoba - Unión de Santa Fe",
-    "liga": "Liga de Argentina",
-    "hora": "7:00 a. m.",
-    "canal": "TyC Sports Internacional"
-  },
-  {
-    "partido": "Salernitana - Sampdoria",
-    "liga": "Copa de Italia",
+    "partido": "Borussia Dortmund - Hoffenheim",
+    "liga": "Copa de Alemania",
     "hora": "12:00 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Fortaleza F.C - Real Cartagena",
-    "liga": "Torneo Betplay",
-    "hora": "5:00 p. m.",
-    "canal": "Win Sports +"
-  },
-  {
-    "partido": "Bahía - Fluminense",
-    "liga": "Liga de Brasil",
-    "hora": "5:00 p. m.",
     "canal": "ESPN 2 y Star+"
   },
   {
-    "partido": "Llaneros - Atlético FC",
-    "liga": "Torneo Betplay",
-    "hora": "7:40 p. m.",
-    "canal": "Win Sports y Win +"
+    "partido": "West Ham Utd. - Arsenal",
+    "liga": "EFL Cup",
+    "hora": "2:30 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Everton - Burnley",
+    "liga": "EFL Cup",
+    "hora": "2:45 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Chelsea - Blackburn Rov.",
+    "liga": "EFL Cup",
+    "hora": "2:45 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Bournemouth - Liverpool",
+    "liga": "EFL Cup",
+    "hora": "2:45 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Udinese - Cagliari",
+    "liga": "Copa de Italia",
+    "hora": "3:00 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Defensa y Justicia - Racing Club",
+    "liga": "Liga de Argentina",
+    "hora": "6:00 p. m.",
+    "canal": "Star +"
   }
 ]
