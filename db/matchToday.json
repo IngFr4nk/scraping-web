@@ -1,38 +1,32 @@
 [
   {
-    "partido": "Ajax - FC Volendam",
-    "liga": "Liga de Holanda",
-    "hora": "2:00 p. m.",
+    "partido": "Darmstadt 98 - Bochum 1848",
+    "liga": "Bundesliga",
+    "hora": "2:30 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Bolognia - Lazio",
+    "liga": "Serie A",
+    "hora": "2:45 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Las Palmas - Atlético de Madrid",
+    "liga": "Liga de Espana",
+    "hora": "3:00 p. m.",
     "canal": "ESPN 2 y Star+"
   },
   {
-    "partido": "Torino - Frosinone",
-    "liga": "Copa de Italia",
-    "hora": "3:00 p. m.",
+    "partido": "Arsenal de Sarandí - Gimnasia de La Plata",
+    "liga": "Liga de Argentina",
+    "hora": "5:00 p. m.",
+    "canal": "TyC Sports Internacional"
+  },
+  {
+    "partido": "River Plate - Huracán",
+    "liga": "Liga de Argentina",
+    "hora": "7:00 p. m.",
     "canal": "Star +"
-  },
-  {
-    "partido": "Atlético Nacional - Pereira",
-    "liga": "Copa BetPlay",
-    "hora": "3:00 p. m.",
-    "canal": "Win Sports +"
-  },
-  {
-    "partido": "Paris Saint-Germain - Montpellier",
-    "liga": "Liga de Francia",
-    "hora": "3:00 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Sao Paulo - Cruzeiro",
-    "liga": "Liga de Brasil",
-    "hora": "6:00 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Millonarios - Cúcuta",
-    "liga": "Copa Betplay",
-    "hora": "8:00 p. m.",
-    "canal": "Win Sports +"
   }
 ]
