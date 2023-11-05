@@ -1,62 +1,74 @@
 [
   {
-    "partido": "Fulham - Manchester United",
+    "partido": "Hellas Verona - Monza",
+    "liga": "Serie A",
+    "hora": "6:30 a. m.",
+    "canal": "ESPN / Star +"
+  },
+  {
+    "partido": "Nottingham Forest - Aston Villa",
     "liga": "Liga de Inglaterra",
-    "hora": "7:30 a. m.",
-    "canal": "ESPN y Star+"
+    "hora": "9:00 a. m.",
+    "canal": "ESPN / Star +"
   },
   {
-    "partido": "Osasuna - Girona",
-    "liga": "Liga de Espana",
-    "hora": "8:00 a. m.",
-    "canal": "ESPN 4 y Star+"
+    "partido": "Wolfsburgo - Werder Bremen",
+    "liga": "Bundesliga",
+    "hora": "9:30 a. m.",
+    "canal": "ESPN 4 / Star +"
   },
   {
-    "partido": "Everton - Brighton & Hove",
+    "partido": "Luton Town - Liverpool",
     "liga": "Liga de Inglaterra",
-    "hora": "10:00 a. m.",
-    "canal": "ESPN y Star+"
+    "hora": "11:30 a. m.",
+    "canal": "Star +"
   },
   {
-    "partido": "Atalanta - Inter",
+    "partido": "Heidenhem - VfB Stuttgart",
+    "liga": "Bundesliga",
+    "hora": "11:30 a. m.",
+    "canal": "ESPN 4 / Star +"
+  },
+  {
+    "partido": "Roma - Lecce",
     "liga": "Serie A",
     "hora": "12:00 p. m.",
-    "canal": "ESPN / Star+"
+    "canal": "ESPN Extra / Star +"
   },
   {
-    "partido": "Newcastle - Arsenal",
-    "liga": "Liga de Inglaterra",
-    "hora": "12:30 p. m.",
-    "canal": "ESPN Extra / Star+"
-  },
-  {
-    "partido": "Borussia Dortmund - Bayern Munich",
-    "liga": "Bundesliga",
-    "hora": "12:30 p. m.",
-    "canal": "ESPN 4 / Star+"
-  },
-  {
-    "partido": "Real Sociedad - Barcelona",
+    "partido": "Villarreal - Athletic Club",
     "liga": "Liga de Espana",
-    "hora": "3:00 p. m.",
+    "hora": "12:30 p. m.",
+    "canal": "ESPN / Star +"
+  },
+  {
+    "partido": "Fiorentina - Juventus",
+    "liga": "Liga de Francia",
+    "hora": "2:45 p. m.",
     "canal": "ESPN 2 / Star +"
   },
   {
-    "partido": "Boca Juniors - Fluminense",
-    "liga": "Copa Libertadores",
+    "partido": "Real Madrid - Rayo Vallecano",
+    "liga": "Liga de Espana",
     "hora": "3:00 p. m.",
-    "canal": "ESPN y Star+ / Pluto TV"
+    "canal": "Directv Sports"
   },
   {
-    "partido": "Boca Juniors de Cali - Real Cartagena",
-    "liga": "Torneo Betplay",
-    "hora": "3:30 p. m.",
+    "partido": "Racing Club - Central Córdoba",
+    "liga": "Superliga Argentina",
+    "hora": "4:30 p. m.",
+    "canal": "ESPN 4 / Star +"
+  },
+  {
+    "partido": "Cúcuta - Millonarios",
+    "liga": "Copa Betplay",
+    "hora": "5:00 p. m.",
     "canal": "Win Sports +"
   },
   {
-    "partido": "Leones - Fortaleza F.C",
+    "partido": "Barranquilla - Llaneros",
     "liga": "Torneo Betplay",
     "hora": "7:30 p. m.",
-    "canal": "Win Sports y Win +"
+    "canal": "Win Sports +"
   }
 ]
