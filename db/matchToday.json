@@ -1,74 +1,32 @@
 [
   {
-    "partido": "Hellas Verona - Monza",
+    "partido": "Frosinone - Empoli",
     "liga": "Serie A",
-    "hora": "6:30 a. m.",
-    "canal": "ESPN / Star +"
-  },
-  {
-    "partido": "Nottingham Forest - Aston Villa",
-    "liga": "Liga de Inglaterra",
-    "hora": "9:00 a. m.",
-    "canal": "ESPN / Star +"
-  },
-  {
-    "partido": "Wolfsburgo - Werder Bremen",
-    "liga": "Bundesliga",
-    "hora": "9:30 a. m.",
-    "canal": "ESPN 4 / Star +"
-  },
-  {
-    "partido": "Luton Town - Liverpool",
-    "liga": "Liga de Inglaterra",
-    "hora": "11:30 a. m.",
+    "hora": "12:30 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Heidenhem - VfB Stuttgart",
-    "liga": "Bundesliga",
-    "hora": "11:30 a. m.",
-    "canal": "ESPN 4 / Star +"
-  },
-  {
-    "partido": "Roma - Lecce",
+    "partido": "Torino - Sassuolo",
     "liga": "Serie A",
-    "hora": "12:00 p. m.",
-    "canal": "ESPN Extra / Star +"
+    "hora": "2:45 p. m.",
+    "canal": "Star +"
   },
   {
-    "partido": "Villarreal - Athletic Club",
-    "liga": "Liga de Espana",
-    "hora": "12:30 p. m.",
+    "partido": "Tottenham Hotspur - Chelsea",
+    "liga": "Liga de Inglaterra",
+    "hora": "3:00 p. m.",
     "canal": "ESPN / Star +"
   },
   {
-    "partido": "Fiorentina - Juventus",
-    "liga": "Liga de Francia",
-    "hora": "2:45 p. m.",
-    "canal": "ESPN 2 / Star +"
-  },
-  {
-    "partido": "Real Madrid - Rayo Vallecano",
+    "partido": "Getafe - Cádiz",
     "liga": "Liga de Espana",
     "hora": "3:00 p. m.",
-    "canal": "Directv Sports"
+    "canal": "ESPN 3 y Star +"
   },
   {
-    "partido": "Racing Club - Central Córdoba",
-    "liga": "Superliga Argentina",
-    "hora": "4:30 p. m.",
-    "canal": "ESPN 4 / Star +"
-  },
-  {
-    "partido": "Cúcuta - Millonarios",
-    "liga": "Copa Betplay",
-    "hora": "5:00 p. m.",
-    "canal": "Win Sports +"
-  },
-  {
-    "partido": "Barranquilla - Llaneros",
-    "liga": "Torneo Betplay",
-    "hora": "7:30 p. m.",
-    "canal": "Win Sports +"
+    "partido": "Santos - Cuiabá",
+    "liga": "Liga de Brasil",
+    "hora": "7:00 p. m.",
+    "canal": "ESPN 3 / Star +"
   }
 ]
