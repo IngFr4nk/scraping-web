@@ -1,32 +1,80 @@
 [
   {
-    "partido": "Frosinone - Empoli",
-    "liga": "Serie A",
-    "hora": "12:30 p. m.",
+    "partido": "Shakhtar Donetsk - Barcelona",
+    "liga": "Champions League",
+    "hora": "12:45 p. m.",
+    "canal": "ESPN / Star +"
+  },
+  {
+    "partido": "Borussia Dortmund - Newcastle",
+    "liga": "Champions League",
+    "hora": "12:45 p. m.",
+    "canal": "ESPN 2 / Star +"
+  },
+  {
+    "partido": "Lazio - Feyenoord",
+    "liga": "Champions League",
+    "hora": "3:00 p. m.",
+    "canal": "Fox Sports 2 / Star +"
+  },
+  {
+    "partido": "Porto - Royal Antwerp",
+    "liga": "Champions League",
+    "hora": "3:00 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Torino - Sassuolo",
-    "liga": "Serie A",
-    "hora": "2:45 p. m.",
-    "canal": "Star +"
+    "partido": "Atlético de Madrid - Celtic",
+    "liga": "Champions League",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN 4 / Star +"
   },
   {
-    "partido": "Tottenham Hotspur - Chelsea",
-    "liga": "Liga de Inglaterra",
+    "partido": "Estrella Roja - RB Leipzig",
+    "liga": "Champions League",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN 3 / Star +"
+  },
+  {
+    "partido": "Manchester City - Young Boys",
+    "liga": "Champions League",
     "hora": "3:00 p. m.",
     "canal": "ESPN / Star +"
   },
   {
-    "partido": "Getafe - Cádiz",
-    "liga": "Liga de Espana",
+    "partido": "Milán - Paris Saint-Germain",
+    "liga": "Champions League",
     "hora": "3:00 p. m.",
-    "canal": "ESPN 3 y Star +"
+    "canal": "ESPN 2 / Star +"
   },
   {
-    "partido": "Santos - Cuiabá",
-    "liga": "Liga de Brasil",
-    "hora": "7:00 p. m.",
-    "canal": "ESPN 3 / Star +"
+    "partido": "Alianza Petrolera - Pereira",
+    "liga": "Liga BetPlay",
+    "hora": "7:30 p. m.",
+    "canal": "Win Sports Online / Winsports.co"
+  },
+  {
+    "partido": "Santa Fe - Once Caldas",
+    "liga": "Liga BetPlay",
+    "hora": "7:30 p. m.",
+    "canal": "Win Sports Online / Winsports.co"
+  },
+  {
+    "partido": "Envigado F.C - Deportivo Pasto",
+    "liga": "Liga BetPlay",
+    "hora": "7:30 p. m.",
+    "canal": "Win Sports Online / Winsports.co"
+  },
+  {
+    "partido": "Junior - Atlético Huila",
+    "liga": "Liga BetPlay",
+    "hora": "7:30 p. m.",
+    "canal": "Win Sports +"
+  },
+  {
+    "partido": "Boyacá Chicó - Deportivo Cali",
+    "liga": "Liga BetPlay",
+    "hora": "7:30 p. m.",
+    "canal": "Win Sports"
   }
 ]
