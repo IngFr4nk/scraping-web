@@ -1,80 +1,104 @@
 [
   {
-    "partido": "Shakhtar Donetsk - Barcelona",
+    "partido": "Real Sociedad - Benfica",
     "liga": "Champions League",
     "hora": "12:45 p. m.",
-    "canal": "ESPN / Star +"
+    "canal": "ESPN 2 y Star+"
   },
   {
-    "partido": "Borussia Dortmund - Newcastle",
+    "partido": "Napoli - Union Berlin",
     "liga": "Champions League",
     "hora": "12:45 p. m.",
-    "canal": "ESPN 2 / Star +"
+    "canal": "ESPN y Star+"
   },
   {
-    "partido": "Lazio - Feyenoord",
+    "partido": "Real Madrid - Braga",
     "liga": "Champions League",
     "hora": "3:00 p. m.",
-    "canal": "Fox Sports 2 / Star +"
+    "canal": "ESPN y Star+"
   },
   {
-    "partido": "Porto - Royal Antwerp",
+    "partido": "Copenhague - Manchester United",
     "liga": "Champions League",
     "hora": "3:00 p. m.",
+    "canal": "ESPN 2 y Star+"
+  },
+  {
+    "partido": "PSV - Lens",
+    "liga": "Champions League",
+    "hora": "3:00 p. m.",
+    "canal": "Fox Sports 3 y Star+"
+  },
+  {
+    "partido": "Bayern Munich - Galatasaray",
+    "liga": "Champions League",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN 3 y Star+"
+  },
+  {
+    "partido": "Red Bull Salzburg - Inter",
+    "liga": "Champions League",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN 4 y Star+"
+  },
+  {
+    "partido": "Arsenal - Sevilla",
+    "liga": "Champions League",
+    "hora": "3:00 p. m.",
+    "canal": "Fox Sports 2 y Star+"
+  },
+  {
+    "partido": "Internacional - Fluminense",
+    "liga": "Liga de Brasil",
+    "hora": "5:00 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Atlético de Madrid - Celtic",
-    "liga": "Champions League",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN 4 / Star +"
+    "partido": "San Lorenzo - Boca Juniors",
+    "liga": "Liga de Argentina",
+    "hora": "5:00 p. m.",
+    "canal": "ESPN y Star+"
   },
   {
-    "partido": "Estrella Roja - RB Leipzig",
-    "liga": "Champions League",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN 3 / Star +"
+    "partido": "Sao Paulo - Red Bull Bragantino",
+    "liga": "Liga de Brasil",
+    "hora": "6:00 p. m.",
+    "canal": "ESPN 3 y Star+"
   },
   {
-    "partido": "Manchester City - Young Boys",
-    "liga": "Champions League",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN / Star +"
-  },
-  {
-    "partido": "Milán - Paris Saint-Germain",
-    "liga": "Champions League",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN 2 / Star +"
-  },
-  {
-    "partido": "Alianza Petrolera - Pereira",
+    "partido": "Equidad - Millonarios",
     "liga": "Liga BetPlay",
     "hora": "7:30 p. m.",
     "canal": "Win Sports Online / Winsports.co"
   },
   {
-    "partido": "Santa Fe - Once Caldas",
+    "partido": "Jaguares de Córdoba - Águilas Doradas",
     "liga": "Liga BetPlay",
     "hora": "7:30 p. m.",
     "canal": "Win Sports Online / Winsports.co"
   },
   {
-    "partido": "Envigado F.C - Deportivo Pasto",
+    "partido": "Unión Magdalena - Independiente Medellín",
     "liga": "Liga BetPlay",
     "hora": "7:30 p. m.",
     "canal": "Win Sports Online / Winsports.co"
   },
   {
-    "partido": "Junior - Atlético Huila",
+    "partido": "América - Bucaramanga",
     "liga": "Liga BetPlay",
     "hora": "7:30 p. m.",
     "canal": "Win Sports +"
   },
   {
-    "partido": "Boyacá Chicó - Deportivo Cali",
+    "partido": "Atlético Nacional - Deportes Tolima",
     "liga": "Liga BetPlay",
     "hora": "7:30 p. m.",
     "canal": "Win Sports"
+  },
+  {
+    "partido": "Flamengo - Palmeiras",
+    "liga": "Liga de Brasil",
+    "hora": "7:30 p. m.",
+    "canal": "Star +"
   }
 ]
