@@ -1,98 +1,44 @@
 [
   {
-    "partido": "Ajax - Brighton & Hove",
-    "liga": "Liga de Europa",
-    "hora": "12:45 p. m.",
-    "canal": "ESPN 3 y Star+"
-  },
-  {
-    "partido": "Qarabag - Bayer Leverkusen",
-    "liga": "Liga de Europa",
-    "hora": "12:45 p. m.",
-    "canal": "ESPN EXTRA y Star+"
-  },
-  {
-    "partido": "Toulouse - Liverpool",
-    "liga": "Liga de Europa",
-    "hora": "12:45 p. m.",
-    "canal": "ESPN y Star+"
-  },
-  {
-    "partido": "Cukaricki - Fiorentina",
-    "liga": "Conference League",
-    "hora": "12:45 p. m.",
+    "partido": "Borussia Mönchengladbach - Wolfsburgo",
+    "liga": "Bundesliga",
+    "hora": "2:30 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Rennes - Panathinaikos",
-    "liga": "Liga de Europa",
-    "hora": "12:45 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Maccabi Haifa - Villarreal",
-    "liga": "Liga de Europa",
-    "hora": "12:45 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Besiktas - Bodo Glimt",
-    "liga": "Conference League",
-    "hora": "12:45 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Slavia Praga - Roma",
-    "liga": "Liga de Europa",
-    "hora": "12:45 p. m.",
-    "canal": "ESPN 2 / Star +"
-  },
-  {
-    "partido": "Ferencváros - Genk",
-    "liga": "Conference League",
-    "hora": "12:45 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Aston Villa - AZ Alkmaar",
-    "liga": "Conference League",
-    "hora": "3:00 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Brujas - Lugano",
-    "liga": "Conference League",
-    "hora": "3:00 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "West Ham Utd. - Olimpiakos",
-    "liga": "Liga de Europa",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN 3 y Star+"
-  },
-  {
-    "partido": "AEK de Atenas - Marsella",
-    "liga": "Liga de Europa",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN Extra / Star +"
-  },
-  {
-    "partido": "Atalanta - Sturm Graz",
-    "liga": "Liga de Europa",
-    "hora": "3:00 p. m.",
+    "partido": "Génoa - Hellas Verona",
+    "liga": "Serie A",
+    "hora": "2:45 p. m.",
     "canal": "ESPN 2 y Star+"
   },
   {
-    "partido": "Real Betis - Aris",
+    "partido": "Athletic Club - Celta de Vigo",
     "liga": "Liga de Europa",
     "hora": "3:00 p. m.",
-    "canal": "ESPN / Star +"
+    "canal": "Directv 610"
   },
   {
-    "partido": "Corinthians - Atlético Mineiro",
-    "liga": "Liga de Brasil",
-    "hora": "5:00 p. m.",
+    "partido": "Montpellier - Niza",
+    "liga": "Liga de Francia",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN 3 y Star+"
+  },
+  {
+    "partido": "Sassuolo - Salernitana",
+    "liga": "Serie A",
+    "hora": "3:00 p. m.",
     "canal": "Star +"
+  },
+  {
+    "partido": "Central Córdoba - Estudiantes",
+    "liga": "Liga de Argentina",
+    "hora": "5:00 p. m.",
+    "canal": "TyC Sports Internacional"
+  },
+  {
+    "partido": "Gimnasia de La Plata - Atlético Tucumán",
+    "liga": "Liga de Argentina",
+    "hora": "7:00 p. m.",
+    "canal": "TyC Sports Internacional"
   }
 ]
