@@ -1,25 +1,19 @@
 [
   {
-    "partido": "Deportivo Cali - Águilas Doradas",
-    "liga": "Liga BetPlay",
-    "hora": "5:00 p. m.",
-    "canal": "Win Sports +"
+    "partido": "Slavia Praga - Lyon",
+    "liga": "Champions femenina",
+    "hora": "3:00 p. m.",
+    "canal": "DAZN YouTube"
   },
   {
-    "partido": "Sarmiento de Junín - Godoy Cruz",
-    "liga": "Liga de Argentina",
-    "hora": "5:00 p. m.",
-    "canal": "TyC Sports Internacional"
+    "partido": "Barcelona - Benfica",
+    "liga": "Champions femenina",
+    "hora": "3:00 p. m.",
+    "canal": "DAZN YouTube"
   },
   {
-    "partido": "Instituto de Córdoba - Barracas Central",
-    "liga": "Liga de Argentina",
-    "hora": "7:00 p. m.",
-    "canal": "TyC Sports Internacional"
-  },
-  {
-    "partido": "Deportes Tolima - Junior",
-    "liga": "Liga BetPlay",
+    "partido": "Cúcuta - Fortaleza F.C",
+    "liga": "Torneo Betplay",
     "hora": "7:30 p. m.",
     "canal": "Win Sports +"
   }
