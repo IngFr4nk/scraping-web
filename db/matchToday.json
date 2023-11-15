@@ -1,20 +1,32 @@
 [
   {
-    "partido": "Slavia Praga - Lyon",
+    "partido": "Bélgica - Serbia",
+    "liga": "Partido amistoso",
+    "hora": "2:45 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Israel - Suiza",
+    "liga": "Eliminatoria Eurocopa",
+    "hora": "2:45 p. m.",
+    "canal": "ESPN 2 / Star +"
+  },
+  {
+    "partido": "Real Madrid - Chelsea",
     "liga": "Champions femenina",
     "hora": "3:00 p. m.",
     "canal": "DAZN YouTube"
   },
   {
-    "partido": "Barcelona - Benfica",
-    "liga": "Champions femenina",
-    "hora": "3:00 p. m.",
-    "canal": "DAZN YouTube"
+    "partido": "Colo Colo - River Plate",
+    "liga": "Partido amistoso",
+    "hora": "7:00 p. m.",
+    "canal": "Star +"
   },
   {
-    "partido": "Cúcuta - Fortaleza F.C",
-    "liga": "Torneo Betplay",
-    "hora": "7:30 p. m.",
+    "partido": "Millonarios - Atlético Nacional",
+    "liga": "Copa BetPlay",
+    "hora": "8:00 p. m.",
     "canal": "Win Sports +"
   }
 ]
