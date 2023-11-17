@@ -1,56 +1,32 @@
 [
   {
-    "partido": "Chipre - España",
+    "partido": "Kazajistán - San Marino",
+    "liga": "Eliminatoria Eurocopa",
+    "hora": "10:00 a. m.",
+    "canal": "ESPN 2 / Star +"
+  },
+  {
+    "partido": "Finlandia - Irlanda del Norte",
     "liga": "Eliminatoria Eurocopa",
     "hora": "12:00 p. m.",
     "canal": "ESPN 2 / Star +"
   },
   {
-    "partido": "Azerbaiyán - Suecia",
+    "partido": "Inglaterra - Malta",
     "liga": "Eliminatoria Eurocopa",
-    "hora": "12:00 p. m.",
+    "hora": "2:45 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Liechtenstein - Portugal",
+    "partido": "Italia - Macedonia",
     "liga": "Eliminatoria Eurocopa",
     "hora": "2:45 p. m.",
     "canal": "ESPN 2 / Star +"
   },
   {
-    "partido": "Eslovaquia - Islandia",
-    "liga": "Eliminatoria Eurocopa",
-    "hora": "2:45 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Bolivia - Perú",
-    "liga": "Eliminatorias",
-    "hora": "3:00 p. m.",
-    "canal": "Caracol Play"
-  },
-  {
-    "partido": "Venezuela - Ecuador",
-    "liga": "Eliminatorias",
-    "hora": "5:00 p. m.",
-    "canal": "Caracol TV / RCN"
-  },
-  {
-    "partido": "Colombia - Brasil",
-    "liga": "Eliminatorias",
-    "hora": "7:00 p. m.",
-    "canal": "Caracol TV / RCN"
-  },
-  {
-    "partido": "Argentina - Uruguay",
-    "liga": "Eliminatorias",
-    "hora": "7:00 p. m.",
-    "canal": "Futbolrcn.com / Caracol Play"
-  },
-  {
-    "partido": "Chile - Paraguay",
-    "liga": "Eliminatorias",
+    "partido": "Fortaleza F.C - Cúcuta",
+    "liga": "Torneo Betplay",
     "hora": "7:30 p. m.",
-    "canal": "Caracol Play"
+    "canal": "Win Sports +"
   }
 ]
