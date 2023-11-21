@@ -1,44 +1,80 @@
 [
   {
-    "partido": "Ucrania - Italia",
-    "liga": "Eliminatoria Eurocopa",
-    "hora": "2:45 p. m.",
-    "canal": "ESPN / Star +"
-  },
-  {
-    "partido": "Albania - Islas Faroe",
+    "partido": "Gales - Turquía",
     "liga": "Eliminatoria Eurocopa",
     "hora": "2:45 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "República Checa - Moldavia",
+    "partido": "Andorra - Israel",
     "liga": "Eliminatoria Eurocopa",
     "hora": "2:45 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "San Marino - Finlandia",
+    "partido": "Croacia - Armenia",
+    "liga": "Eliminatoria Eurocopa",
+    "hora": "2:45 p. m.",
+    "canal": "ESPN 3 y Star+"
+  },
+  {
+    "partido": "Grecia - Francia",
+    "liga": "Eliminatoria Eurocopa",
+    "hora": "2:45 p. m.",
+    "canal": "ESPN 2 y Star+"
+  },
+  {
+    "partido": "Austria - Alemania",
+    "liga": "Partido amistoso",
+    "hora": "2:45 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Rumania - Suiza",
     "liga": "Eliminatoria Eurocopa",
     "hora": "2:45 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Eslovenia - Kazajistán",
+    "partido": "Irlanda - Nueva Zelanda",
+    "liga": "Partido amistoso",
+    "hora": "2:45 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Kosovo - Bielorrusia",
     "liga": "Eliminatoria Eurocopa",
     "hora": "2:45 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Irlanda del Norte - Dinamarca",
-    "liga": "Eliminatoria Eurocopa",
+    "partido": "Polonia - Letonia",
+    "liga": "Partido amistoso",
     "hora": "2:45 p. m.",
-    "canal": "ESPN 2 / Star +"
+    "canal": "Star +"
   },
   {
-    "partido": "Macedonia - Inglaterra",
+    "partido": "Gibraltar - Países Bajos",
     "liga": "Eliminatoria Eurocopa",
     "hora": "2:45 p. m.",
     "canal": "Star +"
+  },
+  {
+    "partido": "Paraguay - Colombia",
+    "liga": "Eliminatorias suramericanas",
+    "hora": "6:00 p. m.",
+    "canal": "Caracol TV / RCN"
+  },
+  {
+    "partido": "Brasil - Argentina",
+    "liga": "Eliminatorias suramericanas",
+    "hora": "7:30 p. m.",
+    "canal": "Caracol TV / RCN"
+  },
+  {
+    "partido": "Perú - Venezuela",
+    "liga": "Eliminatorias suramericanas",
+    "hora": "9:00 p. m.",
+    "canal": "Caracol TV / RCN"
   }
 ]
