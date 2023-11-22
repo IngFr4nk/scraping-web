@@ -1,80 +1,26 @@
 [
   {
-    "partido": "Gales - Turquía",
-    "liga": "Eliminatoria Eurocopa",
-    "hora": "2:45 p. m.",
+    "partido": "Cruzeiro - Vasco da Gama",
+    "liga": "Liga de Brasil",
+    "hora": "5:00 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Andorra - Israel",
-    "liga": "Eliminatoria Eurocopa",
-    "hora": "2:45 p. m.",
-    "canal": "Star +"
+    "partido": "Boca Juniors - Estudiantes",
+    "liga": "Copa de Argentina",
+    "hora": "7:10 p. m.",
+    "canal": "TyC Sports Internacional"
   },
   {
-    "partido": "Croacia - Armenia",
-    "liga": "Eliminatoria Eurocopa",
-    "hora": "2:45 p. m.",
-    "canal": "ESPN 3 y Star+"
-  },
-  {
-    "partido": "Grecia - Francia",
-    "liga": "Eliminatoria Eurocopa",
-    "hora": "2:45 p. m.",
-    "canal": "ESPN 2 y Star+"
-  },
-  {
-    "partido": "Austria - Alemania",
-    "liga": "Partido amistoso",
-    "hora": "2:45 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Rumania - Suiza",
-    "liga": "Eliminatoria Eurocopa",
-    "hora": "2:45 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Irlanda - Nueva Zelanda",
-    "liga": "Partido amistoso",
-    "hora": "2:45 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Kosovo - Bielorrusia",
-    "liga": "Eliminatoria Eurocopa",
-    "hora": "2:45 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Polonia - Letonia",
-    "liga": "Partido amistoso",
-    "hora": "2:45 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Gibraltar - Países Bajos",
-    "liga": "Eliminatoria Eurocopa",
-    "hora": "2:45 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Paraguay - Colombia",
-    "liga": "Eliminatorias suramericanas",
-    "hora": "6:00 p. m.",
-    "canal": "Caracol TV / RCN"
-  },
-  {
-    "partido": "Brasil - Argentina",
-    "liga": "Eliminatorias suramericanas",
+    "partido": "Patriotas F.C - Fortaleza F.C",
+    "liga": "Torneo Betplay",
     "hora": "7:30 p. m.",
-    "canal": "Caracol TV / RCN"
+    "canal": "Win Sports +"
   },
   {
-    "partido": "Perú - Venezuela",
-    "liga": "Eliminatorias suramericanas",
-    "hora": "9:00 p. m.",
-    "canal": "Caracol TV / RCN"
+    "partido": "Fluminense - Sao Paulo",
+    "liga": "Liga de Brasil",
+    "hora": "7:30 p. m.",
+    "canal": "Star +"
   }
 ]
