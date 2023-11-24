@@ -1,26 +1,26 @@
 [
   {
-    "partido": "Fortaleza - Botafogo",
+    "partido": "Colonia - Bayern Munich",
+    "liga": "Bundesliga",
+    "hora": "2:30 p. m.",
+    "canal": "ESPN 2 / Star +"
+  },
+  {
+    "partido": "Paris Saint-Germain - Mónaco",
+    "liga": "Liga de Francia",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN / Star +"
+  },
+  {
+    "partido": "Alavés - Granada CF",
+    "liga": "Liga de Espana",
+    "hora": "3:00 p. m.",
+    "canal": "Directv Sports"
+  },
+  {
+    "partido": "Corinthians - Bahía",
     "liga": "Liga de Brasil",
-    "hora": "5:00 p. m.",
+    "hora": "7:00 p. m.",
     "canal": "Star +"
-  },
-  {
-    "partido": "Defensa y Justicia - San Lorenzo",
-    "liga": "Copa de Argentina",
-    "hora": "7:10 p. m.",
-    "canal": "TyC Sports Internacional"
-  },
-  {
-    "partido": "Flamengo - Red Bull Bragantino",
-    "liga": "Liga de Brasil",
-    "hora": "7:30 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Atlético Nacional - Millonarios",
-    "liga": "Copa Betplay",
-    "hora": "8:00 p. m.",
-    "canal": "Win Sports +"
   }
 ]
