@@ -6,16 +6,16 @@
     "canal": "ESPN 2 / Star +"
   },
   {
-    "partido": "Paris Saint-Germain - Mónaco",
-    "liga": "Liga de Francia",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN / Star +"
-  },
-  {
     "partido": "Alavés - Granada CF",
     "liga": "Liga de Espana",
     "hora": "3:00 p. m.",
     "canal": "Directv Sports"
+  },
+  {
+    "partido": "Paris Saint-Germain - Mónaco",
+    "liga": "Liga de Francia",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN / Star +"
   },
   {
     "partido": "Corinthians - Bahía",
