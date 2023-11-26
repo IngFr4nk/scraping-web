@@ -1,26 +1,164 @@
 [
   {
-    "partido": "Colonia - Bayern Munich",
-    "liga": "Bundesliga",
-    "hora": "2:30 p. m.",
-    "canal": "ESPN 2 / Star +"
+    "partido": "Cagliari - Monza",
+    "liga": "Serie A",
+    "hora": "6:30 a. m.",
+    "canal": "Star +"
   },
   {
-    "partido": "Alavés - Granada CF",
+    "partido": "Niza - Toulouse",
+    "liga": "Liga de Francia",
+    "hora": "7:00 a. m.",
+    "canal": "ESPN 3 y Star+"
+  },
+  {
+    "partido": "Villarreal - Osasuna",
+    "liga": "Liga de Espana",
+    "hora": "8:00 a. m.",
+    "canal": "Directv 610"
+  },
+  {
+    "partido": "Tottenham Hotspur - Aston Villa",
+    "liga": "Liga de Inglaterra",
+    "hora": "9:00 a. m.",
+    "canal": "ESPN 3 y Star+"
+  },
+  {
+    "partido": "Frosinone - Génoa",
+    "liga": "Serie A",
+    "hora": "9:00 a. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Empoli - Sassuolo",
+    "liga": "Serie A",
+    "hora": "9:00 a. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Heidenhem - Bochum 1848",
+    "liga": "Bundesliga",
+    "hora": "9:30 a. m.",
+    "canal": "ESPN 4 y Star+"
+  },
+  {
+    "partido": "Real Sociedad - Sevilla",
+    "liga": "Liga de Espana",
+    "hora": "10:15 a. m.",
+    "canal": "Directv 610"
+  },
+  {
+    "partido": "Hoffenheim - Mainz 05",
+    "liga": "Bundesliga",
+    "hora": "11:30 a. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Everton - Manchester United",
+    "liga": "Liga de Inglaterra",
+    "hora": "11:30 a. m.",
+    "canal": "ESPN 2 y Star+"
+  },
+  {
+    "partido": "Roma - Udinese",
+    "liga": "Serie A",
+    "hora": "12:00 p. m.",
+    "canal": "ESPN 3 y Star+"
+  },
+  {
+    "partido": "Cádiz - Real Madrid",
+    "liga": "Liga de Espana",
+    "hora": "12:30 p. m.",
+    "canal": "ESPN y Star+"
+  },
+  {
+    "partido": "Atlético Mineiro - Gremio",
+    "liga": "Liga de Brasil",
+    "hora": "2:00 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Botafogo - Santos",
+    "liga": "Liga de Brasil",
+    "hora": "2:00 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Juventus - Inter",
+    "liga": "Serie A",
+    "hora": "2:45 p. m.",
+    "canal": "ESPN y Star+"
+  },
+  {
+    "partido": "Lyon - Lille",
+    "liga": "Liga de Francia",
+    "hora": "2:45 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Real Betis - Las Palmas",
     "liga": "Liga de Espana",
     "hora": "3:00 p. m.",
-    "canal": "Directv Sports"
+    "canal": "Directv 610"
   },
   {
-    "partido": "Paris Saint-Germain - Mónaco",
-    "liga": "Liga de Francia",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN / Star +"
+    "partido": "Arsenal de Sarandí - Rosario Central",
+    "liga": "Liga de Argentina",
+    "hora": "4:00 p. m.",
+    "canal": "Star +"
   },
   {
-    "partido": "Corinthians - Bahía",
+    "partido": "River Plate - Instituto de Córdoba",
+    "liga": "Liga de Argentina",
+    "hora": "4:00 p. m.",
+    "canal": "ESPN 2 y Star+"
+  },
+  {
+    "partido": "Talleres de Córdoba - Independiente",
+    "liga": "Liga de Argentina",
+    "hora": "4:00 p. m.",
+    "canal": "TyC Sports Internacional"
+  },
+  {
+    "partido": "Millonarios - Independiente Medellín",
+    "liga": "Liga BetPlay",
+    "hora": "4:00 p. m.",
+    "canal": "Win Sports +"
+  },
+  {
+    "partido": "Sao Paulo - Cuiabá",
     "liga": "Liga de Brasil",
-    "hora": "7:00 p. m.",
+    "hora": "4:30 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Internacional - Red Bull Bragantino",
+    "liga": "Liga de Brasil",
+    "hora": "4:30 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Fortaleza - Palmeiras",
+    "liga": "Liga de Brasil",
+    "hora": "4:30 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "América MG - Flamengo",
+    "liga": "Liga de Brasil",
+    "hora": "4:30 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Atlético Nacional - América",
+    "liga": "Liga BetPlay",
+    "hora": "6:30 p. m.",
+    "canal": "Win Sports +"
+  },
+  {
+    "partido": "Godoy Cruz - Boca Juniors",
+    "liga": "Liga de Argentina",
+    "hora": "7:30 p. m.",
     "canal": "Star +"
   }
 ]
