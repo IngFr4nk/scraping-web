@@ -1,49 +1,67 @@
 [
   {
-    "partido": "Hellas Verona - Lecce",
-    "liga": "Serie A",
-    "hora": "12:30 p. m.",
-    "canal": "ESPN 3 y Star+"
+    "partido": "Shakhtar Donetsk - Royal Antwerp",
+    "liga": "Champions League",
+    "hora": "12:45 p. m.",
+    "canal": "ESPN 2 y Star+"
   },
   {
-    "partido": "Bolognia - Torino",
-    "liga": "Serie A",
-    "hora": "2:45 p. m.",
-    "canal": "Star +"
+    "partido": "Lazio - Celtic",
+    "liga": "Champions League",
+    "hora": "12:45 p. m.",
+    "canal": "ESPN y Star+"
   },
   {
-    "partido": "Fulham - Wolverhampton",
-    "liga": "Liga de Inglaterra",
+    "partido": "Manchester City - RB Leipzig",
+    "liga": "Champions League",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN y Star+"
+  },
+  {
+    "partido": "Watford - Norwich City",
+    "liga": "Championship",
     "hora": "3:00 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Girona - Athletic Club",
-    "liga": "Liga de Espana",
+    "partido": "Young Boys - Estrella Roja",
+    "liga": "Champions League",
+    "hora": "3:00 p. m.",
+    "canal": "Fox Sports 3 y Star+"
+  },
+  {
+    "partido": "Feyenoord - Atlético de Madrid",
+    "liga": "Champions League",
+    "hora": "3:00 p. m.",
+    "canal": "Fox Sports 2 y Star+"
+  },
+  {
+    "partido": "Paris Saint-Germain - Newcastle",
+    "liga": "Champions League",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN 4 y Star+"
+  },
+  {
+    "partido": "Milán - Borussia Dortmund",
+    "liga": "Champions League",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN 3 y Star+"
+  },
+  {
+    "partido": "Barcelona - Porto",
+    "liga": "Champions League",
     "hora": "3:00 p. m.",
     "canal": "ESPN 2 y Star+"
   },
   {
-    "partido": "San Lorenzo - Central Córdoba",
-    "liga": "Liga de Argentina",
-    "hora": "5:00 p. m.",
-    "canal": "TyC Sports Internacional"
-  },
-  {
-    "partido": "Goiás - Cruzeiro",
-    "liga": "Liga de Brasil",
-    "hora": "7:00 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Racing Club - Belgrano",
-    "liga": "Liga de Argentina",
+    "partido": "Fortaleza F.C - Patriotas F.C",
+    "liga": "Torneo Betplay",
     "hora": "7:30 p. m.",
-    "canal": "ESPN y Star+"
+    "canal": "Win Sports +"
   },
   {
-    "partido": "Newell`s Old Boys - Defensa y Justicia",
-    "liga": "Liga de Argentina",
+    "partido": "Vasco da Gama - Corinthians",
+    "liga": "Liga de Brasil",
     "hora": "7:30 p. m.",
     "canal": "Star +"
   }
