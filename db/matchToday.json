@@ -1,98 +1,26 @@
 [
   {
-    "partido": "Slavia Praga - Real Betis",
-    "liga": "Liga de Europa",
-    "hora": "12:45 p. m.",
-    "canal": "ESPN 2 / Star +"
-  },
-  {
-    "partido": "Atalanta - Sporting de Lisboa",
-    "liga": "Liga de Europa",
-    "hora": "12:45 p. m.",
-    "canal": "ESPN / Star +"
-  },
-  {
-    "partido": "AEK de Atenas - Brighton & Hove",
-    "liga": "Liga de Europa",
-    "hora": "12:45 p. m.",
-    "canal": "ESPN 3 / Star +"
-  },
-  {
-    "partido": "Backa Topola - West Ham Utd.",
-    "liga": "Liga de Europa",
-    "hora": "12:45 p. m.",
-    "canal": "ESPN Extra / Star +"
-  },
-  {
-    "partido": "Besiktas - Brujas",
-    "liga": "Conference League",
-    "hora": "12:45 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Villarreal - Panathinaikos",
-    "liga": "Liga de Europa",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN 3 / Star +"
-  },
-  {
-    "partido": "Aston Villa - Legia Varsovia",
-    "liga": "Conference League",
-    "hora": "3:00 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "BK Häcken - Bayer Leverkusen",
-    "liga": "Liga de Europa",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN Extra / Star +"
-  },
-  {
-    "partido": "Fiorentina - Genk",
-    "liga": "Conference League",
-    "hora": "3:00 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Marsella - Ajax",
+    "partido": "Darmstadt 98 - Colonia",
     "liga": "Bundesliga",
+    "hora": "2:30 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Monza - Juventus",
+    "liga": "Serie A",
+    "hora": "2:45 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Las Palmas - Getafe",
+    "liga": "Liga de Espana",
     "hora": "3:00 p. m.",
-    "canal": "ESPN 2 / Star +"
+    "canal": "Directv 610"
   },
   {
-    "partido": "Liverpool - LASK Linz",
-    "liga": "Liga de Europa",
+    "partido": "Reims - Strasbourg",
+    "liga": "Liga de Francia",
     "hora": "3:00 p. m.",
-    "canal": "ESPN / Star +"
-  },
-  {
-    "partido": "Gremio - Goiás",
-    "liga": "Liga de Brasil",
-    "hora": "5:00 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Cruzeiro - Atlético Paranaense",
-    "liga": "Liga de Brasil",
-    "hora": "6:00 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "América - Atlético Nacional",
-    "liga": "Liga BetPlay",
-    "hora": "6:15 p. m.",
-    "canal": "Win Sports +"
-  },
-  {
-    "partido": "Red Bull Bragantino - Fortaleza",
-    "liga": "Liga de Brasil",
-    "hora": "6:30 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Independiente Medellín - Millonarios",
-    "liga": "Liga BetPlay",
-    "hora": "8:30 p. m.",
-    "canal": "Win Sports +"
+    "canal": "ESPN 2 y Star+"
   }
 ]
