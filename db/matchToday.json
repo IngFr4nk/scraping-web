@@ -1,134 +1,14 @@
 [
   {
-    "partido": "Feyenoord - PSV",
-    "liga": "Liga de Holanda",
-    "hora": "6:15 a. m.",
-    "canal": "ESPN 2 / Star +"
-  },
-  {
-    "partido": "Lecce - Bolognia",
-    "liga": "Serie A",
-    "hora": "6:30 a. m.",
-    "canal": "ESPN 3 / Star +"
-  },
-  {
-    "partido": "Le Havre - Paris Saint-Germain",
-    "liga": "Liga de Francia",
-    "hora": "7:00 a. m.",
-    "canal": "ESPN / Star +"
-  },
-  {
-    "partido": "Mallorca - Alavés",
-    "liga": "Liga de Espana",
-    "hora": "8:00 a. m.",
-    "canal": "ESPN Extra / Star +"
-  },
-  {
-    "partido": "Chelsea - Brighton & Hove",
-    "liga": "Liga de Inglaterra",
-    "hora": "9:00 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Bournemouth - Aston Villa",
-    "liga": "Liga de Inglaterra",
-    "hora": "9:00 a. m.",
-    "canal": "ESPN / Star +"
-  },
-  {
-    "partido": "Liverpool - Fulham",
-    "liga": "Liga de Inglaterra",
-    "hora": "9:00 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Fiorentina - Salernitana",
-    "liga": "Serie A",
-    "hora": "9:00 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "West Ham Utd. - Crystal Palace",
-    "liga": "Liga de Inglaterra",
-    "hora": "9:00 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Mainz 05 - Friburgo",
-    "liga": "Bundesliga",
-    "hora": "9:30 a. m.",
-    "canal": "ESPN 4 / Star +"
-  },
-  {
-    "partido": "Almería - Real Betis",
-    "liga": "Liga de Espana",
-    "hora": "10:15 a. m.",
-    "canal": "ESPN 2 / Star +"
-  },
-  {
-    "partido": "Bayer Leverkusen - Borussia Dortmund",
-    "liga": "Bundesliga",
-    "hora": "11:30 a. m.",
-    "canal": "ESPN 4 / Star +"
-  },
-  {
-    "partido": "Manchester City - Tottenham Hotspur",
-    "liga": "Liga de Inglaterra",
-    "hora": "11:30 a. m.",
-    "canal": "ESPN / Star +"
-  },
-  {
-    "partido": "Sevilla - Villarreal",
-    "liga": "Liga de Espana",
-    "hora": "12:30 p. m.",
-    "canal": "ESPN 2 / Star +"
-  },
-  {
-    "partido": "Napoli - Inter",
+    "partido": "Torino - Atalanta",
     "liga": "Serie A",
     "hora": "2:45 p. m.",
-    "canal": "ESPN / Star +"
+    "canal": "ESPN 2 / Star +"
   },
   {
-    "partido": "Sassuolo - Roma",
-    "liga": "Liga de Europa",
-    "hora": "3:00 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Barcelona - Atlético de Madrid",
+    "partido": "Celta de Vigo - Cádiz",
     "liga": "Liga de Espana",
     "hora": "3:00 p. m.",
     "canal": "Directv Sports"
-  },
-  {
-    "partido": "Atlético Nacional - Independiente Medellín",
-    "liga": "Liga BetPlay",
-    "hora": "3:30 p. m.",
-    "canal": "Win Sports +"
-  },
-  {
-    "partido": "Botafogo - Cruzeiro",
-    "liga": "Liga de Brasil",
-    "hora": "4:30 p. m.",
-    "canal": "ESPN 3 / Star +"
-  },
-  {
-    "partido": "River Plate - Belgrano",
-    "liga": "Liga de Argentina",
-    "hora": "4:30 p. m.",
-    "canal": "ESPN 2 / Star +"
-  },
-  {
-    "partido": "América - Millonarios",
-    "liga": "Liga BetPlay",
-    "hora": "7:00 p. m.",
-    "canal": "Win Sports +"
-  },
-  {
-    "partido": "Racing Club - Rosario Central",
-    "liga": "Liga de Argentina",
-    "hora": "7:30 p. m.",
-    "canal": "ESPN / Star +"
   }
 ]
