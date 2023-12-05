@@ -1,14 +1,32 @@
 [
   {
-    "partido": "Torino - Atalanta",
-    "liga": "Serie A",
-    "hora": "2:45 p. m.",
+    "partido": "Wolverhampton - Burnley",
+    "liga": "Liga de Inglaterra",
+    "hora": "2:30 p. m.",
     "canal": "ESPN 2 / Star +"
   },
   {
-    "partido": "Celta de Vigo - Cádiz",
-    "liga": "Liga de Espana",
+    "partido": "Borussia Mönchengladbach - Wolfsburgo",
+    "liga": "Copa de Alemania",
+    "hora": "2:45 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Lazio - Génoa",
+    "liga": "Copa de Italia",
     "hora": "3:00 p. m.",
-    "canal": "Directv Sports"
+    "canal": "Star +"
+  },
+  {
+    "partido": "Colombia Femenino - Nueva Zelanda Femenino",
+    "liga": "Amistoso femenino",
+    "hora": "3:00 p. m.",
+    "canal": "Caracol HD2 / RCN HD2"
+  },
+  {
+    "partido": "Luton Town - Arsenal",
+    "liga": "Liga de Inglaterra",
+    "hora": "3:15 p. m.",
+    "canal": "ESPN / Star +"
   }
 ]
