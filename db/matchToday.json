@@ -1,20 +1,26 @@
 [
   {
-    "partido": "Everton - Newcastle",
-    "liga": "Liga de Inglaterra",
+    "partido": "Hoffenheim - Bochum 1848",
+    "liga": "Bundesliga",
     "hora": "2:30 p. m.",
-    "canal": "ESPN 2 y Star+"
+    "canal": "Star +"
   },
   {
-    "partido": "Brest - Strasbourg",
+    "partido": "Juventus - Napoli",
+    "liga": "Serie A",
+    "hora": "2:45 p. m.",
+    "canal": "ESPN y Star +"
+  },
+  {
+    "partido": "Montpellier - Lens",
     "liga": "Liga de Francia",
-    "hora": "2:30 p. m.",
-    "canal": "ESPN 3 y Star+"
+    "hora": "3:00 p. m.",
+    "canal": "Star +"
   },
   {
-    "partido": "Tottenham Hotspur - West Ham Utd.",
-    "liga": "Liga de Inglaterra",
-    "hora": "3:15 p. m.",
-    "canal": "ESPN y Star+"
+    "partido": "Getafe - Valencia CF",
+    "liga": "Liga de Espana",
+    "hora": "3:00 p. m.",
+    "canal": "Directv Sports"
   }
 ]
