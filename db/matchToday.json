@@ -1,26 +1,134 @@
 [
   {
-    "partido": "Hoffenheim - Bochum 1848",
+    "partido": "Crystal Palace - Liverpool",
+    "liga": "Liga de Inglaterra",
+    "hora": "7:30 a. m.",
+    "canal": "ESPN y Star+"
+  },
+  {
+    "partido": "Hellas Verona - Lazio",
+    "liga": "Serie A",
+    "hora": "9:00 a. m.",
+    "canal": "ESPN 3 y Star+"
+  },
+  {
+    "partido": "Heidenhem - Darmstadt 98",
     "liga": "Bundesliga",
-    "hora": "2:30 p. m.",
+    "hora": "9:30 a. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Juventus - Napoli",
+    "partido": "Werder Bremen - FC Augsburgo",
+    "liga": "Bundesliga",
+    "hora": "9:30 a. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Wolfsburgo - Friburgo",
+    "liga": "Bundesliga",
+    "hora": "9:30 a. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Eintracht Frankfurt - Bayern Munich",
+    "liga": "Bundesliga",
+    "hora": "9:30 a. m.",
+    "canal": "ESPN 2 y Star+"
+  },
+  {
+    "partido": "Union Berlin - Borussia Mönchengladbach",
+    "liga": "Bundesliga",
+    "hora": "9:30 a. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Brighton & Hove - Burnley",
+    "liga": "Liga de Inglaterra",
+    "hora": "10:00 a. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Wolverhampton - Nottingham Forest",
+    "liga": "Liga de Inglaterra",
+    "hora": "10:00 a. m.",
+    "canal": "ESPN y Star+"
+  },
+  {
+    "partido": "Manchester United - Bournemouth",
+    "liga": "Liga de Inglaterra",
+    "hora": "10:00 a. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Sheffield United - Brentford",
+    "liga": "Liga de Inglaterra",
+    "hora": "10:00 a. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Real Betis - Real Madrid",
+    "liga": "Liga de Espana",
+    "hora": "10:15 a. m.",
+    "canal": "Directv 610"
+  },
+  {
+    "partido": "Rennes - Mónaco",
+    "liga": "Liga de Francia",
+    "hora": "11:00 a. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Atalanta - Milán",
+    "liga": "Serie A",
+    "hora": "12:00 p. m.",
+    "canal": "ESPN 3 y Star+"
+  },
+  {
+    "partido": "Aston Villa - Arsenal",
+    "liga": "Liga de Inglaterra",
+    "hora": "12:30 p. m.",
+    "canal": "ESPN y Star+"
+  },
+  {
+    "partido": "Villarreal - Real Sociedad",
+    "liga": "Liga de Espana",
+    "hora": "12:30 p. m.",
+    "canal": "ESPN 2 y Star+"
+  },
+  {
+    "partido": "Borussia Dortmund - RB Leipzig",
+    "liga": "Bundesliga",
+    "hora": "12:30 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Inter - Udinese",
     "liga": "Serie A",
     "hora": "2:45 p. m.",
-    "canal": "ESPN y Star +"
-  },
-  {
-    "partido": "Montpellier - Lens",
-    "liga": "Liga de Francia",
-    "hora": "3:00 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Getafe - Valencia CF",
+    "partido": "Mallorca - Sevilla",
     "liga": "Liga de Espana",
     "hora": "3:00 p. m.",
-    "canal": "Directv Sports"
+    "canal": "ESPN 3 y Star+"
+  },
+  {
+    "partido": "Paris Saint-Germain - Nantes",
+    "liga": "Liga de Francia",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN y Star+"
+  },
+  {
+    "partido": "Godoy Cruz - Platense",
+    "liga": "Copa de Argentina",
+    "hora": "4:00 p. m.",
+    "canal": "ESPN 2 y Star+"
+  },
+  {
+    "partido": "River Plate - Rosario Central",
+    "liga": "Copa de Argentina",
+    "hora": "8:00 p. m.",
+    "canal": "ESPN y Star+"
   }
 ]
