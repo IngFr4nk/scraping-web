@@ -1,80 +1,44 @@
 [
   {
-    "partido": "Ferencváros - Fiorentina",
-    "liga": "UEFA Europa Conference League",
-    "hora": "12:45 p. m.",
+    "partido": "León - Urawa Red",
+    "liga": "Mundial de Clubes de la Fifa",
+    "hora": "9:30 a. m.",
+    "canal": "FIFA +"
+  },
+  {
+    "partido": "Al Ahly - Al-Ittihad",
+    "liga": "Mundial de Clubes de la Fifa",
+    "hora": "1:00 p. m.",
+    "canal": "FIFA +"
+  },
+  {
+    "partido": "Borussia Mönchengladbach - Werder Bremen",
+    "liga": "Bundesliga",
+    "hora": "2:30 p. m.",
+    "canal": "ESPN 2 / Star +"
+  },
+  {
+    "partido": "Génoa - Juventus",
+    "liga": "Serie A",
+    "hora": "2:45 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Aberdeen - Eintracht Frankfurt",
-    "liga": "UEFA Europa Conference League",
-    "hora": "12:45 p. m.",
-    "canal": "Star +"
+    "partido": "Osasuna - Rayo Vallecano",
+    "liga": "Liga de Espana",
+    "hora": "3:00 p. m.",
+    "canal": "Directv Sports"
   },
   {
-    "partido": "Genk - Cukaricki",
-    "liga": "UEFA Europa Conference League",
-    "hora": "12:45 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Royale Union SG - Liverpool",
-    "liga": "Liga de Europa",
-    "hora": "12:45 p. m.",
-    "canal": "ESPN y Star +"
-  },
-  {
-    "partido": "Roma - Sheriff",
-    "liga": "Liga de Europa",
-    "hora": "12:45 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Panathinaikos - Maccabi Haifa FC",
-    "liga": "Liga de Europa",
-    "hora": "12:45 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Rennes - Villarreal",
-    "liga": "Liga de Europa",
-    "hora": "12:45 p. m.",
-    "canal": "ESPN 2 y Star +"
-  },
-  {
-    "partido": "Bayer Leverkusen - Molde",
-    "liga": "Liga de Europa",
-    "hora": "12:45 p. m.",
-    "canal": "ESPN 3 y Star +"
-  },
-  {
-    "partido": "Qarabag - BK Häcken",
-    "liga": "Liga de Europa",
-    "hora": "12:45 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Ajax - AEK de Atenas",
-    "liga": "Liga de Europa",
+    "partido": "Mónaco - Lyon",
+    "liga": "Liga de Francia",
     "hora": "3:00 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Raków - Atalanta",
-    "liga": "Liga de Europa",
+    "partido": "Nottingham Forest - Tottenham Hotspur",
+    "liga": "Liga de Inglaterra",
     "hora": "3:00 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Real Betis - Rangers",
-    "liga": "Liga de Europa",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN y Star +"
-  },
-  {
-    "partido": "Brighton & Hove - Marsella",
-    "liga": "Liga de Europa",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN 2 y Star +"
+    "canal": "ESPN / Star +"
   }
 ]
