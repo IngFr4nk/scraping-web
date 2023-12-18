@@ -1,116 +1,26 @@
 [
   {
-    "partido": "Milán - Monza",
+    "partido": "Fluminense - Al Ahly",
+    "liga": "Mundial de Clubes de la Fifa",
+    "hora": "1:00 p. m.",
+    "canal": "FIFA +"
+  },
+  {
+    "partido": "Atalanta - Salernitana",
     "liga": "Serie A",
-    "hora": "6:30 a. m.",
-    "canal": "ESPN 2 y Star+"
-  },
-  {
-    "partido": "Nantes - Stade Brestois",
-    "liga": "Liga de Francia",
-    "hora": "7:00 a. m.",
-    "canal": "ESPN 2 y Star+"
-  },
-  {
-    "partido": "Almería - Mallorca",
-    "liga": "Liga de Espana",
-    "hora": "8:00 a. m.",
-    "canal": "Directv 610"
-  },
-  {
-    "partido": "West Ham Utd. - Wolverhampton",
-    "liga": "Liga de Inglaterra",
-    "hora": "9:00 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Arsenal - Brighton & Hove",
-    "liga": "Liga de Inglaterra",
-    "hora": "9:00 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Brentford - Aston Villa",
-    "liga": "Liga de Inglaterra",
-    "hora": "9:00 a. m.",
-    "canal": "ESPN y Star+"
-  },
-  {
-    "partido": "Udinese - Sassuolo",
-    "liga": "Serie A",
-    "hora": "9:00 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Fiorentina - Hellas Verona",
-    "liga": "Serie A",
-    "hora": "9:00 a. m.",
-    "canal": "ESPN 2 y Star+"
-  },
-  {
-    "partido": "Friburgo - Colonia",
-    "liga": "Bundesliga",
-    "hora": "9:30 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Real Sociedad - Real Betis",
-    "liga": "Liga de Espana",
-    "hora": "10:15 a. m.",
+    "hora": "2:45 p. m.",
     "canal": "ESPN 3 y Star+"
   },
   {
-    "partido": "Marsella - Clermont",
-    "liga": "Liga de Francia",
-    "hora": "11:00 a. m.",
-    "canal": "ESPN 2 y Star+"
-  },
-  {
-    "partido": "Bayer Leverkusen - Eintracht Frankfurt",
-    "liga": "Bundesliga",
-    "hora": "11:30 a. m.",
+    "partido": "Birmingham City - Leicester City",
+    "liga": "Championship",
+    "hora": "3:00 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Liverpool - Manchester United",
-    "liga": "Liga de Inglaterra",
-    "hora": "11:30 a. m.",
-    "canal": "ESPN y Star+"
-  },
-  {
-    "partido": "Bolognia - Roma",
-    "liga": "Serie A",
-    "hora": "12:00 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Las Palmas - Cádiz",
-    "liga": "Liga de Espana",
-    "hora": "12:30 p. m.",
-    "canal": "Directv 610"
-  },
-  {
-    "partido": "Bayern Munich - VfB Stuttgart",
-    "liga": "Bundesliga",
-    "hora": "1:30 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Lille - Paris Saint-Germain",
-    "liga": "Liga de Francia",
-    "hora": "2:45 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Lazio - Inter",
-    "liga": "Serie A",
-    "hora": "2:45 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Real Madrid - Villarreal",
+    "partido": "Girona - Alavés",
     "liga": "Liga de Espana",
     "hora": "3:00 p. m.",
-    "canal": "ESPN y Star+"
+    "canal": "ESPN 2 y Star+"
   }
 ]
