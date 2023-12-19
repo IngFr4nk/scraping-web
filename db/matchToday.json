@@ -1,26 +1,62 @@
 [
   {
-    "partido": "Fluminense - Al Ahly",
+    "partido": "Werder Bremen - RB Leipzig",
+    "liga": "Bundesliga",
+    "hora": "12:30 p. m.",
+    "canal": "ESPN 4 y Star +"
+  },
+  {
+    "partido": "Urawa Red - Manchester City",
     "liga": "Mundial de Clubes de la Fifa",
     "hora": "1:00 p. m.",
     "canal": "FIFA +"
   },
   {
-    "partido": "Atalanta - Salernitana",
-    "liga": "Serie A",
-    "hora": "2:45 p. m.",
-    "canal": "ESPN 3 y Star+"
+    "partido": "Rayo Vallecano - Valencia CF",
+    "liga": "Liga de Espana",
+    "hora": "1:00 p. m.",
+    "canal": "Directv Sports"
   },
   {
-    "partido": "Birmingham City - Leicester City",
-    "liga": "Championship",
+    "partido": "Hoffenheim - Darmstadt 98",
+    "liga": "Bundesliga",
+    "hora": "2:30 p. m.",
+    "canal": "ESPN 3 y Star +"
+  },
+  {
+    "partido": "Borussia Dortmund - Mainz 05",
+    "liga": "Bundesliga",
+    "hora": "2:30 p. m.",
+    "canal": "ESPN 4 y Star +"
+  },
+  {
+    "partido": "Napoli - Frosinone",
+    "liga": "Copa de Italia",
     "hora": "3:00 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Girona - Alavés",
-    "liga": "Liga de Espana",
+    "partido": "Chelsea - Newcastle",
+    "liga": "EFL Cup",
     "hora": "3:00 p. m.",
-    "canal": "ESPN 2 y Star+"
+    "canal": "ESPN y Star +"
+  },
+  {
+    "partido": "Granada CF - Sevilla",
+    "liga": "Liga de Espana",
+    "hora": "3:30 p. m.",
+    "canal": "ESPN 2 y Star +"
+  },
+  {
+    "partido": "Atlético de Madrid - Getafe",
+    "liga": "Liga de Espana",
+    "hora": "3:30 p. m.",
+    "canal": "Directv Sports"
+  },
+  {
+    "partido": "Everton - Fulham",
+    "liga": "EFL Cup",
+    "hora": "4:45 p. m.",
+    "canal": "Star +"
   }
 ]
