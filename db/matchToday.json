@@ -1,62 +1,56 @@
 [
   {
-    "partido": "Werder Bremen - RB Leipzig",
+    "partido": "Union Berlin - Colonia",
     "liga": "Bundesliga",
     "hora": "12:30 p. m.",
-    "canal": "ESPN 4 y Star +"
+    "canal": "ESPN 2 / Star +"
   },
   {
-    "partido": "Urawa Red - Manchester City",
-    "liga": "Mundial de Clubes de la Fifa",
-    "hora": "1:00 p. m.",
-    "canal": "FIFA +"
-  },
-  {
-    "partido": "Rayo Vallecano - Valencia CF",
+    "partido": "Barcelona - Almería",
     "liga": "Liga de Espana",
     "hora": "1:00 p. m.",
     "canal": "Directv Sports"
   },
   {
-    "partido": "Hoffenheim - Darmstadt 98",
+    "partido": "Bayer Leverkusen - Bochum 1848",
     "liga": "Bundesliga",
     "hora": "2:30 p. m.",
-    "canal": "ESPN 3 y Star +"
+    "canal": "Star +"
   },
   {
-    "partido": "Borussia Dortmund - Mainz 05",
+    "partido": "Wolfsburgo - Bayern Munich",
     "liga": "Bundesliga",
     "hora": "2:30 p. m.",
-    "canal": "ESPN 4 y Star +"
+    "canal": "Star +"
   },
   {
-    "partido": "Napoli - Frosinone",
+    "partido": "Liverpool - West Ham Utd.",
+    "liga": "EFL Cup",
+    "hora": "3:00 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Inter - Bolognia",
     "liga": "Copa de Italia",
     "hora": "3:00 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Chelsea - Newcastle",
-    "liga": "EFL Cup",
+    "partido": "Paris Saint-Germain - Metz",
+    "liga": "Liga de Francia",
     "hora": "3:00 p. m.",
-    "canal": "ESPN y Star +"
+    "canal": "ESPN / Star +"
   },
   {
-    "partido": "Granada CF - Sevilla",
+    "partido": "Niza - Lens",
+    "liga": "Liga de Espana",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN Extra / Star +"
+  },
+  {
+    "partido": "Villarreal - Celta de Vigo",
     "liga": "Liga de Espana",
     "hora": "3:30 p. m.",
-    "canal": "ESPN 2 y Star +"
-  },
-  {
-    "partido": "Atlético de Madrid - Getafe",
-    "liga": "Liga de Espana",
-    "hora": "3:30 p. m.",
-    "canal": "Directv Sports"
-  },
-  {
-    "partido": "Everton - Fulham",
-    "liga": "EFL Cup",
-    "hora": "4:45 p. m.",
-    "canal": "Star +"
+    "canal": "ESPN 3 / Star +"
   }
 ]
