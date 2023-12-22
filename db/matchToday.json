@@ -1,56 +1,50 @@
 [
   {
-    "partido": "Union Berlin - Colonia",
-    "liga": "Bundesliga",
+    "partido": "Urawa Red - Al Ahly",
+    "liga": "Mundial de Clubes de la Fifa",
+    "hora": "9:30 a. m.",
+    "canal": "FIFA +"
+  },
+  {
+    "partido": "Sassuolo - Génoa",
+    "liga": "Serie A",
     "hora": "12:30 p. m.",
-    "canal": "ESPN 2 / Star +"
+    "canal": "Star +"
   },
   {
-    "partido": "Barcelona - Almería",
-    "liga": "Liga de Espana",
+    "partido": "Empoli - Lazio",
+    "liga": "Serie A",
+    "hora": "12:30 p. m.",
+    "canal": "ESPN 2 y Star+"
+  },
+  {
+    "partido": "Fluminense - Manchester City",
+    "liga": "Mundial de Clubes de la Fifa",
     "hora": "1:00 p. m.",
-    "canal": "Directv Sports"
+    "canal": "FIFA +"
   },
   {
-    "partido": "Bayer Leverkusen - Bochum 1848",
-    "liga": "Bundesliga",
-    "hora": "2:30 p. m.",
+    "partido": "Monza - Fiorentina",
+    "liga": "Serie A",
+    "hora": "2:45 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Wolfsburgo - Bayern Munich",
-    "liga": "Bundesliga",
-    "hora": "2:30 p. m.",
-    "canal": "Star +"
+    "partido": "Salernitana - Milán",
+    "liga": "Serie A",
+    "hora": "2:45 p. m.",
+    "canal": "ESPN 2 y Star+"
   },
   {
-    "partido": "Liverpool - West Ham Utd.",
-    "liga": "EFL Cup",
+    "partido": "Aston Villa - Sheffield United",
+    "liga": "Liga de Inglaterra",
     "hora": "3:00 p. m.",
-    "canal": "Star +"
+    "canal": "ESPN y Star+"
   },
   {
-    "partido": "Inter - Bolognia",
-    "liga": "Copa de Italia",
-    "hora": "3:00 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Paris Saint-Germain - Metz",
-    "liga": "Liga de Francia",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN / Star +"
-  },
-  {
-    "partido": "Niza - Lens",
-    "liga": "Liga de Espana",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN Extra / Star +"
-  },
-  {
-    "partido": "Villarreal - Celta de Vigo",
-    "liga": "Liga de Espana",
-    "hora": "3:30 p. m.",
-    "canal": "ESPN 3 / Star +"
+    "partido": "Rosario Central - River Plate",
+    "liga": "Liga de Argentina",
+    "hora": "7:00 p. m.",
+    "canal": "ESPN y Star +"
   }
 ]
