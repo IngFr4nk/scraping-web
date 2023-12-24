@@ -1,80 +1,20 @@
 [
   {
-    "partido": "Frosinone - Juventus",
-    "liga": "Serie A",
-    "hora": "6:30 a. m.",
+    "partido": "Adana Demirspor - Antalyaspor",
+    "liga": "Liga de Turquía",
+    "hora": "8:00 a. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Wolverhampton - Chelsea",
+    "liga": "Liga de Inglaterra",
+    "hora": "8:00 a. m.",
     "canal": "ESPN y Star+"
   },
   {
-    "partido": "West Ham Utd. - Manchester United",
-    "liga": "Liga de Inglaterra",
-    "hora": "7:30 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Bolognia - Atalanta",
-    "liga": "Serie A",
-    "hora": "9:00 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Torino - Udinese",
-    "liga": "Serie A",
-    "hora": "9:00 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Nottingham Forest - Bournemouth",
-    "liga": "Liga de Inglaterra",
-    "hora": "10:00 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Fulham - Burnley",
-    "liga": "Liga de Inglaterra",
-    "hora": "10:00 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Tottenham Hotspur - Everton",
-    "liga": "Liga de Inglaterra",
-    "hora": "10:00 a. m.",
-    "canal": "ESPN y Star+"
-  },
-  {
-    "partido": "Luton Town - Newcastle",
-    "liga": "Liga de Inglaterra",
-    "hora": "10:00 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Atlético de Madrid - Sevilla",
-    "liga": "Liga de Espana",
-    "hora": "10:15 a. m.",
-    "canal": "Directv 610"
-  },
-  {
-    "partido": "Hellas Verona - Cagliari",
-    "liga": "Serie A",
-    "hora": "12:00 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Inter - Lecce",
-    "liga": "Serie A",
-    "hora": "12:00 p. m.",
-    "canal": "ESPN 2 y Star+"
-  },
-  {
-    "partido": "Liverpool - Arsenal",
-    "liga": "Liga de Inglaterra",
-    "hora": "12:30 p. m.",
-    "canal": "ESPN y Star+"
-  },
-  {
-    "partido": "Roma - Napoli",
-    "liga": "Serie A",
-    "hora": "2:45 p. m.",
+    "partido": "Fenerbache - Galatasaray",
+    "liga": "Liga de Turquía",
+    "hora": "11:00 a. m.",
     "canal": "Star +"
   }
 ]
