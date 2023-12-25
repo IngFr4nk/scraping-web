@@ -1,20 +1,8 @@
 [
   {
-    "partido": "Adana Demirspor - Antalyaspor",
+    "partido": "Hatayspor - Besiktas",
     "liga": "Liga de Turquía",
-    "hora": "8:00 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Wolverhampton - Chelsea",
-    "liga": "Liga de Inglaterra",
-    "hora": "8:00 a. m.",
-    "canal": "ESPN y Star+"
-  },
-  {
-    "partido": "Fenerbache - Galatasaray",
-    "liga": "Liga de Turquía",
-    "hora": "11:00 a. m.",
+    "hora": "12:00 p. m.",
     "canal": "Star +"
   }
 ]
