@@ -1,8 +1,56 @@
 [
   {
-    "partido": "Hatayspor - Besiktas",
-    "liga": "Liga de Turquía",
-    "hora": "12:00 p. m.",
+    "partido": "Newcastle - Nottingham Forest",
+    "liga": "Liga de Inglaterra",
+    "hora": "7:30 a. m.",
+    "canal": "ESPN / Star +"
+  },
+  {
+    "partido": "Preston North End - Leeds",
+    "liga": "Championship",
+    "hora": "7:30 a. m.",
     "canal": "Star +"
+  },
+  {
+    "partido": "Genk - Royal Antwerp",
+    "liga": "Liga de Bélgica",
+    "hora": "7:30 a. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Bournemouth - Fulham",
+    "liga": "Liga de Inglaterra",
+    "hora": "10:00 a. m.",
+    "canal": "ESPN / Star +"
+  },
+  {
+    "partido": "Sheffield United - Luton Town",
+    "liga": "Liga de Inglaterra",
+    "hora": "10:00 a. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Birmingham City - Stoke City",
+    "liga": "Championship",
+    "hora": "12:15 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Burnley - Liverpool",
+    "liga": "Liga de Inglaterra",
+    "hora": "12:30 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Brujas - Royale Union SG",
+    "liga": "Liga de Bélgica",
+    "hora": "2:45 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Manchester United - Aston Villa",
+    "liga": "Liga de Inglaterra",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN / Star +"
   }
 ]
