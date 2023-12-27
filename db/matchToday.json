@@ -1,56 +1,26 @@
 [
   {
-    "partido": "Newcastle - Nottingham Forest",
+    "partido": "Brentford - Wolverhampton",
     "liga": "Liga de Inglaterra",
-    "hora": "7:30 a. m.",
-    "canal": "ESPN / Star +"
-  },
-  {
-    "partido": "Preston North End - Leeds",
-    "liga": "Championship",
-    "hora": "7:30 a. m.",
+    "hora": "2:30 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Genk - Royal Antwerp",
-    "liga": "Liga de Bélgica",
-    "hora": "7:30 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Bournemouth - Fulham",
+    "partido": "Chelsea - Crystal Palace",
     "liga": "Liga de Inglaterra",
-    "hora": "10:00 a. m.",
-    "canal": "ESPN / Star +"
-  },
-  {
-    "partido": "Sheffield United - Luton Town",
-    "liga": "Liga de Inglaterra",
-    "hora": "10:00 a. m.",
+    "hora": "2:30 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Birmingham City - Stoke City",
-    "liga": "Championship",
-    "hora": "12:15 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Burnley - Liverpool",
-    "liga": "Liga de Inglaterra",
-    "hora": "12:30 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Brujas - Royale Union SG",
+    "partido": "Anderlecht - Cercle Brugge",
     "liga": "Liga de Bélgica",
     "hora": "2:45 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Manchester United - Aston Villa",
+    "partido": "Everton - Manchester City",
     "liga": "Liga de Inglaterra",
-    "hora": "3:00 p. m.",
+    "hora": "3:15 p. m.",
     "canal": "ESPN / Star +"
   }
 ]
