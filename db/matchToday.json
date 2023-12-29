@@ -1,14 +1,26 @@
 [
   {
-    "partido": "Brighton & Hove - Tottenham Hotspur",
-    "liga": "Liga de Inglaterra",
-    "hora": "2:30 p. m.",
+    "partido": "Fiorentina - Torino",
+    "liga": "Serie A",
+    "hora": "12:30 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Napoli - Monza",
+    "liga": "Serie A",
+    "hora": "12:30 p. m.",
     "canal": "ESPN / Star +"
   },
   {
-    "partido": "Arsenal - West Ham Utd.",
-    "liga": "Liga de Inglaterra",
-    "hora": "3:15 p. m.",
+    "partido": "Génoa - Inter",
+    "liga": "Serie A",
+    "hora": "2:45 p. m.",
+    "canal": "ESPN / Star +"
+  },
+  {
+    "partido": "Lazio - Frosinone",
+    "liga": "Serie A",
+    "hora": "2:45 p. m.",
     "canal": "Star +"
   }
 ]
