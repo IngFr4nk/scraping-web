@@ -1,26 +1,74 @@
 [
   {
-    "partido": "Fiorentina - Torino",
+    "partido": "Atalanta - Lecce",
     "liga": "Serie A",
-    "hora": "12:30 p. m.",
+    "hora": "6:30 a. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Napoli - Monza",
-    "liga": "Serie A",
-    "hora": "12:30 p. m.",
-    "canal": "ESPN / Star +"
+    "partido": "Luton Town - Chelsea",
+    "liga": "Liga de Inglaterra",
+    "hora": "7:30 a. m.",
+    "canal": "ESPN y Star+"
   },
   {
-    "partido": "Génoa - Inter",
+    "partido": "Udinese - Bolognia",
     "liga": "Serie A",
-    "hora": "2:45 p. m.",
-    "canal": "ESPN / Star +"
+    "hora": "9:00 a. m.",
+    "canal": "ESPN 2 y Star+"
   },
   {
-    "partido": "Lazio - Frosinone",
+    "partido": "Cagliari - Empoli",
     "liga": "Serie A",
-    "hora": "2:45 p. m.",
+    "hora": "9:00 a. m.",
     "canal": "Star +"
+  },
+  {
+    "partido": "Aston Villa - Burnley",
+    "liga": "Liga de Inglaterra",
+    "hora": "10:00 a. m.",
+    "canal": "ESPN y Star+"
+  },
+  {
+    "partido": "Crystal Palace - Brentford",
+    "liga": "Liga de Inglaterra",
+    "hora": "10:00 a. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Wolverhampton - Everton",
+    "liga": "Liga de Inglaterra",
+    "hora": "10:00 a. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Manchester City - Sheffield United",
+    "liga": "Liga de Inglaterra",
+    "hora": "10:00 a. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Hellas Verona - Salernitana",
+    "liga": "Serie A",
+    "hora": "12:00 p. m.",
+    "canal": "ESPN 2 y Star+"
+  },
+  {
+    "partido": "Milán - Sassuolo",
+    "liga": "Serie A",
+    "hora": "12:00 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Nottingham Forest - Manchester United",
+    "liga": "Liga de Inglaterra",
+    "hora": "12:30 p. m.",
+    "canal": "ESPN y Star+"
+  },
+  {
+    "partido": "Juventus - Roma",
+    "liga": "Serie A",
+    "hora": "2:45 p. m.",
+    "canal": "ESPN y Star+"
   }
 ]
