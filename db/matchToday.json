@@ -1,14 +1,32 @@
 [
   {
-    "partido": "Plymouth Argyle - Watford",
-    "liga": "Championship",
-    "hora": "10:00 a. m.",
+    "partido": "Getafe - Rayo Vallecano",
+    "liga": "Liga de Espana",
+    "hora": "11:00 a. m.",
+    "canal": "Directv 610"
+  },
+  {
+    "partido": "Real Sociedad - Alavés",
+    "liga": "Liga de Espana",
+    "hora": "1:15 p. m.",
+    "canal": "ESPN y Star+"
+  },
+  {
+    "partido": "West Ham Utd. - Brighton & Hove",
+    "liga": "Liga de Inglaterra",
+    "hora": "2:30 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Liverpool - Newcastle",
-    "liga": "Liga de Inglaterra",
+    "partido": "Milán - Cagliari",
+    "liga": "Copa de Italia",
     "hora": "3:00 p. m.",
-    "canal": "ESPN y Star+"
+    "canal": "Star +"
+  },
+  {
+    "partido": "Valencia CF - Villarreal",
+    "liga": "Liga de Espana",
+    "hora": "3:30 p. m.",
+    "canal": "Directv 610"
   }
 ]
