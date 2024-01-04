@@ -1,32 +1,32 @@
 [
   {
-    "partido": "Getafe - Rayo Vallecano",
+    "partido": "Osasuna - Almería",
     "liga": "Liga de Espana",
     "hora": "11:00 a. m.",
-    "canal": "Directv 610"
-  },
-  {
-    "partido": "Real Sociedad - Alavés",
-    "liga": "Liga de Espana",
-    "hora": "1:15 p. m.",
     "canal": "ESPN y Star+"
   },
   {
-    "partido": "West Ham Utd. - Brighton & Hove",
-    "liga": "Liga de Inglaterra",
-    "hora": "2:30 p. m.",
-    "canal": "Star +"
+    "partido": "Sevilla - Athletic Club",
+    "liga": "Liga de Espana",
+    "hora": "1:15 p. m.",
+    "canal": "Directv 610"
   },
   {
-    "partido": "Milán - Cagliari",
+    "partido": "Juventus - Salernitana",
     "liga": "Copa de Italia",
     "hora": "3:00 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Valencia CF - Villarreal",
+    "partido": "Crystal Palace - Everton",
+    "liga": "FA Cup",
+    "hora": "3:00 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Las Palmas - Barcelona",
     "liga": "Liga de Espana",
     "hora": "3:30 p. m.",
-    "canal": "Directv 610"
+    "canal": "ESPN y Star+"
   }
 ]
