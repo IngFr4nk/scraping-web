@@ -1,38 +1,8 @@
 [
   {
-    "partido": "Sporting de Lisboa - Estoril",
-    "liga": "Liga de Portugal",
-    "hora": "1:45 p. m.",
-    "canal": "GolTV"
-  },
-  {
-    "partido": "Brentford - Wolverhampton",
+    "partido": "Wigan Athletic - Manchester United",
     "liga": "FA Cup",
-    "hora": "2:15 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Fulham - Rotherham",
-    "liga": "FA Cup",
-    "hora": "2:30 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Bolognia - Génoa",
-    "liga": "Serie A",
-    "hora": "2:45 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Tottenham Hotspur - Burnley",
-    "liga": "FA Cup",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN y Star+"
-  },
-  {
-    "partido": "Boavista - Porto",
-    "liga": "Liga de Portugal",
-    "hora": "3:45 p. m.",
-    "canal": "GolTV"
+    "hora": "3:15 p. m.",
+    "canal": "ESPN y Star +"
   }
 ]
