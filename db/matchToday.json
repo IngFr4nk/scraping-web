@@ -1,8 +1,32 @@
 [
   {
-    "partido": "Wigan Athletic - Manchester United",
-    "liga": "FA Cup",
-    "hora": "3:15 p. m.",
-    "canal": "ESPN y Star +"
+    "partido": "Rizespor - Besiktas",
+    "liga": "Liga de Turquía",
+    "hora": "12:00 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Sporting de Lisboa - Tondela",
+    "liga": "Copa de Portugal",
+    "hora": "1:45 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Fiorentina - Bolognia",
+    "liga": "Copa de Italia",
+    "hora": "3:00 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Middlesbrough - Chelsea",
+    "liga": "EFL Cup",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN y Star+"
+  },
+  {
+    "partido": "Estoril - Porto",
+    "liga": "Copa de Portugal",
+    "hora": "3:45 p. m.",
+    "canal": "Star +"
   }
 ]
