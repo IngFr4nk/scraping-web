@@ -1,26 +1,20 @@
 [
   {
-    "partido": "Sivasspor - Galatasaray",
-    "liga": "Liga de Turquía",
-    "hora": "9:00 a. m.",
-    "canal": "Star +"
+    "partido": "Bayern Munich - Hoffenheim",
+    "liga": "Bundesliga",
+    "hora": "2:30 p. m.",
+    "canal": "ESPN y Star+"
   },
   {
-    "partido": "Barcelona - Osasuna",
-    "liga": "Supercopa de España",
-    "hora": "2:00 p. m.",
+    "partido": "Sevilla - Alavés",
+    "liga": "Liga de Espana",
+    "hora": "3:00 p. m.",
     "canal": "Directv 610"
   },
   {
-    "partido": "Juventus - Frosinone",
-    "liga": "Copa de Italia",
+    "partido": "Marsella - Strasbourg",
+    "liga": "Liga de Francia",
     "hora": "3:00 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Vitória SC - Penafiel",
-    "liga": "Copa de Portugal",
-    "hora": "3:15 p. m.",
     "canal": "Star +"
   }
 ]
