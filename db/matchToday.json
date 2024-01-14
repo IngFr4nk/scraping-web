@@ -1,20 +1,98 @@
 [
   {
-    "partido": "Bayern Munich - Hoffenheim",
-    "liga": "Bundesliga",
-    "hora": "2:30 p. m.",
+    "partido": "Lazio - Lecce",
+    "liga": "Serie A",
+    "hora": "6:30 a. m.",
     "canal": "ESPN y Star+"
   },
   {
-    "partido": "Sevilla - Alavés",
+    "partido": "Queens Park - Watford",
+    "liga": "Championship",
+    "hora": "7:00 a. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Lille - Lorient",
+    "liga": "Liga de Francia",
+    "hora": "7:00 a. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Almería - Girona",
     "liga": "Liga de Espana",
-    "hora": "3:00 p. m.",
+    "hora": "8:00 a. m.",
+    "canal": "ESPN 3 y Star+"
+  },
+  {
+    "partido": "Everton - Aston Villa",
+    "liga": "Liga de Inglaterra",
+    "hora": "9:00 a. m.",
+    "canal": "ESPN y Star +"
+  },
+  {
+    "partido": "Cagliari - Bolognia",
+    "liga": "Serie A",
+    "hora": "9:00 a. m.",
+    "canal": "ESPN 2 y Star+"
+  },
+  {
+    "partido": "Bochum 1848 - Werder Bremen",
+    "liga": "Bundesliga",
+    "hora": "9:30 a. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Cádiz - Valencia CF",
+    "liga": "Liga de Espana",
+    "hora": "10:15 a. m.",
     "canal": "Directv 610"
   },
   {
-    "partido": "Marsella - Strasbourg",
+    "partido": "Le Havre - Lyon",
     "liga": "Liga de Francia",
-    "hora": "3:00 p. m.",
+    "hora": "11:00 a. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Borussia Mönchengladbach - VfB Stuttgart",
+    "liga": "Bundesliga",
+    "hora": "11:30 a. m.",
+    "canal": "ESPN 4 y Star+"
+  },
+  {
+    "partido": "Manchester United - Tottenham Hotspur",
+    "liga": "Liga de Inglaterra",
+    "hora": "11:30 a. m.",
+    "canal": "ESPN y Star+"
+  },
+  {
+    "partido": "Fiorentina - Udinese",
+    "liga": "Serie A",
+    "hora": "12:00 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Real Madrid - Barcelona",
+    "liga": "Supercopa de España",
+    "hora": "2:00 p. m.",
+    "canal": "Directv 610"
+  },
+  {
+    "partido": "Lens - Paris Saint-Germain",
+    "liga": "Liga de Francia",
+    "hora": "2:45 p. m.",
+    "canal": "ESPN 3 y Star+"
+  },
+  {
+    "partido": "Milán - Roma",
+    "liga": "Serie A",
+    "hora": "2:45 p. m.",
+    "canal": "ESPN y Star+"
+  },
+  {
+    "partido": "Deportivo Cali - Cerro Porteño",
+    "liga": "Partido amistoso",
+    "hora": "6:00 p. m.",
     "canal": "Star +"
   }
 ]
