@@ -1,26 +1,26 @@
 [
   {
-    "partido": "C. del Sur - Bahrein",
+    "partido": "Arabia Saudita - Omán",
     "liga": "Copa Asiática",
-    "hora": "6:30 a. m.",
+    "hora": "12:30 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Galatasaray - Kayserispor",
-    "liga": "Liga de Turquía",
-    "hora": "12:00 p. m.",
-    "canal": "Star +"
+    "partido": "Getafe - Sevilla",
+    "liga": "Copa del Rey",
+    "hora": "2:00 p. m.",
+    "canal": "DSports 610"
   },
   {
-    "partido": "Atalanta - Frosinone",
-    "liga": "Serie A",
-    "hora": "2:45 p. m.",
-    "canal": "ESPN 4 / Star +"
+    "partido": "Athletic Club - Alavés",
+    "liga": "Copa del Rey",
+    "hora": "3:00 p. m.",
+    "canal": "Directv Sports"
   },
   {
-    "partido": "Juventus - Sassuolo",
-    "liga": "Serie A",
-    "hora": "2:45 p. m.",
-    "canal": "ESPN / Star +"
+    "partido": "Tenerife - Mallorca",
+    "liga": "Copa del Rey",
+    "hora": "4:00 p. m.",
+    "canal": "Directv Sports"
   }
 ]
