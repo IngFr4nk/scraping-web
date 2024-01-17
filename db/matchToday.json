@@ -1,26 +1,26 @@
 [
   {
-    "partido": "Arabia Saudita - Omán",
-    "liga": "Copa Asiática",
-    "hora": "12:30 p. m.",
+    "partido": "Valencia CF - Celta de Vigo",
+    "liga": "Copa del Rey",
+    "hora": "2:00 p. m.",
+    "canal": "Directv 610"
+  },
+  {
+    "partido": "Everton - Crystal Palace",
+    "liga": "FA Cup",
+    "hora": "2:45 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Getafe - Sevilla",
-    "liga": "Copa del Rey",
-    "hora": "2:00 p. m.",
-    "canal": "DSports 610"
-  },
-  {
-    "partido": "Athletic Club - Alavés",
+    "partido": "Osasuna - Real Sociedad",
     "liga": "Copa del Rey",
     "hora": "3:00 p. m.",
     "canal": "Directv Sports"
   },
   {
-    "partido": "Tenerife - Mallorca",
+    "partido": "Girona - Rayo Vallecano",
     "liga": "Copa del Rey",
-    "hora": "4:00 p. m.",
+    "hora": "3:30 p. m.",
     "canal": "Directv Sports"
   }
 ]
