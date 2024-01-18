@@ -1,26 +1,32 @@
 [
   {
-    "partido": "Valencia CF - Celta de Vigo",
-    "liga": "Copa del Rey",
-    "hora": "2:00 p. m.",
-    "canal": "Directv 610"
-  },
-  {
-    "partido": "Everton - Crystal Palace",
-    "liga": "FA Cup",
-    "hora": "2:45 p. m.",
+    "partido": "Siria - Australia",
+    "liga": "Copa Asiática",
+    "hora": "6:30 a. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Osasuna - Real Sociedad",
+    "partido": "Unionistas - Barcelona",
     "liga": "Copa del Rey",
-    "hora": "3:00 p. m.",
-    "canal": "Directv Sports"
+    "hora": "1:30 p. m.",
+    "canal": "Directv 610"
   },
   {
-    "partido": "Girona - Rayo Vallecano",
+    "partido": "Napoli - Fiorentina",
+    "liga": "Supercopa de Italia",
+    "hora": "2:00 p. m.",
+    "canal": "ESPN / Star +"
+  },
+  {
+    "partido": "Atlético de Madrid - Real Madrid",
     "liga": "Copa del Rey",
     "hora": "3:30 p. m.",
-    "canal": "Directv Sports"
+    "canal": "Directv 610"
+  },
+  {
+    "partido": "Junior - Millonarios",
+    "liga": "Superliga",
+    "hora": "8:00 p. m.",
+    "canal": "Win Sports +"
   }
 ]
