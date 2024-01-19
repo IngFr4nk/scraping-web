@@ -1,32 +1,32 @@
 [
   {
-    "partido": "Siria - Australia",
+    "partido": "Irak - Japón",
     "liga": "Copa Asiática",
     "hora": "6:30 a. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Unionistas - Barcelona",
-    "liga": "Copa del Rey",
-    "hora": "1:30 p. m.",
-    "canal": "Directv 610"
-  },
-  {
-    "partido": "Napoli - Fiorentina",
+    "partido": "Inter - Lazio",
     "liga": "Supercopa de Italia",
     "hora": "2:00 p. m.",
     "canal": "ESPN / Star +"
   },
   {
-    "partido": "Atlético de Madrid - Real Madrid",
-    "liga": "Copa del Rey",
-    "hora": "3:30 p. m.",
-    "canal": "Directv 610"
+    "partido": "Alavés - Cádiz",
+    "liga": "Liga de Espana",
+    "hora": "3:00 p. m.",
+    "canal": "Star +"
   },
   {
-    "partido": "Junior - Millonarios",
-    "liga": "Superliga",
-    "hora": "8:00 p. m.",
+    "partido": "Patriotas F.C - Jaguares de Córdoba",
+    "liga": "Liga BetPlay",
+    "hora": "6:00 p. m.",
+    "canal": "Win Sports / Win Sports +"
+  },
+  {
+    "partido": "Pereira - Deportivo Cali",
+    "liga": "Liga BetPlay",
+    "hora": "8:15 p. m.",
     "canal": "Win Sports +"
   }
 ]
