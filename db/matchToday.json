@@ -1,32 +1,92 @@
 [
   {
-    "partido": "Irak - Japón",
-    "liga": "Copa Asiática",
-    "hora": "6:30 a. m.",
+    "partido": "Arsenal - Crystal Palace",
+    "liga": "Liga de Inglaterra",
+    "hora": "7:30 a. m.",
+    "canal": "ESPN / Star+"
+  },
+  {
+    "partido": "Rayo Vallecano - Las Palmas",
+    "liga": "Liga de Espana",
+    "hora": "8:00 a. m.",
+    "canal": "ESPN Extra / Star +"
+  },
+  {
+    "partido": "Colonia - Borussia Dortmund",
+    "liga": "Bundesliga",
+    "hora": "9:30 a. m.",
+    "canal": "ESPN 4 / Star +"
+  },
+  {
+    "partido": "Bristol City - Watford",
+    "liga": "Championship",
+    "hora": "10:00 a. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Inter - Lazio",
-    "liga": "Supercopa de Italia",
-    "hora": "2:00 p. m.",
+    "partido": "Villarreal - Mallorca",
+    "liga": "Liga de Espana",
+    "hora": "10:15 a. m.",
+    "canal": "Directv Sports"
+  },
+  {
+    "partido": "Roma - Hellas Verona",
+    "liga": "Serie A",
+    "hora": "12:00 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Brentford - Nottingham Forest",
+    "liga": "Liga de Inglaterra",
+    "hora": "12:30 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "RB Leipzig - Bayer Leverkusen",
+    "liga": "Bundesliga",
+    "hora": "12:30 p. m.",
     "canal": "ESPN / Star +"
   },
   {
-    "partido": "Alavés - Cádiz",
+    "partido": "Valencia CF - Athletic Club",
     "liga": "Liga de Espana",
-    "hora": "3:00 p. m.",
-    "canal": "Star +"
+    "hora": "12:30 p. m.",
+    "canal": "Directv Sports"
   },
   {
-    "partido": "Patriotas F.C - Jaguares de Córdoba",
+    "partido": "Udinese - Milán",
+    "liga": "Serie A",
+    "hora": "2:45 p. m.",
+    "canal": "ESPN / Star +"
+  },
+  {
+    "partido": "Celta de Vigo - Real Sociedad",
+    "liga": "Liga de Espana",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN Extra / Star +"
+  },
+  {
+    "partido": "Colombia - Ecuador",
+    "liga": "Preolímpico Sub23",
+    "hora": "3:00 p. m.",
+    "canal": "Caracol TV / RCN"
+  },
+  {
+    "partido": "Once Caldas - Boyacá Chicó",
     "liga": "Liga BetPlay",
-    "hora": "6:00 p. m.",
+    "hora": "4:00 p. m.",
     "canal": "Win Sports / Win Sports +"
   },
   {
-    "partido": "Pereira - Deportivo Cali",
+    "partido": "Deportes Tolima - Fortaleza F.C",
     "liga": "Liga BetPlay",
-    "hora": "8:15 p. m.",
+    "hora": "6:10 p. m.",
+    "canal": "Win Sports / Win Sports +"
+  },
+  {
+    "partido": "América - Águilas Doradas",
+    "liga": "Liga BetPlay",
+    "hora": "8:20 p. m.",
     "canal": "Win Sports +"
   }
 ]
