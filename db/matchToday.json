@@ -1,74 +1,74 @@
 [
   {
-    "partido": "Uzbekistan - Tailandia",
-    "liga": "Copa Asiática",
-    "hora": "6:30 a. m.",
-    "canal": "Star +"
+    "partido": "Barcelona - Osasuna",
+    "liga": "Liga de Espana",
+    "hora": "1:00 p. m.",
+    "canal": "Directv 610"
   },
   {
-    "partido": "Arabia Saudita - C. del Sur",
-    "liga": "Copa Asiática",
-    "hora": "11:00 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Nottingham Forest - Arsenal",
+    "partido": "Tottenham Hotspur - Brentford",
     "liga": "Liga de Inglaterra",
     "hora": "2:30 p. m.",
-    "canal": "ESPN 2 / Star +"
+    "canal": "ESPN 2 y Star+"
   },
   {
-    "partido": "Fulham - Everton",
+    "partido": "Manchester City - Burnley",
     "liga": "Liga de Inglaterra",
-    "hora": "2:45 p. m.",
+    "hora": "2:30 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Luton Town - Brighton & Hove",
-    "liga": "Liga de Inglaterra",
-    "hora": "2:45 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Uruguay - Perú",
-    "liga": "Preolímpico Sub23",
+    "partido": "Defensa y Justicia - Platense",
+    "liga": "Liga de Argentina",
     "hora": "3:00 p. m.",
-    "canal": "Directv 610"
+    "canal": "TyC Sports Internacional"
   },
   {
-    "partido": "Crystal Palace - Sheffield United",
-    "liga": "Liga de Inglaterra",
+    "partido": "Atlético de Madrid - Rayo Vallecano",
+    "liga": "Liga de Espana",
     "hora": "3:00 p. m.",
-    "canal": "Star +"
+    "canal": "Directv 613"
   },
   {
-    "partido": "Aston Villa - Newcastle",
+    "partido": "Liverpool - Chelsea",
     "liga": "Liga de Inglaterra",
     "hora": "3:15 p. m.",
-    "canal": "ESPN / Star +"
+    "canal": "ESPN y Star+"
   },
   {
-    "partido": "Patriotas F.C - Águilas Doradas",
+    "partido": "Pereira - Deportivo Pasto",
     "liga": "Liga BetPlay",
     "hora": "4:00 p. m.",
-    "canal": "Win Sports +"
+    "canal": "Win Sports y Win Sports +"
   },
   {
-    "partido": "Chile - Argentina",
-    "liga": "Preolímpico Sub23",
+    "partido": "Belgrano - San Lorenzo",
+    "liga": "Liga de Argentina",
+    "hora": "5:15 p. m.",
+    "canal": "TyC Sports Internacional"
+  },
+  {
+    "partido": "Racing Club - Tigre",
+    "liga": "Liga de Argentina",
     "hora": "6:00 p. m.",
-    "canal": "Directv 610"
+    "canal": "Star +"
   },
   {
-    "partido": "Deportivo Cali - Fortaleza F.C",
+    "partido": "Millonarios - Alianza FC",
     "liga": "Liga BetPlay",
-    "hora": "6:15 p. m.",
+    "hora": "6:10 p. m.",
     "canal": "Win Sports +"
   },
   {
-    "partido": "Equidad - Santa Fe",
+    "partido": "Barracas Central - River Plate",
+    "liga": "Liga de Argentina",
+    "hora": "7:30 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Deportes Tolima - América",
     "liga": "Liga BetPlay",
-    "hora": "8:30 p. m.",
+    "hora": "8:20 p. m.",
     "canal": "Win Sports +"
   }
 ]
