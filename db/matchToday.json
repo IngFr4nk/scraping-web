@@ -6,28 +6,28 @@
     "canal": "Directv 610"
   },
   {
-    "partido": "Tottenham Hotspur - Brentford",
-    "liga": "Liga de Inglaterra",
-    "hora": "2:30 p. m.",
-    "canal": "ESPN 2 y Star+"
-  },
-  {
     "partido": "Manchester City - Burnley",
     "liga": "Liga de Inglaterra",
     "hora": "2:30 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Defensa y Justicia - Platense",
-    "liga": "Liga de Argentina",
-    "hora": "3:00 p. m.",
-    "canal": "TyC Sports Internacional"
+    "partido": "Tottenham Hotspur - Brentford",
+    "liga": "Liga de Inglaterra",
+    "hora": "2:30 p. m.",
+    "canal": "ESPN 2 y Star+"
   },
   {
     "partido": "Atlético de Madrid - Rayo Vallecano",
     "liga": "Liga de Espana",
     "hora": "3:00 p. m.",
     "canal": "Directv 613"
+  },
+  {
+    "partido": "Defensa y Justicia - Platense",
+    "liga": "Liga de Argentina",
+    "hora": "3:00 p. m.",
+    "canal": "TyC Sports Internacional"
   },
   {
     "partido": "Liverpool - Chelsea",
