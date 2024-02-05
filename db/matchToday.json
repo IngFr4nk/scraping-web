@@ -1,108 +1,48 @@
 [
   {
-    "partido": "Torino - Salernitana",
-    "liga": "Serie A",
-    "hora": "6:30 a. m.",
-    "canal": "ESPN 2 y Star +"
-  },
-  {
-    "partido": "Villarreal - Cádiz",
-    "liga": "Liga de Espana",
-    "hora": "8:00 a. m.",
-    "canal": "Directv Sports"
-  },
-  {
-    "partido": "Napoli - Hellas Verona",
-    "liga": "Serie A",
-    "hora": "9:00 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Bournemouth - Nottingham Forest",
-    "liga": "Liga de Inglaterra",
-    "hora": "9:00 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Chelsea - Wolverhampton",
-    "liga": "Liga de Inglaterra",
-    "hora": "9:00 a. m.",
-    "canal": "ESPN y Star +"
-  },
-  {
-    "partido": "Manchester United - West Ham Utd.",
-    "liga": "Liga de Inglaterra",
-    "hora": "9:00 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Wolfsburgo - Hoffenheim",
-    "liga": "Bundesliga",
-    "hora": "9:30 a. m.",
-    "canal": "ESPN 2 y Star +"
-  },
-  {
-    "partido": "Osasuna - Celta de Vigo",
-    "liga": "Liga de Espana",
-    "hora": "10:15 a. m.",
-    "canal": "Directv Sports"
-  },
-  {
-    "partido": "Arsenal - Liverpool",
-    "liga": "Liga de Inglaterra",
-    "hora": "11:30 a. m.",
-    "canal": "ESPN y Star +"
-  },
-  {
-    "partido": "RB Leipzig - Union Berlin",
-    "liga": "Bundesliga",
-    "hora": "11:30 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Atalanta - Lazio",
-    "liga": "Serie A",
-    "hora": "12:00 p. m.",
-    "canal": "ESPN 3 y Star +"
-  },
-  {
-    "partido": "Real Betis - Getafe",
-    "liga": "Liga de Espana",
-    "hora": "12:30 p. m.",
-    "canal": "ESPN 2 y Star +"
-  },
-  {
-    "partido": "Lyon - Marsella",
-    "liga": "Liga de Francia",
-    "hora": "2:45 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Inter - Juventus",
+    "partido": "Roma - Cagliari",
     "liga": "Serie A",
     "hora": "2:45 p. m.",
-    "canal": "ESPN 2 y Star +"
+    "canal": "ESPN 3 / Star +"
   },
   {
-    "partido": "Real Madrid - Atlético de Madrid",
+    "partido": "Brentford - Manchester City",
+    "liga": "Liga de Inglaterra",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN / Star +"
+  },
+  {
+    "partido": "Rayo Vallecano - Sevilla",
     "liga": "Liga de Espana",
     "hora": "3:00 p. m.",
-    "canal": "ESPN y Star +"
+    "canal": "ESPN 2 / Star +"
   },
   {
-    "partido": "Fortaleza F.C - Envigado F.C",
+    "partido": "Boyacá Chicó - Pereira",
     "liga": "Liga BetPlay",
     "hora": "4:00 p. m.",
     "canal": "Win Sports y Win +"
   },
   {
-    "partido": "Águilas Doradas - Atlético Nacional",
-    "liga": "Liga BetPlay",
-    "hora": "6:10 p. m.",
-    "canal": "Win Sports +"
+    "partido": "Tigre - Boca Juniors",
+    "liga": "Liga de Argentina",
+    "hora": "5:45 p. m.",
+    "canal": "Star +"
   },
   {
-    "partido": "Alianza FC - Junior",
+    "partido": "Deportivo Pasto - Jaguares de Córdoba",
+    "liga": "Liga BetPlay",
+    "hora": "6:10 p. m.",
+    "canal": "Win Sports y Win +"
+  },
+  {
+    "partido": "Estudiantes - Racing Club",
+    "liga": "Liga de Argentina",
+    "hora": "7:30 p. m.",
+    "canal": "ESPN / Star +"
+  },
+  {
+    "partido": "Independiente Medellín - Deportivo Cali",
     "liga": "Liga BetPlay",
     "hora": "8:20 p. m.",
     "canal": "Win Sports +"
