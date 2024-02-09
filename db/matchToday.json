@@ -1,42 +1,42 @@
 [
   {
-    "partido": "Argentina - Paraguay",
-    "liga": "Preolímpico Sub23",
+    "partido": "Borussia Dortmund - Friburgo",
+    "liga": "Bundesliga",
+    "hora": "2:30 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Salernitana - Empoli",
+    "liga": "Serie A",
+    "hora": "2:45 p. m.",
+    "canal": "ESPN 2 / Star +"
+  },
+  {
+    "partido": "Cádiz - Real Betis",
+    "liga": "Liga de Espana",
     "hora": "3:00 p. m.",
     "canal": "Directv 610"
   },
   {
-    "partido": "Vizela - Benfica",
-    "liga": "Copa de Portugal",
-    "hora": "3:45 p. m.",
-    "canal": "ESPN 4 / Star +"
-  },
-  {
-    "partido": "Pereira - Fortaleza F.C",
-    "liga": "Liga BetPlay",
+    "partido": "Cúcuta - Barranquilla",
+    "liga": "Torneo Betplay",
     "hora": "4:00 p. m.",
-    "canal": "Win Sports / Win Sports +"
-  },
-  {
-    "partido": "Venezuela - Brasil",
-    "liga": "Preolímpico Sub23",
-    "hora": "6:00 p. m.",
-    "canal": "Directv 610"
-  },
-  {
-    "partido": "Junior - Deportivo Pasto",
-    "liga": "Liga BetPlay",
-    "hora": "6:10 p. m.",
     "canal": "Win Sports +"
   },
   {
-    "partido": "Aucas - Nacional (Par)",
-    "liga": "Copa Libertadores",
-    "hora": "7:30 p. m.",
-    "canal": "Star +"
+    "partido": "Jaguares de Córdoba - Águilas Doradas",
+    "liga": "Liga BetPlay",
+    "hora": "6:10 p. m.",
+    "canal": "Win Sports / Win Sports +"
   },
   {
-    "partido": "Patriotas F.C - Atlético Nacional",
+    "partido": "Racing Club - San Lorenzo",
+    "liga": "Superliga Argentina",
+    "hora": "7:15 p. m.",
+    "canal": "ESPN / Star +"
+  },
+  {
+    "partido": "Deportivo Cali - Boyacá Chicó",
     "liga": "Liga BetPlay",
     "hora": "8:20 p. m.",
     "canal": "Win Sports +"
