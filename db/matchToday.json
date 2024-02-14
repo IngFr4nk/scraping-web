@@ -1,38 +1,44 @@
 [
   {
-    "partido": "Juventus - Udinese",
+    "partido": "Bolognia - Fiorentina",
     "liga": "Serie A",
-    "hora": "2:45 p. m.",
-    "canal": "ESPN / Star +"
-  },
-  {
-    "partido": "Crystal Palace - Chelsea",
-    "liga": "Liga de Inglaterra",
-    "hora": "3:00 p. m.",
+    "hora": "1:00 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Almería - Athletic Club",
-    "liga": "Liga de Espana",
+    "partido": "Lazio - Bayern Munich",
+    "liga": "Champions League",
     "hora": "3:00 p. m.",
     "canal": "ESPN 2 / Star +"
   },
   {
-    "partido": "Leones - Atlético FC",
-    "liga": "Torneo Betplay",
-    "hora": "4:00 p. m.",
+    "partido": "Paris Saint-Germain - Real Sociedad",
+    "liga": "Champions League",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN  / Star +"
+  },
+  {
+    "partido": "Once Caldas - Patriotas F.C",
+    "liga": "Liga BetPlay",
+    "hora": "6:10 p. m.",
     "canal": "Win Sports / Win Sports +"
   },
   {
-    "partido": "Atlético Huila - Real Cartagena",
-    "liga": "Torneo Betplay",
-    "hora": "6:00 p. m.",
-    "canal": "Win Sports +"
+    "partido": "Melgar - Aurora",
+    "liga": "Copa Libertadores",
+    "hora": "7:30 p. m.",
+    "canal": "ESPN / Star +"
   },
   {
-    "partido": "Deportivo Pasto - Envigado F.C",
+    "partido": "Atlético Tucumán - River Plate",
+    "liga": "Liga de Argentina",
+    "hora": "7:30 p. m.",
+    "canal": "ESPN 2 / Star +"
+  },
+  {
+    "partido": "Boyacá Chicó - Independiente Medellín",
     "liga": "Liga BetPlay",
-    "hora": "8:10 p. m.",
+    "hora": "8:20 p. m.",
     "canal": "Win Sports +"
   }
 ]
