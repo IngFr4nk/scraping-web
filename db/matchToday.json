@@ -1,108 +1,42 @@
 [
   {
-    "partido": "Royale Union SG - Eintracht Frankfurt",
-    "liga": "Conference League",
-    "hora": "12:45 p. m.",
+    "partido": "Torino - Lecce",
+    "liga": "Serie A",
+    "hora": "1:00 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Sturm Graz - Slovan Bratislava",
-    "liga": "Conference League",
-    "hora": "12:45 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Shakhtar Donetsk - Marsella",
-    "liga": "Liga de Europa",
-    "hora": "12:45 p. m.",
-    "canal": "ESPN 3 / Star+"
-  },
-  {
-    "partido": "Galatasaray - Sparta Praga",
-    "liga": "Liga de Europa",
-    "hora": "12:45 p. m.",
+    "partido": "Inter - Salernitana",
+    "liga": "Serie A",
+    "hora": "3:00 p. m.",
     "canal": "ESPN 2 / Star+"
   },
   {
-    "partido": "Young Boys - Sporting de Lisboa",
-    "liga": "Liga de Europa",
-    "hora": "12:45 p. m.",
-    "canal": "ESPN 4 / Star +"
-  },
-  {
-    "partido": "Feyenoord - Roma",
-    "liga": "Liga de Europa",
-    "hora": "12:45 p. m.",
-    "canal": "ESPN / Star +"
-  },
-  {
-    "partido": "Molde - Legia Varsovia",
-    "liga": "Conference League",
-    "hora": "12:45 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Olimpiakos - Ferencváros",
-    "liga": "Conference League",
-    "hora": "12:45 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Braga - Qarabag",
-    "liga": "Liga de Europa",
+    "partido": "Villarreal - Getafe",
+    "liga": "Liga de Espana",
     "hora": "3:00 p. m.",
-    "canal": "ESPN 4 / Star+"
+    "canal": "ESPN / Star+"
   },
   {
-    "partido": "Milán - Rennes",
-    "liga": "Liga de Europa",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN / Star +"
+    "partido": "Orsomarso - Unión Magdalena",
+    "liga": "Torneo BetPlay",
+    "hora": "3:30 p. m.",
+    "canal": "Win Sports +"
   },
   {
-    "partido": "Maccabi Haifa - Gent",
-    "liga": "Conference League",
-    "hora": "3:00 p. m.",
-    "canal": "Star +"
+    "partido": "Millonarios - Independiente Medellín",
+    "liga": "Liga Femenina",
+    "hora": "3:30 p. m.",
+    "canal": "Win Sports +"
   },
   {
-    "partido": "Lens - Friburgo",
-    "liga": "Liga de Europa",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN 3 / Star+"
-  },
-  {
-    "partido": "Benfica - Toulouse",
-    "liga": "Liga de Europa",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN 2 / Star +"
-  },
-  {
-    "partido": "Ajax - Bodo Glimt",
-    "liga": "Conference League",
-    "hora": "3:00 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Real Betis - Dynamo Zagreb",
-    "liga": "Conference League",
-    "hora": "3:00 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Deportes Tolima - Jaguares de Córdoba",
+    "partido": "Millonarios - Águilas Doradas",
     "liga": "Liga BetPlay",
-    "hora": "4:00 p. m.",
-    "canal": "Win Sports / Win Sports +"
+    "hora": "6:10 p. m.",
+    "canal": "Win Sports +"
   },
   {
-    "partido": "Nacional (Par) - Aucas",
-    "liga": "Copa Libertadores",
-    "hora": "7:30 p. m.",
-    "canal": "ESPN 2 / Star +"
-  },
-  {
-    "partido": "América - Bucaramanga",
+    "partido": "Deportivo Cali - Atlético Nacional",
     "liga": "Liga BetPlay",
     "hora": "8:20 p. m.",
     "canal": "Win Sports +"
