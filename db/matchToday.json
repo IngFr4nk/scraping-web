@@ -1,110 +1,26 @@
 [
   {
-    "partido": "Lazio - Bolognia",
-    "liga": "Serie A",
-    "hora": "6:30 a. m.",
-    "canal": "ESPN 2 / Star +"
-  },
-  {
-    "partido": "Strasbourg - Lorient",
-    "liga": "Liga de Francia",
-    "hora": "7:00 a. m.",
-    "canal": "ESPN 4 / Star +"
-  },
-  {
-    "partido": "Rayo Vallecano - Real Madrid",
-    "liga": "Liga de Espana",
-    "hora": "8:00 a. m.",
-    "canal": "ESPN / Star+"
-  },
-  {
-    "partido": "Udinese - Cagliari",
-    "liga": "Serie A",
-    "hora": "9:00 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Empoli - Fiorentina",
-    "liga": "Serie A",
-    "hora": "9:00 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Sheffield United - Brighton & Hove",
-    "liga": "Liga de Inglaterra",
-    "hora": "9:00 a. m.",
-    "canal": "ESPN 2 / Star+"
-  },
-  {
-    "partido": "Friburgo - Eintracht Frankfurt",
-    "liga": "Bundesliga",
-    "hora": "9:30 a. m.",
-    "canal": "ESPN 5 / Star+"
-  },
-  {
-    "partido": "Granada CF - Almería",
-    "liga": "Liga de Espana",
-    "hora": "10:15 a. m.",
-    "canal": "ESPN 4 / Star+"
-  },
-  {
-    "partido": "Luton Town - Manchester United",
-    "liga": "Liga de Inglaterra",
-    "hora": "11:30 a. m.",
-    "canal": "ESPN / Star+"
-  },
-  {
-    "partido": "Frosinone - Roma",
-    "liga": "Serie A",
-    "hora": "12:00 p. m.",
-    "canal": "ESPN 2 / Star+"
-  },
-  {
-    "partido": "Mallorca - Real Sociedad",
-    "liga": "Liga de Espana",
-    "hora": "12:30 p. m.",
-    "canal": "Directv 610"
-  },
-  {
-    "partido": "Equidad - Patriotas F.C",
-    "liga": "Liga BetPlay",
-    "hora": "2:00 p. m.",
-    "canal": "Win Sports +"
-  },
-  {
-    "partido": "Monza - Milán",
-    "liga": "Serie A",
-    "hora": "2:45 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Real Betis - Alavés",
+    "partido": "Athletic Club - Girona",
     "liga": "Liga de Espana",
     "hora": "3:00 p. m.",
-    "canal": "Directv 610"
+    "canal": "ESPN 2 / Star+"
   },
   {
-    "partido": "Envigado F.C - América",
+    "partido": "Everton - Crystal Palace",
+    "liga": "Liga de Inglaterra",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN 3 / Star+"
+  },
+  {
+    "partido": "Boyacá Chicó - Alianza FC",
     "liga": "Liga BetPlay",
     "hora": "4:00 p. m.",
-    "canal": "Win Sports +"
-  },
-  {
-    "partido": "Jaguares de Córdoba - Once Caldas",
-    "liga": "Liga BetPlay",
-    "hora": "6:10 p. m.",
     "canal": "Win Sports / Win Sports +"
   },
   {
-    "partido": "Lanús - Boca Juniors",
-    "liga": "Liga de Argentina",
-    "hora": "7:30 p. m.",
-    "canal": "ESPN / Star +"
-  },
-  {
-    "partido": "Junior - Deportes Tolima",
+    "partido": "Bucaramanga - Deportivo Pasto",
     "liga": "Liga BetPlay",
     "hora": "8:20 p. m.",
-    "canal": "Win Sports +"
+    "canal": "Win Sports / Win Sports +"
   }
 ]
