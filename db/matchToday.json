@@ -1,26 +1,50 @@
 [
   {
-    "partido": "Athletic Club - Girona",
-    "liga": "Liga de Espana",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN 2 / Star+"
-  },
-  {
-    "partido": "Everton - Crystal Palace",
+    "partido": "Manchester City - Brentford",
     "liga": "Liga de Inglaterra",
+    "hora": "2:30 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Inter - Atlético de Madrid",
+    "liga": "Champions League",
     "hora": "3:00 p. m.",
-    "canal": "ESPN 3 / Star+"
+    "canal": "ESPN / Star +"
   },
   {
-    "partido": "Boyacá Chicó - Alianza FC",
-    "liga": "Liga BetPlay",
-    "hora": "4:00 p. m.",
-    "canal": "Win Sports / Win Sports +"
+    "partido": "PSV - Borussia Dortmund",
+    "liga": "Champions League",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN 2 / Star +"
   },
   {
-    "partido": "Bucaramanga - Deportivo Pasto",
-    "liga": "Liga BetPlay",
-    "hora": "8:20 p. m.",
+    "partido": "Portuguesa - Palestino",
+    "liga": "Copa Libertadores",
+    "hora": "5:00 p. m.",
+    "canal": "ESPN / Star +"
+  },
+  {
+    "partido": "Cúcuta - Boca Juniors de Cali",
+    "liga": "Torneo Betplay",
+    "hora": "5:00 p. m.",
+    "canal": "Win Sports +"
+  },
+  {
+    "partido": "Always Ready - Sporting Cristal",
+    "liga": "Copa Libertadores",
+    "hora": "7:30 p. m.",
+    "canal": "ESPN 2 / Star +"
+  },
+  {
+    "partido": "Águilas Doradas - Red Bull Bragantino",
+    "liga": "Copa Libertadores",
+    "hora": "7:30 p. m.",
+    "canal": "ESPN 5 / Star +"
+  },
+  {
+    "partido": "Atlético Huila - Real Soacha",
+    "liga": "Torneo BetPlay",
+    "hora": "7:40 p. m.",
     "canal": "Win Sports / Win Sports +"
   }
 ]
