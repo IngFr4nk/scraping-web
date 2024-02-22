@@ -1,60 +1,132 @@
 [
   {
-    "partido": "Liverpool - Luton Town",
-    "liga": "Liga de Inglaterra",
-    "hora": "2:30 p. m.",
+    "partido": "Toulouse - Benfica",
+    "liga": "Liga de Europa",
+    "hora": "12:45 p. m.",
+    "canal": "ESPN / Star +"
+  },
+  {
+    "partido": "Friburgo - Lens",
+    "liga": "Liga de Europa",
+    "hora": "12:45 p. m.",
+    "canal": "ESPN 3 / Star +"
+  },
+  {
+    "partido": "Rennes - Milán",
+    "liga": "Liga de Europa",
+    "hora": "12:45 p. m.",
+    "canal": "ESPN 2 / Star +"
+  },
+  {
+    "partido": "Qarabag - Braga",
+    "liga": "Liga de Europa",
+    "hora": "12:45 p. m.",
+    "canal": "ESPN 4 / Star +"
+  },
+  {
+    "partido": "Dynamo Zagreb - Real Betis",
+    "liga": "Conference League",
+    "hora": "12:45 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Porto - Arsenal",
-    "liga": "Champions League",
+    "partido": "Bodo Glimt - Ajax",
+    "liga": "Conference League",
+    "hora": "12:45 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Torino - Lazio",
+    "liga": "Serie A",
+    "hora": "2:45 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Sparta Praga - Galatasaray",
+    "liga": "Liga de Europa",
     "hora": "3:00 p. m.",
-    "canal": "Star +"
+    "canal": "ESPN 3 / Star +"
   },
   {
-    "partido": "Napoli - Barcelona",
-    "liga": "Champions League",
+    "partido": "Roma - Feyenoord",
+    "liga": "Liga de Europa",
     "hora": "3:00 p. m.",
     "canal": "ESPN / Star +"
   },
   {
-    "partido": "Puerto Cabello - Nacional (Uru)",
-    "liga": "Copa Libertadores",
-    "hora": "5:00 p. m.",
-    "canal": "ESPN 2 / Star +"
+    "partido": "Eintracht Frankfurt - Royale Union SG",
+    "liga": "Conference League",
+    "hora": "3:00 p. m.",
+    "canal": "Star +"
   },
   {
-    "partido": "Once Caldas - Pereira",
+    "partido": "Sporting de Lisboa - Young Boys",
+    "liga": "Liga de Europa",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN 4 / Star +"
+  },
+  {
+    "partido": "Legia Varsovia - Molde",
+    "liga": "Conference League",
+    "hora": "3:00 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Marsella - Shakhtar Donetsk",
+    "liga": "Liga de Europa",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN 3 / Star +"
+  },
+  {
+    "partido": "Ferencváros - Olimpiakos",
+    "liga": "Conference League",
+    "hora": "3:00 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Slovan Bratislava - Sturm Graz",
+    "liga": "Conference League",
+    "hora": "3:00 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Deportes Tolima - Bucaramanga",
+    "liga": "Liga BetPlay",
+    "hora": "4:00 p. m.",
+    "canal": "Win Sports / Win Sports +"
+  },
+  {
+    "partido": "Sportivo Trinidense - El Nacional",
+    "liga": "Copa Libertadores",
+    "hora": "5:00 p. m.",
+    "canal": "ESPN / Star +"
+  },
+  {
+    "partido": "América - Equidad",
     "liga": "Liga BetPlay",
     "hora": "6:10 p. m.",
     "canal": "Win Sports +"
   },
   {
-    "partido": "Nacional (Par) - Atlético Nacional",
-    "liga": "Copa Libertadores",
-    "hora": "7:30 p. m.",
-    "canal": "ESPN  / Star +"
-  },
-  {
-    "partido": "Panamá Femenino - Colombia Femenino",
+    "partido": "Costa Rica Femenino - Paraguay",
     "liga": "Copa de Oro",
-    "hora": "7:30 p. m.",
-    "canal": "Star +"
+    "hora": "6:15 p. m.",
+    "canal": "ESPN / Star +"
   },
   {
-    "partido": "Aurora - Botafogo",
+    "partido": "Godoy Cruz - Colo Colo",
     "liga": "Copa Libertadores",
+    "hora": "7:30 p. m.",
+    "canal": "ESPN / Star +"
+  },
+  {
+    "partido": "Liga de Quito - Fluminense",
+    "liga": "Recopa Sudamericana",
     "hora": "7:30 p. m.",
     "canal": "ESPN 2 / Star +"
   },
   {
-    "partido": "Inter Miami - Real Salt Lake",
-    "liga": "Major League Soccer",
-    "hora": "8:00 p. m.",
-    "canal": "Apple TV"
-  },
-  {
-    "partido": "Santa Fe - Junior",
+    "partido": "Once Caldas - Pereira",
     "liga": "Liga BetPlay",
     "hora": "8:20 p. m.",
     "canal": "Win Sports +"
