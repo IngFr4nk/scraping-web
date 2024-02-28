@@ -1,68 +1,56 @@
 [
   {
-    "partido": "Lyon - Strasbourg",
-    "liga": "Copa de Francia",
-    "hora": "2:45 p. m.",
-    "canal": "Directv Sports"
+    "partido": "Sassuolo - Napoli",
+    "liga": "Serie A",
+    "hora": "12:00 p. m.",
+    "canal": "Star +"
   },
   {
-    "partido": "Luton Town - Manchester City",
+    "partido": "Chelsea - Leeds",
     "liga": "FA Cup",
-    "hora": "3:00 p. m.",
+    "hora": "2:30 p. m.",
+    "canal": "Star+"
+  },
+  {
+    "partido": "Inter - Atalanta",
+    "liga": "Serie A",
+    "hora": "2:45 p. m.",
     "canal": "ESPN / Star +"
   },
   {
-    "partido": "Real Sociedad - Mallorca",
-    "liga": "Copa del Rey",
-    "hora": "3:30 p. m.",
-    "canal": "Directv Sports"
+    "partido": "Liverpool - Southampton",
+    "liga": "FA Cup",
+    "hora": "3:00 p. m.",
+    "canal": "Star +"
   },
   {
-    "partido": "Envigado F.C - Patriotas F.C",
+    "partido": "Fortaleza F.C - Alianza FC",
     "liga": "Liga BetPlay",
-    "hora": "4:00 p. m.",
+    "hora": "3:15 p. m.",
     "canal": "Win Sports / Win Sports +"
   },
   {
-    "partido": "Palestino - Portuguesa",
+    "partido": "Nacional (Uru) - Puerto Cabello",
     "liga": "Copa Libertadores",
     "hora": "5:00 p. m.",
     "canal": "ESPN 2 / Star +"
   },
   {
-    "partido": "Unión Magdalena - Quindío",
-    "liga": "Torneo Betplay",
-    "hora": "6:10 p. m.",
-    "canal": "Win Sports +"
-  },
-  {
-    "partido": "Colombia Femenino - Puerto Rico",
-    "liga": "Copa de Oro",
-    "hora": "7:00 p. m.",
-    "canal": "ESPN / Star +"
-  },
-  {
-    "partido": "Sporting Cristal - Always Ready",
+    "partido": "Botafogo - Aurora",
     "liga": "Copa Libertadores",
     "hora": "7:30 p. m.",
     "canal": "ESPN 2 / Star +"
   },
   {
-    "partido": "Red Bull Bragantino - Águilas Doradas",
+    "partido": "Atlético Nacional - Nacional (Par)",
     "liga": "Copa Libertadores",
     "hora": "7:30 p. m.",
-    "canal": "ESPN 5 / Star +"
+    "canal": "ESPN / Star +"
   },
   {
-    "partido": "Millonarios - Once Caldas",
-    "liga": "Liga BetPlay",
-    "hora": "8:15 p. m.",
-    "canal": "Win Sports +"
-  },
-  {
-    "partido": "Brasil Femenino - Panamá Femenino",
+    "partido": "Paraguay - El Salvador",
     "liga": "Copa de Oro",
-    "hora": "8:15 p. m.",
-    "canal": "Star +"
+    "hora": "9:00 p. m.",
+    "canal": "ESPN 5 / Star +"
   }
 ]
