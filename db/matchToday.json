@@ -1,38 +1,62 @@
 [
   {
-    "partido": "Inter - Génoa",
-    "liga": "Serie A",
-    "hora": "2:45 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Osasuna - Alavés",
-    "liga": "Liga de Espana",
+    "partido": "Bayern Munich - Lazio",
+    "liga": "Champions League",
     "hora": "3:00 p. m.",
-    "canal": "Directv Sports"
+    "canal": "ESPN 2 / Star +"
   },
   {
-    "partido": "Sheffield United - Arsenal",
-    "liga": "Liga de Inglaterra",
+    "partido": "Real Sociedad - Paris Saint-Germain",
+    "liga": "Champions League",
     "hora": "3:00 p. m.",
     "canal": "ESPN / Star +"
   },
   {
-    "partido": "Cúcuta - Unión Magdalena",
-    "liga": "Torneo BetPlay",
-    "hora": "4:00 p. m.",
-    "canal": "Win Sports +"
+    "partido": "Tomayapo - Jorge Wilstermann",
+    "liga": "Copa Sudamericana",
+    "hora": "5:00 p. m.",
+    "canal": "Directv Sports"
   },
   {
-    "partido": "Barranquilla - Real Santander",
-    "liga": "Torneo BetPlay",
-    "hora": "6:00 p. m.",
-    "canal": "Win Sports +"
+    "partido": "Universidad Católica - Coquimbo Unido",
+    "liga": "Copa Sudamericana",
+    "hora": "5:00 p. m.",
+    "canal": "ESPN 2 / Star +"
   },
   {
-    "partido": "Deportivo Pasto - Fortaleza F.C",
-    "liga": "Liga BetPlay",
-    "hora": "8:10 p. m.",
+    "partido": "Real Garcilaso - Tarma",
+    "liga": "Copa Sudamericana",
+    "hora": "7:30 p. m.",
+    "canal": "Directv Sports"
+  },
+  {
+    "partido": "Carabobo FC - Metropolitanos",
+    "liga": "Copa Sudamericana",
+    "hora": "7:30 p. m.",
+    "canal": "ESPN 3 / Star +"
+  },
+  {
+    "partido": "Nacional (Par) - Palestino",
+    "liga": "Copa Libertadores",
+    "hora": "7:30 p. m.",
+    "canal": "ESPN 2 / Star +"
+  },
+  {
+    "partido": "Leones - Llaneros",
+    "liga": "Torneo BetPlay",
+    "hora": "7:40 p. m.",
     "canal": "Win Sports / Win Sports +"
+  },
+  {
+    "partido": "Deportes Tolima - Independiente Medellín",
+    "liga": "Copa Sudamericana",
+    "hora": "9:00 p. m.",
+    "canal": "ESPN / Star +"
+  },
+  {
+    "partido": "Orlando City - Tigres",
+    "liga": "Concacaf Champions",
+    "hora": "9:00 p. m.",
+    "canal": "Star +"
   }
 ]
