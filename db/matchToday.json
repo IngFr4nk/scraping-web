@@ -1,62 +1,98 @@
 [
   {
-    "partido": "Bayern Munich - Lazio",
-    "liga": "Champions League",
-    "hora": "3:00 p. m.",
+    "partido": "Sporting de Lisboa - Atalanta",
+    "liga": "Liga de Europa",
+    "hora": "12:45 p. m.",
     "canal": "ESPN 2 / Star +"
   },
   {
-    "partido": "Real Sociedad - Paris Saint-Germain",
+    "partido": "Real Madrid - RB Leipzig",
     "liga": "Champions League",
     "hora": "3:00 p. m.",
-    "canal": "ESPN / Star +"
+    "canal": "ESPN y Star +"
   },
   {
-    "partido": "Tomayapo - Jorge Wilstermann",
+    "partido": "Manchester City - Copenhague",
+    "liga": "Champions League",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN 2 y Star +"
+  },
+  {
+    "partido": "Everton - Unión La Calera",
     "liga": "Copa Sudamericana",
     "hora": "5:00 p. m.",
     "canal": "Directv Sports"
   },
   {
-    "partido": "Universidad Católica - Coquimbo Unido",
+    "partido": "Universitario de Vinto - Nacional Potosí",
     "liga": "Copa Sudamericana",
     "hora": "5:00 p. m.",
     "canal": "ESPN 2 / Star +"
   },
   {
-    "partido": "Real Garcilaso - Tarma",
-    "liga": "Copa Sudamericana",
-    "hora": "7:30 p. m.",
-    "canal": "Directv Sports"
+    "partido": "Bogotá - Once Caldas",
+    "liga": "Copa Betplay",
+    "hora": "6:00 p. m.",
+    "canal": "Win Sports +"
   },
   {
-    "partido": "Carabobo FC - Metropolitanos",
-    "liga": "Copa Sudamericana",
-    "hora": "7:30 p. m.",
-    "canal": "ESPN 3 / Star +"
+    "partido": "Brasil Femenino - México",
+    "liga": "Copa de Oro",
+    "hora": "7:00 p. m.",
+    "canal": "Star +"
   },
   {
-    "partido": "Nacional (Par) - Palestino",
+    "partido": "Sportivo Trinidense - Colo Colo",
     "liga": "Copa Libertadores",
     "hora": "7:30 p. m.",
     "canal": "ESPN 2 / Star +"
   },
   {
-    "partido": "Leones - Llaneros",
-    "liga": "Torneo BetPlay",
-    "hora": "7:40 p. m.",
-    "canal": "Win Sports / Win Sports +"
+    "partido": "D Cuenca - Delfín SC",
+    "liga": "Copa Sudamericana",
+    "hora": "7:30 p. m.",
+    "canal": "ESPN 2 / Star +"
   },
   {
-    "partido": "Deportes Tolima - Independiente Medellín",
+    "partido": "Guaraní - Sportivo Luqueño",
     "liga": "Copa Sudamericana",
-    "hora": "9:00 p. m.",
+    "hora": "7:30 p. m.",
+    "canal": "ESPN 5 / Star +"
+  },
+  {
+    "partido": "Montevideo Wanders - Danubio",
+    "liga": "Copa Sudamericana",
+    "hora": "7:30 p. m.",
+    "canal": "ESPN 3 / Star +"
+  },
+  {
+    "partido": "Botafogo - Red Bull Bragantino",
+    "liga": "Copa Libertadores",
+    "hora": "7:30 p. m.",
     "canal": "ESPN / Star +"
   },
   {
-    "partido": "Orlando City - Tigres",
+    "partido": "Santa Fe - Boca Juniors de Cali",
+    "liga": "Copa Betplay",
+    "hora": "8:00 p. m.",
+    "canal": "Win Sports +"
+  },
+  {
+    "partido": "Houston Dynamo - Columbus Crew",
     "liga": "Concacaf Champions",
+    "hora": "8:00 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Alianza FC - América",
+    "liga": "Copa Sudamericana",
     "hora": "9:00 p. m.",
+    "canal": "Directv Sports"
+  },
+  {
+    "partido": "Canadá Femenino - Estados Unidos Femenino",
+    "liga": "Copa de Oro",
+    "hora": "10:15 p. m.",
     "canal": "Star +"
   }
 ]
