@@ -1,98 +1,140 @@
 [
   {
-    "partido": "Sporting de Lisboa - Atalanta",
+    "partido": "Molde - Brujas",
+    "liga": "UEFA Europa Conference League",
+    "hora": "12:45 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Ajax - Aston Villa",
+    "liga": "UEFA Europa Conference League",
+    "hora": "12:45 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Olimpiakos - Maccabi Tel Aviv",
+    "liga": "UEFA Europa Conference League",
+    "hora": "12:45 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Sturm Graz - Lille",
+    "liga": "UEFA Europa Conference League",
+    "hora": "12:45 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Qarabag - Bayer Leverkusen",
+    "liga": "Liga de Europa",
+    "hora": "12:45 p. m.",
+    "canal": "ESPN 3 / Star +"
+  },
+  {
+    "partido": "Roma - Brighton & Hove",
     "liga": "Liga de Europa",
     "hora": "12:45 p. m.",
     "canal": "ESPN 2 / Star +"
   },
   {
-    "partido": "Real Madrid - RB Leipzig",
-    "liga": "Champions League",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN y Star +"
+    "partido": "Sparta Praga - Liverpool",
+    "liga": "Liga de Europa",
+    "hora": "12:45 p. m.",
+    "canal": "ESPN / Star +"
   },
   {
-    "partido": "Manchester City - Copenhague",
-    "liga": "Champions League",
+    "partido": "Royale Union SG - Fenerbache",
+    "liga": "UEFA Europa Conference League",
     "hora": "3:00 p. m.",
-    "canal": "ESPN 2 y Star +"
+    "canal": "Star +"
   },
   {
-    "partido": "Everton - Unión La Calera",
+    "partido": "Servette FC - Viktoria Plzen",
+    "liga": "UEFA Europa Conference League",
+    "hora": "3:00 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Maccabi Haifa - Fiorentina",
+    "liga": "UEFA Europa Conference League",
+    "hora": "3:00 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Dynamo Zagreb - Paok Salonika",
+    "liga": "UEFA Europa Conference League",
+    "hora": "3:00 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Milán - Slavia Praga",
+    "liga": "Liga de Europa",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN 4 / Star +"
+  },
+  {
+    "partido": "Friburgo - West Ham Utd.",
+    "liga": "Liga de Europa",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN 5 / Star +"
+  },
+  {
+    "partido": "Benfica - Rangers",
+    "liga": "Liga de Europa",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN / Star +"
+  },
+  {
+    "partido": "Marsella - Villarreal",
+    "liga": "Liga de Europa",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN 2 / Star +"
+  },
+  {
+    "partido": "Rayo Zuliano - Deportivo La Guaira",
     "liga": "Copa Sudamericana",
     "hora": "5:00 p. m.",
-    "canal": "Directv Sports"
+    "canal": "Directv 610"
   },
   {
-    "partido": "Universitario de Vinto - Nacional Potosí",
+    "partido": "Racing - Cerro Largo",
     "liga": "Copa Sudamericana",
     "hora": "5:00 p. m.",
     "canal": "ESPN 2 / Star +"
   },
   {
-    "partido": "Bogotá - Once Caldas",
-    "liga": "Copa Betplay",
-    "hora": "6:00 p. m.",
-    "canal": "Win Sports +"
-  },
-  {
-    "partido": "Brasil Femenino - México",
-    "liga": "Copa de Oro",
+    "partido": "FC Cincinatti - Monterrey",
+    "liga": "Concacaf Champions",
     "hora": "7:00 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Sportivo Trinidense - Colo Colo",
-    "liga": "Copa Libertadores",
+    "partido": "Sportivo Ameliano - Olimpia",
+    "liga": "Copa Sudamericana",
     "hora": "7:30 p. m.",
-    "canal": "ESPN 2 / Star +"
+    "canal": "Directv 610"
   },
   {
-    "partido": "D Cuenca - Delfín SC",
+    "partido": "César Vallejo - Sport Huancayo",
     "liga": "Copa Sudamericana",
     "hora": "7:30 p. m.",
     "canal": "ESPN 2 / Star +"
   },
   {
-    "partido": "Guaraní - Sportivo Luqueño",
-    "liga": "Copa Sudamericana",
-    "hora": "7:30 p. m.",
-    "canal": "ESPN 5 / Star +"
-  },
-  {
-    "partido": "Montevideo Wanders - Danubio",
-    "liga": "Copa Sudamericana",
-    "hora": "7:30 p. m.",
-    "canal": "ESPN 3 / Star +"
-  },
-  {
-    "partido": "Botafogo - Red Bull Bragantino",
+    "partido": "Always Ready - Nacional (Uru)",
     "liga": "Copa Libertadores",
     "hora": "7:30 p. m.",
     "canal": "ESPN / Star +"
   },
   {
-    "partido": "Santa Fe - Boca Juniors de Cali",
-    "liga": "Copa Betplay",
-    "hora": "8:00 p. m.",
-    "canal": "Win Sports +"
-  },
-  {
-    "partido": "Houston Dynamo - Columbus Crew",
+    "partido": "Nashville SC - Inter Miami",
     "liga": "Concacaf Champions",
-    "hora": "8:00 p. m.",
+    "hora": "9:00 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Alianza FC - América",
+    "partido": "Tecnico Univ. - Universidad Católica (Ecu)",
     "liga": "Copa Sudamericana",
     "hora": "9:00 p. m.",
-    "canal": "Directv Sports"
-  },
-  {
-    "partido": "Canadá Femenino - Estados Unidos Femenino",
-    "liga": "Copa de Oro",
-    "hora": "10:15 p. m.",
-    "canal": "Star +"
+    "canal": "Directv 610"
   }
 ]
