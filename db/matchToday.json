@@ -1,50 +1,50 @@
 [
   {
-    "partido": "Saarbrucken - Borussia Mönchengladbach",
-    "liga": "Copa de Alemania",
+    "partido": "Bournemouth - Luton Town",
+    "liga": "Liga de Inglaterra",
     "hora": "2:30 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Arsenal - Porto",
+    "partido": "Atlético de Madrid - Inter",
+    "liga": "Champions League",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN / Star +"
+  },
+  {
+    "partido": "Borussia Dortmund - PSV",
     "liga": "Champions League",
     "hora": "3:00 p. m.",
     "canal": "ESPN 2 / Star +"
   },
   {
-    "partido": "Barcelona - Napoli",
-    "liga": "Champions League",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN / Star +"
+    "partido": "Paris Saint-Germain - Niza",
+    "liga": "Copa de Francia",
+    "hora": "3:10 p. m.",
+    "canal": "Directv Sports"
   },
   {
-    "partido": "Real Cundinamarca - Atlético FC",
-    "liga": "Torneo BetPlay",
-    "hora": "5:00 p. m.",
-    "canal": "Win Sports / Win Sports +"
-  },
-  {
-    "partido": "Columbus Crew - Houston Dynamo",
-    "liga": "Concacaf Champions",
-    "hora": "5:00 p. m.",
+    "partido": "River Plate - Estudiantes",
+    "liga": "Supercopa de Argentina",
+    "hora": "7:10 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Atlético Huila - Cúcuta",
-    "liga": "Torneo Betplay",
-    "hora": "7:00 p. m.",
-    "canal": "Win Sports +"
+    "partido": "Inter Miami - Nashville SC",
+    "liga": "Concacaf Champions",
+    "hora": "7:15 p. m.",
+    "canal": "Star +"
   },
   {
-    "partido": "Palestino - Nacional (Par)",
+    "partido": "Red Bull Bragantino - Botafogo",
+    "liga": "Copa Libertadores",
+    "hora": "7:30 p. m.",
+    "canal": "ESPN 5 / Star +"
+  },
+  {
+    "partido": "Colo Colo - Sportivo Trinidense",
     "liga": "Copa Libertadores",
     "hora": "7:30 p. m.",
     "canal": "ESPN / Star +"
-  },
-  {
-    "partido": "Tigres - Orlando City",
-    "liga": "Concacaf Champions",
-    "hora": "9:30 p. m.",
-    "canal": "Star +"
   }
 ]
