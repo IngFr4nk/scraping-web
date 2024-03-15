@@ -1,122 +1,38 @@
 [
   {
-    "partido": "Villarreal - Marsella",
-    "liga": "Liga de Europa",
-    "hora": "12:45 p. m.",
-    "canal": "ESPN / Star +"
-  },
-  {
-    "partido": "Viktoria Plzen - Servette FC",
-    "liga": "UEFA Europa Conference League",
-    "hora": "12:45 p. m.",
+    "partido": "Colonia - RB Leipzig",
+    "liga": "Bundesliga",
+    "hora": "2:30 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Fenerbache - Royale Union SG",
-    "liga": "UEFA Europa Conference League",
-    "hora": "12:45 p. m.",
-    "canal": "Star +"
+    "partido": "Empoli - Bolognia",
+    "liga": "Serie A",
+    "hora": "2:45 p. m.",
+    "canal": "ESPN 4 / Star+"
   },
   {
-    "partido": "Paok Salonika - Dynamo Zagreb",
-    "liga": "UEFA Europa Conference League",
-    "hora": "12:45 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Slavia Praga - Milán",
-    "liga": "Liga de Europa",
-    "hora": "12:45 p. m.",
-    "canal": "ESPN 4 / Star +"
-  },
-  {
-    "partido": "West Ham Utd. - Friburgo",
-    "liga": "Liga de Europa",
-    "hora": "12:45 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Rangers - Benfica",
-    "liga": "Liga de Europa",
-    "hora": "12:45 p. m.",
-    "canal": "ESPN / Star +"
-  },
-  {
-    "partido": "Fiorentina - Maccabi Haifa",
-    "liga": "UEFA Europa Conference League",
-    "hora": "12:45 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Brasil Femenino - Venezuela",
-    "liga": "Sudamericano Sub-17",
-    "hora": "2:20 p. m.",
-    "canal": "Directv 610"
-  },
-  {
-    "partido": "Liverpool - Sparta Praga",
-    "liga": "Liga de Europa",
+    "partido": "Toulouse - Lyon",
+    "liga": "Liga de Francia",
     "hora": "3:00 p. m.",
-    "canal": "ESPN / Star +"
+    "canal": "Star+"
   },
   {
-    "partido": "Aston Villa - Ajax",
-    "liga": "UEFA Europa Conference League",
-    "hora": "3:00 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Brighton & Hove - Roma",
-    "liga": "Liga de Europa",
+    "partido": "Real Sociedad - Cádiz",
+    "liga": "Liga de Espana",
     "hora": "3:00 p. m.",
     "canal": "ESPN 3 / Star +"
   },
   {
-    "partido": "Maccabi Tel Aviv - Olimpiakos",
-    "liga": "UEFA Europa Conference League",
-    "hora": "3:00 p. m.",
-    "canal": "Star +"
+    "partido": "Alianza FC - Deportivo Pasto",
+    "liga": "Liga BetPlay",
+    "hora": "6:00 p. m.",
+    "canal": "Win Sports / Win Sports +"
   },
   {
-    "partido": "Lille - Sturm Graz",
-    "liga": "UEFA Europa Conference League",
-    "hora": "3:00 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Bayer Leverkusen - Qarabag",
-    "liga": "Liga de Europa",
-    "hora": "3:00 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Atalanta - Sporting de Lisboa",
-    "liga": "Liga de Europa",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN 4 / Star +"
-  },
-  {
-    "partido": "Brujas - Molde",
-    "liga": "UEFA Europa Conference League",
-    "hora": "3:00 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Perú - Argentina Femenino",
-    "liga": "Sudamericano Sub-17",
-    "hora": "4:50 p. m.",
-    "canal": "Directv 610"
-  },
-  {
-    "partido": "Nacional (Uru) - Always Ready",
-    "liga": "Copa Libertadores",
-    "hora": "7:30 p. m.",
-    "canal": "ESPN / Star +"
-  },
-  {
-    "partido": "Monterrey - FC Cincinatti",
-    "liga": "Concacaf Champions",
-    "hora": "9:15 p. m.",
-    "canal": "Star +"
+    "partido": "Junior - Jaguares de Córdoba",
+    "liga": "Liga BetPlay",
+    "hora": "8:10 p. m.",
+    "canal": "Win Sports +"
   }
 ]
