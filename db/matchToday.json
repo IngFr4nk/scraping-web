@@ -1,37 +1,49 @@
 [
   {
-    "partido": "Caracas F.C - Angostura",
-    "liga": "Liga de Venezuela",
-    "hora": "4:00 p. m.",
-    "canal": "ESPN 7 / Star +"
+    "partido": "Georgia - Luxemburgo",
+    "liga": "Eliminatoria Eurocopa",
+    "hora": "12:00 p. m.",
+    "canal": "ESPN 2 / Star +"
   },
   {
-    "partido": "Orsomarso - Envigado F.C",
+    "partido": "Polonia - Estonia",
+    "liga": "Eliminatoria Eurocopa",
+    "hora": "2:45 p. m.",
+    "canal": "ESPN 2 / Star +"
+  },
+  {
+    "partido": "Gales - Finlandia",
+    "liga": "Eliminatoria Eurocopa",
+    "hora": "2:45 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Grecia - Kazajistán",
+    "liga": "Eliminatoria Eurocopa",
+    "hora": "2:45 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Israel - Islandia",
+    "liga": "Eliminatoria Eurocopa",
+    "hora": "2:45 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Portugal - Suecia",
+    "liga": "Partido amistoso",
+    "hora": "2:45 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Bosnia - Ucrania",
+    "liga": "Eliminatoria Eurocopa",
+    "hora": "2:45 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Once Caldas - Bogotá",
     "liga": "Copa BetPlay",
-    "hora": "4:00 p. m.",
-    "canal": "Win Sports / Win Sports +"
-  },
-  {
-    "partido": "Zamora - Puerto Cabello",
-    "liga": "Liga de Venezuela",
-    "hora": "6:00 p. m.",
-    "canal": "ESPN 7 / Star +"
-  },
-  {
-    "partido": "Real Cundinamarca - Pereira",
-    "liga": "Copa BetPlay",
-    "hora": "6:00 p. m.",
-    "canal": "Win Sports +"
-  },
-  {
-    "partido": "Colombia Femenino - Perú",
-    "liga": "Sudamericano Sub-17",
-    "hora": "6:30 p. m.",
-    "canal": "Caracol HD2 / RCN HD2 / Golcaracol.com"
-  },
-  {
-    "partido": "Boca Juniors de Cali - Santa Fe",
-    "liga": "Copa Betplay",
     "hora": "8:00 p. m.",
     "canal": "Win Sports +"
   }
