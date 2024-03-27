@@ -1,92 +1,20 @@
 [
   {
-    "partido": "Lituania - Gibraltar",
-    "liga": "Liga Europea de Naciones",
-    "hora": "11:00 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Georgia - Grecia",
-    "liga": "Eliminatoria Eurocopa",
-    "hora": "12:00 p. m.",
-    "canal": "ESPN 2 / Star +"
-  },
-  {
-    "partido": "Noruega - Eslovaquia",
-    "liga": "Partido amistoso",
-    "hora": "1:00 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "República Checa - Armenia",
-    "liga": "Partido amistoso",
-    "hora": "2:00 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Dinamarca - Islas Faroe",
-    "liga": "Partido amistoso",
-    "hora": "2:15 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Colombia - Rumania",
-    "liga": "Partido amistoso",
-    "hora": "2:30 p. m.",
-    "canal": "Caracol TV / RCN"
-  },
-  {
-    "partido": "Ucrania - Islandia",
-    "liga": "Eliminatoria Eurocopa",
-    "hora": "2:45 p. m.",
-    "canal": "ESPN 3 / Star +"
-  },
-  {
-    "partido": "Inglaterra - Bélgica",
-    "liga": "Partido amistoso",
-    "hora": "2:45 p. m.",
-    "canal": "ESPN / Star +"
-  },
-  {
-    "partido": "Alemania - Países Bajos",
-    "liga": "Partido amistoso",
-    "hora": "2:45 p. m.",
-    "canal": "ESPN 2 / Star +"
-  },
-  {
-    "partido": "Gales - Polonia",
-    "liga": "Eliminatoria Eurocopa",
-    "hora": "2:45 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Francia - Chile",
-    "liga": "Partido amistoso",
-    "hora": "3:00 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "España - Brasil",
-    "liga": "Partido amistoso",
-    "hora": "3:30 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Real Cartagena - Barranquilla",
-    "liga": "Torneo Betplay",
+    "partido": "Bucaramanga - Águilas Doradas",
+    "liga": "Liga BetPlay",
     "hora": "4:00 p. m.",
     "canal": "Win Sports +"
   },
   {
-    "partido": "Bogotá - Tigres",
-    "liga": "Torneo BetPlay",
-    "hora": "8:00 p. m.",
-    "canal": "Win Sports / Win Sports+"
+    "partido": "Atlético Nacional - Jaguares de Córdoba",
+    "liga": "Liga BetPlay",
+    "hora": "6:10 p. m.",
+    "canal": "Win Sports +"
   },
   {
-    "partido": "El Salvador - Honduras",
-    "liga": "Partido amistoso",
-    "hora": "8:00 p. m.",
-    "canal": "Star +"
+    "partido": "Millonarios - Santa Fe",
+    "liga": "Liga BetPlay",
+    "hora": "8:20 p. m.",
+    "canal": "Win Sports +"
   }
 ]
