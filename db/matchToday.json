@@ -1,9 +1,27 @@
 [
   {
+    "partido": "Lille - Lens",
+    "liga": "Liga de Francia",
+    "hora": "3:00 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Cádiz - Granada CF",
+    "liga": "Liga de Espana",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN 3 / Star+"
+  },
+  {
     "partido": "Alianza FC - Deportes Tolima",
     "liga": "Liga BetPlay",
     "hora": "5:00 p. m.",
     "canal": "Win Sports / Win Sports+"
+  },
+  {
+    "partido": "Huracán - River Plate",
+    "liga": "Liga de Argentina",
+    "hora": "6:30 p. m.",
+    "canal": "Star +"
   },
   {
     "partido": "Junior - Equidad",
