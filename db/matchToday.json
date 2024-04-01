@@ -1,104 +1,38 @@
 [
   {
-    "partido": "Lorient - Brest",
-    "liga": "Liga de Francia",
-    "hora": "6:00 a. m.",
-    "canal": "Star+"
+    "partido": "Bolognia - Salernitana",
+    "liga": "Serie A",
+    "hora": "5:30 a. m.",
+    "canal": "Star +"
   },
   {
-    "partido": "Celta de Vigo - Rayo Vallecano",
-    "liga": "Liga de Espana",
-    "hora": "7:00 a. m.",
-    "canal": "ESPN 2 / Star+"
-  },
-  {
-    "partido": "Liverpool - Brighton & Hove",
-    "liga": "Liga de Inglaterra",
+    "partido": "Cagliari - Hellas Verona",
+    "liga": "Serie A",
     "hora": "8:00 a. m.",
-    "canal": "ESPN / Star+"
+    "canal": "ESPN 2 / Star +"
   },
   {
-    "partido": "FC Augsburgo - Colonia",
-    "liga": "Bundesliga",
-    "hora": "8:30 a. m.",
-    "canal": "ESPN 5 / Star+"
+    "partido": "Sassuolo - Udinese",
+    "liga": "Serie A",
+    "hora": "8:00 a. m.",
+    "canal": "Star +"
   },
   {
-    "partido": "Girona - Real Betis",
-    "liga": "Liga de Espana",
-    "hora": "9:15 a. m.",
-    "canal": "Directv 610"
+    "partido": "Lecce - Roma",
+    "liga": "Serie A",
+    "hora": "11:00 a. m.",
+    "canal": "ESPN 2 / Star +"
   },
   {
-    "partido": "Strasbourg - Rennes",
-    "liga": "Liga de Francia",
-    "hora": "10:00 a. m.",
-    "canal": "ESPN 2 / Star+"
-  },
-  {
-    "partido": "VfB Stuttgart - Heidenhem",
-    "liga": "Bundesliga",
-    "hora": "10:30 a. m.",
-    "canal": "Star+"
-  },
-  {
-    "partido": "Manchester City - Arsenal",
-    "liga": "Liga de Inglaterra",
-    "hora": "10:30 a. m.",
-    "canal": "ESPN / Star+"
-  },
-  {
-    "partido": "Alavés - Real Sociedad",
-    "liga": "Liga de Espana",
-    "hora": "11:30 a. m.",
-    "canal": "ESPN 3 / Star+"
-  },
-  {
-    "partido": "Bochum 1848 - Darmstadt 98",
-    "liga": "Bundesliga",
-    "hora": "12:30 p. m.",
-    "canal": "Star+"
-  },
-  {
-    "partido": "Marsella - Paris Saint-Germain",
-    "liga": "Liga de Francia",
+    "partido": "Inter - Empoli",
+    "liga": "Serie A",
     "hora": "1:45 p. m.",
-    "canal": "ESPN / Star+"
+    "canal": "Star +"
   },
   {
-    "partido": "Real Madrid - Athletic Club",
+    "partido": "Villarreal - Atlético de Madrid",
     "liga": "Liga de Espana",
     "hora": "2:00 p. m.",
-    "canal": "Directv 610"
-  },
-  {
-    "partido": "Santa Fe - Patriotas F.C",
-    "liga": "Liga BetPlay",
-    "hora": "2:00 p. m.",
-    "canal": "Win Sports+"
-  },
-  {
-    "partido": "Colombia Femenino - Ecuador",
-    "liga": "Sudamericano Sub-17",
-    "hora": "3:00 p. m.",
-    "canal": "Caracol HD2 / RCN HD2"
-  },
-  {
-    "partido": "Pereira - Bucaramanga",
-    "liga": "Liga BetPlay",
-    "hora": "4:10 p. m.",
-    "canal": "Win Sports / Win Sports+"
-  },
-  {
-    "partido": "Independiente Medellín - América",
-    "liga": "Liga BetPlay",
-    "hora": "6:20 p. m.",
-    "canal": "Win Sports+"
-  },
-  {
-    "partido": "Deportivo Cali - Águilas Doradas",
-    "liga": "Liga BetPlay",
-    "hora": "8:30 p. m.",
-    "canal": "Win Sports / Win Sports+"
+    "canal": "ESPN 2 / Star +"
   }
 ]
