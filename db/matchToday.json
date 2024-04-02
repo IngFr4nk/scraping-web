@@ -1,38 +1,110 @@
 [
   {
-    "partido": "Bolognia - Salernitana",
-    "liga": "Serie A",
-    "hora": "5:30 a. m.",
-    "canal": "Star +"
+    "partido": "Nottingham Forest - Fulham",
+    "liga": "Liga de Inglaterra",
+    "hora": "1:30 p. m.",
+    "canal": "Star+"
   },
   {
-    "partido": "Cagliari - Hellas Verona",
-    "liga": "Serie A",
-    "hora": "8:00 a. m.",
-    "canal": "ESPN 2 / Star +"
+    "partido": "Newcastle - Everton",
+    "liga": "Liga de Inglaterra",
+    "hora": "1:30 p. m.",
+    "canal": "ESPN 2 / Star+"
   },
   {
-    "partido": "Sassuolo - Udinese",
-    "liga": "Serie A",
-    "hora": "8:00 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Lecce - Roma",
-    "liga": "Serie A",
-    "hora": "11:00 a. m.",
-    "canal": "ESPN 2 / Star +"
-  },
-  {
-    "partido": "Inter - Empoli",
-    "liga": "Serie A",
+    "partido": "Burnley - Wolverhampton",
+    "liga": "Liga de Inglaterra",
     "hora": "1:45 p. m.",
-    "canal": "Star +"
+    "canal": "Star+"
   },
   {
-    "partido": "Villarreal - Atlético de Madrid",
-    "liga": "Liga de Espana",
+    "partido": "Lyon - Valenciennes",
+    "liga": "Copa de Francia",
+    "hora": "1:45 p. m.",
+    "canal": "Directv 612"
+  },
+  {
+    "partido": "Bournemouth - Crystal Palace",
+    "liga": "Liga de Inglaterra",
+    "hora": "1:45 p. m.",
+    "canal": "Star+"
+  },
+  {
+    "partido": "Juventus - Lazio",
+    "liga": "Copa de Italia",
     "hora": "2:00 p. m.",
-    "canal": "ESPN 2 / Star +"
+    "canal": "ESPN / Star+"
+  },
+  {
+    "partido": "West Ham Utd. - Tottenham Hotspur",
+    "liga": "Liga de Inglaterra",
+    "hora": "2:15 p. m.",
+    "canal": "ESPN / Star+"
+  },
+  {
+    "partido": "Benfica - Sporting de Lisboa",
+    "liga": "Copa de Portugal",
+    "hora": "2:45 p. m.",
+    "canal": "Star+"
+  },
+  {
+    "partido": "Belgrano - Internacional",
+    "liga": "Copa Sudamericana",
+    "hora": "5:00 p. m.",
+    "canal": "Directv 612"
+  },
+  {
+    "partido": "Nacional (Par) - Argentinos Juniors",
+    "liga": "Copa Sudamericana",
+    "hora": "5:00 p. m.",
+    "canal": "Directv 610"
+  },
+  {
+    "partido": "Cobresal - Barcelona (ECU)",
+    "liga": "Copa Libertadores",
+    "hora": "5:00 p. m.",
+    "canal": "ESPN 5 / Star+"
+  },
+  {
+    "partido": "Millonarios - Flamengo",
+    "liga": "Copa Libertadores",
+    "hora": "5:00 p. m.",
+    "canal": "ESPN / Star+"
+  },
+  {
+    "partido": "The Strongest - Gremio",
+    "liga": "Copa Libertadores",
+    "hora": "7:00 p. m.",
+    "canal": "ESPN 2 / Star+"
+  },
+  {
+    "partido": "Racing - Corinthians",
+    "liga": "Copa Sudamericana",
+    "hora": "7:30 p. m.",
+    "canal": "Directv 610"
+  },
+  {
+    "partido": "Sportivo Ameliano - Atlético Paranaense",
+    "liga": "Copa Sudamericana",
+    "hora": "7:30 p. m.",
+    "canal": "ESPN 3 / Star+"
+  },
+  {
+    "partido": "Deportivo Táchira - River Plate",
+    "liga": "Copa Libertadores",
+    "hora": "7:30 p. m.",
+    "canal": "ESPN / Star+"
+  },
+  {
+    "partido": "Universitario - Liga de Quito",
+    "liga": "Copa Libertadores",
+    "hora": "9:00 p. m.",
+    "canal": "ESPN 2 / Star+"
+  },
+  {
+    "partido": "César Vallejo - Defensa y Justicia",
+    "liga": "Copa Sudamericana",
+    "hora": "9:00 p. m.",
+    "canal": "ESPN 5 / Star+"
   }
 ]
