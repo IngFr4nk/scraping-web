@@ -1,86 +1,38 @@
 [
   {
-    "partido": "Granada CF - Valencia CF",
-    "liga": "Liga de Espana",
-    "hora": "1:00 p. m.",
+    "partido": "Eintracht Frankfurt - Werder Bremen",
+    "liga": "Bundesliga",
+    "hora": "1:30 p. m.",
     "canal": "ESPN 2 / Star+"
   },
   {
-    "partido": "Liverpool - Sheffield United",
-    "liga": "Liga de Inglaterra",
-    "hora": "1:30 p. m.",
+    "partido": "Salernitana - Sassuolo",
+    "liga": "Serie A",
+    "hora": "1:45 p. m.",
     "canal": "Star+"
   },
   {
-    "partido": "Chelsea - Manchester United",
-    "liga": "Liga de Inglaterra",
-    "hora": "2:15 p. m.",
-    "canal": "ESPN / Star+"
+    "partido": "Lille - Marsella",
+    "liga": "Liga de Francia",
+    "hora": "2:00 p. m.",
+    "canal": "Star+"
   },
   {
-    "partido": "Rosario Central - Peñarol",
-    "liga": "Copa Libertadores",
-    "hora": "5:00 p. m.",
-    "canal": "ESPN / Star+"
-  },
-  {
-    "partido": "Caracas F.C - Atlético Mineiro",
-    "liga": "Copa Libertadores",
-    "hora": "5:00 p. m.",
-    "canal": "ESPN 5 / Star+"
-  },
-  {
-    "partido": "Deportivo Garcilaso - Metropolitanos",
-    "liga": "Copa Sudamericana",
-    "hora": "5:00 p. m.",
-    "canal": "ESPN 2 / Star+"
-  },
-  {
-    "partido": "Real Cundinamarca - Unión Magdalena",
-    "liga": "Torneo BetPlay",
-    "hora": "6:00 p. m.",
+    "partido": "Envigado F.C - Pereira",
+    "liga": "Liga BetPlay",
+    "hora": "4:00 p. m.",
     "canal": "Win Sports+"
   },
   {
-    "partido": "Liverpool Uruguay - Independiente del Valle",
-    "liga": "Copa Libertadores",
-    "hora": "7:00 p. m.",
-    "canal": "ESPN 2 / Star+"
+    "partido": "Atlético Nacional - Fortaleza F.C",
+    "liga": "Liga BetPlay",
+    "hora": "6:10 p. m.",
+    "canal": "Win Sports+"
   },
   {
-    "partido": "Universidad Católica (Ecu) - Cruzeiro",
-    "liga": "Copa Sudamericana",
-    "hora": "7:00 p. m.",
-    "canal": "Directv 613"
-  },
-  {
-    "partido": "Sportivo Luqueño - Racing Club",
-    "liga": "Copa Sudamericana",
-    "hora": "7:00 p. m.",
-    "canal": "Directv 610"
-  },
-  {
-    "partido": "Talleres de Córdoba - Sao Paulo",
-    "liga": "Copa Libertadores",
-    "hora": "7:00 p. m.",
-    "canal": "ESPN 7 / Star+"
-  },
-  {
-    "partido": "Palestino - Bolívar",
-    "liga": "Copa Libertadores",
-    "hora": "7:00 p. m.",
-    "canal": "ESPN / Star+"
-  },
-  {
-    "partido": "Real Topomayo - Delfín SC",
-    "liga": "Copa Sudamericana",
-    "hora": "9:00 p. m.",
-    "canal": "ESPN 3 / Star+"
-  },
-  {
-    "partido": "Always Ready - Independiente Medellín",
-    "liga": "Copa Sudamericana",
-    "hora": "9:00 p. m.",
-    "canal": "ESPN / Star+"
+    "partido": "Once Caldas - Deportes Tolima",
+    "liga": "Liga BetPlay",
+    "hora": "8:20 p. m.",
+    "canal": "Win Sports+"
   }
 ]
