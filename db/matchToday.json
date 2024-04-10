@@ -1,92 +1,104 @@
 [
   {
-    "partido": "Real Madrid - Manchester City",
-    "liga": "Champions League",
-    "hora": "2:00 p. m.",
-    "canal": "ESPN / Star +"
-  },
-  {
-    "partido": "Arsenal - Bayern Munich",
+    "partido": "Atlético de Madrid - Borussia Dortmund",
     "liga": "Champions League",
     "hora": "2:00 p. m.",
     "canal": "ESPN 2 / Star +"
   },
   {
-    "partido": "Corinthians - Nacional (Par)",
-    "liga": "Copa Sudamericana",
-    "hora": "5:00 p. m.",
-    "canal": "ESPN 3 / Star +"
+    "partido": "Paris Saint-Germain - Barcelona",
+    "liga": "Champions League",
+    "hora": "2:00 p. m.",
+    "canal": "ESPN / Star +"
   },
   {
-    "partido": "Argentinos Juniors - Racing",
+    "partido": "Atlético Mineiro - Rosario Central",
+    "liga": "Copa Libertadores",
+    "hora": "5:00 p. m.",
+    "canal": "ESPN 7 / Star +"
+  },
+  {
+    "partido": "Defensa y Justicia - Always Ready",
+    "liga": "Copa Sudamericana",
+    "hora": "5:00 p. m.",
+    "canal": "DSports"
+  },
+  {
+    "partido": "Fortaleza - Nacional Potosí",
     "liga": "Copa Sudamericana",
     "hora": "5:00 p. m.",
     "canal": "ESPN 2 / Star +"
   },
   {
-    "partido": "Estudiantes - The Strongest",
-    "liga": "Copa Libertadores",
-    "hora": "5:00 p. m.",
-    "canal": "ESPN / Star +"
-  },
-  {
-    "partido": "Gremio - Huachipato",
+    "partido": "Independiente del Valle - San Lorenzo",
     "liga": "Copa Libertadores",
     "hora": "5:00 p. m.",
     "canal": "ESPN 5 / Star +"
   },
   {
-    "partido": "Fortaleza F.C - Once Caldas",
-    "liga": "Copa Betplay",
-    "hora": "6:00 p. m.",
-    "canal": "Win Sports +"
+    "partido": "Cerro Porteño - Alianza Lima",
+    "liga": "Copa Libertadores",
+    "hora": "5:00 p. m.",
+    "canal": "ESPN / Star +"
   },
   {
-    "partido": "Colombia Femenino - Guatemala",
-    "liga": "Amistoso femenino",
-    "hora": "6:30 p. m.",
-    "canal": "Caracol HD2 / Golcaracol.com"
+    "partido": "Unión La Calera - Universidad Católica (Ecu)",
+    "liga": "Copa Sudamericana",
+    "hora": "7:00 p. m.",
+    "canal": "ESPN 2 / Star +"
   },
   {
-    "partido": "Libertad - Deportivo Táchira",
+    "partido": "Internacional - Tomayapo",
+    "liga": "Copa Sudamericana",
+    "hora": "7:00 p. m.",
+    "canal": "DSports"
+  },
+  {
+    "partido": "Peñarol - Caracas F.C",
     "liga": "Copa Libertadores",
     "hora": "7:00 p. m.",
     "canal": "ESPN / Star +"
   },
   {
-    "partido": "Fluminense - Colo Colo",
+    "partido": "Racing Club - Red Bull Bragantino",
+    "liga": "Copa Sudamericana",
+    "hora": "7:30 p. m.",
+    "canal": "DSports"
+  },
+  {
+    "partido": "Flamengo - Palestino",
     "liga": "Copa Libertadores",
-    "hora": "7:00 p. m.",
+    "hora": "7:30 p. m.",
     "canal": "ESPN 5 / Star +"
   },
   {
-    "partido": "Boca Juniors - Sportivo Trinidense",
-    "liga": "Copa Sudamericana",
-    "hora": "7:00 p. m.",
-    "canal": "ESPN / Star +"
-  },
-  {
-    "partido": "Danubio - Sportivo Ameliano",
-    "liga": "Copa Sudamericana",
+    "partido": "Sao Paulo - Cobresal",
+    "liga": "Copa Libertadores",
     "hora": "7:30 p. m.",
-    "canal": "Directv 610"
+    "canal": "ESPN 7 / Star +"
   },
   {
-    "partido": "Atlético Paranaense - Rayo Zuliano",
-    "liga": "Copa Sudamericana",
-    "hora": "7:30 p. m.",
-    "canal": "ESPN 3 / Star +"
-  },
-  {
-    "partido": "Pereira - Leones",
+    "partido": "Bucaramanga - Patriotas F.C",
     "liga": "Copa Betplay",
-    "hora": "8:00 p. m.",
-    "canal": "Win Sports +"
+    "hora": "7:40 p. m.",
+    "canal": "Win Sports / Win Sports +"
   },
   {
-    "partido": "Junior - Universitario",
+    "partido": "Barcelona (ECU) - Talleres de Córdoba",
     "liga": "Copa Libertadores",
     "hora": "9:00 p. m.",
     "canal": "ESPN / Star +"
+  },
+  {
+    "partido": "Independiente Medellín - César Vallejo",
+    "liga": "Copa Sudamericana",
+    "hora": "9:00 p. m.",
+    "canal": "DSports"
+  },
+  {
+    "partido": "Monterrey - Inter Miami",
+    "liga": "Concacaf Champions",
+    "hora": "9:30 p. m.",
+    "canal": "Star +"
   }
 ]
