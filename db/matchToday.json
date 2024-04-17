@@ -1,54 +1,42 @@
 [
   {
-    "partido": "Borussia Dortmund - Atlético de Madrid",
-    "liga": "Champions League",
-    "hora": "2:00 p. m.",
-    "canal": "ESPN 2 / Star +"
-  },
-  {
-    "partido": "Barcelona - Paris Saint-Germain",
+    "partido": "Manchester City - Real Madrid",
     "liga": "Champions League",
     "hora": "2:00 p. m.",
     "canal": "ESPN / Star +"
   },
   {
-    "partido": "Envigado F.C - Deportes Tolima",
-    "liga": "Liga BetPlay",
-    "hora": "4:00 p. m.",
-    "canal": "Win Sports +"
+    "partido": "Bayern Munich - Arsenal",
+    "liga": "Champions League",
+    "hora": "2:00 p. m.",
+    "canal": "ESPN 2 / Star +"
   },
   {
-    "partido": "Chile - Bolivia",
+    "partido": "Uruguay - Perú",
     "liga": "Sudamericano sub 20",
     "hora": "4:00 p. m.",
     "canal": "Directv 610"
   },
   {
-    "partido": "Boca Juniors - Godoy Cruz",
-    "liga": "Superliga Argentina",
-    "hora": "5:30 p. m.",
-    "canal": "Star +"
+    "partido": "Águilas Doradas - Alianza FC",
+    "liga": "Liga BetPlay",
+    "hora": "4:00 p. m.",
+    "canal": "Win Sports +"
   },
   {
-    "partido": "Belgrano - Racing Club",
-    "liga": "Superliga Argentina",
-    "hora": "5:30 p. m.",
-    "canal": "ESPN 2 / Star +"
-  },
-  {
-    "partido": "Jaguares de Córdoba - Deportivo Cali",
+    "partido": "Millonarios - Junior",
     "liga": "Liga BetPlay",
     "hora": "6:10 p. m.",
     "canal": "Win Sports +"
   },
   {
-    "partido": "Colombia Femenino - Venezuela",
+    "partido": "Argentina Femenino - Ecuador",
     "liga": "Sudamericano sub 20",
     "hora": "6:30 p. m.",
-    "canal": "Caracol HD2 / RCN HD2 / DSports"
+    "canal": "Directv 610"
   },
   {
-    "partido": "Once Caldas - Santa Fe",
+    "partido": "Atlético Nacional - Pereira",
     "liga": "Liga BetPlay",
     "hora": "8:20 p. m.",
     "canal": "Win Sports +"
