@@ -1,42 +1,72 @@
 [
   {
-    "partido": "Manchester City - Real Madrid",
-    "liga": "Champions League",
-    "hora": "2:00 p. m.",
-    "canal": "ESPN / Star +"
+    "partido": "Fiorentina - Viktoria Plzen",
+    "liga": "Conference League",
+    "hora": "11:45 a. m.",
+    "canal": "Star +"
   },
   {
-    "partido": "Bayern Munich - Arsenal",
-    "liga": "Champions League",
-    "hora": "2:00 p. m.",
+    "partido": "Lille - Aston Villa",
+    "liga": "Conference League",
+    "hora": "11:45 a. m.",
     "canal": "ESPN 2 / Star +"
   },
   {
-    "partido": "Uruguay - Perú",
-    "liga": "Sudamericano sub 20",
-    "hora": "4:00 p. m.",
-    "canal": "Directv 610"
+    "partido": "West Ham Utd. - Bayer Leverkusen",
+    "liga": "Liga de Europa",
+    "hora": "2:00 p. m.",
+    "canal": "Star +"
   },
   {
-    "partido": "Águilas Doradas - Alianza FC",
+    "partido": "Roma - Milán",
+    "liga": "Liga de Europa",
+    "hora": "2:00 p. m.",
+    "canal": "ESPN 2 y Star +"
+  },
+  {
+    "partido": "Atalanta - Liverpool",
+    "liga": "Liga de Europa",
+    "hora": "2:00 p. m.",
+    "canal": "ESPN y Star +"
+  },
+  {
+    "partido": "Marsella - Benfica",
+    "liga": "Liga de Europa",
+    "hora": "2:00 p. m.",
+    "canal": "ESPN 4 / Star +"
+  },
+  {
+    "partido": "Fenerbache - Olimpiakos",
+    "liga": "Conference League",
+    "hora": "2:00 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Paok Salonika - Brujas",
+    "liga": "Conference League",
+    "hora": "2:00 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Equidad - Fortaleza F.C",
     "liga": "Liga BetPlay",
     "hora": "4:00 p. m.",
-    "canal": "Win Sports +"
+    "canal": "Win Sports / Win Sports +"
   },
   {
-    "partido": "Millonarios - Junior",
+    "partido": "Colombia Femenino - Bolivia",
+    "liga": "Suramericano sub 20 femenino",
+    "hora": "4:00 p. m.",
+    "canal": "Caracol HD2 / RCN HD2 / DSports"
+  },
+  {
+    "partido": "Patriotas F.C - Independiente Medellín",
     "liga": "Liga BetPlay",
     "hora": "6:10 p. m.",
     "canal": "Win Sports +"
   },
   {
-    "partido": "Argentina Femenino - Ecuador",
-    "liga": "Sudamericano sub 20",
-    "hora": "6:30 p. m.",
-    "canal": "Directv 610"
-  },
-  {
-    "partido": "Atlético Nacional - Pereira",
+    "partido": "América - Deportivo Pasto",
     "liga": "Liga BetPlay",
     "hora": "8:20 p. m.",
     "canal": "Win Sports +"
