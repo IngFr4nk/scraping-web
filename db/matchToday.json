@@ -1,50 +1,86 @@
 [
   {
-    "partido": "Génoa - Lazio",
-    "liga": "Serie A",
+    "partido": "Luton Town - Brentford",
+    "liga": "Liga de Inglaterra",
+    "hora": "9:00 a. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Sheffield United - Burnley",
+    "liga": "Liga de Inglaterra",
+    "hora": "9:00 a. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Rayo Vallecano - Osasuna",
+    "liga": "Liga de Espana",
+    "hora": "9:15 a. m.",
+    "canal": "Directv 610"
+  },
+  {
+    "partido": "Manchester City - Chelsea",
+    "liga": "FA Cup",
+    "hora": "11:15 a. m.",
+    "canal": "ESPN / Star +"
+  },
+  {
+    "partido": "Valencia CF - Real Betis",
+    "liga": "Liga BetPlay",
     "hora": "11:30 a. m.",
-    "canal": "ESPN 2 y Star +"
+    "canal": "Star +"
   },
   {
-    "partido": "Eintracht Frankfurt - FC Augsburgo",
+    "partido": "Union Berlin - Bayern Munich",
     "liga": "Bundesliga",
+    "hora": "11:30 a. m.",
+    "canal": "ESPN 3 / Star +"
+  },
+  {
+    "partido": "Wolverhampton - Arsenal",
+    "liga": "Liga de Inglaterra",
     "hora": "1:30 p. m.",
-    "canal": "Star +"
+    "canal": "ESPN / Star +"
   },
   {
-    "partido": "Cagliari - Juventus",
-    "liga": "Serie A",
-    "hora": "1:45 p. m.",
-    "canal": "ESPN 2 y Star +"
-  },
-  {
-    "partido": "Niza - Lorient",
-    "liga": "Liga de Francia",
-    "hora": "2:00 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Athletic Club - Granada CF",
+    "partido": "Girona - Cádiz",
     "liga": "Liga de Espana",
     "hora": "2:00 p. m.",
-    "canal": "ESPN 4 y Star +"
+    "canal": "Directv 610"
   },
   {
-    "partido": "Tigres - Cúcuta",
-    "liga": "Torneo Betplay",
+    "partido": "Pereira - Millonarios",
+    "liga": "Liga BetPlay",
     "hora": "4:00 p. m.",
     "canal": "Win Sports +"
   },
   {
-    "partido": "Llaneros - Orsomarso",
-    "liga": "Torneo Betplay",
-    "hora": "6:00 p. m.",
+    "partido": "Venezuela - Chile",
+    "liga": "Sudamericano sub 20",
+    "hora": "4:00 p. m.",
+    "canal": "Directv 610"
+  },
+  {
+    "partido": "Junior - Once Caldas",
+    "liga": "Liga BetPlay",
+    "hora": "6:10 p. m.",
     "canal": "Win Sports +"
   },
   {
-    "partido": "Bucaramanga - Boyacá Chicó",
+    "partido": "Inter Miami - Nashville SC",
+    "liga": "Major League Soccer",
+    "hora": "6:30 p. m.",
+    "canal": "Apple TV"
+  },
+  {
+    "partido": "Brasil Femenino - Colombia Femenino",
+    "liga": "Sudamericano sub 20",
+    "hora": "6:30 p. m.",
+    "canal": "Directv 610"
+  },
+  {
+    "partido": "Alianza FC - Jaguares de Córdoba",
     "liga": "Liga BetPlay",
-    "hora": "8:10 p. m.",
+    "hora": "8:30 p. m.",
     "canal": "Win Sports +"
   }
 ]
