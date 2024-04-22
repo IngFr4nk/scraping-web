@@ -1,104 +1,38 @@
 [
   {
-    "partido": "Getafe - Real Sociedad",
-    "liga": "Liga de Espana",
-    "hora": "7:00 a. m.",
-    "canal": "ESPN 2 / Star +"
-  },
-  {
-    "partido": "Everton - Nottingham Forest",
-    "liga": "Liga de Inglaterra",
-    "hora": "7:30 a. m.",
-    "canal": "ESPN / Star +"
-  },
-  {
-    "partido": "Torino - Frosinone",
+    "partido": "Roma - Bolognia",
     "liga": "Serie A",
-    "hora": "8:00 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Aston Villa - Bournemouth",
-    "liga": "Liga de Inglaterra",
-    "hora": "9:00 a. m.",
+    "hora": "11:30 a. m.",
     "canal": "ESPN 2 / Star +"
   },
   {
-    "partido": "Crystal Palace - West Ham Utd.",
-    "liga": "Liga de Inglaterra",
-    "hora": "9:00 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Coventry City - Manchester United",
-    "liga": "FA Cup",
-    "hora": "9:30 a. m.",
-    "canal": "ESPN / Star +"
-  },
-  {
-    "partido": "Fulham - Liverpool",
-    "liga": "Liga de Inglaterra",
-    "hora": "10:30 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Borussia Dortmund - Bayer Leverkusen",
-    "liga": "Bundesliga",
-    "hora": "10:30 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Alavés - Atlético de Madrid",
-    "liga": "Liga de Espana",
-    "hora": "11:30 a. m.",
-    "canal": "ESPN 4 / Star +"
-  },
-  {
-    "partido": "River Plate - Boca Juniors",
-    "liga": "Superliga Argentina",
-    "hora": "1:30 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Monza - Atalanta",
+    "partido": "Milán - Inter",
     "liga": "Serie A",
     "hora": "1:45 p. m.",
-    "canal": "Star +"
+    "canal": "ESPN / Star +"
   },
   {
-    "partido": "Real Madrid - Barcelona",
+    "partido": "Sevilla - Mallorca",
     "liga": "Liga de Espana",
     "hora": "2:00 p. m.",
     "canal": "Directv 610"
   },
   {
-    "partido": "Paris Saint-Germain - Lyon",
-    "liga": "Liga de Francia",
-    "hora": "2:00 p. m.",
-    "canal": "ESPN 4 / Star +"
-  },
-  {
-    "partido": "Santa Fe - América",
+    "partido": "Fortaleza F.C - Bucaramanga",
     "liga": "Liga BetPlay",
-    "hora": "2:00 p. m.",
+    "hora": "4:00 p. m.",
     "canal": "Win Sports +"
   },
   {
-    "partido": "Deportivo Cali - Envigado F.C",
+    "partido": "Boyacá Chicó - Águilas Doradas",
     "liga": "Liga BetPlay",
-    "hora": "4:10 p. m.",
+    "hora": "6:10 p. m.",
     "canal": "Win Sports +"
   },
   {
-    "partido": "Independiente Medellín - Atlético Nacional",
+    "partido": "Deportivo Pasto - Equidad",
     "liga": "Liga BetPlay",
-    "hora": "6:20 p. m.",
-    "canal": "Win Sports +"
-  },
-  {
-    "partido": "Deportes Tolima - Patriotas F.C",
-    "liga": "Liga BetPlay",
-    "hora": "8:30 p. m.",
+    "hora": "8:20 p. m.",
     "canal": "Win Sports +"
   }
 ]
