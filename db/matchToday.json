@@ -1,38 +1,86 @@
 [
   {
-    "partido": "Roma - Bolognia",
-    "liga": "Serie A",
-    "hora": "11:30 a. m.",
+    "partido": "Arsenal - Chelsea",
+    "liga": "Liga de Inglaterra",
+    "hora": "2:00 p. m.",
+    "canal": "ESPN  / Star +"
+  },
+  {
+    "partido": "Lazio - Juventus",
+    "liga": "Copa de Italia",
+    "hora": "2:00 p. m.",
     "canal": "ESPN 2 / Star +"
   },
   {
-    "partido": "Milán - Inter",
-    "liga": "Serie A",
-    "hora": "1:45 p. m.",
+    "partido": "Estudiantes - Gremio",
+    "liga": "Copa Libertadores",
+    "hora": "5:00 p. m.",
+    "canal": "ESPN 2 / Star +"
+  },
+  {
+    "partido": "Caracas F.C - Rosario Central",
+    "liga": "Copa Libertadores",
+    "hora": "5:00 p. m.",
     "canal": "ESPN / Star +"
   },
   {
-    "partido": "Sevilla - Mallorca",
-    "liga": "Liga de Espana",
-    "hora": "2:00 p. m.",
-    "canal": "Directv 610"
+    "partido": "Unión La Calera - Cruzeiro",
+    "liga": "Copa Sudamericana",
+    "hora": "5:00 p. m.",
+    "canal": "ESPN 5 / Star +"
   },
   {
-    "partido": "Fortaleza F.C - Bucaramanga",
-    "liga": "Liga BetPlay",
-    "hora": "4:00 p. m.",
-    "canal": "Win Sports +"
+    "partido": "Atlético Mineiro - Peñarol",
+    "liga": "Copa Libertadores",
+    "hora": "7:00 p. m.",
+    "canal": "ESPN / Star +"
   },
   {
-    "partido": "Boyacá Chicó - Águilas Doradas",
-    "liga": "Liga BetPlay",
-    "hora": "6:10 p. m.",
-    "canal": "Win Sports +"
+    "partido": "Liverpool Uruguay - San Lorenzo",
+    "liga": "Copa Libertadores",
+    "hora": "7:00 p. m.",
+    "canal": "ESPN 7 / Star +"
   },
   {
-    "partido": "Deportivo Pasto - Equidad",
-    "liga": "Liga BetPlay",
-    "hora": "8:20 p. m.",
-    "canal": "Win Sports +"
+    "partido": "Sportivo Trinidense - Nacional Potosí",
+    "liga": "Copa Sudamericana",
+    "hora": "7:00 p. m.",
+    "canal": "ESPN 2 / Star +"
+  },
+  {
+    "partido": "Colo Colo - Alianza Lima",
+    "liga": "Copa Libertadores",
+    "hora": "7:30 p. m.",
+    "canal": "ESPN 5 / Star +"
+  },
+  {
+    "partido": "Argentinos Juniors - Corinthians",
+    "liga": "Copa Sudamericana",
+    "hora": "7:30 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Tigres - Cúcuta",
+    "liga": "Torneo Betplay",
+    "hora": "7:40 p. m.",
+    "canal": "Win Sports / Win Sports +"
+  },
+  {
+    "partido": "Alianza FC - Universidad Católica (Ecu)",
+    "liga": "Copa Sudamericana",
+    "hora": "9:00 p. m.",
+    "canal": "ESPN 3 / Star +"
+  },
+  {
+    "partido": "Junior - Liga de Quito",
+    "liga": "Copa Libertadores",
+    "hora": "9:00 p. m.",
+    "canal": "ESPN / Star +"
+  },
+  {
+    "partido": "Colombia Femenino - Perú",
+    "liga": "Suramericano sub 20 femenino",
+    "hora": "9:00 p. m.",
+    "canal": "Caracol HD2 / RCN HD2 / Dsports"
   }
 ]
