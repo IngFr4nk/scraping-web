@@ -1,86 +1,86 @@
 [
   {
-    "partido": "Arsenal - Chelsea",
+    "partido": "Everton - Liverpool",
     "liga": "Liga de Inglaterra",
     "hora": "2:00 p. m.",
-    "canal": "ESPN  / Star +"
-  },
-  {
-    "partido": "Lazio - Juventus",
-    "liga": "Copa de Italia",
-    "hora": "2:00 p. m.",
-    "canal": "ESPN 2 / Star +"
-  },
-  {
-    "partido": "Estudiantes - Gremio",
-    "liga": "Copa Libertadores",
-    "hora": "5:00 p. m.",
-    "canal": "ESPN 2 / Star +"
-  },
-  {
-    "partido": "Caracas F.C - Rosario Central",
-    "liga": "Copa Libertadores",
-    "hora": "5:00 p. m.",
-    "canal": "ESPN / Star +"
-  },
-  {
-    "partido": "Unión La Calera - Cruzeiro",
-    "liga": "Copa Sudamericana",
-    "hora": "5:00 p. m.",
-    "canal": "ESPN 5 / Star +"
-  },
-  {
-    "partido": "Atlético Mineiro - Peñarol",
-    "liga": "Copa Libertadores",
-    "hora": "7:00 p. m.",
-    "canal": "ESPN / Star +"
-  },
-  {
-    "partido": "Liverpool Uruguay - San Lorenzo",
-    "liga": "Copa Libertadores",
-    "hora": "7:00 p. m.",
-    "canal": "ESPN 7 / Star +"
-  },
-  {
-    "partido": "Sportivo Trinidense - Nacional Potosí",
-    "liga": "Copa Sudamericana",
-    "hora": "7:00 p. m.",
-    "canal": "ESPN 2 / Star +"
-  },
-  {
-    "partido": "Colo Colo - Alianza Lima",
-    "liga": "Copa Libertadores",
-    "hora": "7:30 p. m.",
-    "canal": "ESPN 5 / Star +"
-  },
-  {
-    "partido": "Argentinos Juniors - Corinthians",
-    "liga": "Copa Sudamericana",
-    "hora": "7:30 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Tigres - Cúcuta",
-    "liga": "Torneo Betplay",
-    "hora": "7:40 p. m.",
-    "canal": "Win Sports / Win Sports +"
+    "partido": "Danubio - Atlético Paranaense",
+    "liga": "Copa Sudamericana",
+    "hora": "5:00 p. m.",
+    "canal": "D Sports"
   },
   {
-    "partido": "Alianza FC - Universidad Católica (Ecu)",
+    "partido": "Coquimbo Unido - Racing Club",
+    "liga": "Copa Sudamericana",
+    "hora": "5:00 p. m.",
+    "canal": "Directv Sports"
+  },
+  {
+    "partido": "Huachipato - The Strongest",
+    "liga": "Copa Libertadores",
+    "hora": "5:00 p. m.",
+    "canal": "ESPN 5 y Star+"
+  },
+  {
+    "partido": "Nacional (Uru) - Deportivo Táchira",
+    "liga": "Copa Libertadores",
+    "hora": "5:00 p. m.",
+    "canal": "ESPN 7 y Star +"
+  },
+  {
+    "partido": "Botafogo - Universitario",
+    "liga": "Copa Libertadores",
+    "hora": "5:00 p. m.",
+    "canal": "ESPN y Star +"
+  },
+  {
+    "partido": "Leones - Pereira",
+    "liga": "Copa Betplay",
+    "hora": "7:00 p. m.",
+    "canal": "Win Sports"
+  },
+  {
+    "partido": "Red Bull Bragantino - Sportivo Luqueño",
+    "liga": "Copa Sudamericana",
+    "hora": "7:00 p. m.",
+    "canal": "D Sports"
+  },
+  {
+    "partido": "Santa Fe - Palmira",
+    "liga": "Copa Betplay",
+    "hora": "7:30 p. m.",
+    "canal": "Win Sports +"
+  },
+  {
+    "partido": "Real Topomayo - Belgrano",
+    "liga": "Copa Sudamericana",
+    "hora": "7:30 p. m.",
+    "canal": "D Sports"
+  },
+  {
+    "partido": "Libertad - River Plate",
+    "liga": "Copa Libertadores",
+    "hora": "7:30 p. m.",
+    "canal": "ESPN y Star +"
+  },
+  {
+    "partido": "Independiente del Valle - Palmeiras",
+    "liga": "Copa Libertadores",
+    "hora": "7:30 p. m.",
+    "canal": "ESPN 5 y Star+"
+  },
+  {
+    "partido": "Bolívar - Flamengo",
+    "liga": "Copa Libertadores",
+    "hora": "7:30 p. m.",
+    "canal": "ESPN 7 y Star +"
+  },
+  {
+    "partido": "Rayo Zuliano - Sportivo Ameliano",
     "liga": "Copa Sudamericana",
     "hora": "9:00 p. m.",
-    "canal": "ESPN 3 / Star +"
-  },
-  {
-    "partido": "Junior - Liga de Quito",
-    "liga": "Copa Libertadores",
-    "hora": "9:00 p. m.",
-    "canal": "ESPN / Star +"
-  },
-  {
-    "partido": "Colombia Femenino - Perú",
-    "liga": "Suramericano sub 20 femenino",
-    "hora": "9:00 p. m.",
-    "canal": "Caracol HD2 / RCN HD2 / Dsports"
+    "canal": "ESPN 3 y Star +"
   }
 ]
