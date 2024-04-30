@@ -1,32 +1,20 @@
 [
   {
-    "partido": "Génoa - Cagliari",
-    "liga": "Serie A",
-    "hora": "1:45 p. m.",
-    "canal": "ESPN 2 / Star+"
-  },
-  {
-    "partido": "Barcelona - Valencia CF",
-    "liga": "Liga de Espana",
+    "partido": "Bayern Munich - Real Madrid",
+    "liga": "Champions League",
     "hora": "2:00 p. m.",
-    "canal": "Directv 610"
+    "canal": "ESPN / Star+"
   },
   {
-    "partido": "Perú - Venezuela",
-    "liga": "Sudamericano sub 20",
-    "hora": "4:00 p. m.",
-    "canal": "Directv 610"
+    "partido": "Estudiantes - Boca Juniors",
+    "liga": "Superliga Argentina",
+    "hora": "6:00 p. m.",
+    "canal": "ESPN / Star+"
   },
   {
-    "partido": "Colombia Femenino - Brasil",
-    "liga": "Suramericano sub 20 femenino",
-    "hora": "6:30 p. m.",
-    "canal": "Caracol HD2 / RCN HD2 / Directv Sports"
-  },
-  {
-    "partido": "Argentina - Paraguay",
-    "liga": "Sudamericano sub 20",
-    "hora": "9:00 p. m.",
-    "canal": "Directv 610"
+    "partido": "Tigres - Bogotá",
+    "liga": "Torneo BetPlay",
+    "hora": "7:40 p. m.",
+    "canal": "Win Sports / Win Sports+"
   }
 ]
