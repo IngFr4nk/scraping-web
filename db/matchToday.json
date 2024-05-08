@@ -1,78 +1,84 @@
 [
   {
-    "partido": "Paris Saint-Germain - Borussia Dortmund",
+    "partido": "Brujas - Fiorentina",
+    "liga": "UEFA Europa Conference League",
+    "hora": "11:45 a. m.",
+    "canal": "Star+"
+  },
+  {
+    "partido": "Real Madrid - Bayern Munich",
     "liga": "Champions League",
     "hora": "2:00 p. m.",
     "canal": "ESPN / Star+"
   },
   {
-    "partido": "Racing - Argentinos Juniors",
-    "liga": "Copa Sudamericana",
-    "hora": "5:00 p. m.",
-    "canal": "Directv 610"
+    "partido": "Envigado F.C - Real Cartagena",
+    "liga": "Copa BetPlay",
+    "hora": "4:00 p. m.",
+    "canal": "Win Sports+"
   },
   {
-    "partido": "Rosario Central - Atlético Mineiro",
+    "partido": "Rayo Zuliano - Atlético Paranaense",
+    "liga": "Copa Sudamericana",
+    "hora": "5:00 p. m.",
+    "canal": "ESPN 3 / Star+"
+  },
+  {
+    "partido": "Sportivo Luqueño - Coquimbo Unido",
+    "liga": "Copa Sudamericana",
+    "hora": "5:00 p. m.",
+    "canal": "ESPN 5 / Star+"
+  },
+  {
+    "partido": "Talleres de Córdoba - Barcelona (ECU)",
     "liga": "Copa Libertadores",
     "hora": "5:00 p. m.",
     "canal": "ESPN 2 / Star+"
   },
   {
-    "partido": "Caracas F.C - Peñarol",
-    "liga": "Copa Libertadores",
-    "hora": "5:00 p. m.",
-    "canal": "ESPN / Star+"
-  },
-  {
-    "partido": "Nacional (Par) - Corinthians",
+    "partido": "Cuiabá - Metropolitanos",
     "liga": "Copa Sudamericana",
-    "hora": "5:00 p. m.",
-    "canal": "ESPN 5 / Star+"
-  },
-  {
-    "partido": "Palestino - Flamengo",
-    "liga": "Copa Libertadores",
     "hora": "7:00 p. m.",
-    "canal": "ESPN 5 / Star+"
+    "canal": "ESPN 3 / Star+"
   },
   {
-    "partido": "César Vallejo - Independiente Medellín",
+    "partido": "Nacional Potosí - Fortaleza",
     "liga": "Copa Sudamericana",
+    "hora": "7:00 p. m.",
+    "canal": "Directv 610"
+  },
+  {
+    "partido": "Alianza Lima - Cerro Porteño",
+    "liga": "Copa Libertadores",
     "hora": "7:00 p. m.",
     "canal": "ESPN / Star+"
   },
   {
-    "partido": "Deportivo Táchira - Libertad",
+    "partido": "Botafogo - Liga de Quito",
     "liga": "Copa Libertadores",
-    "hora": "7:00 p. m.",
+    "hora": "7:30 p. m.",
+    "canal": "ESPN 2 / Star+"
+  },
+  {
+    "partido": "Cobresal - Sao Paulo",
+    "liga": "Copa Libertadores",
+    "hora": "7:30 p. m.",
     "canal": "ESPN 7 / Star+"
   },
   {
-    "partido": "Nacional (Uru) - River Plate",
-    "liga": "Copa Libertadores",
-    "hora": "7:00 p. m.",
-    "canal": "ESPN 2 / Star+"
-  },
-  {
-    "partido": "Alianza FC - Cruzeiro",
+    "partido": "Sportivo Trinidense - Boca Juniors",
     "liga": "Copa Sudamericana",
     "hora": "7:30 p. m.",
-    "canal": "Directv 610"
+    "canal": "ESPN 5 / Star+"
   },
   {
-    "partido": "Sportivo Ameliano - Danubio",
-    "liga": "Copa Sudamericana",
+    "partido": "Pereira - Fortaleza F.C",
+    "liga": "Copa BetPlay",
     "hora": "7:30 p. m.",
-    "canal": "Directv 612"
+    "canal": "Win Sports+"
   },
   {
-    "partido": "Always Ready - Defensa y Justicia",
-    "liga": "Copa Sudamericana",
-    "hora": "9:00 p. m.",
-    "canal": "ESPN 2 / Star+"
-  },
-  {
-    "partido": "Universitario - Junior",
+    "partido": "Millonarios - Bolívar",
     "liga": "Copa Libertadores",
     "hora": "9:00 p. m.",
     "canal": "ESPN / Star+"
