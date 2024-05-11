@@ -1,20 +1,140 @@
 [
   {
-    "partido": "FC Augsburgo - VfB Stuttgart",
-    "liga": "Bundesliga",
-    "hora": "1:30 p. m.",
+    "partido": "Celtic - Rangers",
+    "liga": "Liga de Escocia",
+    "hora": "6:30 a. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Frosinone - Inter",
+    "partido": "Fulham - Manchester City",
+    "liga": "Liga de Inglaterra",
+    "hora": "6:30 a. m.",
+    "canal": "ESPN / Star +"
+  },
+  {
+    "partido": "Mallorca - Las Palmas",
+    "liga": "Liga de Espana",
+    "hora": "7:00 a. m.",
+    "canal": "ESPN 2 / Star +"
+  },
+  {
+    "partido": "Borussia Mönchengladbach - Eintracht Frankfurt",
+    "liga": "Bundesliga",
+    "hora": "8:30 a. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "RB Leipzig - Werder Bremen",
+    "liga": "Bundesliga",
+    "hora": "8:30 a. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Everton - Sheffield United",
+    "liga": "Liga de Inglaterra",
+    "hora": "9:00 a. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Newcastle - Brighton & Hove",
+    "liga": "Liga de Inglaterra",
+    "hora": "9:00 a. m.",
+    "canal": "ESPN / Star +"
+  },
+  {
+    "partido": "Tottenham Hotspur - Burnley",
+    "liga": "Liga de Inglaterra",
+    "hora": "9:00 a. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "West Ham Utd. - Luton Town",
+    "liga": "Liga de Inglaterra",
+    "hora": "9:00 a. m.",
+    "canal": "ESPN 2 / Star +"
+  },
+  {
+    "partido": "Bournemouth - Brentford",
+    "liga": "Liga de Inglaterra",
+    "hora": "9:00 a. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Wolverhampton - Crystal Palace",
+    "liga": "Liga de Inglaterra",
+    "hora": "9:00 a. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Villarreal - Sevilla",
+    "liga": "Liga de Espana",
+    "hora": "9:15 a. m.",
+    "canal": "Directv 610"
+  },
+  {
+    "partido": "Napoli - Bolognia",
+    "liga": "Serie A",
+    "hora": "11:00 a. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Granada CF - Real Madrid",
+    "liga": "Liga de Espana",
+    "hora": "11:30 a. m.",
+    "canal": "ESPN 2 / Star +"
+  },
+  {
+    "partido": "Mainz 05 - Borussia Dortmund",
+    "liga": "Bundesliga",
+    "hora": "11:30 a. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Nottingham Forest - Chelsea",
+    "liga": "Liga de Inglaterra",
+    "hora": "11:30 a. m.",
+    "canal": "ESPN / Star +"
+  },
+  {
+    "partido": "Godoy Cruz - Barracas Central",
+    "liga": "Superliga Argentina",
+    "hora": "12:30 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Milán - Cagliari",
     "liga": "Serie A",
     "hora": "1:45 p. m.",
     "canal": "ESPN / Star +"
   },
   {
-    "partido": "Alavés - Girona",
+    "partido": "Athletic Club - Osasuna",
     "liga": "Liga de Espana",
     "hora": "2:00 p. m.",
-    "canal": "ESPN 2 / Star +"
+    "canal": "Star +"
+  },
+  {
+    "partido": "Bucaramanga - Junior",
+    "liga": "Liga BetPlay",
+    "hora": "5:15 p. m.",
+    "canal": "Win Sports+"
+  },
+  {
+    "partido": "River Plate - Central Córdoba",
+    "liga": "Superliga Argentina",
+    "hora": "5:45 p. m.",
+    "canal": "ESPN / Star +"
+  },
+  {
+    "partido": "CF Montreal - Inter Miami",
+    "liga": "Major League Soccer",
+    "hora": "6:30 p. m.",
+    "canal": "Apple TV"
+  },
+  {
+    "partido": "Millonarios - Pereira",
+    "liga": "Liga BetPlay",
+    "hora": "7:30 p. m.",
+    "canal": "Win Sports+"
   }
 ]
