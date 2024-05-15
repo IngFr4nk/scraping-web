@@ -1,116 +1,104 @@
 [
   {
-    "partido": "Lazio - Empoli",
-    "liga": "Serie A",
-    "hora": "5:30 a. m.",
-    "canal": "ESPN / Star +"
-  },
-  {
-    "partido": "Cádiz - Getafe",
+    "partido": "Rayo Vallecano - Granada CF",
     "liga": "Liga de Espana",
-    "hora": "7:00 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Génoa - Sassuolo",
-    "liga": "Serie A",
-    "hora": "8:00 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Hellas Verona - Torino",
-    "liga": "Serie A",
-    "hora": "8:00 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Atlético de Madrid - Celta de Vigo",
-    "liga": "Liga de Espana",
-    "hora": "9:15 a. m.",
-    "canal": "Directv 610"
-  },
-  {
-    "partido": "Bayern Munich - Wolfsburgo",
-    "liga": "Bundesliga",
-    "hora": "10:30 a. m.",
-    "canal": "ESPN 2 / Star +"
-  },
-  {
-    "partido": "Manchester United - Arsenal",
-    "liga": "Liga de Inglaterra",
-    "hora": "10:30 a. m.",
-    "canal": "ESPN / Star +"
-  },
-  {
-    "partido": "Juventus - Salernitana",
-    "liga": "Serie A",
-    "hora": "11:00 a. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Valencia CF - Rayo Vallecano",
-    "liga": "Liga de Espana",
-    "hora": "11:30 a. m.",
-    "canal": "Directv 610"
-  },
-  {
-    "partido": "Bochum 1848 - Bayer Leverkusen",
-    "liga": "Bundesliga",
     "hora": "12:30 p. m.",
-    "canal": "Star +"
+    "canal": "ESPN 2 / Star+"
   },
   {
-    "partido": "Tigre - Estudiantes",
-    "liga": "Superliga Argentina",
-    "hora": "1:30 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Atalanta - Roma",
-    "liga": "Serie A",
-    "hora": "1:45 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Real Betis - Almería",
-    "liga": "Liga de Espana",
+    "partido": "Atalanta - Juventus",
+    "liga": "Copa de Italia",
     "hora": "2:00 p. m.",
+    "canal": "ESPN / Star+"
+  },
+  {
+    "partido": "Niza - Paris Saint-Germain",
+    "liga": "Liga de Francia",
+    "hora": "2:00 p. m.",
+    "canal": "ESPN 3 / Star+"
+  },
+  {
+    "partido": "Getafe - Atlético de Madrid",
+    "liga": "Liga de Espana",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN 2 / Star+"
+  },
+  {
+    "partido": "Santa Fe - Alianza FC",
+    "liga": "Liga Femenina",
+    "hora": "3:00 p. m.",
+    "canal": "Win Sports+"
+  },
+  {
+    "partido": "Belgrano - Real Topomayo",
+    "liga": "Copa Sudamericana",
+    "hora": "5:00 p. m.",
+    "canal": "Directv 612"
+  },
+  {
+    "partido": "Deportivo Táchira - Nacional (Uru)",
+    "liga": "Copa Libertadores",
+    "hora": "5:00 p. m.",
+    "canal": "ESPN / Star+"
+  },
+  {
+    "partido": "Lanús - Metropolitanos",
+    "liga": "Copa Sudamericana",
+    "hora": "5:00 p. m.",
+    "canal": "ESPN 5 / Star+"
+  },
+  {
+    "partido": "The Strongest - Huachipato",
+    "liga": "Copa Libertadores",
+    "hora": "5:00 p. m.",
+    "canal": "ESPN 2 / Star+"
+  },
+  {
+    "partido": "Atlético Paranaense - Danubio",
+    "liga": "Copa Sudamericana",
+    "hora": "5:00 p. m.",
+    "canal": "Directv 613"
+  },
+  {
+    "partido": "Santa Fe - Bucaramanga",
+    "liga": "Copa BetPlay",
+    "hora": "6:00 p. m.",
+    "canal": "Win Sports+"
+  },
+  {
+    "partido": "Alianza Lima - Colo Colo",
+    "liga": "Copa Libertadores",
+    "hora": "7:00 p. m.",
+    "canal": "ESPN / Star+"
+  },
+  {
+    "partido": "Boca Juniors - Fortaleza",
+    "liga": "Copa Sudamericana",
+    "hora": "7:00 p. m.",
     "canal": "Directv 610"
   },
   {
-    "partido": "Paris Saint-Germain - Toulouse",
-    "liga": "Liga de Francia",
-    "hora": "2:00 p. m.",
-    "canal": "ESPN / Star +"
-  },
-  {
-    "partido": "Marsella - Lorient",
-    "liga": "Liga de Francia",
-    "hora": "2:00 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Belgrano - Racing Club",
-    "liga": "Superliga Argentina",
-    "hora": "3:45 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Equidad - Santa Fe",
-    "liga": "Liga BetPlay",
-    "hora": "5:15 p. m.",
-    "canal": "Win Sports+"
-  },
-  {
-    "partido": "Atlético Tucumán - Boca Juniors",
-    "liga": "Superliga Argentina",
-    "hora": "6:15 p. m.",
-    "canal": "ESPN / Star +"
-  },
-  {
-    "partido": "Deportes Tolima - Once Caldas",
-    "liga": "Liga BetPlay",
+    "partido": "Palmeiras - Independiente del Valle",
+    "liga": "Copa Libertadores",
     "hora": "7:30 p. m.",
+    "canal": "ESPN 2 / Star+"
+  },
+  {
+    "partido": "Flamengo - Bolívar",
+    "liga": "Copa Libertadores",
+    "hora": "7:30 p. m.",
+    "canal": "ESPN 7 / Star+"
+  },
+  {
+    "partido": "Fortaleza F.C - Pereira",
+    "liga": "Copa BetPlay",
+    "hora": "8:00 p. m.",
     "canal": "Win Sports+"
+  },
+  {
+    "partido": "César Vallejo - Always Ready",
+    "liga": "Copa Sudamericana",
+    "hora": "9:00 p. m.",
+    "canal": "ESPN / Star+"
   }
 ]
