@@ -1,104 +1,86 @@
 [
   {
-    "partido": "Rayo Vallecano - Granada CF",
+    "partido": "Las Palmas - Real Betis",
     "liga": "Liga de Espana",
     "hora": "12:30 p. m.",
-    "canal": "ESPN 2 / Star+"
+    "canal": "ESPN 5 / Star+"
   },
   {
-    "partido": "Atalanta - Juventus",
-    "liga": "Copa de Italia",
-    "hora": "2:00 p. m.",
-    "canal": "ESPN / Star+"
+    "partido": "Almería - Barcelona",
+    "liga": "Liga de Espana",
+    "hora": "2:30 p. m.",
+    "canal": "Directv 610"
   },
   {
-    "partido": "Niza - Paris Saint-Germain",
-    "liga": "Liga de Francia",
-    "hora": "2:00 p. m.",
+    "partido": "Jaguares de Córdoba - Tigres",
+    "liga": "Copa BetPlay",
+    "hora": "3:00 p. m.",
+    "canal": "Win Sports / Win Sports+"
+  },
+  {
+    "partido": "Real Sociedad - Valencia CF",
+    "liga": "Liga de Espana",
+    "hora": "3:00 p. m.",
     "canal": "ESPN 3 / Star+"
   },
   {
-    "partido": "Getafe - Atlético de Madrid",
-    "liga": "Liga de Espana",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN 2 / Star+"
-  },
-  {
-    "partido": "Santa Fe - Alianza FC",
-    "liga": "Liga Femenina",
-    "hora": "3:00 p. m.",
-    "canal": "Win Sports+"
-  },
-  {
-    "partido": "Belgrano - Real Topomayo",
-    "liga": "Copa Sudamericana",
-    "hora": "5:00 p. m.",
-    "canal": "Directv 612"
-  },
-  {
-    "partido": "Deportivo Táchira - Nacional (Uru)",
+    "partido": "Fluminense - Cerro Porteño",
     "liga": "Copa Libertadores",
     "hora": "5:00 p. m.",
     "canal": "ESPN / Star+"
   },
   {
-    "partido": "Lanús - Metropolitanos",
+    "partido": "Rosario Central - Caracas F.C",
+    "liga": "Copa Libertadores",
+    "hora": "5:00 p. m.",
+    "canal": "ESPN 7 / Star+"
+  },
+  {
+    "partido": "Cruzeiro - Unión La Calera",
     "liga": "Copa Sudamericana",
     "hora": "5:00 p. m.",
     "canal": "ESPN 5 / Star+"
   },
   {
-    "partido": "The Strongest - Huachipato",
+    "partido": "Universitario - Botafogo",
     "liga": "Copa Libertadores",
     "hora": "5:00 p. m.",
-    "canal": "ESPN 2 / Star+"
+    "canal": "ESPN 5 / Star+"
   },
   {
-    "partido": "Atlético Paranaense - Danubio",
+    "partido": "Racing Club - Coquimbo Unido",
     "liga": "Copa Sudamericana",
     "hora": "5:00 p. m.",
-    "canal": "Directv 613"
-  },
-  {
-    "partido": "Santa Fe - Bucaramanga",
-    "liga": "Copa BetPlay",
-    "hora": "6:00 p. m.",
-    "canal": "Win Sports+"
-  },
-  {
-    "partido": "Alianza Lima - Colo Colo",
-    "liga": "Copa Libertadores",
-    "hora": "7:00 p. m.",
-    "canal": "ESPN / Star+"
-  },
-  {
-    "partido": "Boca Juniors - Fortaleza",
-    "liga": "Copa Sudamericana",
-    "hora": "7:00 p. m.",
     "canal": "Directv 610"
   },
   {
-    "partido": "Palmeiras - Independiente del Valle",
+    "partido": "Sao Paulo - Barcelona (ECU)",
     "liga": "Copa Libertadores",
-    "hora": "7:30 p. m.",
-    "canal": "ESPN 2 / Star+"
+    "hora": "7:00 p. m.",
+    "canal": "ESPN / Star+"
   },
   {
-    "partido": "Flamengo - Bolívar",
+    "partido": "Sportivo Luqueño - Red Bull Bragantino",
+    "liga": "Copa Sudamericana",
+    "hora": "7:00 p. m.",
+    "canal": "Directv 613"
+  },
+  {
+    "partido": "San Lorenzo - Liverpool Uruguay",
     "liga": "Copa Libertadores",
-    "hora": "7:30 p. m.",
+    "hora": "7:00 p. m.",
     "canal": "ESPN 7 / Star+"
   },
   {
-    "partido": "Fortaleza F.C - Pereira",
+    "partido": "Real Cartagena - Envigado F.C",
     "liga": "Copa BetPlay",
-    "hora": "8:00 p. m.",
+    "hora": "7:30 p. m.",
     "canal": "Win Sports+"
   },
   {
-    "partido": "César Vallejo - Always Ready",
+    "partido": "Universidad Católica (Ecu) - Alianza FC",
     "liga": "Copa Sudamericana",
     "hora": "9:00 p. m.",
-    "canal": "ESPN / Star+"
+    "canal": "Directv 610"
   }
 ]
