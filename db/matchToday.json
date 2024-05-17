@@ -1,86 +1,20 @@
 [
   {
-    "partido": "Las Palmas - Real Betis",
-    "liga": "Liga de Espana",
-    "hora": "12:30 p. m.",
-    "canal": "ESPN 5 / Star+"
-  },
-  {
-    "partido": "Almería - Barcelona",
-    "liga": "Liga de Espana",
-    "hora": "2:30 p. m.",
-    "canal": "Directv 610"
-  },
-  {
-    "partido": "Jaguares de Córdoba - Tigres",
-    "liga": "Copa BetPlay",
-    "hora": "3:00 p. m.",
-    "canal": "Win Sports / Win Sports+"
-  },
-  {
-    "partido": "Real Sociedad - Valencia CF",
-    "liga": "Liga de Espana",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN 3 / Star+"
-  },
-  {
-    "partido": "Fluminense - Cerro Porteño",
-    "liga": "Copa Libertadores",
-    "hora": "5:00 p. m.",
+    "partido": "Fiorentina - Napoli",
+    "liga": "Serie A",
+    "hora": "1:45 p. m.",
     "canal": "ESPN / Star+"
   },
   {
-    "partido": "Rosario Central - Caracas F.C",
-    "liga": "Copa Libertadores",
-    "hora": "5:00 p. m.",
-    "canal": "ESPN 7 / Star+"
-  },
-  {
-    "partido": "Cruzeiro - Unión La Calera",
-    "liga": "Copa Sudamericana",
-    "hora": "5:00 p. m.",
-    "canal": "ESPN 5 / Star+"
-  },
-  {
-    "partido": "Universitario - Botafogo",
-    "liga": "Copa Libertadores",
-    "hora": "5:00 p. m.",
-    "canal": "ESPN 5 / Star+"
-  },
-  {
-    "partido": "Racing Club - Coquimbo Unido",
-    "liga": "Copa Sudamericana",
-    "hora": "5:00 p. m.",
-    "canal": "Directv 610"
-  },
-  {
-    "partido": "Sao Paulo - Barcelona (ECU)",
-    "liga": "Copa Libertadores",
-    "hora": "7:00 p. m.",
-    "canal": "ESPN / Star+"
-  },
-  {
-    "partido": "Sportivo Luqueño - Red Bull Bragantino",
-    "liga": "Copa Sudamericana",
-    "hora": "7:00 p. m.",
-    "canal": "Directv 613"
-  },
-  {
-    "partido": "San Lorenzo - Liverpool Uruguay",
-    "liga": "Copa Libertadores",
-    "hora": "7:00 p. m.",
-    "canal": "ESPN 7 / Star+"
-  },
-  {
-    "partido": "Real Cartagena - Envigado F.C",
-    "liga": "Copa BetPlay",
-    "hora": "7:30 p. m.",
+    "partido": "Unión Magdalena - Cúcuta",
+    "liga": "Torneo BetPlay",
+    "hora": "6:00 p. m.",
     "canal": "Win Sports+"
   },
   {
-    "partido": "Universidad Católica (Ecu) - Alianza FC",
-    "liga": "Copa Sudamericana",
-    "hora": "9:00 p. m.",
-    "canal": "Directv 610"
+    "partido": "Quindío - Llaneros",
+    "liga": "Torneo BetPlay",
+    "hora": "8:00 p. m.",
+    "canal": "Win Sports / Win Sports+"
   }
 ]
