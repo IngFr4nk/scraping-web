@@ -1,44 +1,26 @@
 [
   {
-    "partido": "Salernitana - Hellas Verona",
-    "liga": "Serie A",
-    "hora": "11:30 a. m.",
-    "canal": "Star+"
+    "partido": "Atalanta - Bayer Leverkusen",
+    "liga": "Liga de Europa",
+    "hora": "2:00 p. m.",
+    "canal": "ESPN / Star+"
   },
   {
-    "partido": "Bolognia - Juventus",
-    "liga": "Serie A",
-    "hora": "1:45 p. m.",
-    "canal": "ESPN 2 / Star+"
+    "partido": "Bucaramanga - Millonarios",
+    "liga": "Liga BetPlay",
+    "hora": "6:15 p. m.",
+    "canal": "Win Sports+"
   },
   {
-    "partido": "San Lorenzo - Lanús",
-    "liga": "Liga de Argentina",
-    "hora": "5:00 p. m.",
+    "partido": "Atlético Tucumán - Gimnasia de La Plata",
+    "liga": "Copa de Argentina",
+    "hora": "7:10 p. m.",
     "canal": "TyC Sports Internacional"
   },
   {
-    "partido": "Deportivo Cali - Deportivo Pasto",
-    "liga": "Liga Femenina",
-    "hora": "6:00 p. m.",
-    "canal": "Win Sports"
-  },
-  {
-    "partido": "Rosario Central - Tigre",
-    "liga": "Liga de Argentina",
-    "hora": "7:15 p. m.",
-    "canal": "TyC Sports Internacional"
-  },
-  {
-    "partido": "Racing Club - Argentinos Juniors",
-    "liga": "Liga de Argentina",
-    "hora": "7:15 p. m.",
-    "canal": "Star+"
-  },
-  {
-    "partido": "Tigres - Atlético Huila",
-    "liga": "Torneo BetPlay",
-    "hora": "8:00 p. m.",
+    "partido": "Pereira - Junior",
+    "liga": "Liga BetPlay",
+    "hora": "8:30 p. m.",
     "canal": "Win Sports+"
   }
 ]
