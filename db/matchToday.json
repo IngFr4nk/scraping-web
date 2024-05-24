@@ -1,26 +1,44 @@
 [
   {
-    "partido": "Bochum 1848 - Fortuna Duesseldorf",
-    "liga": "Bundesliga play-off",
-    "hora": "1:30 p. m.",
-    "canal": "ESPN 5 / Star+"
-  },
-  {
-    "partido": "Cagliari - Fiorentina",
+    "partido": "Génoa - Bolognia",
     "liga": "Serie A",
     "hora": "1:45 p. m.",
     "canal": "ESPN 2 / Star+"
   },
   {
-    "partido": "Deportes Tolima - Equidad",
-    "liga": "Liga BetPlay",
-    "hora": "6:15 p. m.",
+    "partido": "Girona - Granada CF",
+    "liga": "Liga de Espana",
+    "hora": "2:00 p. m.",
+    "canal": "Directv 610"
+  },
+  {
+    "partido": "Tigre - Racing Club",
+    "liga": "Liga de Argentina",
+    "hora": "5:00 p. m.",
+    "canal": "Star+"
+  },
+  {
+    "partido": "Atlético Huila - Orsomarso",
+    "liga": "Torneo BetPlay",
+    "hora": "6:00 p. m.",
     "canal": "Win Sports+"
   },
   {
-    "partido": "Santa Fe - Once Caldas",
-    "liga": "Liga BetPlay",
-    "hora": "8:30 p. m.",
-    "canal": "Win Sports+"
+    "partido": "Belgrano - Central Córdoba",
+    "liga": "Liga de Argentina",
+    "hora": "7:15 p. m.",
+    "canal": "Star+"
+  },
+  {
+    "partido": "Lanús - Estudiantes",
+    "liga": "Liga de Argentina",
+    "hora": "7:15 p. m.",
+    "canal": "TyC Sports Internacional"
+  },
+  {
+    "partido": "Real Cartagena - Tigres",
+    "liga": "Torneo BetPlay",
+    "hora": "8:10 p. m.",
+    "canal": "Win Sports / Win Sports+"
   }
 ]
