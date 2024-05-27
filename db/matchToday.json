@@ -1,92 +1,26 @@
 [
   {
-    "partido": "Osasuna - Villarreal",
-    "liga": "Liga de Espana",
-    "hora": "7:00 a. m.",
-    "canal": "ESPN 2 / Star +"
-  },
-  {
-    "partido": "Manchester City - Manchester United",
-    "liga": "FA Cup",
-    "hora": "9:00 a. m.",
-    "canal": "ESPN / Star +"
-  },
-  {
-    "partido": "Real Sociedad - Atlético de Madrid",
-    "liga": "Liga de Espana",
-    "hora": "9:15 a. m.",
-    "canal": "Directv 610"
-  },
-  {
-    "partido": "Juventus - Monza",
-    "liga": "Serie A",
-    "hora": "11:00 a. m.",
-    "canal": "ESPN 2 / Star +"
-  },
-  {
-    "partido": "Almería - Cádiz",
-    "liga": "Liga de Espana",
-    "hora": "11:30 a. m.",
-    "canal": "ESPN 4 / Star +"
-  },
-  {
-    "partido": "Rayo Vallecano - Athletic Club",
-    "liga": "Liga de Espana",
-    "hora": "11:30 a. m.",
-    "canal": "Directv 610"
-  },
-  {
-    "partido": "Kaiserslautern - Bayer Leverkusen",
-    "liga": "Copa de Alemania",
-    "hora": "1:00 p. m.",
-    "canal": "ESPN 3 / Star +"
-  },
-  {
-    "partido": "Argentinos Juniors - River Plate",
-    "liga": "Superliga Argentina",
-    "hora": "1:00 p. m.",
-    "canal": "ESPN / Star +"
-  },
-  {
-    "partido": "Milán - Salernitana",
-    "liga": "Serie A",
-    "hora": "1:45 p. m.",
+    "partido": "Fortuna Duesseldorf - Bochum 1848",
+    "liga": "Bundesliga",
+    "hora": "1:30 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Lyon - Paris Saint-Germain",
-    "liga": "Copa de Francia",
+    "partido": "México Sub 20 - Colombia Femenino",
+    "liga": "Futbol Femenino",
     "hora": "2:00 p. m.",
-    "canal": "Directv 610"
+    "canal": "Caracol HD2 / RCN HD2"
   },
   {
-    "partido": "Real Madrid - Real Betis",
-    "liga": "Liga de Espana",
-    "hora": "2:00 p. m.",
-    "canal": "ESPN 3 / Star +"
-  },
-  {
-    "partido": "Pereira - Millonarios",
-    "liga": "Liga BetPlay",
+    "partido": "Unión de Santa Fe - Barracas Central",
+    "liga": "Liga de Argentina",
     "hora": "5:00 p. m.",
-    "canal": "Win Sports+"
+    "canal": "TyC Sports Internacional"
   },
   {
-    "partido": "Boca Juniors - Talleres de Córdoba",
-    "liga": "Superliga Argentina",
-    "hora": "6:00 p. m.",
-    "canal": "ESPN / Star +"
-  },
-  {
-    "partido": "Junior - Bucaramanga",
-    "liga": "Liga BetPlay",
-    "hora": "7:30 p. m.",
-    "canal": "Win Sports+"
-  },
-  {
-    "partido": "Vancouver - Inter Miami",
-    "liga": "Major League Soccer",
-    "hora": "9:30 p. m.",
-    "canal": "Apple TV"
+    "partido": "Atlético Tucumán - Platense",
+    "liga": "Liga de Argentina",
+    "hora": "7:00 p. m.",
+    "canal": "TyC Sports Internacional"
   }
 ]
