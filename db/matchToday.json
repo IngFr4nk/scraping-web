@@ -1,38 +1,50 @@
 [
   {
-    "partido": "Escocia - Gibraltar",
+    "partido": "Eslovenia - Armenia",
     "liga": "Partido amistoso",
     "hora": "11:00 a. m.",
+    "canal": "Star+"
+  },
+  {
+    "partido": "Suiza - Estonia",
+    "liga": "Partido amistoso",
+    "hora": "1:15 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Croacia - Macedonia",
-    "liga": "Partido amistoso",
-    "hora": "12:00 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Albania - Liechtenstein",
-    "liga": "Partido amistoso",
-    "hora": "1:00 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Inglaterra - Bosnia",
-    "liga": "Partido amistoso",
-    "hora": "1:45 p. m.",
-    "canal": "ESPN / Star +"
-  },
-  {
-    "partido": "Alemania - Ucrania",
+    "partido": "Portugal - Finlandia",
     "liga": "Partido amistoso",
     "hora": "1:45 p. m.",
     "canal": "Star +"
   },
   {
-    "partido": "Estudiantes - Godoy Cruz",
-    "liga": "Liga de Argentina",
-    "hora": "7:15 p. m.",
+    "partido": "Irlanda - Hungría",
+    "liga": "Partido amistoso",
+    "hora": "1:45 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Austria - Serbia",
+    "liga": "Partido amistoso",
+    "hora": "1:45 p. m.",
+    "canal": "Star+"
+  },
+  {
+    "partido": "Italia - Turquía",
+    "liga": "Partido amistoso",
+    "hora": "2:00 p. m.",
     "canal": "ESPN / Star +"
+  },
+  {
+    "partido": "Huachipato - Gremio",
+    "liga": "Copa Libertadores",
+    "hora": "7:00 p. m.",
+    "canal": "ESPN / Star +"
+  },
+  {
+    "partido": "Tomayapo - Internacional",
+    "liga": "Copa Sudamericana",
+    "hora": "7:30 p. m.",
+    "canal": "DSports"
   }
 ]
