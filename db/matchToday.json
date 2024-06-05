@@ -1,50 +1,44 @@
 [
   {
-    "partido": "Eslovenia - Armenia",
+    "partido": "Eslovaquia - San Marino",
     "liga": "Partido amistoso",
     "hora": "11:00 a. m.",
     "canal": "Star+"
   },
   {
-    "partido": "Suiza - Estonia",
+    "partido": "Noruega - Kosovo",
     "liga": "Partido amistoso",
-    "hora": "1:15 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Portugal - Finlandia",
-    "liga": "Partido amistoso",
-    "hora": "1:45 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Irlanda - Hungría",
-    "liga": "Partido amistoso",
-    "hora": "1:45 p. m.",
-    "canal": "Star +"
-  },
-  {
-    "partido": "Austria - Serbia",
-    "liga": "Partido amistoso",
-    "hora": "1:45 p. m.",
+    "hora": "12:00 p. m.",
     "canal": "Star+"
   },
   {
-    "partido": "Italia - Turquía",
+    "partido": "Dinamarca - Suecia",
+    "liga": "Partido amistoso",
+    "hora": "12:00 p. m.",
+    "canal": "Star+"
+  },
+  {
+    "partido": "Bélgica - Montenegro",
+    "liga": "Partido amistoso",
+    "hora": "1:30 p. m.",
+    "canal": "Star+"
+  },
+  {
+    "partido": "Francia - Luxemburgo",
     "liga": "Partido amistoso",
     "hora": "2:00 p. m.",
-    "canal": "ESPN / Star +"
+    "canal": "ESPN / Star+"
   },
   {
-    "partido": "Huachipato - Gremio",
-    "liga": "Copa Libertadores",
-    "hora": "7:00 p. m.",
-    "canal": "ESPN / Star +"
+    "partido": "España - Andorra",
+    "liga": "Partido amistoso",
+    "hora": "2:30 p. m.",
+    "canal": "Star+"
   },
   {
-    "partido": "Tomayapo - Internacional",
-    "liga": "Copa Sudamericana",
-    "hora": "7:30 p. m.",
-    "canal": "DSports"
+    "partido": "Arsenal de Sarandí - Vélez Sarsfield",
+    "liga": "Copa de Argentina",
+    "hora": "7:15 p. m.",
+    "canal": "TyC Sports Internacional"
   }
 ]
