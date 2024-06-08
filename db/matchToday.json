@@ -1,56 +1,86 @@
 [
   {
-    "partido": "República Checa - Malta",
+    "partido": "Letonia - Lituania",
     "liga": "Partido amistoso",
-    "hora": "10:30 a. m.",
+    "hora": "8:00 a. m.",
     "canal": "Star+"
   },
   {
-    "partido": "Armenia - Kazajistán",
+    "partido": "Eslovenia - Bulgaria",
+    "liga": "Partido amistoso",
+    "hora": "8:00 a. m.",
+    "canal": "Star+"
+  },
+  {
+    "partido": "Suiza - Austria",
     "liga": "Partido amistoso",
     "hora": "11:00 a. m.",
     "canal": "Star+"
   },
   {
-    "partido": "Albania - Azerbaiyán",
+    "partido": "Suecia - Serbia",
     "liga": "Partido amistoso",
-    "hora": "12:00 p. m.",
+    "hora": "11:00 a. m.",
+    "canal": "ESPN / Star+"
+  },
+  {
+    "partido": "Estonia - Islas Faroe",
+    "liga": "Partido amistoso",
+    "hora": "11:00 a. m.",
     "canal": "Star+"
   },
   {
-    "partido": "Rumania - Liechtenstein",
+    "partido": "Portugal - Croacia",
+    "liga": "Partido amistoso",
+    "hora": "11:45 a. m.",
+    "canal": "Star+"
+  },
+  {
+    "partido": "Dinamarca - Noruega",
+    "liga": "Partido amistoso",
+    "hora": "12:30 p. m.",
+    "canal": "Star+"
+  },
+  {
+    "partido": "Bélgica - Luxemburgo",
     "liga": "Partido amistoso",
     "hora": "1:00 p. m.",
     "canal": "Star+"
   },
   {
-    "partido": "Escocia - Finlandia",
+    "partido": "España - Irlanda del Norte",
     "liga": "Partido amistoso",
-    "hora": "1:45 p. m.",
-    "canal": "Star+"
-  },
-  {
-    "partido": "Alemania - Grecia",
-    "liga": "Partido amistoso",
-    "hora": "1:45 p. m.",
+    "hora": "2:30 p. m.",
     "canal": "ESPN / Star+"
   },
   {
-    "partido": "Inglaterra - Islandia",
-    "liga": "Partido amistoso",
-    "hora": "1:45 p. m.",
-    "canal": "Star+"
-  },
-  {
-    "partido": "Polonia - Ucrania",
-    "liga": "Partido amistoso",
-    "hora": "1:45 p. m.",
-    "canal": "Star+"
-  },
-  {
-    "partido": "San Lorenzo - Chacarita",
+    "partido": "Platense - Huracán",
     "liga": "Copa de Argentina",
-    "hora": "6:00 p. m.",
+    "hora": "3:20 p. m.",
     "canal": "TyC Sports Internacional"
+  },
+  {
+    "partido": "Estados Unidos - Colombia",
+    "liga": "Partido amistoso",
+    "hora": "4:30 p. m.",
+    "canal": "Caracol TV / RCN"
+  },
+  {
+    "partido": "Gremio - Estudiantes",
+    "liga": "Copa Libertadores",
+    "hora": "5:00 p. m.",
+    "canal": "ESPN / Star+"
+  },
+  {
+    "partido": "Internacional - Delfín SC",
+    "liga": "Copa Sudamericana",
+    "hora": "7:30 p. m.",
+    "canal": "ESPN / Star+"
+  },
+  {
+    "partido": "Bucaramanga - Santa Fe",
+    "liga": "Liga BetPlay",
+    "hora": "7:30 p. m.",
+    "canal": "Win Sports+"
   }
 ]
