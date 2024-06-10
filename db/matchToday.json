@@ -1,32 +1,74 @@
 [
   {
-    "partido": "Eslovaquia - Gales",
+    "partido": "Países Bajos - Islandia",
     "liga": "Partido amistoso",
     "hora": "1:45 p. m.",
-    "canal": "Star+"
+    "canal": "ESPN / Star +"
   },
   {
-    "partido": "Montenegro - Georgia",
+    "partido": "Polonia - Turquía",
     "liga": "Partido amistoso",
     "hora": "1:45 p. m.",
-    "canal": "Star+"
+    "canal": "Star +"
   },
   {
-    "partido": "Italia - Bosnia",
-    "liga": "Partido amistoso",
-    "hora": "1:45 p. m.",
-    "canal": "Star+"
+    "partido": "Inter Palmira - Llaneros",
+    "liga": "Liga Femenina",
+    "hora": "3:00 p. m.",
+    "canal": "Win Sports Online"
   },
   {
-    "partido": "Francia - Canadá",
-    "liga": "Partido amistoso",
-    "hora": "2:15 p. m.",
-    "canal": "ESPN / Star+"
+    "partido": "Deportivo Pasto - Alianza Petrolera",
+    "liga": "Liga Femenina",
+    "hora": "3:00 p. m.",
+    "canal": "Win Sports Online"
   },
   {
-    "partido": "Argentina - Ecuador",
-    "liga": "Partido amistoso",
-    "hora": "5:30 p. m.",
+    "partido": "Deportivo Cali - Millonarios",
+    "liga": "Liga Femenina",
+    "hora": "3:00 p. m.",
+    "canal": "Win Sports / Win Sports Online"
+  },
+  {
+    "partido": "Equidad - Junior",
+    "liga": "Liga Femenina",
+    "hora": "3:00 p. m.",
+    "canal": "Win Sports Online"
+  },
+  {
+    "partido": "Atlético Nacional - Cúcuta",
+    "liga": "Liga Femenina",
+    "hora": "3:00 p. m.",
+    "canal": "Win Sports / Win Sports Online"
+  },
+  {
+    "partido": "Santa Fe - América",
+    "liga": "Liga Femenina",
+    "hora": "3:00 p. m.",
+    "canal": "Win Sports +"
+  },
+  {
+    "partido": "Llaneros - Quindío",
+    "liga": "Torneo Betplay",
+    "hora": "5:10 p. m.",
+    "canal": "Win Sports"
+  },
+  {
+    "partido": "Cúcuta - Unión Magdalena",
+    "liga": "Torneo Betplay",
+    "hora": "5:10 p. m.",
+    "canal": "Win Sports +"
+  },
+  {
+    "partido": "Real Cartagena - Orsomarso",
+    "liga": "Torneo Betplay",
+    "hora": "7:15 p. m.",
+    "canal": "Win Sports +"
+  },
+  {
+    "partido": "Atlético Huila - Tigres",
+    "liga": "Torneo Betplay",
+    "hora": "7:15 p. m.",
     "canal": "Win Sports"
   }
 ]
