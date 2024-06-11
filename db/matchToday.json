@@ -1,74 +1,26 @@
 [
   {
-    "partido": "Países Bajos - Islandia",
+    "partido": "Moldavia - Ucrania",
+    "liga": "Partido amistoso",
+    "hora": "10:00 a. m.",
+    "canal": "ESPN 2 / Star +"
+  },
+  {
+    "partido": "San Marino - Chipre",
+    "liga": "Partido amistoso",
+    "hora": "11:00 a. m.",
+    "canal": "Star+"
+  },
+  {
+    "partido": "Portugal - Irlanda",
     "liga": "Partido amistoso",
     "hora": "1:45 p. m.",
     "canal": "ESPN / Star +"
   },
   {
-    "partido": "Polonia - Turquía",
+    "partido": "Irlanda del Norte - Andorra",
     "liga": "Partido amistoso",
     "hora": "1:45 p. m.",
     "canal": "Star +"
-  },
-  {
-    "partido": "Inter Palmira - Llaneros",
-    "liga": "Liga Femenina",
-    "hora": "3:00 p. m.",
-    "canal": "Win Sports Online"
-  },
-  {
-    "partido": "Deportivo Pasto - Alianza Petrolera",
-    "liga": "Liga Femenina",
-    "hora": "3:00 p. m.",
-    "canal": "Win Sports Online"
-  },
-  {
-    "partido": "Deportivo Cali - Millonarios",
-    "liga": "Liga Femenina",
-    "hora": "3:00 p. m.",
-    "canal": "Win Sports / Win Sports Online"
-  },
-  {
-    "partido": "Equidad - Junior",
-    "liga": "Liga Femenina",
-    "hora": "3:00 p. m.",
-    "canal": "Win Sports Online"
-  },
-  {
-    "partido": "Atlético Nacional - Cúcuta",
-    "liga": "Liga Femenina",
-    "hora": "3:00 p. m.",
-    "canal": "Win Sports / Win Sports Online"
-  },
-  {
-    "partido": "Santa Fe - América",
-    "liga": "Liga Femenina",
-    "hora": "3:00 p. m.",
-    "canal": "Win Sports +"
-  },
-  {
-    "partido": "Llaneros - Quindío",
-    "liga": "Torneo Betplay",
-    "hora": "5:10 p. m.",
-    "canal": "Win Sports"
-  },
-  {
-    "partido": "Cúcuta - Unión Magdalena",
-    "liga": "Torneo Betplay",
-    "hora": "5:10 p. m.",
-    "canal": "Win Sports +"
-  },
-  {
-    "partido": "Real Cartagena - Orsomarso",
-    "liga": "Torneo Betplay",
-    "hora": "7:15 p. m.",
-    "canal": "Win Sports +"
-  },
-  {
-    "partido": "Atlético Huila - Tigres",
-    "liga": "Torneo Betplay",
-    "hora": "7:15 p. m.",
-    "canal": "Win Sports"
   }
 ]
