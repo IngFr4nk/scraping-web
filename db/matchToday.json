@@ -1,26 +1,26 @@
 [
   {
-    "partido": "Moldavia - Ucrania",
-    "liga": "Partido amistoso",
-    "hora": "10:00 a. m.",
-    "canal": "ESPN 2 / Star +"
+    "partido": "Godoy Cruz - Rosario Central",
+    "liga": "Liga de Argentina",
+    "hora": "3:00 p. m.",
+    "canal": "TyC Sports Internacional"
   },
   {
-    "partido": "San Marino - Chipre",
-    "liga": "Partido amistoso",
-    "hora": "11:00 a. m.",
-    "canal": "Star+"
+    "partido": "Argentinos Juniors - Central Córdoba",
+    "liga": "Liga de Argentina",
+    "hora": "5:00 p. m.",
+    "canal": "TyC Sports Internacional"
   },
   {
-    "partido": "Portugal - Irlanda",
+    "partido": "Estados Unidos - Brasil",
     "liga": "Partido amistoso",
-    "hora": "1:45 p. m.",
+    "hora": "6:00 p. m.",
     "canal": "ESPN / Star +"
   },
   {
-    "partido": "Irlanda del Norte - Andorra",
-    "liga": "Partido amistoso",
-    "hora": "1:45 p. m.",
-    "canal": "Star +"
+    "partido": "Independiente - Banfield",
+    "liga": "Liga de Argentina",
+    "hora": "7:15 p. m.",
+    "canal": "TyC Sports Internacional"
   }
 ]
