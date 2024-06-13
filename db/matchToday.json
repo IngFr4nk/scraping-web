@@ -1,26 +1,14 @@
 [
   {
-    "partido": "Godoy Cruz - Rosario Central",
-    "liga": "Liga de Argentina",
-    "hora": "3:00 p. m.",
-    "canal": "TyC Sports Internacional"
-  },
-  {
-    "partido": "Argentinos Juniors - Central Córdoba",
-    "liga": "Liga de Argentina",
-    "hora": "5:00 p. m.",
-    "canal": "TyC Sports Internacional"
-  },
-  {
-    "partido": "Estados Unidos - Brasil",
-    "liga": "Partido amistoso",
-    "hora": "6:00 p. m.",
+    "partido": "Deportivo Riestra - River Plate",
+    "liga": "Superliga Argentina",
+    "hora": "1:00 p. m.",
     "canal": "ESPN / Star +"
   },
   {
-    "partido": "Independiente - Banfield",
-    "liga": "Liga de Argentina",
+    "partido": "Lanús - Racing Club",
+    "liga": "Superliga Argentina",
     "hora": "7:15 p. m.",
-    "canal": "TyC Sports Internacional"
+    "canal": "ESPN / Star +"
   }
 ]
