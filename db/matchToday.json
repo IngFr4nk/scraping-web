@@ -1,32 +1,38 @@
 [
   {
-    "partido": "Croacia - Albania",
+    "partido": "Eslovenia - Serbia",
     "liga": "Eurocopa 2024",
     "hora": "8:00 a. m.",
     "canal": "ESPN / Star +"
   },
   {
-    "partido": "Alemania - Hungría",
+    "partido": "Dinamarca - Inglaterra",
     "liga": "Eurocopa 2024",
     "hora": "11:00 a. m.",
     "canal": "ESPN / Star +"
   },
   {
-    "partido": "Escocia - Suiza",
+    "partido": "Llaneros - Millonarios",
+    "liga": "Liga Femenina",
+    "hora": "2:00 p. m.",
+    "canal": "Señal Colombia"
+  },
+  {
+    "partido": "España - Italia",
     "liga": "Eurocopa 2024",
     "hora": "2:00 p. m.",
     "canal": "ESPN / Star +"
   },
   {
-    "partido": "Llaneros - Orsomarso",
-    "liga": "Torneo Betplay",
-    "hora": "7:00 p. m.",
-    "canal": "Win Sports +"
+    "partido": "América - Deportivo Cali",
+    "liga": "Liga Femenina",
+    "hora": "4:00 p. m.",
+    "canal": "Señal Colombia"
   },
   {
-    "partido": "Boca Juniors - Almirante Brown",
-    "liga": "Eurocopa 2024",
-    "hora": "7:10 p. m.",
-    "canal": "TyC Sports"
+    "partido": "Argentina - Canadá",
+    "liga": "Copa América 2024",
+    "hora": "7:00 p. m.",
+    "canal": "Directv 610 / Caracol TV / RCN"
   }
 ]
