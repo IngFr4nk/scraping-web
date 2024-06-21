@@ -1,38 +1,26 @@
 [
   {
-    "partido": "Eslovenia - Serbia",
+    "partido": "Eslovaquia - Ucrania",
     "liga": "Eurocopa 2024",
     "hora": "8:00 a. m.",
     "canal": "ESPN / Star +"
   },
   {
-    "partido": "Dinamarca - Inglaterra",
+    "partido": "Polonia - Austria",
     "liga": "Eurocopa 2024",
     "hora": "11:00 a. m.",
     "canal": "ESPN / Star +"
   },
   {
-    "partido": "Llaneros - Millonarios",
-    "liga": "Liga Femenina",
-    "hora": "2:00 p. m.",
-    "canal": "Señal Colombia"
-  },
-  {
-    "partido": "España - Italia",
+    "partido": "Países Bajos - Francia",
     "liga": "Eurocopa 2024",
-    "hora": "2:00 p. m.",
+    "hora": "11:00 a. m.",
     "canal": "ESPN / Star +"
   },
   {
-    "partido": "América - Deportivo Cali",
-    "liga": "Liga Femenina",
-    "hora": "4:00 p. m.",
-    "canal": "Señal Colombia"
-  },
-  {
-    "partido": "Argentina - Canadá",
+    "partido": "Perú - Chile",
     "liga": "Copa América 2024",
     "hora": "7:00 p. m.",
-    "canal": "Directv 610 / Caracol TV / RCN"
+    "canal": "Directv 610"
   }
 ]
