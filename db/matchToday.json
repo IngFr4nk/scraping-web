@@ -1,26 +1,32 @@
 [
   {
-    "partido": "Eslovaquia - Ucrania",
+    "partido": "Escocia - Hungría",
     "liga": "Eurocopa 2024",
-    "hora": "8:00 a. m.",
+    "hora": "2:00 p. m.",
+    "canal": "Star +"
+  },
+  {
+    "partido": "Suiza - Alemania",
+    "liga": "Eurocopa 2024",
+    "hora": "2:00 p. m.",
     "canal": "ESPN / Star +"
   },
   {
-    "partido": "Polonia - Austria",
-    "liga": "Eurocopa 2024",
-    "hora": "11:00 a. m.",
-    "canal": "ESPN / Star +"
-  },
-  {
-    "partido": "Países Bajos - Francia",
-    "liga": "Eurocopa 2024",
-    "hora": "11:00 a. m.",
-    "canal": "ESPN / Star +"
-  },
-  {
-    "partido": "Perú - Chile",
+    "partido": "Estados Unidos - Bolivia",
     "liga": "Copa América 2024",
-    "hora": "7:00 p. m.",
+    "hora": "5:00 p. m.",
+    "canal": "Directv 610"
+  },
+  {
+    "partido": "Deportivo Cali - Millonarios",
+    "liga": "Liga Femenina",
+    "hora": "5:00 p. m.",
+    "canal": "Señal Colombia"
+  },
+  {
+    "partido": "Uruguay - Panamá",
+    "liga": "Copa América 2024",
+    "hora": "8:00 p. m.",
     "canal": "Directv 610"
   }
 ]
