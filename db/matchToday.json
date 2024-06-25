@@ -1,26 +1,38 @@
 [
   {
-    "partido": "Albania - España",
+    "partido": "Países Bajos - Austria",
     "liga": "Eurocopa 2024",
-    "hora": "2:00 p. m.",
-    "canal": "ESPN / Star +"
+    "hora": "11:00 a. m.",
+    "canal": "ESPN / Star+"
   },
   {
-    "partido": "Croacia - Italia",
+    "partido": "Francia - Polonia",
     "liga": "Eurocopa 2024",
-    "hora": "2:00 p. m.",
-    "canal": "Star +"
+    "hora": "11:00 a. m.",
+    "canal": "Star+"
   },
   {
-    "partido": "Colombia - Paraguay",
+    "partido": "Dinamarca - Serbia",
+    "liga": "Eurocopa 2024",
+    "hora": "2:00 p. m.",
+    "canal": "Star+"
+  },
+  {
+    "partido": "Inglaterra - Eslovenia",
+    "liga": "Eurocopa 2024",
+    "hora": "2:00 p. m.",
+    "canal": "ESPN / Star+"
+  },
+  {
+    "partido": "Perú - Canadá",
     "liga": "Copa América 2024",
     "hora": "5:00 p. m.",
-    "canal": "Directv 610 / Caracol TV / RCN"
+    "canal": "Directv 610"
   },
   {
-    "partido": "Brasil - Costa Rica",
+    "partido": "Chile - Argentina",
     "liga": "Copa América 2024",
     "hora": "8:00 p. m.",
-    "canal": "Directv 610 / Win Sports +"
+    "canal": "Directv 610"
   }
 ]
