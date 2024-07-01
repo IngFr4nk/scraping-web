@@ -1,32 +1,26 @@
 [
   {
-    "partido": "Inglaterra - Eslovaquia",
+    "partido": "Francia - Bélgica",
     "liga": "Eurocopa 2024",
     "hora": "11:00 a. m.",
-    "canal": "Disney +"
+    "canal": "Disney+"
   },
   {
-    "partido": "España - Georgia",
+    "partido": "Portugal - Eslovenia",
     "liga": "Eurocopa 2024",
     "hora": "2:00 p. m.",
-    "canal": "ESPN / Disney +"
+    "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Millonarios - Deportivo Cali",
-    "liga": "Liga Femenina",
-    "hora": "4:00 p. m.",
-    "canal": "Win Sports"
-  },
-  {
-    "partido": "Jamaica - Venezuela",
+    "partido": "Estados Unidos - Uruguay",
     "liga": "Copa América 2024",
-    "hora": "7:00 p. m.",
-    "canal": "Win Sports + / DSports"
+    "hora": "8:00 p. m.",
+    "canal": "Directv 610"
   },
   {
-    "partido": "México - Ecuador",
+    "partido": "Bolivia - Panamá",
     "liga": "Copa América 2024",
-    "hora": "7:00 p. m.",
-    "canal": "DSports"
+    "hora": "8:00 p. m.",
+    "canal": "Directv 612"
   }
 ]
