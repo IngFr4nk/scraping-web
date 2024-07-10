@@ -1,26 +1,14 @@
 [
   {
-    "partido": "España - Francia",
+    "partido": "Países Bajos - Inglaterra",
     "liga": "Eurocopa 2024",
     "hora": "2:00 p. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "River Plate - Millonarios",
-    "liga": "Partido amistoso",
-    "hora": "4:30 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Peñarol - San Lorenzo",
-    "liga": "Partido amistoso",
-    "hora": "5:00 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Argentina - Canadá",
+    "partido": "Colombia - Uruguay",
     "liga": "Copa América 2024",
     "hora": "7:00 p. m.",
-    "canal": "Directv 610"
+    "canal": "Caracol / RCN / Directv 610"
   }
 ]
