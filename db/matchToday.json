@@ -1,9 +1,21 @@
 [
   {
+    "partido": "Estados Unidos Femenino - México",
+    "liga": "Amistoso femenino",
+    "hora": "2:30 p. m.",
+    "canal": "Disney+"
+  },
+  {
     "partido": "River Plate - Olimpia",
     "liga": "Partido amistoso",
     "hora": "3:30 p. m.",
     "canal": "Disney+"
+  },
+  {
+    "partido": "Colombia Femenino - Ecuador",
+    "liga": "Amistoso femenino",
+    "hora": "4:00 p. m.",
+    "canal": "Caracol HD 2 / RCN HD2"
   },
   {
     "partido": "Canadá - Uruguay",
