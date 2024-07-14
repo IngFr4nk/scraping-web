@@ -1,26 +1,14 @@
 [
   {
-    "partido": "Estados Unidos Femenino - México",
-    "liga": "Amistoso femenino",
-    "hora": "2:30 p. m.",
-    "canal": "Disney+"
+    "partido": "España - Inglaterra",
+    "liga": "Eurocopa 2024",
+    "hora": "2:00 p. m.",
+    "canal": "ESPN / Disney+"
   },
   {
-    "partido": "River Plate - Olimpia",
-    "liga": "Partido amistoso",
-    "hora": "3:30 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Colombia Femenino - Ecuador",
-    "liga": "Amistoso femenino",
-    "hora": "4:00 p. m.",
-    "canal": "Caracol HD 2 / RCN HD2"
-  },
-  {
-    "partido": "Canadá - Uruguay",
+    "partido": "Argentina - Colombia",
     "liga": "Copa América 2024",
     "hora": "7:00 p. m.",
-    "canal": "Directv 610"
+    "canal": "Caracol / RCN / Directv 610"
   }
 ]
