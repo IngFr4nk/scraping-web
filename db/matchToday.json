@@ -1,20 +1,20 @@
 [
   {
-    "partido": "Envigado F.C - Santa Fe",
+    "partido": "Millonarios - Bucaramanga",
     "liga": "Liga BetPlay",
-    "hora": "4:00 p. m.",
+    "hora": "3:30 p. m.",
+    "canal": "Win Sports+"
+  },
+  {
+    "partido": "Atlético Nacional - América",
+    "liga": "Liga BetPlay",
+    "hora": "5:45 p. m.",
+    "canal": "Win Sports+"
+  },
+  {
+    "partido": "Junior - Boyacá Chicó",
+    "liga": "Liga BetPlay",
+    "hora": "8:00 p. m.",
     "canal": "Win Sports / Win Sports+"
-  },
-  {
-    "partido": "Deportivo Cali - Alianza FC",
-    "liga": "Liga BetPlay",
-    "hora": "6:10 p. m.",
-    "canal": "Win Sports+"
-  },
-  {
-    "partido": "Once Caldas - Águilas Doradas",
-    "liga": "Liga BetPlay",
-    "hora": "8:20 p. m.",
-    "canal": "Win Sports+"
   }
 ]
