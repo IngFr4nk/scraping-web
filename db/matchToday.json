@@ -1,26 +1,26 @@
 [
   {
-    "partido": "Patriotas F.C - América",
-    "liga": "Liga BetPlay",
-    "hora": "3:30 p. m.",
-    "canal": "Win Sports +"
+    "partido": "Southampton - Lazio",
+    "liga": "Partido amistoso",
+    "hora": "1:30 p. m.",
+    "canal": "Disney+"
   },
   {
-    "partido": "Boca Juniors - Barracas Central",
-    "liga": "Superliga Argentina",
-    "hora": "3:30 p. m.",
-    "canal": "ESPN / Disney+"
+    "partido": "Cádiz - Real Betis",
+    "liga": "Partido amistoso",
+    "hora": "1:30 p. m.",
+    "canal": "Disney+"
   },
   {
-    "partido": "Junior - Alianza FC",
-    "liga": "Liga BetPlay",
-    "hora": "5:45 p. m.",
-    "canal": "Win Sports +"
+    "partido": "Cúcuta - Real Cartagena",
+    "liga": "Torneo Betplay",
+    "hora": "4:00 p. m.",
+    "canal": "Win Sports+"
   },
   {
-    "partido": "Deportivo Cali - Independiente Medellín",
+    "partido": "Bucaramanga - Santa Fe",
     "liga": "Liga BetPlay",
-    "hora": "7:50 p. m.",
-    "canal": "Win Sports +"
+    "hora": "7:00 p. m.",
+    "canal": "Win Sports+"
   }
 ]
