@@ -1,20 +1,56 @@
 [
   {
-    "partido": "España Femenino - Alemania Femenino",
+    "partido": "Leeds - Portsmouth",
+    "liga": "Championship",
+    "hora": "6:30 a. m.",
+    "canal": "ESPN 5 / Disney+"
+  },
+  {
+    "partido": "Bayer Leverkusen - Real Betis",
+    "liga": "Partido amistoso",
+    "hora": "8:30 a. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Manchester City - Manchester United",
+    "liga": "Community Shield",
+    "hora": "9:00 a. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Brasil Femenino - Estados Unidos Femenino",
     "liga": "Olímpicos Femenino",
-    "hora": "8:00 a. m.",
+    "hora": "10:00 a. m.",
     "canal": "Claro Sports"
   },
   {
-    "partido": "Francia - España",
-    "liga": "Olímpicos Masculino",
-    "hora": "11:00 a. m.",
-    "canal": "Claro Sports"
+    "partido": "Atlético Nacional - Patriotas F.C",
+    "liga": "Liga BetPlay",
+    "hora": "3:30 p. m.",
+    "canal": "Win Sports+"
   },
   {
-    "partido": "Racing Club - Gimnasia de La Plata",
+    "partido": "Rivadavia - Boca Juniors",
     "liga": "Liga de Argentina",
-    "hora": "7:00 p. m.",
-    "canal": "TyC Sports Internacional"
+    "hora": "4:45 p. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Deportes Tolima - Equidad",
+    "liga": "Liga BetPlay",
+    "hora": "5:45 p. m.",
+    "canal": "Win Sports / Win Sports+"
+  },
+  {
+    "partido": "River Plate - Huracán",
+    "liga": "Liga de Argentina",
+    "hora": "6:30 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Boyacá Chicó - Deportivo Cali",
+    "liga": "Liga BetPlay",
+    "hora": "8:00 p. m.",
+    "canal": "Win Sports+"
   }
 ]
