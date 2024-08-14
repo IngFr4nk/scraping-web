@@ -1,38 +1,44 @@
 [
   {
-    "partido": "Gremio - Fluminense",
+    "partido": "Real Madrid - Atalanta",
+    "liga": "Supercopa de Europa",
+    "hora": "2:00 p. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Peñarol - The Strongest",
     "liga": "Copa Libertadores",
     "hora": "5:00 p. m.",
     "canal": "ESPN 2 / Disney+"
   },
   {
-    "partido": "Huachipato - Racing Club",
+    "partido": "Rosario Central - Fortaleza",
     "liga": "Copa Sudamericana",
     "hora": "5:00 p. m.",
+    "canal": "ESPN 5 / Disney+"
+  },
+  {
+    "partido": "Botafogo - Palmeiras",
+    "liga": "Copa Libertadores",
+    "hora": "7:30 p. m.",
+    "canal": "ESPN 5 / Disney+"
+  },
+  {
+    "partido": "Liga de Quito - Lanús",
+    "liga": "Copa Sudamericana",
+    "hora": "7:30 p. m.",
     "canal": "DSports"
   },
   {
-    "partido": "Boca Juniors de Cali - Cúcuta",
-    "liga": "Torneo Betplay",
-    "hora": "5:30 p. m.",
-    "canal": "Win Sports+"
-  },
-  {
-    "partido": "Águilas Doradas - Jaguares de Córdoba",
-    "liga": "Liga BetPlay",
+    "partido": "Palestino - Independiente Medellín",
+    "liga": "Copa Sudamericana",
     "hora": "7:30 p. m.",
-    "canal": "Win Sports / Win Sports+"
+    "canal": "ESPN / Disney+"
   },
   {
-    "partido": "San Lorenzo - Atlético Mineiro",
+    "partido": "Talleres de Córdoba - River Plate",
     "liga": "Copa Libertadores",
     "hora": "7:30 p. m.",
     "canal": "ESPN 2 / Disney+"
-  },
-  {
-    "partido": "Colo Colo - Junior",
-    "liga": "Copa Libertadores",
-    "hora": "7:30 p. m.",
-    "canal": "ESPN / Disney+"
   }
 ]
