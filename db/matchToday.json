@@ -1,44 +1,44 @@
 [
   {
-    "partido": "Real Madrid - Atalanta",
-    "liga": "Supercopa de Europa",
+    "partido": "Celta de Vigo - Alavés",
+    "liga": "Liga de Espana",
+    "hora": "12:00 p. m.",
+    "canal": "Directv 610"
+  },
+  {
+    "partido": "Konyaspor - Galatasaray",
+    "liga": "Liga de Turquía",
+    "hora": "1:00 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Ulm - Bayern Munich",
+    "liga": "Copa de Alemania",
+    "hora": "1:45 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Le Havre - Paris Saint-Germain",
+    "liga": "Liga de Francia",
+    "hora": "1:45 p. m.",
+    "canal": "Prime Video"
+  },
+  {
+    "partido": "Manchester United - Fulham",
+    "liga": "Liga de Inglaterra",
     "hora": "2:00 p. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Peñarol - The Strongest",
-    "liga": "Copa Libertadores",
-    "hora": "5:00 p. m.",
+    "partido": "Las Palmas - Sevilla",
+    "liga": "Liga de Espana",
+    "hora": "2:30 p. m.",
     "canal": "ESPN 2 / Disney+"
   },
   {
-    "partido": "Rosario Central - Fortaleza",
-    "liga": "Copa Sudamericana",
-    "hora": "5:00 p. m.",
-    "canal": "ESPN 5 / Disney+"
-  },
-  {
-    "partido": "Botafogo - Palmeiras",
-    "liga": "Copa Libertadores",
+    "partido": "Santa Fe - Deportivo Cali",
+    "liga": "Liga Femenina",
     "hora": "7:30 p. m.",
-    "canal": "ESPN 5 / Disney+"
-  },
-  {
-    "partido": "Liga de Quito - Lanús",
-    "liga": "Copa Sudamericana",
-    "hora": "7:30 p. m.",
-    "canal": "DSports"
-  },
-  {
-    "partido": "Palestino - Independiente Medellín",
-    "liga": "Copa Sudamericana",
-    "hora": "7:30 p. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "Talleres de Córdoba - River Plate",
-    "liga": "Copa Libertadores",
-    "hora": "7:30 p. m.",
-    "canal": "ESPN 2 / Disney+"
+    "canal": "Win Sports / Win Sports+"
   }
 ]
