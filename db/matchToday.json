@@ -1,50 +1,62 @@
 [
   {
-    "partido": "Lille - Slavia Praga",
+    "partido": "Young Boys - Galatasaray",
     "liga": "Champions League",
     "hora": "2:00 p. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Dynamo Zagreb - Qarabag",
+    "partido": "Malmoe - Sparta Praga",
     "liga": "Champions League",
     "hora": "2:00 p. m.",
-    "canal": "ESPN 3 / Disney+"
+    "canal": "ESPN 4 / Disney+"
   },
   {
-    "partido": "Racing Club - Huachipato",
+    "partido": "Fortaleza - Rosario Central",
     "liga": "Copa Sudamericana",
     "hora": "5:00 p. m.",
-    "canal": "Directv Sports"
+    "canal": "DSports"
   },
   {
-    "partido": "Fluminense - Gremio",
+    "partido": "The Strongest - Peñarol",
     "liga": "Copa Libertadores",
     "hora": "5:00 p. m.",
-    "canal": "ESPN 2 y Disney +"
+    "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Corinthians - Red Bull Bragantino",
-    "liga": "Copa Sudamericana",
-    "hora": "7:30 p. m.",
-    "canal": "ESPN 5 y Disney +"
-  },
-  {
-    "partido": "Junior - Colo Colo",
-    "liga": "Copa Libertadores",
-    "hora": "7:30 p. m.",
-    "canal": "ESPN y Disney +"
-  },
-  {
-    "partido": "Atlético Mineiro - San Lorenzo",
-    "liga": "Copa Libertadores",
-    "hora": "7:30 p. m.",
-    "canal": "ESPN 2 y Disney +"
-  },
-  {
-    "partido": "Deportivo Cali - Santa Fe",
-    "liga": "Liga BetPlay",
-    "hora": "8:00 p. m.",
+    "partido": "Atlético Huila - Atlético FC",
+    "liga": "Torneo Betplay",
+    "hora": "5:30 p. m.",
     "canal": "Win Sports+"
+  },
+  {
+    "partido": "Independiente Medellín - Palestino",
+    "liga": "Copa Sudamericana",
+    "hora": "7:30 p. m.",
+    "canal": "DSports"
+  },
+  {
+    "partido": "Palmeiras - Botafogo",
+    "liga": "Copa Libertadores",
+    "hora": "7:30 p. m.",
+    "canal": "ESPN 5 / Disney+"
+  },
+  {
+    "partido": "River Plate - Talleres de Córdoba",
+    "liga": "Copa Libertadores",
+    "hora": "7:30 p. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Lanús - Liga de Quito",
+    "liga": "Copa Sudamericana",
+    "hora": "7:30 p. m.",
+    "canal": "ESPN 2 / Disney+"
+  },
+  {
+    "partido": "Unión Magdalena - Cúcuta",
+    "liga": "Torneo Betplay",
+    "hora": "7:30 p. m.",
+    "canal": "Win Sports / Win Sports+"
   }
 ]
