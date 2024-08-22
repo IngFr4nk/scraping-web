@@ -1,62 +1,38 @@
 [
   {
-    "partido": "Young Boys - Galatasaray",
-    "liga": "Champions League",
-    "hora": "2:00 p. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "Malmoe - Sparta Praga",
-    "liga": "Champions League",
-    "hora": "2:00 p. m.",
-    "canal": "ESPN 4 / Disney+"
-  },
-  {
-    "partido": "Fortaleza - Rosario Central",
+    "partido": "Belgrano - Atlético Paranaense",
     "liga": "Copa Sudamericana",
     "hora": "5:00 p. m.",
-    "canal": "DSports"
+    "canal": "ESPN 5 / Star+"
   },
   {
-    "partido": "The Strongest - Peñarol",
+    "partido": "Sportivo Ameliano - Libertad",
+    "liga": "Copa Sudamericana",
+    "hora": "5:00 p. m.",
+    "canal": "Directv 610"
+  },
+  {
+    "partido": "Sao Paulo - Nacional (Uru)",
     "liga": "Copa Libertadores",
     "hora": "5:00 p. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Atlético Huila - Atlético FC",
+    "partido": "Bolívar - Flamengo",
+    "liga": "Copa Libertadores",
+    "hora": "7:30 p. m.",
+    "canal": "ESPN 2 / Star+"
+  },
+  {
+    "partido": "Cruzeiro - Boca Juniors",
+    "liga": "Copa Sudamericana",
+    "hora": "7:30 p. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Llaneros - Leones",
     "liga": "Torneo Betplay",
-    "hora": "5:30 p. m.",
+    "hora": "7:30 p. m.",
     "canal": "Win Sports+"
-  },
-  {
-    "partido": "Independiente Medellín - Palestino",
-    "liga": "Copa Sudamericana",
-    "hora": "7:30 p. m.",
-    "canal": "DSports"
-  },
-  {
-    "partido": "Palmeiras - Botafogo",
-    "liga": "Copa Libertadores",
-    "hora": "7:30 p. m.",
-    "canal": "ESPN 5 / Disney+"
-  },
-  {
-    "partido": "River Plate - Talleres de Córdoba",
-    "liga": "Copa Libertadores",
-    "hora": "7:30 p. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "Lanús - Liga de Quito",
-    "liga": "Copa Sudamericana",
-    "hora": "7:30 p. m.",
-    "canal": "ESPN 2 / Disney+"
-  },
-  {
-    "partido": "Unión Magdalena - Cúcuta",
-    "liga": "Torneo Betplay",
-    "hora": "7:30 p. m.",
-    "canal": "Win Sports / Win Sports+"
   }
 ]
