@@ -1,9 +1,9 @@
 [
   {
-    "partido": "Belgrano - Atlético Paranaense",
-    "liga": "Copa Sudamericana",
+    "partido": "Sao Paulo - Nacional (Uru)",
+    "liga": "Copa Libertadores",
     "hora": "5:00 p. m.",
-    "canal": "ESPN 5 / Star+"
+    "canal": "ESPN / Disney+"
   },
   {
     "partido": "Sportivo Ameliano - Libertad",
@@ -12,10 +12,10 @@
     "canal": "Directv 610"
   },
   {
-    "partido": "Sao Paulo - Nacional (Uru)",
-    "liga": "Copa Libertadores",
+    "partido": "Belgrano - Atlético Paranaense",
+    "liga": "Copa Sudamericana",
     "hora": "5:00 p. m.",
-    "canal": "ESPN / Disney+"
+    "canal": "ESPN 5 / Star+"
   },
   {
     "partido": "Bolívar - Flamengo",
