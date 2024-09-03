@@ -1,44 +1,32 @@
 [
   {
-    "partido": "Bogotá - Cúcuta",
-    "liga": "Torneo Betplay",
-    "hora": "3:00 p. m.",
-    "canal": "Win Sports+"
-  },
-  {
-    "partido": "Corea del Norte - Argentina Femenino",
+    "partido": "México - Australia Femenino",
     "liga": "Mundial Femenino Sub-20",
     "hora": "5:00 p. m.",
-    "canal": "DSports / Win Sports"
+    "canal": "Win Sports+ / Directv 616"
   },
   {
-    "partido": "Ghana - Austria",
+    "partido": "Francia Femenino - Brasil Femenino",
     "liga": "Mundial Femenino Sub-20",
     "hora": "5:00 p. m.",
-    "canal": "Win Sports Play"
+    "canal": "Directv 610"
   },
   {
-    "partido": "Real Cartagena - Quindío",
-    "liga": "Torneo Betplay",
-    "hora": "7:30 p. m.",
-    "canal": "Win Sports+"
-  },
-  {
-    "partido": "Deportivo Cali - Deportivo Pasto",
+    "partido": "Pereira - Once Caldas",
     "liga": "Liga BetPlay",
-    "hora": "7:30 p. m.",
+    "hora": "6:00 p. m.",
     "canal": "Win Sports+"
   },
   {
-    "partido": "Costa Rica Femenino - Paises Bajos Femenino",
+    "partido": "Colombia Femenino - Camerún",
     "liga": "Mundial Femenino Sub-20",
     "hora": "8:00 p. m.",
-    "canal": "Win Sports Play"
+    "canal": "Caracol / RCN / Directv Sports"
   },
   {
-    "partido": "Japón Femenino - Nueva Zelanda Femenino",
+    "partido": "Fiyi - Canadá",
     "liga": "Mundial Femenino Sub-20",
     "hora": "8:00 p. m.",
-    "canal": "DSports / Win Sports"
+    "canal": "Win Sports+ / Directv 616"
   }
 ]
