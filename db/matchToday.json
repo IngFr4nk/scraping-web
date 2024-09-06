@@ -1,32 +1,44 @@
 [
   {
-    "partido": "México - Australia Femenino",
+    "partido": "Kazajistán - Noruega",
+    "liga": "Liga Europea de Naciones",
+    "hora": "10:30 a. m.",
+    "canal": "ESPN 2 / Disney+"
+  },
+  {
+    "partido": "México - Colombia Femenino",
     "liga": "Mundial Femenino Sub-20",
     "hora": "5:00 p. m.",
-    "canal": "Win Sports+ / Directv 616"
-  },
-  {
-    "partido": "Francia Femenino - Brasil Femenino",
-    "liga": "Mundial Femenino Sub-20",
-    "hora": "5:00 p. m.",
-    "canal": "Directv 610"
-  },
-  {
-    "partido": "Pereira - Once Caldas",
-    "liga": "Liga BetPlay",
-    "hora": "6:00 p. m.",
-    "canal": "Win Sports+"
-  },
-  {
-    "partido": "Colombia Femenino - Camerún",
-    "liga": "Mundial Femenino Sub-20",
-    "hora": "8:00 p. m.",
     "canal": "Caracol / RCN / Directv Sports"
   },
   {
-    "partido": "Fiyi - Canadá",
+    "partido": "Australia Femenino - Camerún",
+    "liga": "Mundial Femenino Sub-20",
+    "hora": "5:00 p. m.",
+    "canal": "Directv 613 / Win Sports"
+  },
+  {
+    "partido": "Junior - Pereira",
+    "liga": "Liga BetPlay",
+    "hora": "6:30 p. m.",
+    "canal": "Win Sports+"
+  },
+  {
+    "partido": "Canadá - Brasil Femenino",
     "liga": "Mundial Femenino Sub-20",
     "hora": "8:00 p. m.",
-    "canal": "Win Sports+ / Directv 616"
+    "canal": "Directv 613"
+  },
+  {
+    "partido": "Fiyi - Francia Femenino",
+    "liga": "Mundial Femenino Sub-20",
+    "hora": "8:00 p. m.",
+    "canal": "Directv 616 / Win Sports"
+  },
+  {
+    "partido": "Perú - Colombia",
+    "liga": "Eliminatorias suramericanas",
+    "hora": "8:30 p. m.",
+    "canal": "Caracol / RCN"
   }
 ]
