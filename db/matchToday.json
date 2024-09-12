@@ -1,86 +1,32 @@
 [
   {
-    "partido": "Luxemburgo - Bielorrusia",
-    "liga": "Liga Europea de Naciones",
-    "hora": "8:00 a. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "Bulgaria - Irlanda del Norte",
-    "liga": "Liga Europea de Naciones",
-    "hora": "11:00 a. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Eslovaquia - Azerbaiyán",
-    "liga": "Liga Europea de Naciones",
-    "hora": "11:00 a. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Dinamarca - Serbia",
-    "liga": "Liga Europea de Naciones",
-    "hora": "11:00 a. m.",
-    "canal": "ESPN 2 / Disney+"
-  },
-  {
-    "partido": "Portugal - Escocia",
-    "liga": "Liga Europea de Naciones",
-    "hora": "1:45 p. m.",
-    "canal": "ESPN 2 / Disney+"
-  },
-  {
-    "partido": "Croacia - Polonia",
-    "liga": "Liga Europea de Naciones",
-    "hora": "1:45 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Suiza - España",
-    "liga": "Liga Europea de Naciones",
-    "hora": "1:45 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Argentina Sub 20 - Costa Rica",
+    "partido": "Alemania Femenino - Argentina Femenino",
     "liga": "Mundial Femenino Sub-20",
-    "hora": "3:00 p. m.",
-    "canal": "Win Sports / Dsports 610-1610"
+    "hora": "4:30 p. m.",
+    "canal": "DSports / Win Sports"
   },
   {
-    "partido": "Once Caldas - Millonarios",
+    "partido": "Corea del Norte - Austria",
+    "liga": "Mundial Femenino Sub-20",
+    "hora": "4:30 p. m.",
+    "canal": "DSports / Win Sports+"
+  },
+  {
+    "partido": "Pereira - Alianza FC",
     "liga": "Liga BetPlay",
-    "hora": "3:00 p. m.",
-    "canal": "Win Sports +"
+    "hora": "7:30 p. m.",
+    "canal": "Win Sports+"
   },
   {
-    "partido": "Paises Bajos Femenino - Corea del Norte",
+    "partido": "Francia Femenino - Paises Bajos Femenino",
     "liga": "Mundial Femenino Sub-20",
-    "hora": "3:00 p. m.",
-    "canal": "Dsports"
+    "hora": "8:00 p. m.",
+    "canal": "DSports / Win Sports"
   },
   {
-    "partido": "Alianza FC - Fortaleza F.C",
-    "liga": "Liga BetPlay",
-    "hora": "5:10 p. m.",
-    "canal": "Win Sports +"
-  },
-  {
-    "partido": "Nueva Zelanda Femenino - Ghana",
+    "partido": "Japón Femenino - Nigeria Femenino",
     "liga": "Mundial Femenino Sub-20",
-    "hora": "6:00 p. m.",
-    "canal": "Dsports 1616 616"
-  },
-  {
-    "partido": "Austria - Japón Sub 20",
-    "liga": "Mundial Femenino Sub-20",
-    "hora": "6:00 p. m.",
-    "canal": "Directv Sports"
-  },
-  {
-    "partido": "Deportivo Pasto - Independiente Medellín",
-    "liga": "Liga BetPlay",
-    "hora": "7:20 p. m.",
-    "canal": "Win Sports +"
+    "hora": "8:00 p. m.",
+    "canal": "DSports"
   }
 ]
