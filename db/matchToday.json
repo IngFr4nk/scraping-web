@@ -1,32 +1,38 @@
 [
   {
-    "partido": "Alemania Femenino - Argentina Femenino",
-    "liga": "Mundial Femenino Sub-20",
-    "hora": "4:30 p. m.",
-    "canal": "DSports / Win Sports"
+    "partido": "Borussia Dortmund - Heidenhem",
+    "liga": "Bundesliga",
+    "hora": "1:20 p. m.",
+    "canal": "Disney+ / ESPN2"
   },
   {
-    "partido": "Corea del Norte - Austria",
-    "liga": "Mundial Femenino Sub-20",
-    "hora": "4:30 p. m.",
-    "canal": "DSports / Win Sports+"
+    "partido": "Hull City - Sheffield United",
+    "liga": "EFL Cup",
+    "hora": "2:00 p. m.",
+    "canal": "Disney+ / ESPN5"
   },
   {
-    "partido": "Pereira - Alianza FC",
+    "partido": "Real Betis - Leganés",
+    "liga": "Liga de Espana",
+    "hora": "2:00 p. m.",
+    "canal": "Disney+ / ESPN"
+  },
+  {
+    "partido": "Patriotas F.C - Bucaramanga",
     "liga": "Liga BetPlay",
-    "hora": "7:30 p. m.",
-    "canal": "Win Sports+"
+    "hora": "4:00 p. m.",
+    "canal": "Win Sports y Win Sports +"
   },
   {
-    "partido": "Francia Femenino - Paises Bajos Femenino",
-    "liga": "Mundial Femenino Sub-20",
-    "hora": "8:00 p. m.",
-    "canal": "DSports / Win Sports"
+    "partido": "Jaguares de Córdoba - Envigado F.C",
+    "liga": "Liga BetPlay",
+    "hora": "6:30 p. m.",
+    "canal": "Win Sports y Win Sports+"
   },
   {
-    "partido": "Japón Femenino - Nigeria Femenino",
-    "liga": "Mundial Femenino Sub-20",
-    "hora": "8:00 p. m.",
-    "canal": "DSports"
+    "partido": "River Plate - Atlético Tucumán",
+    "liga": "Liga de Argentina",
+    "hora": "7:00 p. m.",
+    "canal": "Disney+ / ESPN"
   }
 ]
