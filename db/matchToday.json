@@ -1,164 +1,26 @@
 [
   {
-    "partido": "Southampton - Manchester United",
-    "liga": "Liga de Inglaterra",
-    "hora": "6:20 a. m.",
-    "canal": "Disney+ / ESPN"
-  },
-  {
-    "partido": "Mallorca - Villarreal",
-    "liga": "Liga de Espana",
-    "hora": "7:00 a. m.",
-    "canal": "Disney+ / ESPN3"
-  },
-  {
-    "partido": "Como - Bolognia",
+    "partido": "Parma - Udinese",
     "liga": "Serie A",
-    "hora": "8:00 a. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Friburgo - Bochum 1848",
-    "liga": "Bundesliga",
-    "hora": "8:20 a. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "RB Leipzig - Union Berlin",
-    "liga": "Bundesliga",
-    "hora": "8:30 a. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Wolfsburgo - Eintracht Braunschweig",
-    "liga": "Bundesliga",
-    "hora": "8:30 a. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Hoffenheim - Bayer Leverkusen",
-    "liga": "Bundesliga",
-    "hora": "8:30 a. m.",
-    "canal": "Disney+ / ESPN 2"
-  },
-  {
-    "partido": "Borussia Mönchengladbach - VfB Stuttgart",
-    "liga": "Bundesliga",
-    "hora": "8:30 a. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Brighton & Hove - Ipswich Town",
-    "liga": "Liga de Inglaterra",
-    "hora": "9:00 a. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Crystal Palace - Leicester City",
-    "liga": "Liga de Inglaterra",
-    "hora": "9:00 a. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Fulham - West Ham Utd.",
-    "liga": "Liga de Inglaterra",
-    "hora": "9:00 a. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Liverpool - Nottingham Forest",
-    "liga": "Liga de Inglaterra",
-    "hora": "9:00 a. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Manchester City - Brentford",
-    "liga": "Liga de Inglaterra",
-    "hora": "9:00 a. m.",
-    "canal": "Disney+ / ESPN"
-  },
-  {
-    "partido": "Espanyol - Alavés",
-    "liga": "Liga de Espana",
-    "hora": "9:15 a. m.",
-    "canal": "Dsports"
-  },
-  {
-    "partido": "Marsella - Niza",
-    "liga": "Liga de Francia",
-    "hora": "10:00 a. m.",
-    "canal": "Disney+ / ESPN3"
-  },
-  {
-    "partido": "Sevilla - Getafe",
-    "liga": "Liga de Espana",
     "hora": "11:30 a. m.",
-    "canal": "Dsports"
+    "canal": "Disney +"
   },
   {
-    "partido": "Aston Villa - Everton",
-    "liga": "Liga de Inglaterra",
-    "hora": "11:30 a. m.",
-    "canal": "Disney+ / ESPN"
-  },
-  {
-    "partido": "Holstein Kiel - Bayern Munich",
-    "liga": "Bundesliga",
-    "hora": "11:30 a. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Milán - Venezia",
+    "partido": "Lazio - Hellas Verona",
     "liga": "Serie A",
-    "hora": "1:30 p. m.",
-    "canal": "Disney+"
+    "hora": "1:45 p. m.",
+    "canal": "ESPN 2 y Disney +"
   },
   {
-    "partido": "Fortaleza F.C - Deportivo Pasto",
-    "liga": "Liga BetPlay",
-    "hora": "2:00 p. m.",
-    "canal": "Win Sports+"
-  },
-  {
-    "partido": "Paris Saint-Germain - Brest",
-    "liga": "Liga de Francia",
-    "hora": "2:00 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Bournemouth - Chelsea",
-    "liga": "Liga de Inglaterra",
-    "hora": "2:00 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Real Sociedad - Real Madrid",
+    "partido": "Rayo Vallecano - Osasuna",
     "liga": "Liga de Espana",
     "hora": "2:00 p. m.",
-    "canal": "Dsports"
+    "canal": "Directv Sports"
   },
   {
-    "partido": "Racing Club - Boca Juniors",
-    "liga": "Superliga Argentina",
-    "hora": "3:30 p. m.",
-    "canal": "Disney+ / ESPN"
-  },
-  {
-    "partido": "Once Caldas - Deportivo Cali",
-    "liga": "Liga BetPlay",
-    "hora": "4:10 p. m.",
-    "canal": "Win Sports y Win Sports+"
-  },
-  {
-    "partido": "Deportes Tolima - Boyacá Chicó",
-    "liga": "Liga BetPlay",
-    "hora": "6:20 p. m.",
-    "canal": "Win Sports y Win Sports+"
-  },
-  {
-    "partido": "Águilas Doradas - Independiente Medellín",
-    "liga": "Liga BetPlay",
-    "hora": "8:30 p. m.",
-    "canal": "Win Sports+"
+    "partido": "Alianza FC - Atlético Nacional",
+    "liga": "Copa Betplay",
+    "hora": "6:30 p. m.",
+    "canal": "Win Sports +"
   }
 ]
