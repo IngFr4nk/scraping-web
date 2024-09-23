@@ -1,74 +1,26 @@
 [
   {
-    "partido": "Juventus - PSV",
-    "liga": "Champions League",
-    "hora": "11:45 a. m.",
-    "canal": "ESPN / Disney+"
+    "partido": "Atalanta - Como",
+    "liga": "Serie A",
+    "hora": "1:45 p. m.",
+    "canal": "ESPN 3 / Disney+"
   },
   {
-    "partido": "Young Boys - Aston Villa",
-    "liga": "Champions League",
-    "hora": "11:45 a. m.",
-    "canal": "ESPN 2 / Disney+"
-  },
-  {
-    "partido": "Mallorca - Real Sociedad",
+    "partido": "Real Betis - Mallorca",
     "liga": "Liga de Espana",
-    "hora": "12:00 p. m.",
-    "canal": "ESPN 4 / Disney+"
-  },
-  {
-    "partido": "Milán - Liverpool",
-    "liga": "Champions League",
     "hora": "2:00 p. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Bayern Munich - Dynamo Zagreb",
-    "liga": "Champions League",
-    "hora": "2:00 p. m.",
-    "canal": "ESPN 5 / Disney+"
+    "partido": "Boca Juniors de Cali - Real Santander",
+    "liga": "Torneo Betplay",
+    "hora": "5:30 p. m.",
+    "canal": "Win Sports+"
   },
   {
-    "partido": "Sporting de Lisboa - Lille",
-    "liga": "Champions League",
-    "hora": "2:00 p. m.",
-    "canal": "ESPN 7 / Disney+"
-  },
-  {
-    "partido": "Real Madrid - VfB Stuttgart",
-    "liga": "Champions League",
-    "hora": "2:00 p. m.",
-    "canal": "ESPN 2 / Disney+"
-  },
-  {
-    "partido": "Envigado F.C - Jaguares de Córdoba",
-    "liga": "Copa Betplay",
-    "hora": "4:00 p. m.",
-    "canal": "Win Sports / Win Sports +"
-  },
-  {
-    "partido": "Deportes Tolima - Deportivo Pasto",
-    "liga": "Copa Betplay",
-    "hora": "7:00 p. m.",
-    "canal": "Win Sports / Win Sports +"
-  },
-  {
-    "partido": "Fortaleza - Corinthians",
-    "liga": "Copa Sudamericana",
-    "hora": "7:30 p. m.",
-    "canal": "ESPN 2 / Disney+"
-  },
-  {
-    "partido": "Colo Colo - River Plate",
-    "liga": "Copa Libertadores",
-    "hora": "7:30 p. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "Fortaleza F.C - Deportivo Cali",
-    "liga": "Copa Betplay",
-    "hora": "8:00 p. m.",
-    "canal": "Win Sports / Win Sports +"
+    "partido": "Bucaramanga - Atlético Nacional",
+    "liga": "Liga BetPlay",
+    "hora": "8:10 p. m.",
+    "canal": "Win Sports+"
   }
 ]
