@@ -1,26 +1,80 @@
 [
   {
-    "partido": "Atalanta - Como",
-    "liga": "Serie A",
-    "hora": "1:45 p. m.",
-    "canal": "ESPN 3 / Disney+"
+    "partido": "Lecce - Sassuolo",
+    "liga": "Copa de Italia",
+    "hora": "9:00 a. m.",
+    "canal": "Win Sports +"
   },
   {
-    "partido": "Real Betis - Mallorca",
+    "partido": "Cagliari - Cremonese",
+    "liga": "Copa de Italia",
+    "hora": "11:30 a. m.",
+    "canal": "Win Sports +"
+  },
+  {
+    "partido": "Sevilla - Valladolid",
     "liga": "Liga de Espana",
-    "hora": "2:00 p. m.",
+    "hora": "12:00 p. m.",
+    "canal": "Directv 610"
+  },
+  {
+    "partido": "Valencia CF - Osasuna",
+    "liga": "Liga de Espana",
+    "hora": "12:00 p. m.",
+    "canal": "ESPN 2 / Disney+"
+  },
+  {
+    "partido": "Manchester City - Watford",
+    "liga": "EFL Cup",
+    "hora": "1:45 p. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Boca Juniors de Cali - Real Santander",
+    "partido": "Wycombe Wanderers - Aston Villa",
+    "liga": "EFL Cup",
+    "hora": "2:00 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Torino - Empoli",
+    "liga": "Copa de Italia",
+    "hora": "2:00 p. m.",
+    "canal": "Win Sports +"
+  },
+  {
+    "partido": "Real Madrid - Alavés",
+    "liga": "Liga de Espana",
+    "hora": "2:00 p. m.",
+    "canal": "Directv 610"
+  },
+  {
+    "partido": "Orsomarso - Llaneros",
     "liga": "Torneo Betplay",
-    "hora": "5:30 p. m.",
+    "hora": "3:30 p. m.",
     "canal": "Win Sports+"
   },
   {
-    "partido": "Bucaramanga - Atlético Nacional",
-    "liga": "Liga BetPlay",
-    "hora": "8:10 p. m.",
-    "canal": "Win Sports+"
+    "partido": "Deportivo Cali - Fortaleza F.C",
+    "liga": "Copa Betplay",
+    "hora": "7:00 p. m.",
+    "canal": "Win Sports +"
+  },
+  {
+    "partido": "Barranquilla - Atlético Huila",
+    "liga": "Torneo Betplay",
+    "hora": "7:30 p. m.",
+    "canal": "Win Sports / Win Sports+"
+  },
+  {
+    "partido": "Corinthians - Fortaleza",
+    "liga": "Copa Sudamericana",
+    "hora": "7:30 p. m.",
+    "canal": "Directv 610"
+  },
+  {
+    "partido": "River Plate - Colo Colo",
+    "liga": "Copa Libertadores",
+    "hora": "7:30 p. m.",
+    "canal": "ESPN / Disney+"
   }
 ]
