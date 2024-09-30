@@ -1,32 +1,26 @@
 [
   {
-    "partido": "Borussia Dortmund - Bochum 1848",
-    "liga": "Bundesliga",
-    "hora": "1:30 p. m.",
-    "canal": "ESPN 5 y Disney +"
-  },
-  {
-    "partido": "Milán - Lecce",
+    "partido": "Parma - Cagliari",
     "liga": "Serie A",
     "hora": "1:45 p. m.",
-    "canal": "ESPN y Disney +"
+    "canal": "Disney+"
   },
   {
-    "partido": "Paris Saint-Germain - Rennes",
-    "liga": "Liga de Francia",
-    "hora": "2:00 p. m.",
-    "canal": "ESPN 4 y Disney +"
-  },
-  {
-    "partido": "Valladolid - Mallorca",
+    "partido": "Villarreal - Las Palmas",
     "liga": "Liga de Espana",
     "hora": "2:00 p. m.",
-    "canal": "Dsports"
+    "canal": "ESPN 5 / Disney+"
   },
   {
-    "partido": "Águilas Doradas - Pereira",
+    "partido": "Bournemouth - Southampton",
+    "liga": "Liga de Inglaterra",
+    "hora": "2:00 p. m.",
+    "canal": "ESPN 2 / Disney+"
+  },
+  {
+    "partido": "Patriotas F.C - Deportivo Cali",
     "liga": "Liga BetPlay",
-    "hora": "5:15 p. m.",
-    "canal": "Win Sports y Win Sports +"
+    "hora": "4:00 p. m.",
+    "canal": "Win Sports / Win Sports+"
   }
 ]
