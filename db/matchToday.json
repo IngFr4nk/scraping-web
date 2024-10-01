@@ -1,26 +1,62 @@
 [
   {
-    "partido": "Parma - Cagliari",
-    "liga": "Serie A",
-    "hora": "1:45 p. m.",
-    "canal": "Disney+"
+    "partido": "Red Bull Salzburg - Brest",
+    "liga": "Champions League",
+    "hora": "11:45 a. m.",
+    "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Villarreal - Las Palmas",
-    "liga": "Liga de Espana",
-    "hora": "2:00 p. m.",
-    "canal": "ESPN 5 / Disney+"
+    "partido": "VfB Stuttgart - Slavia Praga",
+    "liga": "Champions League",
+    "hora": "11:45 a. m.",
+    "canal": "ESPN 2 / Disney+"
   },
   {
-    "partido": "Bournemouth - Southampton",
-    "liga": "Liga de Inglaterra",
+    "partido": "Slovan Bratislava - Manchester City",
+    "liga": "Champions League",
     "hora": "2:00 p. m.",
     "canal": "ESPN 2 / Disney+"
   },
   {
-    "partido": "Patriotas F.C - Deportivo Cali",
-    "liga": "Liga BetPlay",
-    "hora": "4:00 p. m.",
-    "canal": "Win Sports / Win Sports+"
+    "partido": "Barcelona - Young Boys",
+    "liga": "Champions League",
+    "hora": "2:00 p. m.",
+    "canal": "ESPN 5 / Disney+"
+  },
+  {
+    "partido": "Arsenal - Paris Saint-Germain",
+    "liga": "Champions League",
+    "hora": "2:00 p. m.",
+    "canal": "ESPN 7 / Disney+"
+  },
+  {
+    "partido": "Inter - Estrella Roja",
+    "liga": "Champions League",
+    "hora": "2:00 p. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Bayer Leverkusen - Milán",
+    "liga": "Champions League",
+    "hora": "2:00 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Borussia Dortmund - Celtic",
+    "liga": "Champions League",
+    "hora": "2:00 p. m.",
+    "canal": "ESPN 4 / Disney+"
+  },
+  {
+    "partido": "PSV - Sporting de Lisboa",
+    "liga": "Champions League",
+    "hora": "2:00 p. m.",
+    "canal": "ESPN 6 / Disney+"
+  },
+  {
+    "partido": "Millonarios - Bucaramanga",
+    "liga": "Copa Betplay",
+    "hora": "8:00 p. m.",
+    "canal": "Win Sports+"
   }
 ]
