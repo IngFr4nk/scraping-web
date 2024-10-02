@@ -1,62 +1,56 @@
 [
   {
-    "partido": "Red Bull Salzburg - Brest",
+    "partido": "Girona - Feyenoord",
     "liga": "Champions League",
     "hora": "11:45 a. m.",
-    "canal": "ESPN / Disney+"
+    "canal": "ESPN 2 y Disney +"
   },
   {
-    "partido": "VfB Stuttgart - Slavia Praga",
+    "partido": "Shakhtar Donetsk - Atalanta",
     "liga": "Champions League",
     "hora": "11:45 a. m.",
-    "canal": "ESPN 2 / Disney+"
+    "canal": "ESPN y Disney +"
   },
   {
-    "partido": "Slovan Bratislava - Manchester City",
+    "partido": "Benfica - Atlético de Madrid",
     "liga": "Champions League",
     "hora": "2:00 p. m.",
-    "canal": "ESPN 2 / Disney+"
+    "canal": "ESPN 3 y Disney +"
   },
   {
-    "partido": "Barcelona - Young Boys",
+    "partido": "Liverpool - Bolognia",
     "liga": "Champions League",
     "hora": "2:00 p. m.",
-    "canal": "ESPN 5 / Disney+"
+    "canal": "ESPN y Disney +"
   },
   {
-    "partido": "Arsenal - Paris Saint-Germain",
+    "partido": "Lille - Real Madrid",
     "liga": "Champions League",
     "hora": "2:00 p. m.",
-    "canal": "ESPN 7 / Disney+"
+    "canal": "ESPN 2 y Disney +"
   },
   {
-    "partido": "Inter - Estrella Roja",
+    "partido": "RB Leipzig - Juventus",
     "liga": "Champions League",
     "hora": "2:00 p. m.",
-    "canal": "ESPN / Disney+"
+    "canal": "ESPN 5 y Disney +"
   },
   {
-    "partido": "Bayer Leverkusen - Milán",
+    "partido": "Dynamo Zagreb - Mónaco",
     "liga": "Champions League",
     "hora": "2:00 p. m.",
-    "canal": "Disney+"
+    "canal": "ESPN 4 y Disney +"
   },
   {
-    "partido": "Borussia Dortmund - Celtic",
+    "partido": "Sturm Graz - Brujas",
     "liga": "Champions League",
     "hora": "2:00 p. m.",
-    "canal": "ESPN 4 / Disney+"
+    "canal": "ESPN 6 y Disney +"
   },
   {
-    "partido": "PSV - Sporting de Lisboa",
+    "partido": "Aston Villa - Bayern Munich",
     "liga": "Champions League",
     "hora": "2:00 p. m.",
-    "canal": "ESPN 6 / Disney+"
-  },
-  {
-    "partido": "Millonarios - Bucaramanga",
-    "liga": "Copa Betplay",
-    "hora": "8:00 p. m.",
-    "canal": "Win Sports+"
+    "canal": "ESPN 7 y Disney +"
   }
 ]
