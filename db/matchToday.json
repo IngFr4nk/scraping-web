@@ -1,20 +1,32 @@
 [
   {
-    "partido": "Orsomarso - Atlético Huila",
-    "liga": "Torneo Betplay",
+    "partido": "Libertad - Corinthians",
+    "liga": "Copa Libertadores Femenina",
     "hora": "3:30 p. m.",
-    "canal": "Win Sports +"
+    "canal": "Pluto TV"
   },
   {
-    "partido": "Quindío - Boca Juniors de Cali",
-    "liga": "Torneo Betplay",
-    "hora": "5:45 p. m.",
+    "partido": "Envigado F.C - Deportivo Pasto",
+    "liga": "Liga BetPlay",
+    "hora": "4:00 p. m.",
+    "canal": "Win Sports / Win Sports+"
+  },
+  {
+    "partido": "Colo Colo - Always Ready",
+    "liga": "Copa Libertadores Femenina",
+    "hora": "6:00 p. m.",
+    "canal": "Pluto TV"
+  },
+  {
+    "partido": "Santos - Olimpia",
+    "liga": "Copa Libertadores Femenina",
+    "hora": "6:00 p. m.",
     "canal": "Win Sports"
   },
   {
-    "partido": "Bucaramanga - Millonarios",
-    "liga": "Copa Betplay",
-    "hora": "8:00 p. m.",
-    "canal": "Win Sports +"
+    "partido": "Atlético Nacional - Deportivo Cali",
+    "liga": "Liga BetPlay",
+    "hora": "7:30 p. m.",
+    "canal": "Win Sports+"
   }
 ]
