@@ -1,32 +1,74 @@
 [
   {
-    "partido": "Libertad - Corinthians",
+    "partido": "Inglaterra - Grecia",
+    "liga": "Liga Europea de Naciones",
+    "hora": "1:45 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Israel - Francia",
+    "liga": "Liga Europea de Naciones",
+    "hora": "1:45 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Italia - Bélgica",
+    "liga": "Liga Europea de Naciones",
+    "hora": "1:45 p. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Noruega - Eslovenia",
+    "liga": "Liga Europea de Naciones",
+    "hora": "1:45 p. m.",
+    "canal": "ESPN 2 / Disney+"
+  },
+  {
+    "partido": "Bolivia - Colombia",
+    "liga": "Eliminatorias suramericanas",
+    "hora": "3:00 p. m.",
+    "canal": "Caracol / RCN"
+  },
+  {
+    "partido": "Santa Fe - Ferroviaria",
     "liga": "Copa Libertadores Femenina",
     "hora": "3:30 p. m.",
-    "canal": "Pluto TV"
+    "canal": "Win Sports"
   },
   {
-    "partido": "Envigado F.C - Deportivo Pasto",
-    "liga": "Liga BetPlay",
+    "partido": "Venezuela - Argentina",
+    "liga": "Eliminatorias",
     "hora": "4:00 p. m.",
-    "canal": "Win Sports / Win Sports+"
+    "canal": "Caracol / RCN / Gol Caracol.com"
   },
   {
-    "partido": "Colo Colo - Always Ready",
-    "liga": "Copa Libertadores Femenina",
-    "hora": "6:00 p. m.",
-    "canal": "Pluto TV"
+    "partido": "Leones - Barranquilla",
+    "liga": "Torneo Betplay",
+    "hora": "5:30 p. m.",
+    "canal": "Win Sports"
   },
   {
-    "partido": "Santos - Olimpia",
+    "partido": "Santiago Morning - Deportivo Cali",
     "liga": "Copa Libertadores Femenina",
     "hora": "6:00 p. m.",
     "canal": "Win Sports"
   },
   {
-    "partido": "Atlético Nacional - Deportivo Cali",
+    "partido": "Independiente Medellín - Alianza FC",
     "liga": "Liga BetPlay",
-    "hora": "7:30 p. m.",
-    "canal": "Win Sports+"
+    "hora": "6:30 p. m.",
+    "canal": "Win Sports +"
+  },
+  {
+    "partido": "Chile - Brasil",
+    "liga": "Eliminatorias suramericanas",
+    "hora": "7:00 p. m.",
+    "canal": "Caracol / RCN"
+  },
+  {
+    "partido": "Santa Fe - Boyacá Chicó",
+    "liga": "Liga BetPlay",
+    "hora": "8:30 p. m.",
+    "canal": "Win Sports +"
   }
 ]
