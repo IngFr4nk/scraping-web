@@ -1,104 +1,104 @@
 [
   {
-    "partido": "Empoli - Napoli",
-    "liga": "Serie A",
-    "hora": "5:30 a. m.",
+    "partido": "Qarabag - Ajax",
+    "liga": "Liga de Europa",
+    "hora": "11:45 a. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Mallorca - Rayo Vallecano",
-    "liga": "Liga de Espana",
-    "hora": "7:00 a. m.",
-    "canal": "DSports"
-  },
-  {
-    "partido": "Venezia - Atalanta",
-    "liga": "Serie A",
-    "hora": "8:00 a. m.",
-    "canal": "ESPN 3 / Disney+"
-  },
-  {
-    "partido": "Lecce - Fiorentina",
-    "liga": "Serie A",
-    "hora": "8:00 a. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Wolverhampton - Manchester City",
-    "liga": "Liga de Inglaterra",
-    "hora": "8:00 a. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "Atlético de Madrid - Leganés",
-    "liga": "Liga de Espana",
-    "hora": "9:15 a. m.",
-    "canal": "ESPN 2 / Disney+"
-  },
-  {
-    "partido": "Nantes - Niza",
-    "liga": "Liga de Francia",
-    "hora": "10:00 a. m.",
+    "partido": "Maccabi Tel Aviv - Real Sociedad",
+    "liga": "Liga de Europa",
+    "hora": "11:45 a. m.",
     "canal": "ESPN 4 / Disney+"
   },
   {
-    "partido": "Liverpool - Chelsea",
-    "liga": "Liga de Inglaterra",
-    "hora": "10:30 a. m.",
+    "partido": "Ferencváros - Niza",
+    "liga": "Liga de Europa",
+    "hora": "11:45 a. m.",
+    "canal": "ESPN 3 / Star+"
+  },
+  {
+    "partido": "Roma - Dínamo Kiev",
+    "liga": "Liga de Europa",
+    "hora": "11:45 a. m.",
     "canal": "Disney+"
   },
   {
-    "partido": "Cagliari - Torino",
-    "liga": "Serie A",
-    "hora": "11:00 a. m.",
-    "canal": "Disney+"
+    "partido": "Eintracht Frankfurt - FK Rigas",
+    "liga": "Liga de Europa",
+    "hora": "11:45 a. m.",
+    "canal": "ESPN 2 / Disney+"
   },
   {
-    "partido": "Villarreal - Getafe",
-    "liga": "Liga de Espana",
-    "hora": "11:30 a. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "Roma - Inter",
-    "liga": "Serie A",
-    "hora": "1:45 p. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "Barcelona - Sevilla",
-    "liga": "Liga de Espana",
+    "partido": "FC Twente - Lazio",
+    "liga": "Liga de Europa",
     "hora": "2:00 p. m.",
-    "canal": "DSports"
+    "canal": "Disney+"
   },
   {
-    "partido": "Japón Femenino - Brasil Femenino",
-    "liga": "Mundial femenino Sub-17",
-    "hora": "3:00 p. m.",
-    "canal": "DSports"
+    "partido": "Malmoe - Olimpiakos",
+    "liga": "Liga de Europa",
+    "hora": "2:00 p. m.",
+    "canal": "Disney+"
   },
   {
-    "partido": "Equidad - América",
+    "partido": "Rangers - Steaua Bucarest",
+    "liga": "Liga de Europa",
+    "hora": "2:00 p. m.",
+    "canal": "ESPN 4 / Disney+"
+  },
+  {
+    "partido": "Athletic Club - Slavia Praga",
+    "liga": "Liga de Europa",
+    "hora": "2:00 p. m.",
+    "canal": "ESPN 3 / Disney+"
+  },
+  {
+    "partido": "Tottenham Hotspur - AZ Alkmaar",
+    "liga": "Liga de Europa",
+    "hora": "2:00 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Lyon - Besiktas",
+    "liga": "Liga de Europa",
+    "hora": "2:00 p. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Porto - Hoffenheim",
+    "liga": "Liga de Europa",
+    "hora": "2:00 p. m.",
+    "canal": "ESPN 2 / Disney+"
+  },
+  {
+    "partido": "Fenerbache - Manchester United",
+    "liga": "Liga de Europa",
+    "hora": "2:00 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Envigado F.C - Águilas Doradas",
     "liga": "Liga BetPlay",
-    "hora": "3:45 p. m.",
+    "hora": "4:00 p. m.",
+    "canal": "Win Sports / Win Sports+"
+  },
+  {
+    "partido": "Bucaramanga - Deportivo Pasto",
+    "liga": "Copa Betplay",
+    "hora": "6:30 p. m.",
     "canal": "Win Sports+"
   },
   {
-    "partido": "Junior - Pereira",
-    "liga": "Liga BetPlay",
-    "hora": "5:45 p. m.",
-    "canal": "Win Sports / Win Sports+"
+    "partido": "Corinthians - Racing Club",
+    "liga": "Copa Sudamericana",
+    "hora": "7:30 p. m.",
+    "canal": "Directv 610 / ESPN / Disney+"
   },
   {
-    "partido": "Inglaterra Femenino - México",
-    "liga": "Mundial femenino Sub-17",
-    "hora": "6:00 p. m.",
-    "canal": "DSports"
-  },
-  {
-    "partido": "Águilas Doradas - Bucaramanga",
-    "liga": "Liga BetPlay",
-    "hora": "8:00 p. m.",
-    "canal": "Win Sports / Win Sports+"
+    "partido": "Atlético Nacional - Jaguares de Córdoba",
+    "liga": "Copa Betplay",
+    "hora": "8:30 p. m.",
+    "canal": "Win Sports+"
   }
 ]
