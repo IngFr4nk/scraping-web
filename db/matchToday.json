@@ -1,26 +1,116 @@
 [
   {
-    "partido": "Mallorca - Athletic Club",
-    "liga": "Liga de Espana",
-    "hora": "3:00 p. m.",
+    "partido": "Feyenoord - Ajax",
+    "liga": "Liga de Holanda",
+    "hora": "12:00 p. m.",
     "canal": "ESPN 2 / Disney+"
   },
   {
-    "partido": "Cúcuta - Atlético Huila",
+    "partido": "Eintracht Frankfurt - Borussia Mönchengladbach",
+    "liga": "Copa de Alemania",
+    "hora": "12:00 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Empoli - Inter",
+    "liga": "Serie A",
+    "hora": "12:30 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Venezia - Udinese",
+    "liga": "Serie A",
+    "hora": "12:30 p. m.",
+    "canal": "ESPN 4 / Disney+"
+  },
+  {
+    "partido": "Brighton & Hove - Liverpool",
+    "liga": "EFL Cup",
+    "hora": "2:30 p. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Atalanta - Monza",
+    "liga": "Serie A",
+    "hora": "2:45 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Aston Villa - Crystal Palace",
+    "liga": "EFL Cup",
+    "hora": "2:45 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Preston North End - Arsenal",
+    "liga": "EFL Cup",
+    "hora": "2:45 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Manchester United - Leicester City",
+    "liga": "EFL Cup",
+    "hora": "2:45 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Juventus - Parma",
+    "liga": "Serie A",
+    "hora": "2:45 p. m.",
+    "canal": "ESPN 2 / Disney+"
+  },
+  {
+    "partido": "Newcastle - Chelsea",
+    "liga": "EFL Cup",
+    "hora": "2:45 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Mainz 05 - Bayern Munich",
+    "liga": "Copa de Alemania",
+    "hora": "2:45 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Tottenham Hotspur - Manchester City",
+    "liga": "EFL Cup",
+    "hora": "3:15 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Quindío - Llaneros",
     "liga": "Torneo Betplay",
     "hora": "4:00 p. m.",
     "canal": "Win Sports+"
   },
   {
-    "partido": "Real Cundinamarca - Unión Magdalena",
-    "liga": "Torneo Betplay",
-    "hora": "6:00 p. m.",
-    "canal": "Win Sports+"
+    "partido": "Lanús - Cruzeiro",
+    "liga": "Copa Sudamericana",
+    "hora": "5:00 p. m.",
+    "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Independiente Medellín - Jaguares de Córdoba",
-    "liga": "Liga BetPlay",
-    "hora": "8:15 p. m.",
+    "partido": "Estados Unidos Femenino - Corea del Norte",
+    "liga": "Mundial femenino Sub-17",
+    "hora": "6:00 p. m.",
+    "canal": "DSports"
+  },
+  {
+    "partido": "Real Cartagena - Orsomarso",
+    "liga": "Torneo Betplay",
+    "hora": "7:00 p. m.",
+    "canal": "Win Sports / Win Sports+"
+  },
+  {
+    "partido": "Peñarol - Botafogo",
+    "liga": "Copa Libertadores",
+    "hora": "7:30 p. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Bucaramanga - América",
+    "liga": "Copa Betplay",
+    "hora": "8:00 p. m.",
     "canal": "Win Sports+"
   }
 ]
