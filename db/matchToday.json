@@ -1,56 +1,74 @@
 [
   {
-    "partido": "Parma - Génoa",
-    "liga": "Serie A",
-    "hora": "12:30 p. m.",
+    "partido": "Slovan Bratislava - Dynamo Zagreb",
+    "liga": "Champions League",
+    "hora": "12:45 p. m.",
     "canal": "ESPN 2 / Disney+"
   },
   {
-    "partido": "Empoli - Como",
-    "liga": "Serie A",
-    "hora": "12:30 p. m.",
-    "canal": "Disney+"
+    "partido": "PSV - Girona",
+    "liga": "Champions League",
+    "hora": "12:45 p. m.",
+    "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Orsomarso - Quindío",
-    "liga": "Torneo Betplay",
-    "hora": "2:00 p. m.",
-    "canal": "Win Sports+"
+    "partido": "Sporting de Lisboa - Manchester City",
+    "liga": "Champions League",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN 7 / Disney+"
   },
   {
-    "partido": "Lazio - Cagliari",
-    "liga": "Serie A",
-    "hora": "2:45 p. m.",
-    "canal": "Disney+"
+    "partido": "Real Madrid - Milán",
+    "liga": "Champions League",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Fulham - Brentford",
-    "liga": "Liga de Inglaterra",
+    "partido": "Borussia Dortmund - Sturm Graz",
+    "liga": "Champions League",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN 6 / Disney+"
+  },
+  {
+    "partido": "Liverpool - Bayer Leverkusen",
+    "liga": "Champions League",
     "hora": "3:00 p. m.",
     "canal": "ESPN 2 / Disney+"
   },
   {
-    "partido": "Celta de Vigo - Getafe",
-    "liga": "Liga de Espana",
+    "partido": "Lille - Juventus",
+    "liga": "Champions League",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN 5 / Disney+"
+  },
+  {
+    "partido": "Bolognia - Mónaco",
+    "liga": "Champions League",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN 4 / Disney+"
+  },
+  {
+    "partido": "Celtic - RB Leipzig",
+    "liga": "Champions League",
     "hora": "3:00 p. m.",
     "canal": "ESPN 3 / Disney+"
   },
   {
-    "partido": "Unión Magdalena - Cúcuta",
-    "liga": "Torneo Betplay",
-    "hora": "4:00 p. m.",
-    "canal": "Win Sports+"
+    "partido": "San Lorenzo - Estudiantes",
+    "liga": "Liga de Argentina",
+    "hora": "4:45 p. m.",
+    "canal": "TyC Sports Internacional"
   },
   {
-    "partido": "Llaneros - Real Cartagena",
-    "liga": "Torneo Betplay",
-    "hora": "6:10 p. m.",
-    "canal": "Win Sports+"
+    "partido": "Independiente - Unión de Santa Fe",
+    "liga": "Liga de Argentina",
+    "hora": "7:00 p. m.",
+    "canal": "TyC Sports Internacional"
   },
   {
-    "partido": "Atlético Nacional - Santa Fe",
+    "partido": "Fortaleza F.C - Equidad",
     "liga": "Liga BetPlay",
-    "hora": "8:15 p. m.",
-    "canal": "Win Sports+"
+    "hora": "7:30 p. m.",
+    "canal": "Win Sports / Win Sports+"
   }
 ]
