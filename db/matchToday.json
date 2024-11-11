@@ -1,32 +1,26 @@
 [
   {
-    "partido": "Union Berlin - Friburgo",
-    "liga": "Bundesliga",
-    "hora": "2:30 p. m.",
-    "canal": "ESPN 5 / Disney+"
-  },
-  {
-    "partido": "Marsella - Auxerre",
-    "liga": "Liga de Francia",
-    "hora": "2:45 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Lecce - Empoli",
-    "liga": "Serie A",
-    "hora": "2:45 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Rayo Vallecano - Las Palmas",
-    "liga": "Liga de Espana",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "Santa Fe - Once Caldas",
+    "partido": "Equidad - Deportivo Pasto",
     "liga": "Liga BetPlay",
-    "hora": "8:20 p. m.",
-    "canal": "Win Sports+"
+    "hora": "2:00 p. m.",
+    "canal": "Win Sports / Win Sports +"
+  },
+  {
+    "partido": "Atlético Nacional - Independiente Medellín",
+    "liga": "Liga BetPlay",
+    "hora": "4:10 p. m.",
+    "canal": "Win Sports +"
+  },
+  {
+    "partido": "Once Caldas - Junior",
+    "liga": "Liga BetPlay",
+    "hora": "6:20 p. m.",
+    "canal": "Win Sports +"
+  },
+  {
+    "partido": "América - Santa Fe",
+    "liga": "Liga BetPlay",
+    "hora": "8:30 p. m.",
+    "canal": "Win Sports +"
   }
 ]
