@@ -1,14 +1,68 @@
 [
   {
-    "partido": "Quindío - Real Cartagena",
-    "liga": "Torneo Betplay",
-    "hora": "4:00 p. m.",
-    "canal": "Win Sports +"
+    "partido": "Chipre - Lituania",
+    "liga": "Liga Europea de Naciones",
+    "hora": "12:00 p. m.",
+    "canal": "ESPN 2 / Disney+"
   },
   {
-    "partido": "Llaneros - Orsomarso",
-    "liga": "Torneo Betplay",
-    "hora": "6:00 p. m.",
-    "canal": "Win Sports +"
+    "partido": "Irlanda del Norte - Bielorrusia",
+    "liga": "Liga Europea de Naciones",
+    "hora": "2:45 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Rumania - Kosovo",
+    "liga": "Liga Europea de Naciones",
+    "hora": "2:45 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Luxemburgo - Bulgaria",
+    "liga": "Liga Europea de Naciones",
+    "hora": "2:45 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Suiza - Serbia",
+    "liga": "Liga Europea de Naciones",
+    "hora": "2:45 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Escocia - Croacia",
+    "liga": "Liga Europea de Naciones",
+    "hora": "2:45 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Dinamarca - España",
+    "liga": "Liga Europea de Naciones",
+    "hora": "2:45 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Portugal - Polonia Femenino Sub-17",
+    "liga": "Liga Europea de Naciones",
+    "hora": "2:45 p. m.",
+    "canal": "ESPN 2 / Disney+"
+  },
+  {
+    "partido": "San Marino - Gibraltar",
+    "liga": "Liga Europea de Naciones",
+    "hora": "2:45 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Uruguay - Colombia",
+    "liga": "Eliminatorias suramericanas",
+    "hora": "7:00 p. m.",
+    "canal": "Caracol / RCN"
+  },
+  {
+    "partido": "Perú - Chile",
+    "liga": "Eliminatorias suramericanas",
+    "hora": "8:30 p. m.",
+    "canal": "Caracol / RCN"
   }
 ]
