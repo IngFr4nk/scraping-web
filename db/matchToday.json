@@ -1,68 +1,56 @@
 [
   {
-    "partido": "Chipre - Lituania",
+    "partido": "Azerbaiyán - Estonia",
+    "liga": "Liga Europea de Naciones",
+    "hora": "9:00 a. m.",
+    "canal": "ESPN 3 / Disney+"
+  },
+  {
+    "partido": "Georgia - Ucrania",
     "liga": "Liga Europea de Naciones",
     "hora": "12:00 p. m.",
-    "canal": "ESPN 2 / Disney+"
+    "canal": "Disney+"
   },
   {
-    "partido": "Irlanda del Norte - Bielorrusia",
+    "partido": "Turquía - Gales",
+    "liga": "Liga Europea de Naciones",
+    "hora": "12:00 p. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Montenegro - Islandia",
+    "liga": "Liga Europea de Naciones",
+    "hora": "12:00 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Andorra - Moldavia",
+    "liga": "Liga Europea de Naciones",
+    "hora": "12:00 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Países Bajos - Hungría",
     "liga": "Liga Europea de Naciones",
     "hora": "2:45 p. m.",
     "canal": "Disney+"
   },
   {
-    "partido": "Rumania - Kosovo",
+    "partido": "Alemania - Bosnia",
     "liga": "Liga Europea de Naciones",
     "hora": "2:45 p. m.",
     "canal": "Disney+"
   },
   {
-    "partido": "Luxemburgo - Bulgaria",
+    "partido": "Albania - República Checa",
+    "liga": "Liga Europea de Naciones",
+    "hora": "2:45 p. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Suecia - Eslovaquia",
     "liga": "Liga Europea de Naciones",
     "hora": "2:45 p. m.",
     "canal": "Disney+"
-  },
-  {
-    "partido": "Suiza - Serbia",
-    "liga": "Liga Europea de Naciones",
-    "hora": "2:45 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Escocia - Croacia",
-    "liga": "Liga Europea de Naciones",
-    "hora": "2:45 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Dinamarca - España",
-    "liga": "Liga Europea de Naciones",
-    "hora": "2:45 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Portugal - Polonia Femenino Sub-17",
-    "liga": "Liga Europea de Naciones",
-    "hora": "2:45 p. m.",
-    "canal": "ESPN 2 / Disney+"
-  },
-  {
-    "partido": "San Marino - Gibraltar",
-    "liga": "Liga Europea de Naciones",
-    "hora": "2:45 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Uruguay - Colombia",
-    "liga": "Eliminatorias suramericanas",
-    "hora": "7:00 p. m.",
-    "canal": "Caracol / RCN"
-  },
-  {
-    "partido": "Perú - Chile",
-    "liga": "Eliminatorias suramericanas",
-    "hora": "8:30 p. m.",
-    "canal": "Caracol / RCN"
   }
 ]
