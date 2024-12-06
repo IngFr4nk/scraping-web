@@ -1,74 +1,38 @@
 [
   {
-    "partido": "Sturm Graz - Girona",
-    "liga": "Champions League",
-    "hora": "12:45 p. m.",
+    "partido": "Lille - Brest",
+    "liga": "Liga de Francia",
+    "hora": "12:00 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Inter - Parma",
+    "liga": "Serie A",
+    "hora": "12:30 p. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Estrella Roja - VfB Stuttgart",
-    "liga": "Champions League",
-    "hora": "12:45 p. m.",
-    "canal": "ESPN 2 / Disney+"
+    "partido": "VfB Stuttgart - Union Berlin",
+    "liga": "Bundesliga",
+    "hora": "2:30 p. m.",
+    "canal": "Disney+"
   },
   {
-    "partido": "Dynamo Zagreb - Borussia Dortmund",
-    "liga": "Champions League",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN 5 / Disney+"
+    "partido": "Atalanta - Milán",
+    "liga": "Serie A",
+    "hora": "2:45 p. m.",
+    "canal": "Disney+"
   },
   {
-    "partido": "Liverpool - Real Madrid",
-    "liga": "Champions League",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "PSV - Shakhtar Donetsk",
-    "liga": "Champions League",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN 4 / Disney+"
-  },
-  {
-    "partido": "Celtic - Brujas",
-    "liga": "Champions League",
+    "partido": "Celta de Vigo - Mallorca",
+    "liga": "Liga de Espana",
     "hora": "3:00 p. m.",
     "canal": "ESPN 3 / Disney+"
   },
   {
-    "partido": "Mónaco - Benfica",
-    "liga": "Champions League",
+    "partido": "Auxerre - Paris Saint-Germain",
+    "liga": "Liga de Francia",
     "hora": "3:00 p. m.",
-    "canal": "ESPN 7 / Disney+"
-  },
-  {
-    "partido": "Aston Villa - Juventus",
-    "liga": "Champions League",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN 2 / Disney+"
-  },
-  {
-    "partido": "Bolognia - Lille",
-    "liga": "Champions League",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN 6 / Disney+"
-  },
-  {
-    "partido": "Deportes Tolima - América",
-    "liga": "Liga BetPlay",
-    "hora": "6:30 p. m.",
-    "canal": "Win Sports+"
-  },
-  {
-    "partido": "Boca Juniors - Vélez Sarsfield",
-    "liga": "Copa de Argentina",
-    "hora": "7:10 p. m.",
-    "canal": "TyC Sports Internacional"
-  },
-  {
-    "partido": "Once Caldas - Junior",
-    "liga": "Liga BetPlay",
-    "hora": "8:30 p. m.",
-    "canal": "Win Sports+"
+    "canal": "ESPN 4 / Disney+"
   }
 ]
