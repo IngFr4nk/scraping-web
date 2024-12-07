@@ -1,38 +1,98 @@
 [
   {
-    "partido": "Lille - Brest",
-    "liga": "Liga de Francia",
-    "hora": "12:00 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Inter - Parma",
-    "liga": "Serie A",
-    "hora": "12:30 p. m.",
+    "partido": "Everton - Liverpool",
+    "liga": "Liga de Inglaterra",
+    "hora": "7:30 a. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "VfB Stuttgart - Union Berlin",
-    "liga": "Bundesliga",
-    "hora": "2:30 p. m.",
+    "partido": "Las Palmas - Valladolid",
+    "liga": "Liga de Espana",
+    "hora": "8:00 a. m.",
+    "canal": "ESPN 4 / Disney+"
+  },
+  {
+    "partido": "Génoa - Torino",
+    "liga": "Serie A",
+    "hora": "9:00 a. m.",
     "canal": "Disney+"
   },
   {
-    "partido": "Atalanta - Milán",
+    "partido": "Bayern Munich - Heidenhem",
+    "liga": "Bundesliga",
+    "hora": "9:30 a. m.",
+    "canal": "ESPN 5 / Disney+"
+  },
+  {
+    "partido": "Holstein Kiel - RB Leipzig",
+    "liga": "Bundesliga",
+    "hora": "9:30 a. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Crystal Palace - Manchester City",
+    "liga": "Liga de Francia",
+    "hora": "10:00 a. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Aston Villa - Southampton",
+    "liga": "Liga de Inglaterra",
+    "hora": "10:00 a. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Real Betis - Barcelona",
+    "liga": "Liga de Espana",
+    "hora": "10:15 a. m.",
+    "canal": "DSports"
+  },
+  {
+    "partido": "Mónaco - Toulouse",
+    "liga": "Liga de Francia",
+    "hora": "11:00 a. m.",
+    "canal": "ESPN 4 / Disney+"
+  },
+  {
+    "partido": "Juventus - Bolognia",
+    "liga": "Serie A",
+    "hora": "12:00 p. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Valencia CF - Rayo Vallecano",
+    "liga": "Liga de Espana",
+    "hora": "12:30 p. m.",
+    "canal": "ESPN 2 / Disney+"
+  },
+  {
+    "partido": "Borussia Mönchengladbach - Borussia Dortmund",
+    "liga": "Bundesliga",
+    "hora": "12:30 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Niza - Le Havre",
+    "liga": "Liga de Francia",
+    "hora": "1:00 p. m.",
+    "canal": "ESPN 4 / Disney+"
+  },
+  {
+    "partido": "Roma - Lecce",
     "liga": "Serie A",
     "hora": "2:45 p. m.",
+    "canal": "ESPN 2 / Disney+"
+  },
+  {
+    "partido": "Girona - Real Madrid",
+    "liga": "Liga de Espana",
+    "hora": "3:00 p. m.",
     "canal": "Disney+"
   },
   {
-    "partido": "Celta de Vigo - Mallorca",
-    "liga": "Liga de Espana",
+    "partido": "Bayer Leverkusen - Pauli",
+    "liga": "Bundesliga",
     "hora": "3:00 p. m.",
-    "canal": "ESPN 3 / Disney+"
-  },
-  {
-    "partido": "Auxerre - Paris Saint-Germain",
-    "liga": "Liga de Francia",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN 4 / Disney+"
+    "canal": "Disney+"
   }
 ]
