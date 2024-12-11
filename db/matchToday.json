@@ -1,62 +1,68 @@
 [
   {
-    "partido": "Dynamo Zagreb - Celtic",
+    "partido": "Fenerbache - Athletic Club",
+    "liga": "Liga de Europa",
+    "hora": "10:30 a. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Lille - Sturm Graz",
     "liga": "Champions League",
     "hora": "12:45 p. m.",
     "canal": "ESPN 2 / Disney+"
   },
   {
-    "partido": "Girona - Liverpool",
+    "partido": "Atlético de Madrid - Slovan Bratislava",
     "liga": "Champions League",
     "hora": "12:45 p. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Stade Brestois - PSV",
-    "liga": "Champions League",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN 6 / Disney+"
-  },
-  {
-    "partido": "Red Bull Salzburg - Paris Saint-Germain",
-    "liga": "Champions League",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN 5 / Disney+"
-  },
-  {
-    "partido": "Atalanta - Real Madrid",
+    "partido": "Juventus - Manchester City",
     "liga": "Champions League",
     "hora": "3:00 p. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Shakhtar Donetsk - Bayern Munich",
-    "liga": "Champions League",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN 3 / Disney+"
-  },
-  {
-    "partido": "Bayer Leverkusen - Inter",
+    "partido": "Borussia Dortmund - Barcelona",
     "liga": "Champions League",
     "hora": "3:00 p. m.",
     "canal": "ESPN 2 / Disney+"
   },
   {
-    "partido": "Brujas - Sporting de Lisboa",
-    "liga": "Champions League",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN 4 / Disney+"
-  },
-  {
-    "partido": "RB Leipzig - Aston Villa",
+    "partido": "Benfica - Bolognia",
     "liga": "Champions League",
     "hora": "3:00 p. m.",
     "canal": "ESPN 7 / Disney+"
   },
   {
-    "partido": "Unión Magdalena - Llaneros",
-    "liga": "Torneo Betplay",
-    "hora": "7:00 p. m.",
-    "canal": "Win Sports / Win Sports+"
+    "partido": "Feyenoord - Sparta Praga",
+    "liga": "Champions League",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN 4 / Disney+"
+  },
+  {
+    "partido": "Milán - Estrella Roja",
+    "liga": "Champions League",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN 3 / Disney+"
+  },
+  {
+    "partido": "Arsenal - Mónaco",
+    "liga": "Champions League",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN 5 / Disney+"
+  },
+  {
+    "partido": "VfB Stuttgart - Young Boys",
+    "liga": "Champions League",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN 6 / Disney+"
+  },
+  {
+    "partido": "Vélez Sarsfield - Central Córdoba",
+    "liga": "Copa de Argentina",
+    "hora": "7:10 p. m.",
+    "canal": "TyC Sports Internacional"
   }
 ]
