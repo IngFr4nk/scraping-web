@@ -1,68 +1,38 @@
 [
   {
-    "partido": "Fenerbache - Athletic Club",
-    "liga": "Liga de Europa",
-    "hora": "10:30 a. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "Lille - Sturm Graz",
-    "liga": "Champions League",
-    "hora": "12:45 p. m.",
-    "canal": "ESPN 2 / Disney+"
-  },
-  {
-    "partido": "Atlético de Madrid - Slovan Bratislava",
-    "liga": "Champions League",
-    "hora": "12:45 p. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "Juventus - Manchester City",
-    "liga": "Champions League",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "Borussia Dortmund - Barcelona",
-    "liga": "Champions League",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN 2 / Disney+"
-  },
-  {
-    "partido": "Benfica - Bolognia",
-    "liga": "Champions League",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN 7 / Disney+"
-  },
-  {
-    "partido": "Feyenoord - Sparta Praga",
-    "liga": "Champions League",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN 4 / Disney+"
-  },
-  {
-    "partido": "Milán - Estrella Roja",
-    "liga": "Champions League",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN 3 / Disney+"
-  },
-  {
-    "partido": "Arsenal - Mónaco",
-    "liga": "Champions League",
-    "hora": "3:00 p. m.",
+    "partido": "Adana Demirspor - Besiktas",
+    "liga": "Liga de Turquía",
+    "hora": "11:00 a. m.",
     "canal": "ESPN 5 / Disney+"
   },
   {
-    "partido": "VfB Stuttgart - Young Boys",
-    "liga": "Champions League",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN 6 / Disney+"
+    "partido": "Galatasaray - Trabzonspor",
+    "liga": "Liga de Turquía",
+    "hora": "1:00 p. m.",
+    "canal": "Disney+"
   },
   {
-    "partido": "Vélez Sarsfield - Central Córdoba",
-    "liga": "Copa de Argentina",
-    "hora": "7:10 p. m.",
+    "partido": "Lazio - Inter",
+    "liga": "Serie A",
+    "hora": "2:45 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Bournemouth - West Ham Utd.",
+    "liga": "Liga de Inglaterra",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN 2 / Disney+"
+  },
+  {
+    "partido": "Rivadavia - Deportivo Riestra",
+    "liga": "Liga de Argentina",
+    "hora": "7:00 p. m.",
     "canal": "TyC Sports Internacional"
+  },
+  {
+    "partido": "Atlético Tucumán - Central Córdoba",
+    "liga": "Liga de Argentina",
+    "hora": "7:00 p. m.",
+    "canal": "Disney+"
   }
 ]
