@@ -1,14 +1,62 @@
 [
   {
-    "partido": "Real Madrid - Chelsea",
-    "liga": "Champions femenina",
-    "hora": "12:45 p. m.",
-    "canal": "DAZN YouTube"
+    "partido": "Real Madrid - Pachuca",
+    "liga": "Intercontinental",
+    "hora": "12:00 p. m.",
+    "canal": "Directv 610"
   },
   {
-    "partido": "Juventus - Cagliari",
+    "partido": "Atalanta - Cesena",
+    "liga": "Copa de Italia",
+    "hora": "12:30 p. m.",
+    "canal": "Directv 612 / Win Sports+"
+  },
+  {
+    "partido": "Arsenal - Crystal Palace",
+    "liga": "EFL Cup",
+    "hora": "2:30 p. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Newcastle - Brentford",
+    "liga": "EFL Cup",
+    "hora": "2:45 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Southampton - Liverpool",
+    "liga": "EFL Cup",
+    "hora": "3:00 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Roma - Sampdoria",
     "liga": "Copa de Italia",
     "hora": "3:00 p. m.",
-    "canal": "Directv 610 / Win Sports+"
+    "canal": "Directv 610"
+  },
+  {
+    "partido": "Mónaco - Paris Saint-Germain",
+    "liga": "Liga de Francia",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN 2 / Disney+"
+  },
+  {
+    "partido": "Villarreal - Rayo Vallecano",
+    "liga": "Liga de Espana",
+    "hora": "3:30 p. m.",
+    "canal": "ESPN 3 / Disney+"
+  },
+  {
+    "partido": "Espanyol - Valencia CF",
+    "liga": "Liga de Espana",
+    "hora": "3:30 p. m.",
+    "canal": "ESPN 4 / Disney+"
+  },
+  {
+    "partido": "Deportes Tolima - Atlético Nacional",
+    "liga": "Liga BetPlay",
+    "hora": "7:30 p. m.",
+    "canal": "Win Sports+"
   }
 ]
