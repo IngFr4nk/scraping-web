@@ -1,26 +1,116 @@
 [
   {
-    "partido": "Bayern Munich - RB Leipzig",
-    "liga": "Bundesliga",
-    "hora": "2:30 p. m.",
+    "partido": "Aston Villa - Manchester City",
+    "liga": "Liga de Inglaterra",
+    "hora": "7:30 a. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Hellas Verona - Milán",
+    "partido": "Getafe - Mallorca",
+    "liga": "Liga de Espana",
+    "hora": "8:00 a. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Torino - Bolognia",
+    "liga": "Serie A",
+    "hora": "9:00 a. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "VfB Stuttgart - Pauli",
+    "liga": "Bundesliga",
+    "hora": "9:30 a. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Werder Bremen - Union Berlin",
+    "liga": "Bundesliga",
+    "hora": "9:30 a. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Eintracht Frankfurt - Mainz 05",
+    "liga": "Bundesliga",
+    "hora": "9:30 a. m.",
+    "canal": "ESPN 2 / Disney+"
+  },
+  {
+    "partido": "Hoffenheim - Borussia Mönchengladbach",
+    "liga": "Bundesliga",
+    "hora": "9:30 a. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Holstein Kiel - FC Augsburgo",
+    "liga": "Bundesliga",
+    "hora": "9:30 a. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Ipswich Town - Newcastle",
+    "liga": "Liga de Inglaterra",
+    "hora": "10:00 a. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "West Ham Utd. - Brighton & Hove",
+    "liga": "Liga de Inglaterra",
+    "hora": "10:00 a. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Brentford - Nottingham Forest",
+    "liga": "Liga de Inglaterra",
+    "hora": "10:00 a. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Celta de Vigo - Real Sociedad",
+    "liga": "Liga de Espana",
+    "hora": "10:15 a. m.",
+    "canal": "Directv 610"
+  },
+  {
+    "partido": "Besiktas - Alanyaspor",
+    "liga": "Liga de Turquía",
+    "hora": "11:00 a. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Génoa - Napoli",
+    "liga": "Serie A",
+    "hora": "12:00 p. m.",
+    "canal": "ESPN 2 / Disney+"
+  },
+  {
+    "partido": "Bayer Leverkusen - Friburgo",
+    "liga": "Bundesliga",
+    "hora": "12:30 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Osasuna - Athletic Club",
+    "liga": "Liga de Espana",
+    "hora": "12:30 p. m.",
+    "canal": "Directv 610"
+  },
+  {
+    "partido": "Crystal Palace - Arsenal",
+    "liga": "Liga de Inglaterra",
+    "hora": "12:30 p. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Lecce - Lazio",
     "liga": "Serie A",
     "hora": "2:45 p. m.",
-    "canal": "Disney+"
+    "canal": "ESPN 2 / Disney+"
   },
   {
-    "partido": "Luton Town - Derby County",
-    "liga": "Championship",
-    "hora": "3:00 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Girona - Valladolid",
+    "partido": "Barcelona - Atlético de Madrid",
     "liga": "Liga de Espana",
     "hora": "3:00 p. m.",
-    "canal": "ESPN 4 / Disney+"
+    "canal": "ESPN / Disney+"
   }
 ]
