@@ -1,116 +1,116 @@
 [
   {
-    "partido": "Aston Villa - Manchester City",
-    "liga": "Liga de Inglaterra",
-    "hora": "7:30 a. m.",
-    "canal": "ESPN / Disney+"
+    "partido": "Sparta Rotterdam - Ajax",
+    "liga": "Liga de Holanda",
+    "hora": "6:15 a. m.",
+    "canal": "Disney+ / ESPN"
   },
   {
-    "partido": "Getafe - Mallorca",
-    "liga": "Liga de Espana",
-    "hora": "8:00 a. m.",
+    "partido": "Roma - Parma",
+    "liga": "Serie A",
+    "hora": "6:30 a. m.",
     "canal": "Disney+"
   },
   {
-    "partido": "Torino - Bolognia",
+    "partido": "Valencia CF - Alavés",
+    "liga": "Liga de Espana",
+    "hora": "8:00 a. m.",
+    "canal": "Disney+ / ESPN 3"
+  },
+  {
+    "partido": "PSV - Feyenoord",
+    "liga": "Liga de Holanda",
+    "hora": "8:30 a. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Venezia - Cagliari",
     "liga": "Serie A",
     "hora": "9:00 a. m.",
     "canal": "Disney+"
   },
   {
-    "partido": "VfB Stuttgart - Pauli",
-    "liga": "Bundesliga",
-    "hora": "9:30 a. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Werder Bremen - Union Berlin",
-    "liga": "Bundesliga",
-    "hora": "9:30 a. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Eintracht Frankfurt - Mainz 05",
-    "liga": "Bundesliga",
-    "hora": "9:30 a. m.",
-    "canal": "ESPN 2 / Disney+"
-  },
-  {
-    "partido": "Hoffenheim - Borussia Mönchengladbach",
-    "liga": "Bundesliga",
-    "hora": "9:30 a. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Holstein Kiel - FC Augsburgo",
-    "liga": "Bundesliga",
-    "hora": "9:30 a. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Ipswich Town - Newcastle",
+    "partido": "Manchester United - Bournemouth",
     "liga": "Liga de Inglaterra",
-    "hora": "10:00 a. m.",
+    "hora": "9:00 a. m.",
     "canal": "Disney+"
   },
   {
-    "partido": "West Ham Utd. - Brighton & Hove",
+    "partido": "Leicester City - Wolverhampton",
     "liga": "Liga de Inglaterra",
-    "hora": "10:00 a. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "Brentford - Nottingham Forest",
-    "liga": "Liga de Inglaterra",
-    "hora": "10:00 a. m.",
+    "hora": "9:00 a. m.",
     "canal": "Disney+"
   },
   {
-    "partido": "Celta de Vigo - Real Sociedad",
+    "partido": "Everton - Chelsea",
+    "liga": "Liga de Inglaterra",
+    "hora": "9:00 a. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Fulham - Southampton",
+    "liga": "Liga de Inglaterra",
+    "hora": "9:00 a. m.",
+    "canal": "Disney+ / ESPN"
+  },
+  {
+    "partido": "Bochum 1848 - Heidenhem",
+    "liga": "Bundesliga",
+    "hora": "9:30 a. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Real Madrid - Sevilla",
     "liga": "Liga de Espana",
     "hora": "10:15 a. m.",
     "canal": "Directv 610"
   },
   {
-    "partido": "Besiktas - Alanyaspor",
-    "liga": "Liga de Turquía",
-    "hora": "11:00 a. m.",
+    "partido": "Tottenham Hotspur - Liverpool",
+    "liga": "Liga de Inglaterra",
+    "hora": "11:30 a. m.",
+    "canal": "Disney+ / ESPN"
+  },
+  {
+    "partido": "Wolfsburgo - Borussia Dortmund",
+    "liga": "Bundesliga",
+    "hora": "11:30 a. m.",
     "canal": "Disney+"
   },
   {
-    "partido": "Génoa - Napoli",
+    "partido": "Atalanta - Empoli",
     "liga": "Serie A",
     "hora": "12:00 p. m.",
-    "canal": "ESPN 2 / Disney+"
-  },
-  {
-    "partido": "Bayer Leverkusen - Friburgo",
-    "liga": "Bundesliga",
-    "hora": "12:30 p. m.",
     "canal": "Disney+"
   },
   {
-    "partido": "Osasuna - Athletic Club",
+    "partido": "Leganés - Villarreal",
+    "liga": "Liga de Espana",
+    "hora": "12:30 p. m.",
+    "canal": "Disney+ / ESPN 2"
+  },
+  {
+    "partido": "Las Palmas - Espanyol",
     "liga": "Liga de Espana",
     "hora": "12:30 p. m.",
     "canal": "Directv 610"
   },
   {
-    "partido": "Crystal Palace - Arsenal",
-    "liga": "Liga de Inglaterra",
-    "hora": "12:30 p. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "Lecce - Lazio",
+    "partido": "Monza - Juventus",
     "liga": "Serie A",
     "hora": "2:45 p. m.",
-    "canal": "ESPN 2 / Disney+"
+    "canal": "Disney+ / ESPN 2"
   },
   {
-    "partido": "Barcelona - Atlético de Madrid",
+    "partido": "Real Betis - Rayo Vallecano",
     "liga": "Liga de Espana",
     "hora": "3:00 p. m.",
-    "canal": "ESPN / Disney+"
+    "canal": "Directv 610"
+  },
+  {
+    "partido": "Atlético Nacional - Deportes Tolima",
+    "liga": "Liga BetPlay",
+    "hora": "6:00 p. m.",
+    "canal": "Win Sports+"
   }
 ]
