@@ -1,56 +1,14 @@
 [
   {
-    "partido": "Manchester City - Everton",
+    "partido": "Brighton & Hove - Brentford",
     "liga": "Liga de Inglaterra",
-    "hora": "7:30 a. m.",
+    "hora": "2:30 p. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Southampton - West Ham Utd.",
+    "partido": "Arsenal - Ipswich Town",
     "liga": "Liga de Inglaterra",
-    "hora": "10:00 a. m.",
+    "hora": "3:15 p. m.",
     "canal": "Disney+"
-  },
-  {
-    "partido": "Chelsea - Fulham",
-    "liga": "Liga de Inglaterra",
-    "hora": "10:00 a. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Nottingham Forest - Tottenham Hotspur",
-    "liga": "Liga de Inglaterra",
-    "hora": "10:00 a. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Bournemouth - Crystal Palace",
-    "liga": "Liga de Inglaterra",
-    "hora": "10:00 a. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Newcastle - Aston Villa",
-    "liga": "Liga de Inglaterra",
-    "hora": "10:00 a. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "Wolverhampton - Manchester United",
-    "liga": "Liga de Inglaterra",
-    "hora": "12:30 p. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "Liverpool - Leicester City",
-    "liga": "Liga de Inglaterra",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "Stoke City - Leeds",
-    "liga": "Championship",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN 5 / Disney+"
   }
 ]
