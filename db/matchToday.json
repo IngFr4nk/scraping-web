@@ -1,74 +1,20 @@
 [
   {
-    "partido": "Udinese - Torino",
-    "liga": "Serie A",
-    "hora": "6:30 a. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Napoli - Venezia",
-    "liga": "Serie A",
-    "hora": "9:00 a. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Leicester City - Manchester City",
+    "partido": "Brentford - Arsenal",
     "liga": "Liga de Inglaterra",
-    "hora": "9:30 a. m.",
-    "canal": "ESPN 2 / Disney+"
-  },
-  {
-    "partido": "Tottenham Hotspur - Wolverhampton",
-    "liga": "Liga de Inglaterra",
-    "hora": "10:00 a. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Everton - Nottingham Forest",
-    "liga": "Liga de Inglaterra",
-    "hora": "10:00 a. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Fulham - Bournemouth",
-    "liga": "Liga de Inglaterra",
-    "hora": "10:00 a. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Crystal Palace - Southampton",
-    "liga": "Liga de Inglaterra",
-    "hora": "10:00 a. m.",
+    "hora": "12:30 p. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Juventus - Fiorentina",
-    "liga": "Liga de Inglaterra",
-    "hora": "12:00 p. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "West Ham Utd. - Liverpool",
-    "liga": "Liga de Inglaterra",
-    "hora": "12:15 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Derby County - Leeds",
+    "partido": "Hull City - Middlesbrough",
     "liga": "Championship",
-    "hora": "12:45 p. m.",
-    "canal": "ESPN 6 / Disney+"
-  },
-  {
-    "partido": "Milán - Roma",
-    "liga": "Serie A",
-    "hora": "2:45 p. m.",
+    "hora": "12:30 p. m.",
     "canal": "Disney+"
   },
   {
-    "partido": "Middlesbrough - Burnley",
+    "partido": "Sunderland - Sheffield United",
     "liga": "Championship",
     "hora": "3:00 p. m.",
-    "canal": "ESPN 6 / Disney+"
+    "canal": "Disney+"
   }
 ]
