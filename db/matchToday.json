@@ -1,20 +1,8 @@
 [
   {
-    "partido": "Brentford - Arsenal",
-    "liga": "Liga de Inglaterra",
-    "hora": "12:30 p. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "Hull City - Middlesbrough",
-    "liga": "Championship",
-    "hora": "12:30 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Sunderland - Sheffield United",
-    "liga": "Championship",
-    "hora": "3:00 p. m.",
-    "canal": "Disney+"
+    "partido": "Inter - Atalanta",
+    "liga": "Supercopa de Italia",
+    "hora": "2:00 p. m.",
+    "canal": "DSports / Win Sports+"
   }
 ]
