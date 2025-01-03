@@ -1,8 +1,32 @@
 [
   {
-    "partido": "Inter - Atalanta",
+    "partido": "Granada CF - Getafe",
+    "liga": "Copa del Rey",
+    "hora": "1:00 p. m.",
+    "canal": "DSports"
+  },
+  {
+    "partido": "Racing Club Ferrol - Rayo Vallecano",
+    "liga": "Copa del Rey",
+    "hora": "1:00 p. m.",
+    "canal": "DSports"
+  },
+  {
+    "partido": "Juventus - Milán",
     "liga": "Supercopa de Italia",
     "hora": "2:00 p. m.",
     "canal": "DSports / Win Sports+"
+  },
+  {
+    "partido": "Niza - Rennes",
+    "liga": "Liga de Francia",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN 2 / Disney+"
+  },
+  {
+    "partido": "Valencia CF - Real Madrid",
+    "liga": "Liga de Espana",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN / Disney+"
   }
 ]
