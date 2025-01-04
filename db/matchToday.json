@@ -1,32 +1,86 @@
 [
   {
-    "partido": "Granada CF - Getafe",
-    "liga": "Copa del Rey",
-    "hora": "1:00 p. m.",
-    "canal": "DSports"
+    "partido": "Tottenham Hotspur - Newcastle",
+    "liga": "Liga de Inglaterra",
+    "hora": "7:30 a. m.",
+    "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Racing Club Ferrol - Rayo Vallecano",
-    "liga": "Copa del Rey",
-    "hora": "1:00 p. m.",
-    "canal": "DSports"
+    "partido": "Venezia - Empoli",
+    "liga": "Serie A",
+    "hora": "9:00 a. m.",
+    "canal": "Disney+"
   },
   {
-    "partido": "Juventus - Milán",
-    "liga": "Supercopa de Italia",
-    "hora": "2:00 p. m.",
-    "canal": "DSports / Win Sports+"
+    "partido": "Manchester City - West Ham Utd.",
+    "liga": "Liga de Inglaterra",
+    "hora": "10:00 a. m.",
+    "canal": "Disney+"
   },
   {
-    "partido": "Niza - Rennes",
+    "partido": "Aston Villa - Leicester City",
+    "liga": "Liga de Inglaterra",
+    "hora": "10:00 a. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Southampton - Brentford",
+    "liga": "Liga de Inglaterra",
+    "hora": "10:00 a. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Crystal Palace - Chelsea",
+    "liga": "Liga de Inglaterra",
+    "hora": "10:00 a. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Bournemouth - Everton",
+    "liga": "Liga de Inglaterra",
+    "hora": "10:00 a. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Galatasaray - Goztepe",
+    "liga": "Liga de Turquía",
+    "hora": "11:00 a. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Saint Etienne - Reims",
     "liga": "Liga de Francia",
-    "hora": "3:00 p. m.",
+    "hora": "11:00 a. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Fiorentina - Napoli",
+    "liga": "Serie A",
+    "hora": "12:00 p. m.",
     "canal": "ESPN 2 / Disney+"
   },
   {
-    "partido": "Valencia CF - Real Madrid",
-    "liga": "Liga de Espana",
-    "hora": "3:00 p. m.",
+    "partido": "Brighton & Hove - Arsenal",
+    "liga": "Liga de Inglaterra",
+    "hora": "12:30 p. m.",
     "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Lyon - Montpellier",
+    "liga": "Liga de Francia",
+    "hora": "1:00 p. m.",
+    "canal": "TV5 Monde / Disney+"
+  },
+  {
+    "partido": "Lille - Nantes",
+    "liga": "Liga de Francia",
+    "hora": "1:00 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Hellas Verona - Udinese",
+    "liga": "Serie A",
+    "hora": "2:45 p. m.",
+    "canal": "ESPN 3 / Disney+"
   }
 ]
