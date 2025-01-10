@@ -1,14 +1,32 @@
 [
   {
-    "partido": "Real Madrid - Mallorca",
-    "liga": "Supercopa de España",
-    "hora": "2:00 p. m.",
+    "partido": "Nantes - Mónaco",
+    "liga": "Liga de Francia",
+    "hora": "1:00 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Borussia Dortmund - Bayer Leverkusen",
+    "liga": "Bundesliga",
+    "hora": "2:30 p. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Lazio - Como",
+    "liga": "Serie A",
+    "hora": "2:45 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Rayo Vallecano - Celta de Vigo",
+    "liga": "Liga de Espana",
+    "hora": "3:00 p. m.",
     "canal": "DSports"
   },
   {
-    "partido": "Fulham - Watford",
+    "partido": "Aston Villa - West Ham Utd.",
     "liga": "FA Cup",
-    "hora": "2:45 p. m.",
+    "hora": "3:00 p. m.",
     "canal": "Disney+"
   }
 ]
