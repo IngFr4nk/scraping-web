@@ -1,32 +1,98 @@
 [
   {
-    "partido": "Nantes - Mónaco",
-    "liga": "Liga de Francia",
-    "hora": "1:00 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Borussia Dortmund - Bayer Leverkusen",
-    "liga": "Bundesliga",
-    "hora": "2:30 p. m.",
+    "partido": "Liverpool - Accrington",
+    "liga": "FA Cup",
+    "hora": "7:15 a. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Lazio - Como",
-    "liga": "Serie A",
-    "hora": "2:45 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Rayo Vallecano - Celta de Vigo",
+    "partido": "Alavés - Girona",
     "liga": "Liga de Espana",
-    "hora": "3:00 p. m.",
+    "hora": "8:00 a. m.",
     "canal": "DSports"
   },
   {
-    "partido": "Aston Villa - West Ham Utd.",
-    "liga": "FA Cup",
-    "hora": "3:00 p. m.",
+    "partido": "Udinese - Atalanta",
+    "liga": "Serie A",
+    "hora": "9:00 a. m.",
+    "canal": "ESPN 2 / Disney+"
+  },
+  {
+    "partido": "Empoli - Lecce",
+    "liga": "Serie A",
+    "hora": "9:00 a. m.",
     "canal": "Disney+"
+  },
+  {
+    "partido": "Pauli - Eintracht Frankfurt",
+    "liga": "Bundesliga",
+    "hora": "9:30 a. m.",
+    "canal": "ESPN 5 / Disney+"
+  },
+  {
+    "partido": "Chelsea - Morecambe",
+    "liga": "FA Cup",
+    "hora": "10:00 a. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Bournemouth - West Bromwich Albion",
+    "liga": "FA Cup",
+    "hora": "10:00 a. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Valladolid - Real Betis",
+    "liga": "Liga de Espana",
+    "hora": "10:15 a. m.",
+    "canal": "DSports"
+  },
+  {
+    "partido": "Torino - Juventus",
+    "liga": "Serie A",
+    "hora": "12:00 p. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Espanyol - Leganés",
+    "liga": "Liga de Espana",
+    "hora": "12:30 p. m.",
+    "canal": "ESPN 2 / Disney+"
+  },
+  {
+    "partido": "Borussia Mönchengladbach - Bayern Munich",
+    "liga": "Bundesliga",
+    "hora": "12:30 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Manchester City - Salford City",
+    "liga": "FA Cup",
+    "hora": "12:45 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Ajax - Waalwijk",
+    "liga": "Liga de Holanda",
+    "hora": "12:45 p. m.",
+    "canal": "ESPN 3 / Disney+"
+  },
+  {
+    "partido": "Milán - Cagliari",
+    "liga": "Serie A",
+    "hora": "2:45 p. m.",
+    "canal": "ESPN 2 / Disney+"
+  },
+  {
+    "partido": "Sevilla - Valencia CF",
+    "liga": "Liga de Espana",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Rennes - Marsella",
+    "liga": "Liga de Francia",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN 3 / Disney+"
   }
 ]
