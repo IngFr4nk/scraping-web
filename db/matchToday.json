@@ -1,1 +1,68 @@
-[]
+[
+  {
+    "partido": "Holstein Kiel - Borussia Dortmund",
+    "liga": "Bundesliga",
+    "hora": "12:30 p. m.",
+    "canal": "ESPN 2 / Disney+"
+  },
+  {
+    "partido": "Como - Milán",
+    "liga": "Serie A",
+    "hora": "12:30 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Brentford - Manchester City",
+    "liga": "Liga de Inglaterra",
+    "hora": "2:30 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Eintracht Frankfurt - Friburgo",
+    "liga": "Bundesliga",
+    "hora": "2:30 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Wolfsburgo - Borussia Mönchengladbach",
+    "liga": "Bundesliga",
+    "hora": "2:30 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Chelsea - Bournemouth",
+    "liga": "Liga de Inglaterra",
+    "hora": "2:30 p. m.",
+    "canal": "ESPN 2 / Disney+"
+  },
+  {
+    "partido": "Bayer Leverkusen - Mainz 05",
+    "liga": "Bundesliga",
+    "hora": "2:30 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "West Ham Utd. - Fulham",
+    "liga": "Liga de Inglaterra",
+    "hora": "2:30 p. m.",
+    "canal": "ESPN 3 / Disney+"
+  },
+  {
+    "partido": "Atalanta - Juventus",
+    "liga": "Serie A",
+    "hora": "2:45 p. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Nottingham Forest - Liverpool",
+    "liga": "Liga de Inglaterra",
+    "hora": "3:00 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Junior - Universitario",
+    "liga": "Partido amistoso",
+    "hora": "6:30 p. m.",
+    "canal": "Disney+"
+  }
+]
