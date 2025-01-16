@@ -1,68 +1,38 @@
 [
   {
-    "partido": "Holstein Kiel - Borussia Dortmund",
-    "liga": "Bundesliga",
-    "hora": "12:30 p. m.",
-    "canal": "ESPN 2 / Disney+"
+    "partido": "Athletic Club - Osasuna",
+    "liga": "Copa del Rey",
+    "hora": "1:30 p. m.",
+    "canal": "Directv 612"
   },
   {
-    "partido": "Como - Milán",
-    "liga": "Serie A",
-    "hora": "12:30 p. m.",
-    "canal": "Disney+"
+    "partido": "Real Sociedad - Rayo Vallecano",
+    "liga": "Copa del Rey",
+    "hora": "1:30 p. m.",
+    "canal": "Directv 613"
   },
   {
-    "partido": "Brentford - Manchester City",
-    "liga": "Liga de Inglaterra",
-    "hora": "2:30 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Eintracht Frankfurt - Friburgo",
-    "liga": "Bundesliga",
-    "hora": "2:30 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Wolfsburgo - Borussia Mönchengladbach",
-    "liga": "Bundesliga",
-    "hora": "2:30 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Chelsea - Bournemouth",
-    "liga": "Liga de Inglaterra",
-    "hora": "2:30 p. m.",
-    "canal": "ESPN 2 / Disney+"
-  },
-  {
-    "partido": "Bayer Leverkusen - Mainz 05",
-    "liga": "Bundesliga",
-    "hora": "2:30 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "West Ham Utd. - Fulham",
+    "partido": "Ipswich Town - Brighton & Hove",
     "liga": "Liga de Inglaterra",
     "hora": "2:30 p. m.",
     "canal": "ESPN 3 / Disney+"
   },
   {
-    "partido": "Atalanta - Juventus",
-    "liga": "Serie A",
-    "hora": "2:45 p. m.",
+    "partido": "Manchester United - Southampton",
+    "liga": "Liga de Inglaterra",
+    "hora": "3:00 p. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Nottingham Forest - Liverpool",
-    "liga": "Liga de Inglaterra",
-    "hora": "3:00 p. m.",
-    "canal": "Disney+"
+    "partido": "Real Madrid - Celta de Vigo",
+    "liga": "Copa del Rey",
+    "hora": "3:30 p. m.",
+    "canal": "Directv 610"
   },
   {
-    "partido": "Junior - Universitario",
+    "partido": "Millonarios - Melgar",
     "liga": "Partido amistoso",
-    "hora": "6:30 p. m.",
+    "hora": "7:00 p. m.",
     "canal": "Disney+"
   }
 ]
