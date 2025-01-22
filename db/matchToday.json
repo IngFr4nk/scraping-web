@@ -1,56 +1,56 @@
 [
   {
-    "partido": "Galatasaray - Dínamo Kiev",
+    "partido": "Besiktas - Athletic Club",
     "liga": "Liga de Europa",
     "hora": "10:30 a. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Atalanta - Sturm Graz",
+    "partido": "RB Leipzig - Sporting de Lisboa",
     "liga": "Champions League",
     "hora": "12:45 p. m.",
     "canal": "ESPN 2 / Disney+"
   },
   {
-    "partido": "Mónaco - Aston Villa",
+    "partido": "Shakhtar Donetsk - Brest",
     "liga": "Champions League",
     "hora": "12:45 p. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Slovan Bratislava - VfB Stuttgart",
+    "partido": "Celtic - Young Boys",
     "liga": "Champions League",
     "hora": "3:00 p. m.",
     "canal": "Disney+"
   },
   {
-    "partido": "Liverpool - Lille",
+    "partido": "Milán - Girona",
+    "liga": "Champions League",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN 4 / Disney+"
+  },
+  {
+    "partido": "Paris Saint-Germain - Manchester City",
     "liga": "Champions League",
     "hora": "3:00 p. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Brujas - Juventus",
+    "partido": "Sparta Praga - Inter",
     "liga": "Champions League",
     "hora": "3:00 p. m.",
     "canal": "Disney+"
   },
   {
-    "partido": "Bolognia - Borussia Dortmund",
+    "partido": "Arsenal - Dynamo Zagreb",
     "liga": "Champions League",
     "hora": "3:00 p. m.",
-    "canal": "ESPN 3 / Disney+"
+    "canal": "Disney+"
   },
   {
-    "partido": "Benfica - Barcelona",
+    "partido": "Real Madrid - Red Bull Salzburg",
     "liga": "Champions League",
     "hora": "3:00 p. m.",
     "canal": "ESPN 2 / Disney+"
-  },
-  {
-    "partido": "Atlético de Madrid - Bayer Leverkusen",
-    "liga": "Champions League",
-    "hora": "3:00 p. m.",
-    "canal": "Disney+"
   }
 ]
