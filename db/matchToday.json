@@ -1,56 +1,50 @@
 [
   {
-    "partido": "Besiktas - Athletic Club",
-    "liga": "Liga de Europa",
-    "hora": "10:30 a. m.",
-    "canal": "ESPN / Disney+"
+    "partido": "Wolfsburgo - Holstein Kiel",
+    "liga": "Bundesliga",
+    "hora": "2:30 p. m.",
+    "canal": "Disney+"
   },
   {
-    "partido": "RB Leipzig - Sporting de Lisboa",
-    "liga": "Champions League",
-    "hora": "12:45 p. m.",
+    "partido": "Auxerre - Saint Etienne",
+    "liga": "Liga de Francia",
+    "hora": "2:45 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Torino - Cagliari",
+    "liga": "Serie A",
+    "hora": "2:45 p. m.",
     "canal": "ESPN 2 / Disney+"
   },
   {
-    "partido": "Shakhtar Donetsk - Brest",
-    "liga": "Champions League",
-    "hora": "12:45 p. m.",
-    "canal": "ESPN / Disney+"
+    "partido": "Las Palmas - Osasuna",
+    "liga": "Liga de Espana",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN 3 / Disney+"
   },
   {
-    "partido": "Celtic - Young Boys",
-    "liga": "Champions League",
-    "hora": "3:00 p. m.",
-    "canal": "Disney+"
+    "partido": "Bolivia Sub 20 - Ecuador Sub 20",
+    "liga": "Sudamericano sub 20",
+    "hora": "4:00 p. m.",
+    "canal": "Directv 610"
   },
   {
-    "partido": "Milán - Girona",
-    "liga": "Champions League",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN 4 / Disney+"
+    "partido": "Boyacá Chicó - Bucaramanga",
+    "liga": "Liga BetPlay",
+    "hora": "6:00 p. m.",
+    "canal": "Win Sports / Win Sports+"
   },
   {
-    "partido": "Paris Saint-Germain - Manchester City",
-    "liga": "Champions League",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN / Disney+"
+    "partido": "Brasil Sub 20 - Argentina Sub 20",
+    "liga": "Sudamericano sub 20",
+    "hora": "6:30 p. m.",
+    "canal": "Directv 610"
   },
   {
-    "partido": "Sparta Praga - Inter",
-    "liga": "Champions League",
-    "hora": "3:00 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Arsenal - Dynamo Zagreb",
-    "liga": "Champions League",
-    "hora": "3:00 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Real Madrid - Red Bull Salzburg",
-    "liga": "Champions League",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN 2 / Disney+"
+    "partido": "Unión Magdalena - Millonarios",
+    "liga": "Liga BetPlay",
+    "hora": "8:10 p. m.",
+    "canal": "Win Sports+"
   }
 ]
