@@ -1,50 +1,182 @@
 [
   {
-    "partido": "Wolfsburgo - Holstein Kiel",
-    "liga": "Bundesliga",
-    "hora": "2:30 p. m.",
-    "canal": "Disney+"
+    "partido": "Mallorca - Real Betis",
+    "liga": "Liga de Espana",
+    "hora": "8:00 a. m.",
+    "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Auxerre - Saint Etienne",
-    "liga": "Liga de Francia",
-    "hora": "2:45 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Torino - Cagliari",
+    "partido": "Como - Atalanta",
     "liga": "Serie A",
-    "hora": "2:45 p. m.",
+    "hora": "9:00 a. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "FC Augsburgo - Heidenhem",
+    "liga": "Bundesliga",
+    "hora": "9:30 a. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "RB Leipzig - Bayer Leverkusen",
+    "liga": "Bundesliga",
+    "hora": "9:30 a. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Borussia Dortmund - Werder Bremen",
+    "liga": "Bundesliga",
+    "hora": "9:30 a. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Mainz 05 - VfB Stuttgart",
+    "liga": "Bundesliga",
+    "hora": "9:30 a. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Friburgo - Bayern Munich",
+    "liga": "Bundesliga",
+    "hora": "9:30 a. m.",
     "canal": "ESPN 2 / Disney+"
   },
   {
-    "partido": "Las Palmas - Osasuna",
+    "partido": "Bournemouth - Nottingham Forest",
+    "liga": "Liga de Inglaterra",
+    "hora": "10:00 a. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Southampton - Newcastle",
+    "liga": "Liga de Inglaterra",
+    "hora": "10:00 a. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Liverpool - Ipswich Town",
+    "liga": "Liga de Inglaterra",
+    "hora": "10:00 a. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Brighton & Hove - Everton",
+    "liga": "Liga de Inglaterra",
+    "hora": "10:00 a. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Wolverhampton - Arsenal",
+    "liga": "Liga de Inglaterra",
+    "hora": "10:00 a. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Atlético de Madrid - Villarreal",
     "liga": "Liga de Espana",
-    "hora": "3:00 p. m.",
+    "hora": "10:15 a. m.",
+    "canal": "Directv 610"
+  },
+  {
+    "partido": "Mónaco - Rennes",
+    "liga": "Liga de Francia",
+    "hora": "11:00 a. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Napoli - Juventus",
+    "liga": "Serie A",
+    "hora": "12:00 p. m.",
+    "canal": "ESPN 2 / Disney+"
+  },
+  {
+    "partido": "Manchester City - Chelsea",
+    "liga": "Liga de Inglaterra",
+    "hora": "12:30 p. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Borussia Mönchengladbach - Bochum 1848",
+    "liga": "Bundesliga",
+    "hora": "12:30 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Sevilla - Espanyol",
+    "liga": "Liga de Espana",
+    "hora": "12:30 p. m.",
+    "canal": "Directv 610"
+  },
+  {
+    "partido": "Strasbourg - Lille",
+    "liga": "Liga de Francia",
+    "hora": "1:00 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Empoli - Bolognia",
+    "liga": "Serie A",
+    "hora": "2:45 p. m.",
     "canal": "ESPN 3 / Disney+"
   },
   {
-    "partido": "Bolivia Sub 20 - Ecuador Sub 20",
+    "partido": "Valladolid - Real Madrid",
+    "liga": "Liga de Espana",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Paris Saint-Germain - Reims",
+    "liga": "Liga de Francia",
+    "hora": "3:00 p. m.",
+    "canal": "TV5 Monde / Disney+"
+  },
+  {
+    "partido": "San Lorenzo - Talleres de Córdoba",
+    "liga": "Liga de Argentina",
+    "hora": "3:00 p. m.",
+    "canal": "TyC Sports Internacional"
+  },
+  {
+    "partido": "Chile Sub 20 - Uruguay Sub 20",
     "liga": "Sudamericano sub 20",
     "hora": "4:00 p. m.",
     "canal": "Directv 610"
   },
   {
-    "partido": "Boyacá Chicó - Bucaramanga",
+    "partido": "América - Llaneros",
     "liga": "Liga BetPlay",
-    "hora": "6:00 p. m.",
-    "canal": "Win Sports / Win Sports+"
+    "hora": "5:00 p. m.",
+    "canal": "Win Sports+"
   },
   {
-    "partido": "Brasil Sub 20 - Argentina Sub 20",
+    "partido": "Instituto de Córdoba - Gimnasia de La Plata",
+    "liga": "Liga de Argentina",
+    "hora": "5:15 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Estudiantes - Unión de Santa Fe",
+    "liga": "Liga de Argentina",
+    "hora": "5:15 p. m.",
+    "canal": "TyC Sports Internacional"
+  },
+  {
+    "partido": "Perú Sub 20 - Venezuela Sub 20",
     "liga": "Sudamericano sub 20",
     "hora": "6:30 p. m.",
     "canal": "Directv 610"
   },
   {
-    "partido": "Unión Magdalena - Millonarios",
+    "partido": "Platense - River Plate",
+    "liga": "Liga de Argentina",
+    "hora": "7:30 p. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Atlético Nacional - Once Caldas",
     "liga": "Liga BetPlay",
-    "hora": "8:10 p. m.",
+    "hora": "7:30 p. m.",
     "canal": "Win Sports+"
   }
 ]
