@@ -1,176 +1,26 @@
 [
   {
-    "partido": "Milán - Parma",
-    "liga": "Serie A",
-    "hora": "6:30 a. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Dundee FC - Rangers",
-    "liga": "Liga de Escocia",
-    "hora": "7:00 a. m.",
-    "canal": "ESPN 5 / Disney+"
-  },
-  {
-    "partido": "Rayo Vallecano - Girona",
-    "liga": "Liga de Espana",
-    "hora": "8:00 a. m.",
-    "canal": "Directv 610"
-  },
-  {
-    "partido": "Antalyaspor - Besiktas",
-    "liga": "Liga de Turquía",
-    "hora": "8:00 a. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Le Havre - Stade Brestois",
-    "liga": "Liga de Francia",
-    "hora": "9:00 a. m.",
-    "canal": "ESPN 4 / Disney+"
-  },
-  {
-    "partido": "Tottenham Hotspur - Leicester City",
-    "liga": "Liga de Inglaterra",
-    "hora": "9:00 a. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Udinese - Roma",
-    "liga": "Serie A",
-    "hora": "9:00 a. m.",
-    "canal": "ESPN 2 / Disney+"
-  },
-  {
-    "partido": "Crystal Palace - Brentford",
-    "liga": "Liga de Inglaterra",
-    "hora": "9:00 a. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "Hoffenheim - Eintracht Frankfurt",
-    "liga": "Bundesliga",
-    "hora": "9:30 a. m.",
-    "canal": "ESPN 5 / Disney+"
-  },
-  {
-    "partido": "Real Sociedad - Getafe",
-    "liga": "Liga de Europa",
-    "hora": "10:15 a. m.",
-    "canal": "Directv 610"
-  },
-  {
-    "partido": "Fenerbache - Goztepe",
-    "liga": "Liga de Turquía",
-    "hora": "11:00 a. m.",
-    "canal": "ESPN 7 / Disney+"
-  },
-  {
-    "partido": "Toulouse - Montpellier",
-    "liga": "Liga de Francia",
-    "hora": "11:15 a. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Nantes - Lyon",
-    "liga": "Liga de Francia",
-    "hora": "11:15 a. m.",
-    "canal": "ESPN 4 / Disney+"
-  },
-  {
-    "partido": "Lens - Angers",
-    "liga": "Liga de Francia",
-    "hora": "11:15 a. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Aston Villa - West Ham Utd.",
-    "liga": "Liga de Inglaterra",
-    "hora": "11:30 a. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "Pauli - Union Berlin",
-    "liga": "Bundesliga",
-    "hora": "11:30 a. m.",
-    "canal": "ESPN 5 / Disney+"
-  },
-  {
-    "partido": "Lecce - Inter",
-    "liga": "Serie A",
-    "hora": "12:00 p. m.",
-    "canal": "ESPN 2 / Disney+"
-  },
-  {
-    "partido": "Athletic Club - Leganés",
-    "liga": "Liga de Espana",
-    "hora": "12:30 p. m.",
-    "canal": "ESPN 3 / Disney+"
-  },
-  {
-    "partido": "Fulham - Manchester United",
-    "liga": "Liga de Inglaterra",
-    "hora": "2:00 p. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "Niza - Marsella",
-    "liga": "Liga de Francia",
-    "hora": "2:45 p. m.",
-    "canal": "ESPN 3 / Disney+"
-  },
-  {
-    "partido": "Lazio - Fiorentina",
-    "liga": "Serie A",
-    "hora": "2:45 p. m.",
-    "canal": "ESPN 2 / Disney+"
-  },
-  {
-    "partido": "Santa Fe - Pereira",
-    "liga": "Liga BetPlay",
-    "hora": "3:00 p. m.",
-    "canal": "Win Sports+"
-  },
-  {
-    "partido": "Barcelona - Valencia CF",
-    "liga": "Liga de Espana",
-    "hora": "3:00 p. m.",
-    "canal": "Directv 610"
-  },
-  {
-    "partido": "Bolivia Sub 20 - Brasil Sub 20",
+    "partido": "Argentina Sub 20 - Bolivia Sub 20",
     "liga": "Sudamericano sub 20",
     "hora": "4:00 p. m.",
     "canal": "Directv 610"
   },
   {
-    "partido": "Boca Juniors - Argentinos Juniors",
+    "partido": "Rosario Central - Lanús",
     "liga": "Liga de Argentina",
-    "hora": "5:00 p. m.",
-    "canal": "ESPN / Disney+"
+    "hora": "5:15 p. m.",
+    "canal": "Disney+"
   },
   {
-    "partido": "Junior - Deportivo Cali",
-    "liga": "Liga BetPlay",
-    "hora": "5:10 p. m.",
-    "canal": "Win Sports+"
-  },
-  {
-    "partido": "Argentina Sub 20 - Colombia Sub 20",
+    "partido": "Colombia Sub 20 - Ecuador Sub 20",
     "liga": "Sudamericano sub 20",
     "hora": "6:30 p. m.",
     "canal": "Directv 610 / Caracol TV / RCN"
   },
   {
-    "partido": "Central Córdoba - Aldosivi",
-    "liga": "Liga de Argentina",
-    "hora": "7:00 p. m.",
-    "canal": "TyC Sports Internacional"
-  },
-  {
-    "partido": "Alianza FC - Independiente Medellín",
+    "partido": "Fortaleza F.C - Envigado F.C",
     "liga": "Liga BetPlay",
-    "hora": "7:20 p. m.",
+    "hora": "8:00 p. m.",
     "canal": "Win Sports / Win Sports+"
   }
 ]
