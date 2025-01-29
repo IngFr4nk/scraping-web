@@ -1,26 +1,152 @@
 [
   {
-    "partido": "Argentina Sub 20 - Bolivia Sub 20",
+    "partido": "Bayer Leverkusen - Sparta Praga",
+    "liga": "Champions League",
+    "hora": "3:00 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Dynamo Zagreb - Milán",
+    "liga": "Champions League",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN 6 / Disney+"
+  },
+  {
+    "partido": "Inter - Mónaco",
+    "liga": "Champions League",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN 7 / Disney+"
+  },
+  {
+    "partido": "Barcelona - Atalanta",
+    "liga": "Champions League",
+    "hora": "3:00 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "VfB Stuttgart - Paris Saint-Germain",
+    "liga": "Champions League",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN 3 / Disney+"
+  },
+  {
+    "partido": "Bayern Munich - Slovan Bratislava",
+    "liga": "Champions League",
+    "hora": "3:00 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Manchester City - Brujas",
+    "liga": "Champions League",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Borussia Dortmund - Shakhtar Donetsk",
+    "liga": "Champions League",
+    "hora": "3:00 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Stade Brestois - Real Madrid",
+    "liga": "Champions League",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN 2 / Disney+"
+  },
+  {
+    "partido": "Sporting de Lisboa - Bolognia",
+    "liga": "Champions League",
+    "hora": "3:00 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Aston Villa - Celtic",
+    "liga": "Champions League",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN 4 / Disney+"
+  },
+  {
+    "partido": "Young Boys - Estrella Roja",
+    "liga": "Champions League",
+    "hora": "3:00 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Lille - Feyenoord",
+    "liga": "Champions League",
+    "hora": "3:00 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Sturm Graz - RB Leipzig",
+    "liga": "Champions League",
+    "hora": "3:00 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "PSV - Liverpool",
+    "liga": "Champions League",
+    "hora": "3:00 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Talleres de Córdoba - Independiente",
+    "liga": "Liga de Argentina",
+    "hora": "3:00 p. m.",
+    "canal": "TyC Sports Internacional"
+  },
+  {
+    "partido": "Juventus - Benfica",
+    "liga": "Champions League",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN 5 / Disney+"
+  },
+  {
+    "partido": "Girona - Arsenal",
+    "liga": "Champions League",
+    "hora": "3:00 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Red Bull Salzburg - Atlético de Madrid",
+    "liga": "Champions League",
+    "hora": "3:00 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Uruguay Sub 20 - Perú Sub 20",
     "liga": "Sudamericano sub 20",
     "hora": "4:00 p. m.",
     "canal": "Directv 610"
   },
   {
-    "partido": "Rosario Central - Lanús",
+    "partido": "Huracán - Estudiantes",
     "liga": "Liga de Argentina",
     "hora": "5:15 p. m.",
-    "canal": "Disney+"
+    "canal": "TyC Sports Internacional"
   },
   {
-    "partido": "Colombia Sub 20 - Ecuador Sub 20",
+    "partido": "Unión de Santa Fe - Boca Juniors",
+    "liga": "Liga de Argentina",
+    "hora": "5:15 p. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Paraguay Sub 20 - Venezuela Sub 20",
     "liga": "Sudamericano sub 20",
     "hora": "6:30 p. m.",
-    "canal": "Directv 610 / Caracol TV / RCN"
+    "canal": "Directv 610"
   },
   {
-    "partido": "Fortaleza F.C - Envigado F.C",
-    "liga": "Liga BetPlay",
-    "hora": "8:00 p. m.",
-    "canal": "Win Sports / Win Sports+"
+    "partido": "Atlético Nacional - Bucaramanga",
+    "liga": "Superliga",
+    "hora": "7:30 p. m.",
+    "canal": "Win Sports+"
+  },
+  {
+    "partido": "River Plate - Instituto de Córdoba",
+    "liga": "Liga de Argentina",
+    "hora": "7:30 p. m.",
+    "canal": "ESPN / Disney+"
   }
 ]
