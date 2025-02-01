@@ -1,110 +1,170 @@
 [
   {
-    "partido": "FC Twente - Besiktas",
-    "liga": "Liga de Europa",
-    "hora": "3:00 p. m.",
-    "canal": "Disney+"
+    "partido": "Nottingham Forest - Brighton & Hove",
+    "liga": "Liga de Inglaterra",
+    "hora": "7:30 a. m.",
+    "canal": "Disney+ / ESPN"
   },
   {
-    "partido": "Real Sociedad - Paok Salonika",
-    "liga": "Liga de Europa",
-    "hora": "3:00 p. m.",
-    "canal": "Disney+"
+    "partido": "Getafe - Sevilla",
+    "liga": "Liga de Espana",
+    "hora": "8:00 a. m.",
+    "canal": "Disney+ / ESPN2"
   },
   {
-    "partido": "Rangers - Royale Union SG",
-    "liga": "Liga de Europa",
-    "hora": "3:00 p. m.",
-    "canal": "Disney+"
+    "partido": "Monza - Hellas Verona",
+    "liga": "Serie A",
+    "hora": "9:00 a. m.",
+    "canal": "Plan Premium Disney+"
   },
   {
-    "partido": "Braga - Lazio",
-    "liga": "Liga de Europa",
-    "hora": "3:00 p. m.",
-    "canal": "Disney+"
+    "partido": "Udinese - Venezia",
+    "liga": "Serie A",
+    "hora": "9:00 a. m.",
+    "canal": "Plan Premium Disney+"
   },
   {
-    "partido": "Roma - Eintracht Frankfurt",
-    "liga": "Liga de Europa",
-    "hora": "3:00 p. m.",
-    "canal": "Disney+"
+    "partido": "Bayern Munich - Holstein Kiel",
+    "liga": "Bundesliga",
+    "hora": "9:30 a. m.",
+    "canal": "Plan Premium Disney+"
   },
   {
-    "partido": "Aldosivi - Defensa y Justicia",
-    "liga": "Liga de Argentina",
-    "hora": "3:00 p. m.",
-    "canal": "TyC Sports Internacional"
+    "partido": "Bochum 1848 - Friburgo",
+    "liga": "Bundesliga",
+    "hora": "9:30 a. m.",
+    "canal": "Plan Premium Disney+"
   },
   {
-    "partido": "Steaua Bucarest - Manchester United",
-    "liga": "Liga de Europa",
-    "hora": "3:00 p. m.",
-    "canal": "Disney+"
+    "partido": "Heidenhem - Borussia Dortmund",
+    "liga": "Bundesliga",
+    "hora": "9:30 a. m.",
+    "canal": "Disney+ / ESPN7"
   },
   {
-    "partido": "Anderlecht - Hoffenheim",
-    "liga": "Liga de Europa",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN 2 / Disney+"
+    "partido": "Pauli - FC Augsburgo",
+    "liga": "Bundesliga",
+    "hora": "9:30 a. m.",
+    "canal": "Plan Premium Disney+"
   },
   {
-    "partido": "Tottenham Hotspur - Elfsborg",
-    "liga": "Liga de Europa",
-    "hora": "3:00 p. m.",
-    "canal": "Disney+"
+    "partido": "VfB Stuttgart - Borussia Mönchengladbach",
+    "liga": "Bundesliga",
+    "hora": "9:30 a. m.",
+    "canal": "Plan Premium Disney+"
   },
   {
-    "partido": "Lyon - Ludogorets",
-    "liga": "Liga de Europa",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN 4 / Disney+"
+    "partido": "Bournemouth - Liverpool",
+    "liga": "Liga de Inglaterra",
+    "hora": "10:00 a. m.",
+    "canal": "Plan Premium Disney+"
   },
   {
-    "partido": "Ajax - Galatasaray",
-    "liga": "Liga de Europa",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN / Disney+"
+    "partido": "Everton - Leicester City",
+    "liga": "Liga de Inglaterra",
+    "hora": "10:00 a. m.",
+    "canal": "Disney+ / ESPN"
   },
   {
-    "partido": "Athletic Club - Viktoria Plzen",
-    "liga": "Liga de Europa",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN 3 / Disney+"
+    "partido": "Ipswich Town - Southampton",
+    "liga": "Liga de Inglaterra",
+    "hora": "10:00 a. m.",
+    "canal": "Plan Premium Disney+"
   },
   {
-    "partido": "Colombia Sub 20 - Bolivia Sub 20",
+    "partido": "Newcastle - Fulham",
+    "liga": "Liga de Inglaterra",
+    "hora": "10:00 a. m.",
+    "canal": "Plan Premium Disney+"
+  },
+  {
+    "partido": "Villarreal - Valladolid",
+    "liga": "Liga de Espana",
+    "hora": "10:15 a. m.",
+    "canal": "Disney+ / ESPN2"
+  },
+  {
+    "partido": "Brest - Paris Saint-Germain",
+    "liga": "Liga de Francia",
+    "hora": "11:00 a. m.",
+    "canal": "Plan Premium Disney+"
+  },
+  {
+    "partido": "Atalanta - Torino",
+    "liga": "Serie A",
+    "hora": "12:00 p. m.",
+    "canal": "Plan Premium Disney+"
+  },
+  {
+    "partido": "Wolverhampton - Aston Villa",
+    "liga": "Liga de Inglaterra",
+    "hora": "12:30 p. m.",
+    "canal": "Disney+ / ESPN2"
+  },
+  {
+    "partido": "Atlético de Madrid - Mallorca",
+    "liga": "Liga de Espana",
+    "hora": "12:30 p. m.",
+    "canal": "Disney+ / ESPN"
+  },
+  {
+    "partido": "Union Berlin - RB Leipzig",
+    "liga": "Bundesliga",
+    "hora": "12:30 p. m.",
+    "canal": "Plan Premium Disney+"
+  },
+  {
+    "partido": "Mónaco - Auxerre",
+    "liga": "Liga de Francia",
+    "hora": "1:00 p. m.",
+    "canal": "Plan Premium Disney+"
+  },
+  {
+    "partido": "Bolognia - Como",
+    "liga": "Serie A",
+    "hora": "2:45 p. m.",
+    "canal": "Disney+ / ESPN2"
+  },
+  {
+    "partido": "Once Caldas - Fortaleza F.C",
+    "liga": "Liga BetPlay",
+    "hora": "3:00 p. m.",
+    "canal": "Win Sports / Win Sports+"
+  },
+  {
+    "partido": "Espanyol - Real Madrid",
+    "liga": "Liga de Espana",
+    "hora": "3:00 p. m.",
+    "canal": "Disney+ / ESPN"
+  },
+  {
+    "partido": "Lille - Saint Etienne",
+    "liga": "Liga de Francia",
+    "hora": "3:00 p. m.",
+    "canal": "Plan Premium Disney+"
+  },
+  {
+    "partido": "Brasil Sub 20 - Colombia Sub 20",
     "liga": "Sudamericano sub 20",
     "hora": "4:00 p. m.",
     "canal": "Directv 610 / Caracol TV / RCN"
   },
   {
-    "partido": "Racing Club - Belgrano",
-    "liga": "Liga de Argentina",
-    "hora": "5:15 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Ecuador Sub 20 - Brasil Sub 20",
+    "partido": "Ecuador Sub 20 - Argentina Sub 20",
     "liga": "Sudamericano sub 20",
-    "hora": "6:30 p. m.",
-    "canal": "Directv 610"
+    "hora": "4:00 p. m.",
+    "canal": "Directv 613"
   },
   {
-    "partido": "Argentinos Juniors - Tigre",
-    "liga": "Liga de Argentina",
-    "hora": "7:30 p. m.",
-    "canal": "Disney+"
+    "partido": "Deportivo Pasto - Millonarios",
+    "liga": "Liga BetPlay",
+    "hora": "5:10 p. m.",
+    "canal": "Win Sports+"
   },
   {
-    "partido": "Central Córdoba - Atlético Tucumán",
-    "liga": "Liga de Argentina",
-    "hora": "7:30 p. m.",
-    "canal": "TyC Sports Internacional"
-  },
-  {
-    "partido": "Patriotas F.C - Cúcuta",
-    "liga": "Torneo Betplay",
-    "hora": "7:30 p. m.",
-    "canal": "Win Sports / Win Sports+"
+    "partido": "Junior - Águilas Doradas",
+    "liga": "Liga BetPlay",
+    "hora": "7:20 p. m.",
+    "canal": "Win Sports+"
   }
 ]
