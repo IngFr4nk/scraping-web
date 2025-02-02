@@ -1,170 +1,128 @@
 [
   {
-    "partido": "Nottingham Forest - Brighton & Hove",
-    "liga": "Liga de Inglaterra",
-    "hora": "7:30 a. m.",
+    "partido": "Juventus - Empoli",
+    "liga": "Serie A",
+    "hora": "6:30 a. m.",
     "canal": "Disney+ / ESPN"
   },
   {
-    "partido": "Getafe - Sevilla",
+    "partido": "Barcelona - Alavés",
     "liga": "Liga de Espana",
     "hora": "8:00 a. m.",
-    "canal": "Disney+ / ESPN2"
+    "canal": "DSports"
   },
   {
-    "partido": "Monza - Hellas Verona",
-    "liga": "Serie A",
-    "hora": "9:00 a. m.",
-    "canal": "Plan Premium Disney+"
-  },
-  {
-    "partido": "Udinese - Venezia",
-    "liga": "Serie A",
-    "hora": "9:00 a. m.",
-    "canal": "Plan Premium Disney+"
-  },
-  {
-    "partido": "Bayern Munich - Holstein Kiel",
-    "liga": "Bundesliga",
-    "hora": "9:30 a. m.",
-    "canal": "Plan Premium Disney+"
-  },
-  {
-    "partido": "Bochum 1848 - Friburgo",
-    "liga": "Bundesliga",
-    "hora": "9:30 a. m.",
-    "canal": "Plan Premium Disney+"
-  },
-  {
-    "partido": "Heidenhem - Borussia Dortmund",
-    "liga": "Bundesliga",
-    "hora": "9:30 a. m.",
-    "canal": "Disney+ / ESPN7"
-  },
-  {
-    "partido": "Pauli - FC Augsburgo",
-    "liga": "Bundesliga",
-    "hora": "9:30 a. m.",
-    "canal": "Plan Premium Disney+"
-  },
-  {
-    "partido": "VfB Stuttgart - Borussia Mönchengladbach",
-    "liga": "Bundesliga",
-    "hora": "9:30 a. m.",
-    "canal": "Plan Premium Disney+"
-  },
-  {
-    "partido": "Bournemouth - Liverpool",
+    "partido": "Brentford - Tottenham Hotspur",
     "liga": "Liga de Inglaterra",
-    "hora": "10:00 a. m.",
-    "canal": "Plan Premium Disney+"
-  },
-  {
-    "partido": "Everton - Leicester City",
-    "liga": "Liga de Inglaterra",
-    "hora": "10:00 a. m.",
+    "hora": "9:00 a. m.",
     "canal": "Disney+ / ESPN"
   },
   {
-    "partido": "Ipswich Town - Southampton",
+    "partido": "Manchester United - Crystal Palace",
     "liga": "Liga de Inglaterra",
-    "hora": "10:00 a. m.",
-    "canal": "Plan Premium Disney+"
+    "hora": "9:00 a. m.",
+    "canal": "Plan Premium Disney"
   },
   {
-    "partido": "Newcastle - Fulham",
-    "liga": "Liga de Inglaterra",
-    "hora": "10:00 a. m.",
-    "canal": "Plan Premium Disney+"
+    "partido": "Fiorentina - Génoa",
+    "liga": "Serie A",
+    "hora": "9:00 a. m.",
+    "canal": "Disney+ / ESPN4"
   },
   {
-    "partido": "Villarreal - Valladolid",
+    "partido": "Toulouse - Niza",
+    "liga": "Liga de Francia",
+    "hora": "9:00 a. m.",
+    "canal": "Plan Premium Disney"
+  },
+  {
+    "partido": "Eintracht Frankfurt - Wolfsburgo",
+    "liga": "Bundesliga",
+    "hora": "9:30 a. m.",
+    "canal": "Disney+ / ESPN5"
+  },
+  {
+    "partido": "Valencia CF - Celta de Vigo",
     "liga": "Liga de Espana",
     "hora": "10:15 a. m.",
-    "canal": "Disney+ / ESPN2"
+    "canal": "DSports"
   },
   {
-    "partido": "Brest - Paris Saint-Germain",
+    "partido": "Angers - Le Havre",
     "liga": "Liga de Francia",
-    "hora": "11:00 a. m.",
+    "hora": "11:15 a. m.",
     "canal": "Plan Premium Disney+"
   },
   {
-    "partido": "Atalanta - Torino",
+    "partido": "Reims - Nantes",
+    "liga": "Liga de Francia",
+    "hora": "11:15 a. m.",
+    "canal": "Plan Premium Disney+"
+  },
+  {
+    "partido": "Rennes - Strasbourg",
+    "liga": "Liga de Francia",
+    "hora": "11:15 a. m.",
+    "canal": "Disney+ / ESPN4"
+  },
+  {
+    "partido": "Arsenal - Manchester City",
+    "liga": "Liga de Inglaterra",
+    "hora": "11:30 a. m.",
+    "canal": "Disney+ / ESPN"
+  },
+  {
+    "partido": "Milán - Inter",
     "liga": "Serie A",
     "hora": "12:00 p. m.",
-    "canal": "Plan Premium Disney+"
-  },
-  {
-    "partido": "Wolverhampton - Aston Villa",
-    "liga": "Liga de Inglaterra",
-    "hora": "12:30 p. m.",
     "canal": "Disney+ / ESPN2"
   },
   {
-    "partido": "Atlético de Madrid - Mallorca",
+    "partido": "Osasuna - Real Sociedad",
     "liga": "Liga de Espana",
     "hora": "12:30 p. m.",
-    "canal": "Disney+ / ESPN"
+    "canal": "DSports"
   },
   {
-    "partido": "Union Berlin - RB Leipzig",
-    "liga": "Bundesliga",
-    "hora": "12:30 p. m.",
-    "canal": "Plan Premium Disney+"
-  },
-  {
-    "partido": "Mónaco - Auxerre",
-    "liga": "Liga de Francia",
-    "hora": "1:00 p. m.",
-    "canal": "Plan Premium Disney+"
-  },
-  {
-    "partido": "Bolognia - Como",
-    "liga": "Serie A",
-    "hora": "2:45 p. m.",
-    "canal": "Disney+ / ESPN2"
-  },
-  {
-    "partido": "Once Caldas - Fortaleza F.C",
+    "partido": "Equidad - Atlético Nacional",
     "liga": "Liga BetPlay",
-    "hora": "3:00 p. m.",
-    "canal": "Win Sports / Win Sports+"
-  },
-  {
-    "partido": "Espanyol - Real Madrid",
-    "liga": "Liga de Espana",
-    "hora": "3:00 p. m.",
-    "canal": "Disney+ / ESPN"
-  },
-  {
-    "partido": "Lille - Saint Etienne",
-    "liga": "Liga de Francia",
-    "hora": "3:00 p. m.",
-    "canal": "Plan Premium Disney+"
-  },
-  {
-    "partido": "Brasil Sub 20 - Colombia Sub 20",
-    "liga": "Sudamericano sub 20",
-    "hora": "4:00 p. m.",
-    "canal": "Directv 610 / Caracol TV / RCN"
-  },
-  {
-    "partido": "Ecuador Sub 20 - Argentina Sub 20",
-    "liga": "Sudamericano sub 20",
-    "hora": "4:00 p. m.",
-    "canal": "Directv 613"
-  },
-  {
-    "partido": "Deportivo Pasto - Millonarios",
-    "liga": "Liga BetPlay",
-    "hora": "5:10 p. m.",
+    "hora": "2:00 p. m.",
     "canal": "Win Sports+"
   },
   {
-    "partido": "Junior - Águilas Doradas",
+    "partido": "Roma - Napoli",
+    "liga": "Serie A",
+    "hora": "2:45 p. m.",
+    "canal": "Plan Premium Disney+"
+  },
+  {
+    "partido": "Marsella - Lyon",
+    "liga": "Liga de Francia",
+    "hora": "2:45 p. m.",
+    "canal": "Disney+ / ESPN4"
+  },
+  {
+    "partido": "Real Betis - Athletic Club",
+    "liga": "Liga de Espana",
+    "hora": "3:00 p. m.",
+    "canal": "DSports"
+  },
+  {
+    "partido": "Deportivo Cali - Envigado F.C",
     "liga": "Liga BetPlay",
-    "hora": "7:20 p. m.",
+    "hora": "4:10 p. m.",
+    "canal": "Win Sports+"
+  },
+  {
+    "partido": "Independiente Medellín - Boyacá Chicó",
+    "liga": "Liga BetPlay",
+    "hora": "6:20 p. m.",
+    "canal": "Win Sports+"
+  },
+  {
+    "partido": "Bucaramanga - América",
+    "liga": "Liga BetPlay",
+    "hora": "8:30 p. m.",
     "canal": "Win Sports+"
   }
 ]
