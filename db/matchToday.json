@@ -1,32 +1,50 @@
 [
   {
-    "partido": "Cagliari - Lazio",
-    "liga": "Serie A",
+    "partido": "VfB Stuttgart - FC Augsburgo",
+    "liga": "Copa de Alemania",
     "hora": "2:45 p. m.",
-    "canal": "ESPN 2 / Disney+"
+    "canal": "Disney+"
   },
   {
-    "partido": "Chelsea - West Ham Utd.",
-    "liga": "Liga de Inglaterra",
+    "partido": "Atalanta - Bolognia",
+    "liga": "Copa de Italia",
     "hora": "3:00 p. m.",
+    "canal": "Win Sports +"
+  },
+  {
+    "partido": "Chile Sub 20 - Argentina Sub 20",
+    "liga": "Sudamericano sub 20",
+    "hora": "3:00 p. m.",
+    "canal": "Directv 610"
+  },
+  {
+    "partido": "Atlético de Madrid - Getafe",
+    "liga": "Copa del Rey",
+    "hora": "3:30 p. m.",
+    "canal": "Directv 610"
+  },
+  {
+    "partido": "Uruguay Sub 20 - Brasil Sub 20",
+    "liga": "Sudamericano sub 20",
+    "hora": "5:30 p. m.",
+    "canal": "Directv 610"
+  },
+  {
+    "partido": "Quindío - Atlético Huila",
+    "liga": "Torneo Betplay",
+    "hora": "7:30 p. m.",
+    "canal": "Win Sports / Win Sports+"
+  },
+  {
+    "partido": "Monagas - Defensor Sporting",
+    "liga": "Copa Libertadores",
+    "hora": "7:30 p. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Leones - Boca Juniors de Cali",
-    "liga": "Torneo BetPlay",
-    "hora": "4:20 p. m.",
-    "canal": "Win Sports+"
-  },
-  {
-    "partido": "Pereira - Alianza FC",
-    "liga": "Liga BetPlay",
-    "hora": "6:30 p. m.",
-    "canal": "Win Sports / Win Sports+"
-  },
-  {
-    "partido": "Llaneros - Unión Magdalena",
-    "liga": "Liga BetPlay",
-    "hora": "8:30 p. m.",
-    "canal": "Win Sports / Win Sports+"
+    "partido": "Colombia Sub 20 - Paraguay Sub 20",
+    "liga": "Sudamericano sub 20",
+    "hora": "8:00 p. m.",
+    "canal": "Caracol / RCN / Directv 610"
   }
 ]
