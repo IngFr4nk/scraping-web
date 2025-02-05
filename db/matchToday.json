@@ -1,50 +1,32 @@
 [
   {
-    "partido": "VfB Stuttgart - FC Augsburgo",
+    "partido": "Bayer Leverkusen - Colonia",
     "liga": "Copa de Alemania",
     "hora": "2:45 p. m.",
-    "canal": "Disney+"
+    "canal": "ESPN 2 / Disney+"
   },
   {
-    "partido": "Atalanta - Bolognia",
-    "liga": "Copa de Italia",
+    "partido": "Newcastle - Arsenal",
+    "liga": "EFL Cup",
     "hora": "3:00 p. m.",
-    "canal": "Win Sports +"
-  },
-  {
-    "partido": "Chile Sub 20 - Argentina Sub 20",
-    "liga": "Sudamericano sub 20",
-    "hora": "3:00 p. m.",
-    "canal": "Directv 610"
-  },
-  {
-    "partido": "Atlético de Madrid - Getafe",
-    "liga": "Copa del Rey",
-    "hora": "3:30 p. m.",
-    "canal": "Directv 610"
-  },
-  {
-    "partido": "Uruguay Sub 20 - Brasil Sub 20",
-    "liga": "Sudamericano sub 20",
-    "hora": "5:30 p. m.",
-    "canal": "Directv 610"
-  },
-  {
-    "partido": "Quindío - Atlético Huila",
-    "liga": "Torneo Betplay",
-    "hora": "7:30 p. m.",
-    "canal": "Win Sports / Win Sports+"
-  },
-  {
-    "partido": "Monagas - Defensor Sporting",
-    "liga": "Copa Libertadores",
-    "hora": "7:30 p. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Colombia Sub 20 - Paraguay Sub 20",
-    "liga": "Sudamericano sub 20",
-    "hora": "8:00 p. m.",
-    "canal": "Caracol / RCN / Directv 610"
+    "partido": "Milán - Roma",
+    "liga": "Copa de Italia",
+    "hora": "3:00 p. m.",
+    "canal": "Directv 613 / Win Sports +"
+  },
+  {
+    "partido": "Leganés - Real Madrid",
+    "liga": "Copa del Rey",
+    "hora": "3:00 p. m.",
+    "canal": "Directv 610"
+  },
+  {
+    "partido": "Nacional (Par) - Alianza Lima",
+    "liga": "Copa Libertadores",
+    "hora": "7:30 p. m.",
+    "canal": "ESPN / Disney+"
   }
 ]
