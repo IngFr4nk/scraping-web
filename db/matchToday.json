@@ -1,30 +1,30 @@
 [
   {
-    "partido": "Bayer Leverkusen - Colonia",
-    "liga": "Copa de Alemania",
-    "hora": "2:45 p. m.",
-    "canal": "ESPN 2 / Disney+"
-  },
-  {
-    "partido": "Newcastle - Arsenal",
-    "liga": "EFL Cup",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "Milán - Roma",
-    "liga": "Copa de Italia",
-    "hora": "3:00 p. m.",
-    "canal": "Directv 613 / Win Sports +"
-  },
-  {
-    "partido": "Leganés - Real Madrid",
+    "partido": "Real Sociedad - Osasuna",
     "liga": "Copa del Rey",
-    "hora": "3:00 p. m.",
+    "hora": "1:30 p. m.",
     "canal": "Directv 610"
   },
   {
-    "partido": "Nacional (Par) - Alianza Lima",
+    "partido": "Liverpool - Tottenham Hotspur",
+    "liga": "EFL Cup",
+    "hora": "3:00 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Valencia CF - Barcelona",
+    "liga": "Copa del Rey",
+    "hora": "3:30 p. m.",
+    "canal": "Directv 610"
+  },
+  {
+    "partido": "Bucaramanga - Atlético Nacional",
+    "liga": "Superliga",
+    "hora": "7:30 p. m.",
+    "canal": "Win Sports+"
+  },
+  {
+    "partido": "Blooming - El Nacional",
     "liga": "Copa Libertadores",
     "hora": "7:30 p. m.",
     "canal": "ESPN / Disney+"
