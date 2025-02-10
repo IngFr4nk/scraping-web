@@ -1,32 +1,50 @@
 [
   {
-    "partido": "Real Sociedad - Osasuna",
-    "liga": "Copa del Rey",
-    "hora": "1:30 p. m.",
-    "canal": "Directv 610"
+    "partido": "Inter - Fiorentina",
+    "liga": "Serie A",
+    "hora": "2:45 p. m.",
+    "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Liverpool - Tottenham Hotspur",
-    "liga": "EFL Cup",
+    "partido": "Paraguay Sub 20 - Brasil Sub 20",
+    "liga": "Sudamericano sub 20",
     "hora": "3:00 p. m.",
-    "canal": "Disney+"
+    "canal": "DSports"
   },
   {
-    "partido": "Valencia CF - Barcelona",
-    "liga": "Copa del Rey",
-    "hora": "3:30 p. m.",
-    "canal": "Directv 610"
+    "partido": "Mallorca - Osasuna",
+    "liga": "Liga de Espana",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN2 / Disney+"
   },
   {
-    "partido": "Bucaramanga - Atlético Nacional",
-    "liga": "Superliga",
-    "hora": "7:30 p. m.",
+    "partido": "Tigres - Atlético FC",
+    "liga": "Torneo Betplay",
+    "hora": "4:00 p. m.",
     "canal": "Win Sports+"
   },
   {
-    "partido": "Blooming - El Nacional",
-    "liga": "Copa Libertadores",
-    "hora": "7:30 p. m.",
-    "canal": "ESPN / Disney+"
+    "partido": "Argentina Sub 20 - Colombia Sub 20",
+    "liga": "Sudamericano sub 20",
+    "hora": "5:30 p. m.",
+    "canal": "Caracol / RCN / Directv 610"
+  },
+  {
+    "partido": "Barranquilla - Real Santander",
+    "liga": "Torneo Betplay",
+    "hora": "6:00 p. m.",
+    "canal": "Win Sports+"
+  },
+  {
+    "partido": "Chile Sub 20 - Uruguay Sub 20",
+    "liga": "Sudamericano sub 20",
+    "hora": "8:00 p. m.",
+    "canal": "DSports"
+  },
+  {
+    "partido": "Atlético Huila - Jaguares de Córdoba",
+    "liga": "Torneo Betplay",
+    "hora": "8:10 p. m.",
+    "canal": "Win Sports"
   }
 ]
