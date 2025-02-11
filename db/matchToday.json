@@ -1,50 +1,44 @@
 [
   {
-    "partido": "Inter - Fiorentina",
-    "liga": "Serie A",
-    "hora": "2:45 p. m.",
+    "partido": "Brest - Paris Saint-Germain",
+    "liga": "Champions League",
+    "hora": "12:45 p. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Paraguay Sub 20 - Brasil Sub 20",
-    "liga": "Sudamericano sub 20",
+    "partido": "Juventus - PSV",
+    "liga": "Champions League",
     "hora": "3:00 p. m.",
-    "canal": "DSports"
+    "canal": "ESPN 2 / Disney+"
   },
   {
-    "partido": "Mallorca - Osasuna",
-    "liga": "Liga de Espana",
+    "partido": "Manchester City - Real Madrid",
+    "liga": "Champions League",
     "hora": "3:00 p. m.",
-    "canal": "ESPN2 / Disney+"
+    "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Tigres - Atlético FC",
-    "liga": "Torneo Betplay",
-    "hora": "4:00 p. m.",
-    "canal": "Win Sports+"
+    "partido": "Sporting de Lisboa - Borussia Dortmund",
+    "liga": "Champions League",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN 3 / Disney+"
   },
   {
-    "partido": "Argentina Sub 20 - Colombia Sub 20",
-    "liga": "Sudamericano sub 20",
-    "hora": "5:30 p. m.",
-    "canal": "Caracol / RCN / Directv 610"
-  },
-  {
-    "partido": "Barranquilla - Real Santander",
-    "liga": "Torneo Betplay",
+    "partido": "Boca Juniors - Rivadavia",
+    "liga": "Liga de Argentina",
     "hora": "6:00 p. m.",
+    "canal": "ESPN 2 / Disney+"
+  },
+  {
+    "partido": "Llaneros - Millonarios",
+    "liga": "Liga BetPlay",
+    "hora": "6:30 p. m.",
     "canal": "Win Sports+"
   },
   {
-    "partido": "Chile Sub 20 - Uruguay Sub 20",
-    "liga": "Sudamericano sub 20",
-    "hora": "8:00 p. m.",
-    "canal": "DSports"
-  },
-  {
-    "partido": "Atlético Huila - Jaguares de Córdoba",
-    "liga": "Torneo Betplay",
-    "hora": "8:10 p. m.",
-    "canal": "Win Sports"
+    "partido": "Defensor Sporting - Monagas",
+    "liga": "Copa Libertadores",
+    "hora": "7:30 p. m.",
+    "canal": "ESPN / Disney+"
   }
 ]
