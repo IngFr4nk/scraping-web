@@ -1,44 +1,62 @@
 [
   {
-    "partido": "Brest - Paris Saint-Germain",
+    "partido": "Brujas - Atalanta",
     "liga": "Champions League",
     "hora": "12:45 p. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Juventus - PSV",
+    "partido": "Everton - Liverpool",
+    "liga": "Liga de Inglaterra",
+    "hora": "2:30 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Celtic - Bayern Munich",
     "liga": "Champions League",
     "hora": "3:00 p. m.",
     "canal": "ESPN 2 / Disney+"
   },
   {
-    "partido": "Manchester City - Real Madrid",
-    "liga": "Champions League",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "Sporting de Lisboa - Borussia Dortmund",
+    "partido": "Mónaco - Benfica",
     "liga": "Champions League",
     "hora": "3:00 p. m.",
     "canal": "ESPN 3 / Disney+"
   },
   {
-    "partido": "Boca Juniors - Rivadavia",
-    "liga": "Liga de Argentina",
-    "hora": "6:00 p. m.",
-    "canal": "ESPN 2 / Disney+"
+    "partido": "Feyenoord - Milán",
+    "liga": "Champions League",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Llaneros - Millonarios",
+    "partido": "Deportivo Pasto - Boyacá Chicó",
+    "liga": "Liga BetPlay",
+    "hora": "4:30 p. m.",
+    "canal": "Win Sports / Win Sports +"
+  },
+  {
+    "partido": "Independiente Medellín - Unión Magdalena",
     "liga": "Liga BetPlay",
     "hora": "6:30 p. m.",
-    "canal": "Win Sports+"
+    "canal": "Win Sports +"
   },
   {
-    "partido": "Defensor Sporting - Monagas",
+    "partido": "Alianza Lima - Nacional (Par)",
     "liga": "Copa Libertadores",
     "hora": "7:30 p. m.",
     "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Godoy Cruz - River Plate",
+    "liga": "Superliga Argentina",
+    "hora": "8:15 p. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Santa Fe - Atlético Nacional",
+    "liga": "Liga BetPlay",
+    "hora": "8:30 p. m.",
+    "canal": "Win Sports +"
   }
 ]
