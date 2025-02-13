@@ -1,60 +1,96 @@
 [
   {
-    "partido": "Brujas - Atalanta",
-    "liga": "Champions League",
+    "partido": "Ferencváros - Viktoria Plzen",
+    "liga": "Liga de Europa",
+    "hora": "12:45 p. m.",
+    "canal": "ESPN 4 / Disney+"
+  },
+  {
+    "partido": "Midtjylland - Real Sociedad",
+    "liga": "Liga de Europa",
+    "hora": "12:45 p. m.",
+    "canal": "ESPN 3 / Disney+"
+  },
+  {
+    "partido": "Royale Union SG - Ajax",
+    "liga": "Liga de Europa",
+    "hora": "12:45 p. m.",
+    "canal": "ESPN 2 / Disney+"
+  },
+  {
+    "partido": "Fenerbache - Anderlecht",
+    "liga": "Liga de Europa",
     "hora": "12:45 p. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Everton - Liverpool",
-    "liga": "Liga de Inglaterra",
-    "hora": "2:30 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Celtic - Bayern Munich",
-    "liga": "Champions League",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN 2 / Disney+"
-  },
-  {
-    "partido": "Mónaco - Benfica",
-    "liga": "Champions League",
+    "partido": "FC Twente - Bodo Glimt",
+    "liga": "Liga de Europa",
     "hora": "3:00 p. m.",
     "canal": "ESPN 3 / Disney+"
   },
   {
-    "partido": "Feyenoord - Milán",
-    "liga": "Champions League",
+    "partido": "Paok Salonika - Steaua Bucarest",
+    "liga": "Liga de Europa",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN 2 / Disney+"
+  },
+  {
+    "partido": "AZ Alkmaar - Galatasaray",
+    "liga": "Liga de Europa",
     "hora": "3:00 p. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Deportivo Pasto - Boyacá Chicó",
-    "liga": "Liga BetPlay",
-    "hora": "4:30 p. m.",
-    "canal": "Win Sports / Win Sports +"
+    "partido": "Porto - Roma",
+    "liga": "Liga de Europa",
+    "hora": "3:00 p. m.",
+    "canal": "Disney+"
   },
   {
-    "partido": "Independiente Medellín - Unión Magdalena",
+    "partido": "Gent - Real Betis",
+    "liga": "Conference League",
+    "hora": "3:00 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Paraguay Sub 20 - Uruguay Sub 20",
+    "liga": "Sudamericano sub 20",
+    "hora": "3:00 p. m.",
+    "canal": "Directv 610"
+  },
+  {
+    "partido": "Equidad - Envigado F.C",
+    "liga": "Liga BetPlay",
+    "hora": "4:30 p. m.",
+    "canal": "Win Sports +"
+  },
+  {
+    "partido": "Colombia - Chile Sub 20",
+    "liga": "Sudamericano sub 20",
+    "hora": "5:30 p. m.",
+    "canal": "Caracol / RCN / Directv 610"
+  },
+  {
+    "partido": "Junior - Once Caldas",
     "liga": "Liga BetPlay",
     "hora": "6:30 p. m.",
     "canal": "Win Sports +"
   },
   {
-    "partido": "Alianza Lima - Nacional (Par)",
+    "partido": "El Nacional - Blooming",
     "liga": "Copa Libertadores",
     "hora": "7:30 p. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Godoy Cruz - River Plate",
-    "liga": "Superliga Argentina",
-    "hora": "8:15 p. m.",
-    "canal": "ESPN / Disney+"
+    "partido": "Brasil Sub 20 - Argentina Sub 20",
+    "liga": "Sudamericano sub 20",
+    "hora": "8:00 p. m.",
+    "canal": "Directv 610"
   },
   {
-    "partido": "Santa Fe - Atlético Nacional",
+    "partido": "Pereira - Deportes Tolima",
     "liga": "Liga BetPlay",
     "hora": "8:30 p. m.",
     "canal": "Win Sports +"
