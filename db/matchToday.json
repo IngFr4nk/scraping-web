@@ -1,68 +1,56 @@
 [
   {
-    "partido": "Milán - Feyenoord",
+    "partido": "Borussia Dortmund - Sporting de Lisboa",
     "liga": "Champions League",
     "hora": "12:45 p. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Atalanta - Brujas",
-    "liga": "Champions League",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN 3 / Disney+"
-  },
-  {
-    "partido": "Bayern Munich - Celtic",
-    "liga": "Champions League",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "Benfica - Mónaco",
-    "liga": "Champions League",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN 2 / Disney+"
-  },
-  {
-    "partido": "Bucaramanga - Alianza FC",
-    "liga": "Liga BetPlay",
-    "hora": "4:00 p. m.",
-    "canal": "Win Sports / Win Sports+"
-  },
-  {
-    "partido": "D. Iquique - Santa Fe",
-    "liga": "Copa Libertadores",
-    "hora": "5:00 p. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "Llaneros - Deportivo Cali",
-    "liga": "Liga BetPlay",
-    "hora": "6:10 p. m.",
-    "canal": "Win Sports+"
-  },
-  {
-    "partido": "Alianza Lima - Boca Juniors",
-    "liga": "Copa Libertadores",
-    "hora": "7:30 p. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "The Strongest - Bahía",
-    "liga": "Copa Libertadores",
-    "hora": "7:30 p. m.",
-    "canal": "ESPN 2 / Disney+"
-  },
-  {
-    "partido": "Sporting Kansas City - Inter Miami",
-    "liga": "Concacaf Cup",
-    "hora": "8:00 p. m.",
+    "partido": "Aston Villa - Liverpool",
+    "liga": "Liga de Inglaterra",
+    "hora": "2:30 p. m.",
     "canal": "Disney+"
   },
   {
-    "partido": "Boyacá Chicó - Junior",
+    "partido": "Real Madrid - Manchester City",
+    "liga": "Champions League",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Paris Saint-Germain - Brest",
+    "liga": "Champions League",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN 5 / Disney+"
+  },
+  {
+    "partido": "PSV - Juventus",
+    "liga": "Champions League",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN 2 / Disney+"
+  },
+  {
+    "partido": "Boston River - Ñublense",
+    "liga": "Copa Libertadores",
+    "hora": "5:00 p. m.",
+    "canal": "ESPN 2 / Disney+"
+  },
+  {
+    "partido": "Universidad Central - Corinthians",
+    "liga": "Copa Libertadores",
+    "hora": "7:30 p. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "El Nacional - Barcelona (ECU)",
+    "liga": "Copa Libertadores",
+    "hora": "7:30 p. m.",
+    "canal": "ESPN 2 / Disney+"
+  },
+  {
+    "partido": "Once Caldas - Pereira",
     "liga": "Liga BetPlay",
-    "hora": "8:20 p. m.",
-    "canal": "Win Sports / Win Sports+"
+    "hora": "8:10 p. m.",
+    "canal": "Win Sports+"
   }
 ]
