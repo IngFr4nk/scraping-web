@@ -1,56 +1,74 @@
 [
   {
-    "partido": "Borussia Dortmund - Sporting de Lisboa",
-    "liga": "Champions League",
+    "partido": "Roma - Porto",
+    "liga": "Liga de Europa",
     "hora": "12:45 p. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Aston Villa - Liverpool",
-    "liga": "Liga de Inglaterra",
-    "hora": "2:30 p. m.",
-    "canal": "Disney+"
+    "partido": "Galatasaray - AZ Alkmaar",
+    "liga": "Liga de Europa",
+    "hora": "12:45 p. m.",
+    "canal": "ESPN 2 / Disney+"
   },
   {
-    "partido": "Real Madrid - Manchester City",
-    "liga": "Champions League",
+    "partido": "Steaua Bucarest - Paok Salonika",
+    "liga": "Liga de Europa",
+    "hora": "12:45 p. m.",
+    "canal": "ESPN 3 / Disney+"
+  },
+  {
+    "partido": "Bodo Glimt - FC Twente",
+    "liga": "Liga de Europa",
+    "hora": "12:45 p. m.",
+    "canal": "ESPN 4 / Disney+"
+  },
+  {
+    "partido": "Anderlecht - Fenerbache",
+    "liga": "Liga de Europa",
     "hora": "3:00 p. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Paris Saint-Germain - Brest",
-    "liga": "Champions League",
+    "partido": "Viktoria Plzen - Ferencváros",
+    "liga": "Liga de Europa",
     "hora": "3:00 p. m.",
-    "canal": "ESPN 5 / Disney+"
+    "canal": "ESPN 4 / Disney+"
   },
   {
-    "partido": "PSV - Juventus",
-    "liga": "Champions League",
+    "partido": "Real Sociedad - Midtjylland",
+    "liga": "Liga de Europa",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN 3 / Disney+"
+  },
+  {
+    "partido": "Ajax - Royale Union SG",
+    "liga": "Liga de Europa",
     "hora": "3:00 p. m.",
     "canal": "ESPN 2 / Disney+"
   },
   {
-    "partido": "Boston River - Ñublense",
+    "partido": "Monagas - Cerro Porteño",
     "liga": "Copa Libertadores",
     "hora": "5:00 p. m.",
     "canal": "ESPN 2 / Disney+"
   },
   {
-    "partido": "Universidad Central - Corinthians",
+    "partido": "Unión Magdalena - Millonarios",
+    "liga": "Liga BetPlay",
+    "hora": "6:30 p. m.",
+    "canal": "Win Sports+"
+  },
+  {
+    "partido": "Deportes Tolima - Melgar",
     "liga": "Copa Libertadores",
     "hora": "7:30 p. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "El Nacional - Barcelona (ECU)",
-    "liga": "Copa Libertadores",
+    "partido": "Racing Club - Botafogo",
+    "liga": "Recopa Sudamericana",
     "hora": "7:30 p. m.",
     "canal": "ESPN 2 / Disney+"
-  },
-  {
-    "partido": "Once Caldas - Pereira",
-    "liga": "Liga BetPlay",
-    "hora": "8:10 p. m.",
-    "canal": "Win Sports+"
   }
 ]
