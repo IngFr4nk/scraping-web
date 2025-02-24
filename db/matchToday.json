@@ -1,44 +1,26 @@
 [
   {
-    "partido": "Friburgo - Werder Bremen",
-    "liga": "Bundesliga",
-    "hora": "2:30 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Lecce - Udinese",
+    "partido": "Roma - Monza",
     "liga": "Serie A",
     "hora": "2:45 p. m.",
-    "canal": "Disney+"
+    "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Rennes - Reims",
-    "liga": "Liga de Francia",
-    "hora": "2:45 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Celta de Vigo - Osasuna",
+    "partido": "Sevilla - Mallorca",
     "liga": "Liga de Espana",
-    "hora": "3:00 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Leicester City - Brentford",
-    "liga": "Torneo Betplay",
     "hora": "3:00 p. m.",
     "canal": "ESPN 2 / Disney+"
   },
   {
-    "partido": "Cúcuta - Atlético Huila",
+    "partido": "Real Cundinamarca - Real Cartagena",
     "liga": "Torneo Betplay",
-    "hora": "5:30 p. m.",
+    "hora": "5:00 p. m.",
     "canal": "Win Sports+"
   },
   {
-    "partido": "Equidad - Boyacá Chicó",
+    "partido": "Junior - Envigado F.C",
     "liga": "Liga BetPlay",
     "hora": "7:30 p. m.",
-    "canal": "Win Sports / Win Sports+"
+    "canal": "Win Sports+"
   }
 ]
