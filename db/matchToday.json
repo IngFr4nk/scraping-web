@@ -1,26 +1,80 @@
 [
   {
-    "partido": "Roma - Monza",
-    "liga": "Serie A",
-    "hora": "2:45 p. m.",
+    "partido": "Crystal Palace - Aston Villa",
+    "liga": "Liga de Inglaterra",
+    "hora": "2:30 p. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Sevilla - Mallorca",
-    "liga": "Liga de Espana",
+    "partido": "Wolverhampton - Fulham",
+    "liga": "Liga de Inglaterra",
+    "hora": "2:30 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Brighton & Hove - Bournemouth",
+    "liga": "Liga de Inglaterra",
+    "hora": "2:30 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Arminia Bielefeld - Werder Bremen",
+    "liga": "Copa de Alemania",
+    "hora": "2:45 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Inter - Lazio",
+    "liga": "Copa de Italia",
     "hora": "3:00 p. m.",
+    "canal": "Directv 610"
+  },
+  {
+    "partido": "Chelsea - Southampton",
+    "liga": "Liga de Inglaterra",
+    "hora": "3:15 p. m.",
     "canal": "ESPN 2 / Disney+"
   },
   {
-    "partido": "Real Cundinamarca - Real Cartagena",
-    "liga": "Torneo Betplay",
-    "hora": "5:00 p. m.",
-    "canal": "Win Sports+"
+    "partido": "Barcelona - Atlético de Madrid",
+    "liga": "Copa del Rey",
+    "hora": "3:30 p. m.",
+    "canal": "Directv 610"
   },
   {
-    "partido": "Junior - Envigado F.C",
+    "partido": "Santa Fe - D. Iquique",
+    "liga": "Copa Libertadores",
+    "hora": "5:00 p. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Boca Juniors - Alianza Lima",
+    "liga": "Copa Libertadores",
+    "hora": "7:30 p. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Bahía - The Strongest",
+    "liga": "Copa Libertadores",
+    "hora": "7:30 p. m.",
+    "canal": "ESPN 2 / Disney+"
+  },
+  {
+    "partido": "Deportivo Pasto - Unión Magdalena",
     "liga": "Liga BetPlay",
     "hora": "7:30 p. m.",
-    "canal": "Win Sports+"
+    "canal": "Win Sports +"
+  },
+  {
+    "partido": "Inter Miami - Sporting Kansas City",
+    "liga": "Concacaf Champions",
+    "hora": "8:00 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Los Ángeles - Colorado Rapids",
+    "liga": "Concacaf Champions",
+    "hora": "10:00 p. m.",
+    "canal": "Disney+"
   }
 ]
