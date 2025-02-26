@@ -1,80 +1,74 @@
 [
   {
-    "partido": "Crystal Palace - Aston Villa",
+    "partido": "Nottingham Forest - Arsenal",
+    "liga": "Liga de Inglaterra",
+    "hora": "2:30 p. m.",
+    "canal": "ESPN 2 / Disney+"
+  },
+  {
+    "partido": "Brentford - Everton",
+    "liga": "Liga de Inglaterra",
+    "hora": "2:30 p. m.",
+    "canal": "ESPN 3 / Disney+"
+  },
+  {
+    "partido": "Manchester United - Ipswich Town",
+    "liga": "Liga de Inglaterra",
+    "hora": "2:30 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Tottenham Hotspur - Manchester City",
     "liga": "Liga de Inglaterra",
     "hora": "2:30 p. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Wolverhampton - Fulham",
-    "liga": "Liga de Inglaterra",
-    "hora": "2:30 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Brighton & Hove - Bournemouth",
-    "liga": "Liga de Inglaterra",
-    "hora": "2:30 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Arminia Bielefeld - Werder Bremen",
+    "partido": "RB Leipzig - Wolfsburgo",
     "liga": "Copa de Alemania",
     "hora": "2:45 p. m.",
     "canal": "Disney+"
   },
   {
-    "partido": "Inter - Lazio",
+    "partido": "Juventus - Empoli",
     "liga": "Copa de Italia",
     "hora": "3:00 p. m.",
-    "canal": "Directv 610"
+    "canal": "Directv 613 / Win Sports +"
   },
   {
-    "partido": "Chelsea - Southampton",
+    "partido": "Liverpool - Newcastle",
     "liga": "Liga de Inglaterra",
     "hora": "3:15 p. m.",
-    "canal": "ESPN 2 / Disney+"
+    "canal": "Disney+"
   },
   {
-    "partido": "Barcelona - Atlético de Madrid",
+    "partido": "Real Sociedad - Real Madrid",
     "liga": "Copa del Rey",
     "hora": "3:30 p. m.",
     "canal": "Directv 610"
   },
   {
-    "partido": "Santa Fe - D. Iquique",
+    "partido": "Ñublense - Boston River",
     "liga": "Copa Libertadores",
     "hora": "5:00 p. m.",
-    "canal": "ESPN / Disney+"
+    "canal": "ESPN 2 / Disney+"
   },
   {
-    "partido": "Boca Juniors - Alianza Lima",
-    "liga": "Copa Libertadores",
-    "hora": "7:30 p. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "Bahía - The Strongest",
+    "partido": "Barcelona (ECU) - El Nacional",
     "liga": "Copa Libertadores",
     "hora": "7:30 p. m.",
     "canal": "ESPN 2 / Disney+"
   },
   {
-    "partido": "Deportivo Pasto - Unión Magdalena",
-    "liga": "Liga BetPlay",
+    "partido": "Corinthians - Universidad Central",
+    "liga": "Copa Libertadores",
     "hora": "7:30 p. m.",
-    "canal": "Win Sports +"
+    "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Inter Miami - Sporting Kansas City",
-    "liga": "Concacaf Champions",
-    "hora": "8:00 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Los Ángeles - Colorado Rapids",
-    "liga": "Concacaf Champions",
-    "hora": "10:00 p. m.",
-    "canal": "Disney+"
+    "partido": "Australia Femenino - Colombia Femenino",
+    "liga": "Amistoso femenino",
+    "hora": "7:30 p. m.",
+    "canal": "Caracol HD2 / RCN HD2 / Golcaracol.com"
   }
 ]
