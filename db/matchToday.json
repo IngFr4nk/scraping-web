@@ -1,44 +1,56 @@
 [
   {
-    "partido": "Bolognia - Milán",
+    "partido": "Nottingham Forest - Ipswich Town",
+    "liga": "FA Cup",
+    "hora": "2:30 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Juventus - Hellas Verona",
     "liga": "Serie A",
     "hora": "2:45 p. m.",
     "canal": "Disney+"
   },
   {
-    "partido": "West Ham Utd. - Leicester City",
-    "liga": "Liga de Inglaterra",
+    "partido": "Villarreal - Espanyol",
+    "liga": "Liga de Espana",
     "hora": "3:00 p. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "Cerro Porteño - Monagas",
-    "liga": "Copa Libertadores",
-    "hora": "5:00 p. m.",
     "canal": "ESPN 2 / Disney+"
   },
   {
-    "partido": "Patriotas F.C - Orsomarso",
+    "partido": "Barracas Central - Godoy Cruz",
+    "liga": "Liga de Argentina",
+    "hora": "3:00 p. m.",
+    "canal": "TyC Sports Internacional"
+  },
+  {
+    "partido": "Inter Palmira - Bogotá",
     "liga": "Torneo Betplay",
-    "hora": "5:45 p. m.",
-    "canal": "Win Sports +"
+    "hora": "3:00 p. m.",
+    "canal": "Win Sports+"
   },
   {
-    "partido": "Melgar - Deportes Tolima",
-    "liga": "Copa Libertadores",
-    "hora": "7:30 p. m.",
-    "canal": "ESPN / Disney+"
+    "partido": "San Lorenzo - Racing Club",
+    "liga": "Liga de Argentina",
+    "hora": "5:00 p. m.",
+    "canal": "TyC Sports Internacional"
   },
   {
-    "partido": "Botafogo - Racing Club",
-    "liga": "Recopa Sudamericana",
-    "hora": "7:30 p. m.",
-    "canal": "ESPN 2 / Disney+"
-  },
-  {
-    "partido": "Independiente Medellín - Llaneros",
+    "partido": "Unión Magdalena - Deportivo Cali",
     "liga": "Liga BetPlay",
-    "hora": "8:00 p. m.",
-    "canal": "Win Sports +"
+    "hora": "5:00 p. m.",
+    "canal": "Win Sports / Win Sports+"
+  },
+  {
+    "partido": "Atlético Tucumán - Newell`s Old Boys",
+    "liga": "Liga de Argentina",
+    "hora": "7:00 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Independiente Medellín - Deportivo Pasto",
+    "liga": "Liga BetPlay",
+    "hora": "7:30 p. m.",
+    "canal": "Win Sports+"
   }
 ]
