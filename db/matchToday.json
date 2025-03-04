@@ -1,56 +1,68 @@
 [
   {
-    "partido": "Nottingham Forest - Ipswich Town",
-    "liga": "FA Cup",
-    "hora": "2:30 p. m.",
-    "canal": "Disney+"
+    "partido": "Brujas - Aston Villa",
+    "liga": "Champions League",
+    "hora": "12:45 p. m.",
+    "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Juventus - Hellas Verona",
-    "liga": "Serie A",
-    "hora": "2:45 p. m.",
-    "canal": "Disney+"
+    "partido": "Borussia Dortmund - Lille",
+    "liga": "Champions League",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN 5 / Disney+"
   },
   {
-    "partido": "Villarreal - Espanyol",
-    "liga": "Liga de Espana",
+    "partido": "Real Madrid - Atlético de Madrid",
+    "liga": "Champions League",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "PSV - Arsenal",
+    "liga": "Champions League",
     "hora": "3:00 p. m.",
     "canal": "ESPN 2 / Disney+"
   },
   {
-    "partido": "Barracas Central - Godoy Cruz",
-    "liga": "Liga de Argentina",
-    "hora": "3:00 p. m.",
-    "canal": "TyC Sports Internacional"
-  },
-  {
-    "partido": "Inter Palmira - Bogotá",
-    "liga": "Torneo Betplay",
-    "hora": "3:00 p. m.",
-    "canal": "Win Sports+"
-  },
-  {
-    "partido": "San Lorenzo - Racing Club",
-    "liga": "Liga de Argentina",
+    "partido": "D. Iquique - Alianza Lima",
+    "liga": "Copa Libertadores",
     "hora": "5:00 p. m.",
-    "canal": "TyC Sports Internacional"
+    "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Unión Magdalena - Deportivo Cali",
-    "liga": "Liga BetPlay",
+    "partido": "Universitario de Vinto - Real Potosí",
+    "liga": "Copa Sudamericana",
     "hora": "5:00 p. m.",
-    "canal": "Win Sports / Win Sports+"
-  },
-  {
-    "partido": "Atlético Tucumán - Newell`s Old Boys",
-    "liga": "Liga de Argentina",
-    "hora": "7:00 p. m.",
     "canal": "Disney+"
   },
   {
-    "partido": "Independiente Medellín - Deportivo Pasto",
+    "partido": "Llaneros - Equidad",
     "liga": "Liga BetPlay",
-    "hora": "7:30 p. m.",
+    "hora": "6:30 p. m.",
     "canal": "Win Sports+"
+  },
+  {
+    "partido": "Sportivo Luqueño - Sportivo Ameliano",
+    "liga": "Copa Sudamericana",
+    "hora": "7:30 p. m.",
+    "canal": "ESPN 5 / Disney+"
+  },
+  {
+    "partido": "Universidad Católica - Palestino",
+    "liga": "Copa Sudamericana",
+    "hora": "7:30 p. m.",
+    "canal": "ESPN 2 / Disney+"
+  },
+  {
+    "partido": "Fortaleza F.C - Atlético Nacional",
+    "liga": "Liga BetPlay",
+    "hora": "8:30 p. m.",
+    "canal": "Win Sports+"
+  },
+  {
+    "partido": "Tarma - Cienciano",
+    "liga": "Copa Sudamericana",
+    "hora": "9:00 p. m.",
+    "canal": "Directv 610"
   }
 ]
