@@ -1,68 +1,50 @@
 [
   {
-    "partido": "Brujas - Aston Villa",
+    "partido": "Feyenoord - Inter",
     "liga": "Champions League",
     "hora": "12:45 p. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Borussia Dortmund - Lille",
-    "liga": "Champions League",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN 5 / Disney+"
-  },
-  {
-    "partido": "Real Madrid - Atlético de Madrid",
-    "liga": "Champions League",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "PSV - Arsenal",
+    "partido": "Benfica - Barcelona",
     "liga": "Champions League",
     "hora": "3:00 p. m.",
     "canal": "ESPN 2 / Disney+"
   },
   {
-    "partido": "D. Iquique - Alianza Lima",
+    "partido": "Paris Saint-Germain - Liverpool",
+    "liga": "Champions League",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Bayern Munich - Bayer Leverkusen",
+    "liga": "Champions League",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN 5 / Disney+"
+  },
+  {
+    "partido": "Puerto Cabello - Metropolitanos",
+    "liga": "Copa Sudamericana",
+    "hora": "5:00 p. m.",
+    "canal": "ESPN 3 / Disney+"
+  },
+  {
+    "partido": "Melgar - Cerro Porteño",
     "liga": "Copa Libertadores",
     "hora": "5:00 p. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Universitario de Vinto - Real Potosí",
-    "liga": "Copa Sudamericana",
-    "hora": "5:00 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Llaneros - Equidad",
-    "liga": "Liga BetPlay",
-    "hora": "6:30 p. m.",
-    "canal": "Win Sports+"
-  },
-  {
-    "partido": "Sportivo Luqueño - Sportivo Ameliano",
+    "partido": "Once Caldas - Millonarios",
     "liga": "Copa Sudamericana",
     "hora": "7:30 p. m.",
-    "canal": "ESPN 5 / Disney+"
-  },
-  {
-    "partido": "Universidad Católica - Palestino",
-    "liga": "Copa Sudamericana",
-    "hora": "7:30 p. m.",
-    "canal": "ESPN 2 / Disney+"
-  },
-  {
-    "partido": "Fortaleza F.C - Atlético Nacional",
-    "liga": "Liga BetPlay",
-    "hora": "8:30 p. m.",
-    "canal": "Win Sports+"
-  },
-  {
-    "partido": "Tarma - Cienciano",
-    "liga": "Copa Sudamericana",
-    "hora": "9:00 p. m.",
     "canal": "Directv 610"
+  },
+  {
+    "partido": "Barcelona (ECU) - Corinthians",
+    "liga": "Copa Libertadores",
+    "hora": "7:30 p. m.",
+    "canal": "ESPN / Disney+"
   }
 ]
