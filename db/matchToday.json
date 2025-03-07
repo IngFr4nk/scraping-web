@@ -1,98 +1,32 @@
 [
   {
-    "partido": "Real Sociedad - Manchester United",
-    "liga": "Liga de Europa",
-    "hora": "12:45 p. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "Panathinaikos - Fiorentina",
-    "liga": "Conference League",
-    "hora": "12:45 p. m.",
+    "partido": "Borussia Mönchengladbach - Mainz 05",
+    "liga": "Bundesliga",
+    "hora": "2:30 p. m.",
     "canal": "Disney+"
   },
   {
-    "partido": "Copenhague - Chelsea",
-    "liga": "Conference League",
-    "hora": "12:45 p. m.",
+    "partido": "Toulouse - Mónaco",
+    "liga": "Liga de Francia",
+    "hora": "2:45 p. m.",
+    "canal": "ESPN 2 / Disney+"
+  },
+  {
+    "partido": "Cagliari - Génoa",
+    "liga": "Serie A",
+    "hora": "2:45 p. m.",
     "canal": "Disney+"
   },
   {
-    "partido": "Real Betis - Vitória SC",
-    "liga": "Conference League",
-    "hora": "12:45 p. m.",
-    "canal": "Disney+"
+    "partido": "Boca Juniors de Cali - Cúcuta",
+    "liga": "Torneo Betplay",
+    "hora": "5:15 p. m.",
+    "canal": "Win Sports+"
   },
   {
-    "partido": "Fenerbache - Rangers",
-    "liga": "Liga de Europa",
-    "hora": "12:45 p. m.",
-    "canal": "ESPN 4 / Disney+"
-  },
-  {
-    "partido": "AZ Alkmaar - Tottenham Hotspur",
-    "liga": "Liga de Europa",
-    "hora": "12:45 p. m.",
-    "canal": "ESPN 2 / Disney+"
-  },
-  {
-    "partido": "Steaua Bucarest - Lyon",
-    "liga": "Liga de Europa",
-    "hora": "12:45 p. m.",
-    "canal": "ESPN 3 / Disney+"
-  },
-  {
-    "partido": "Bodo Glimt - Olimpiakos",
-    "liga": "Liga de Europa",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN 5 / Disney+"
-  },
-  {
-    "partido": "Viktoria Plzen - Lazio",
-    "liga": "Liga de Europa",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN 4 / Disney+"
-  },
-  {
-    "partido": "Ajax - Eintracht Frankfurt",
-    "liga": "Liga de Europa",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN 2 / Disney+"
-  },
-  {
-    "partido": "Roma - Athletic Club",
-    "liga": "Liga de Europa",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "Cerro Largo - Danubio",
-    "liga": "Copa Sudamericana",
-    "hora": "5:00 p. m.",
-    "canal": "ESPN 2 / Disney+"
-  },
-  {
-    "partido": "Boston River - Bahía",
-    "liga": "Copa Libertadores",
+    "partido": "Águilas Doradas - Bucaramanga",
+    "liga": "Liga BetPlay",
     "hora": "7:30 p. m.",
-    "canal": "ESPN 2 / Disney+"
-  },
-  {
-    "partido": "Junior - América",
-    "liga": "Copa Sudamericana",
-    "hora": "7:30 p. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "Deportivo La Guaira - Caracas F.C",
-    "liga": "Copa Sudamericana",
-    "hora": "7:30 p. m.",
-    "canal": "Directv 612"
-  },
-  {
-    "partido": "Universidad Católica (Ecu) - Aucas",
-    "liga": "Copa Sudamericana",
-    "hora": "9:00 p. m.",
-    "canal": "Directv 612"
+    "canal": "Win Sports / Win Sports+"
   }
 ]
