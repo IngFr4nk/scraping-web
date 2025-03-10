@@ -1,32 +1,38 @@
 [
   {
-    "partido": "Borussia Mönchengladbach - Mainz 05",
-    "liga": "Bundesliga",
-    "hora": "2:30 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Toulouse - Mónaco",
-    "liga": "Liga de Francia",
+    "partido": "Lazio - Udinese",
+    "liga": "Serie A",
     "hora": "2:45 p. m.",
     "canal": "ESPN 2 / Disney+"
   },
   {
-    "partido": "Cagliari - Génoa",
-    "liga": "Serie A",
-    "hora": "2:45 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Boca Juniors de Cali - Cúcuta",
+    "partido": "Bogotá - Atlético Huila",
     "liga": "Torneo Betplay",
-    "hora": "5:15 p. m.",
+    "hora": "3:00 p. m.",
     "canal": "Win Sports+"
   },
   {
-    "partido": "Águilas Doradas - Bucaramanga",
+    "partido": "West Ham Utd. - Newcastle",
+    "liga": "Liga de Inglaterra",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Espanyol - Girona",
+    "liga": "Liga de Espana",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN 3 / Disney+"
+  },
+  {
+    "partido": "Deportivo Cali - Boyacá Chicó",
     "liga": "Liga BetPlay",
-    "hora": "7:30 p. m.",
+    "hora": "6:20 p. m.",
+    "canal": "Win Sports / Win Sports+"
+  },
+  {
+    "partido": "Deportes Tolima - Once Caldas",
+    "liga": "Liga BetPlay",
+    "hora": "8:30 p. m.",
     "canal": "Win Sports / Win Sports+"
   }
 ]
