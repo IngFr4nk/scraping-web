@@ -1,38 +1,44 @@
 [
   {
-    "partido": "Lazio - Udinese",
-    "liga": "Serie A",
-    "hora": "2:45 p. m.",
+    "partido": "Barcelona - Benfica",
+    "liga": "Champions League",
+    "hora": "12:45 p. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Inter - Feyenoord",
+    "liga": "Champions League",
+    "hora": "3:00 p. m.",
     "canal": "ESPN 2 / Disney+"
   },
   {
-    "partido": "Bogotá - Atlético Huila",
-    "liga": "Torneo Betplay",
-    "hora": "3:00 p. m.",
-    "canal": "Win Sports+"
-  },
-  {
-    "partido": "West Ham Utd. - Newcastle",
-    "liga": "Liga de Inglaterra",
+    "partido": "Liverpool - Paris Saint-Germain",
+    "liga": "Champions League",
     "hora": "3:00 p. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Espanyol - Girona",
-    "liga": "Liga de Espana",
+    "partido": "Bayer Leverkusen - Bayern Munich",
+    "liga": "Champions League",
     "hora": "3:00 p. m.",
-    "canal": "ESPN 3 / Disney+"
+    "canal": "Disney+"
   },
   {
-    "partido": "Deportivo Cali - Boyacá Chicó",
-    "liga": "Liga BetPlay",
-    "hora": "6:20 p. m.",
-    "canal": "Win Sports / Win Sports+"
+    "partido": "Alianza Lima - D. Iquique",
+    "liga": "Copa Libertadores",
+    "hora": "5:00 p. m.",
+    "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Deportes Tolima - Once Caldas",
-    "liga": "Liga BetPlay",
-    "hora": "8:30 p. m.",
+    "partido": "Real Cundinamarca - Atlético FC",
+    "liga": "Torneo Betplay",
+    "hora": "5:15 p. m.",
+    "canal": "Win Sports+"
+  },
+  {
+    "partido": "Leones - Inter Palmira",
+    "liga": "Torneo Betplay",
+    "hora": "7:30 p. m.",
     "canal": "Win Sports / Win Sports+"
   }
 ]
