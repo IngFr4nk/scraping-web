@@ -1,44 +1,38 @@
 [
   {
-    "partido": "Barcelona - Benfica",
+    "partido": "Lille - Borussia Dortmund",
     "liga": "Champions League",
     "hora": "12:45 p. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "Inter - Feyenoord",
-    "liga": "Champions League",
-    "hora": "3:00 p. m.",
     "canal": "ESPN 2 / Disney+"
   },
   {
-    "partido": "Liverpool - Paris Saint-Germain",
-    "liga": "Champions League",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "Bayer Leverkusen - Bayern Munich",
+    "partido": "Aston Villa - Brujas",
     "liga": "Champions League",
     "hora": "3:00 p. m.",
     "canal": "Disney+"
   },
   {
-    "partido": "Alianza Lima - D. Iquique",
+    "partido": "Atlético de Madrid - Real Madrid",
+    "liga": "Champions League",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Arsenal - PSV",
+    "liga": "Champions League",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN 2 / Disney+"
+  },
+  {
+    "partido": "Cerro Porteño - Melgar",
     "liga": "Copa Libertadores",
     "hora": "5:00 p. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Real Cundinamarca - Atlético FC",
-    "liga": "Torneo Betplay",
-    "hora": "5:15 p. m.",
-    "canal": "Win Sports+"
-  },
-  {
-    "partido": "Leones - Inter Palmira",
-    "liga": "Torneo Betplay",
+    "partido": "Corinthians - Barcelona (ECU)",
+    "liga": "Copa Libertadores",
     "hora": "7:30 p. m.",
-    "canal": "Win Sports / Win Sports+"
+    "canal": "ESPN / Disney+"
   }
 ]
