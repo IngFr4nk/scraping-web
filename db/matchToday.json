@@ -1,36 +1,60 @@
 [
   {
-    "partido": "Lille - Borussia Dortmund",
-    "liga": "Champions League",
+    "partido": "Lazio - Viktoria Plzen",
+    "liga": "Liga de Europa",
     "hora": "12:45 p. m.",
-    "canal": "ESPN 2 / Disney+"
+    "canal": "ESPN 4 / Disney+"
   },
   {
-    "partido": "Aston Villa - Brujas",
-    "liga": "Champions League",
+    "partido": "Athletic Club - Roma",
+    "liga": "Liga de Europa",
+    "hora": "12:45 p. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Eintracht Frankfurt - Ajax",
+    "liga": "Liga de Europa",
+    "hora": "12:45 p. m.",
+    "canal": "ESPN 3 / Disney+"
+  },
+  {
+    "partido": "Olimpiakos - Bodo Glimt",
+    "liga": "Liga de Europa",
+    "hora": "12:45 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Rangers - Fenerbache",
+    "liga": "Liga de Europa",
     "hora": "3:00 p. m.",
     "canal": "Disney+"
   },
   {
-    "partido": "Atlético de Madrid - Real Madrid",
-    "liga": "Champions League",
+    "partido": "Manchester United - Real Sociedad",
+    "liga": "Liga de Europa",
     "hora": "3:00 p. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Arsenal - PSV",
-    "liga": "Champions League",
+    "partido": "Lyon - Steaua Bucarest",
+    "liga": "Liga de Europa",
     "hora": "3:00 p. m.",
-    "canal": "ESPN 2 / Disney+"
+    "canal": "ESPN 4 / Disney+"
   },
   {
-    "partido": "Cerro Porteño - Melgar",
-    "liga": "Copa Libertadores",
-    "hora": "5:00 p. m.",
-    "canal": "ESPN / Disney+"
+    "partido": "Tottenham Hotspur - AZ Alkmaar",
+    "liga": "Liga de Europa",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN 3 / Disney+"
   },
   {
-    "partido": "Corinthians - Barcelona (ECU)",
+    "partido": "Chelsea - Copenhague",
+    "liga": "Conference League",
+    "hora": "3:00 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Bahía - Boston River",
     "liga": "Copa Libertadores",
     "hora": "7:30 p. m.",
     "canal": "ESPN / Disney+"
