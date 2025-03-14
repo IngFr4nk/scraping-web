@@ -1,62 +1,44 @@
 [
   {
-    "partido": "Lazio - Viktoria Plzen",
-    "liga": "Liga de Europa",
-    "hora": "12:45 p. m.",
-    "canal": "ESPN 4 / Disney+"
+    "partido": "Al-Nassr - Al-Kholood",
+    "liga": "Liga de Arabia",
+    "hora": "2:00 p. m.",
+    "canal": "Win Sports"
   },
   {
-    "partido": "Athletic Club - Roma",
-    "liga": "Liga de Europa",
-    "hora": "12:45 p. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "Eintracht Frankfurt - Ajax",
-    "liga": "Liga de Europa",
-    "hora": "12:45 p. m.",
-    "canal": "ESPN 3 / Disney+"
-  },
-  {
-    "partido": "Olimpiakos - Bodo Glimt",
-    "liga": "Liga de Europa",
-    "hora": "12:45 p. m.",
+    "partido": "Pauli - Hoffenheim",
+    "liga": "Bundesliga",
+    "hora": "2:30 p. m.",
     "canal": "Disney+"
   },
   {
-    "partido": "Rangers - Fenerbache",
-    "liga": "Liga de Europa",
-    "hora": "3:00 p. m.",
+    "partido": "Niza - Auxerre",
+    "liga": "Liga de Francia",
+    "hora": "2:45 p. m.",
     "canal": "Disney+"
   },
   {
-    "partido": "Manchester United - Real Sociedad",
-    "liga": "Liga de Europa",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN / Disney+"
+    "partido": "Génoa - Lecce",
+    "liga": "Serie A",
+    "hora": "2:45 p. m.",
+    "canal": "Disney+"
   },
   {
-    "partido": "Lyon - Steaua Bucarest",
-    "liga": "Liga de Europa",
+    "partido": "Las Palmas - Alavés",
+    "liga": "Liga de Espana",
     "hora": "3:00 p. m.",
     "canal": "ESPN 4 / Disney+"
   },
   {
-    "partido": "Tottenham Hotspur - AZ Alkmaar",
-    "liga": "Liga de Europa",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN 3 / Disney+"
+    "partido": "Bucaramanga - Pereira",
+    "liga": "Liga BetPlay",
+    "hora": "6:30 p. m.",
+    "canal": "Win Sports +"
   },
   {
-    "partido": "Chelsea - Copenhague",
-    "liga": "Conference League",
-    "hora": "3:00 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Bahía - Boston River",
-    "liga": "Copa Libertadores",
-    "hora": "7:30 p. m.",
-    "canal": "ESPN / Disney+"
+    "partido": "Deportivo Pasto - Equidad",
+    "liga": "Liga BetPlay",
+    "hora": "8:30 p. m.",
+    "canal": "Win Sports / Win Sports +"
   }
 ]
