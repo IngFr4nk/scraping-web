@@ -1,20 +1,8 @@
 [
   {
-    "partido": "Real Santander - Leones",
-    "liga": "Torneo Betplay",
-    "hora": "3:30 p. m.",
+    "partido": "Tigres - Real Cartagena",
+    "liga": "Torneo BetPlay",
+    "hora": "4:00 p. m.",
     "canal": "Win Sports+"
-  },
-  {
-    "partido": "Patriotas F.C - Inter Palmira",
-    "liga": "Torneo Betplay",
-    "hora": "5:45 p. m.",
-    "canal": "Win Sports+"
-  },
-  {
-    "partido": "Barranquilla - Jaguares de Córdoba",
-    "liga": "Torneo Betplay",
-    "hora": "8:00 p. m.",
-    "canal": "Win Sports / Win Sports+"
   }
 ]
