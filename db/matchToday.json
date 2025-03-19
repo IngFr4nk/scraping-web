@@ -1,8 +1,20 @@
 [
   {
-    "partido": "Tigres - Real Cartagena",
-    "liga": "Torneo BetPlay",
-    "hora": "4:00 p. m.",
+    "partido": "Aldosivi - Gimnasia y Tiro",
+    "liga": "Copa de Argentina",
+    "hora": "1:45 p. m.",
+    "canal": "TyC Sports Internacional"
+  },
+  {
+    "partido": "Santa Fe - Bucaramanga",
+    "liga": "Liga BetPlay",
+    "hora": "6:30 p. m.",
+    "canal": "Win Sports / Win Sports+"
+  },
+  {
+    "partido": "Atlético Nacional - Deportes Tolima",
+    "liga": "Liga BetPlay",
+    "hora": "8:30 p. m.",
     "canal": "Win Sports+"
   }
 ]
