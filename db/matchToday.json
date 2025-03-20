@@ -1,20 +1,50 @@
 [
   {
-    "partido": "Aldosivi - Gimnasia y Tiro",
-    "liga": "Copa de Argentina",
-    "hora": "1:45 p. m.",
-    "canal": "TyC Sports Internacional"
+    "partido": "Turquía - Hungría",
+    "liga": "Liga Europea de Naciones",
+    "hora": "12:00 p. m.",
+    "canal": "ESPN 2 / Disney+"
   },
   {
-    "partido": "Santa Fe - Bucaramanga",
-    "liga": "Liga BetPlay",
-    "hora": "6:30 p. m.",
-    "canal": "Win Sports / Win Sports+"
+    "partido": "Dinamarca - Portugal",
+    "liga": "Liga Europea de Naciones",
+    "hora": "2:45 p. m.",
+    "canal": "Disney+"
   },
   {
-    "partido": "Atlético Nacional - Deportes Tolima",
-    "liga": "Liga BetPlay",
-    "hora": "8:30 p. m.",
-    "canal": "Win Sports+"
+    "partido": "Países Bajos - España",
+    "liga": "Liga Europea de Naciones",
+    "hora": "2:45 p. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Croacia - Francia",
+    "liga": "Liga Europea de Naciones",
+    "hora": "2:45 p. m.",
+    "canal": "ESPN 2 / Disney+"
+  },
+  {
+    "partido": "Italia - Alemania",
+    "liga": "Liga Europea de Naciones",
+    "hora": "2:45 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Ucrania - Bélgica",
+    "liga": "Liga Europea de Naciones",
+    "hora": "2:45 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Paraguay - Chile",
+    "liga": "Eliminatorias",
+    "hora": "6:00 p. m.",
+    "canal": "Caracol / RCN"
+  },
+  {
+    "partido": "Brasil - Colombia",
+    "liga": "Eliminatorias",
+    "hora": "7:45 p. m.",
+    "canal": "Caracol / RCN"
   }
 ]
