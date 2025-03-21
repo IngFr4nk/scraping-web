@@ -1,50 +1,38 @@
 [
   {
-    "partido": "Turquía - Hungría",
-    "liga": "Liga Europea de Naciones",
+    "partido": "Chipre - San Marino",
+    "liga": "Eliminatorias europeas",
     "hora": "12:00 p. m.",
     "canal": "ESPN 2 / Disney+"
   },
   {
-    "partido": "Dinamarca - Portugal",
-    "liga": "Liga Europea de Naciones",
+    "partido": "Rumania - Bosnia",
+    "liga": "Eliminatorias europeas",
     "hora": "2:45 p. m.",
     "canal": "Disney+"
   },
   {
-    "partido": "Países Bajos - España",
-    "liga": "Liga Europea de Naciones",
-    "hora": "2:45 p. m.",
+    "partido": "Inglaterra - Albania",
+    "liga": "Eliminatorias europeas",
+    "hora": "3:00 p. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Croacia - Francia",
-    "liga": "Liga Europea de Naciones",
-    "hora": "2:45 p. m.",
-    "canal": "ESPN 2 / Disney+"
-  },
-  {
-    "partido": "Italia - Alemania",
-    "liga": "Liga Europea de Naciones",
-    "hora": "2:45 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Ucrania - Bélgica",
-    "liga": "Liga Europea de Naciones",
-    "hora": "2:45 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Paraguay - Chile",
-    "liga": "Eliminatorias",
-    "hora": "6:00 p. m.",
+    "partido": "Ecuador - Venezuela",
+    "liga": "Eliminatorias suramericanas",
+    "hora": "4:00 p. m.",
     "canal": "Caracol / RCN"
   },
   {
-    "partido": "Brasil - Colombia",
-    "liga": "Eliminatorias",
-    "hora": "7:45 p. m.",
+    "partido": "Uruguay - Argentina",
+    "liga": "Eliminatorias suramericanas",
+    "hora": "6:30 p. m.",
     "canal": "Caracol / RCN"
+  },
+  {
+    "partido": "Boca Juniors de Cali - Real Santander",
+    "liga": "Torneo Betplay",
+    "hora": "7:30 p. m.",
+    "canal": "Win Sports / Win Sports+"
   }
 ]
