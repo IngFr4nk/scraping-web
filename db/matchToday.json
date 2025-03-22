@@ -1,38 +1,86 @@
 [
   {
-    "partido": "Chipre - San Marino",
+    "partido": "Liechtenstein - Macedonia",
     "liga": "Eliminatorias europeas",
-    "hora": "12:00 p. m.",
-    "canal": "ESPN 2 / Disney+"
-  },
-  {
-    "partido": "Rumania - Bosnia",
-    "liga": "Eliminatorias europeas",
-    "hora": "2:45 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Inglaterra - Albania",
-    "liga": "Eliminatorias europeas",
-    "hora": "3:00 p. m.",
+    "hora": "9:00 a. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Ecuador - Venezuela",
-    "liga": "Eliminatorias suramericanas",
-    "hora": "4:00 p. m.",
-    "canal": "Caracol / RCN"
+    "partido": "Moldavia - Noruega",
+    "liga": "Eliminatorias europeas",
+    "hora": "12:00 p. m.",
+    "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Uruguay - Argentina",
-    "liga": "Eliminatorias suramericanas",
-    "hora": "6:30 p. m.",
-    "canal": "Caracol / RCN"
+    "partido": "Montenegro - Gibraltar",
+    "liga": "Eliminatorias europeas",
+    "hora": "12:00 p. m.",
+    "canal": "Disney+"
   },
   {
-    "partido": "Boca Juniors de Cali - Real Santander",
-    "liga": "Torneo Betplay",
-    "hora": "7:30 p. m.",
+    "partido": "Luxemburgo - Suecia",
+    "liga": "Partido amistoso",
+    "hora": "12:00 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Boyacá Chicó - Deportivo Pasto",
+    "liga": "Liga BetPlay",
+    "hora": "2:00 p. m.",
     "canal": "Win Sports / Win Sports+"
+  },
+  {
+    "partido": "Gales - Kazajistán",
+    "liga": "Eliminatorias europeas",
+    "hora": "2:45 p. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Israel - Estonia",
+    "liga": "Eliminatorias europeas",
+    "hora": "3:00 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "República Checa - Islas Faroe",
+    "liga": "Eliminatorias europeas",
+    "hora": "3:00 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Quindío - Jaguares de Córdoba",
+    "liga": "Torneo Betplay",
+    "hora": "4:00 p. m.",
+    "canal": "Youtube"
+  },
+  {
+    "partido": "Equidad - Fortaleza F.C",
+    "liga": "Liga BetPlay",
+    "hora": "4:10 p. m.",
+    "canal": "Win Sports / Win Sports+"
+  },
+  {
+    "partido": "Santa Fe - Inter Palmira",
+    "liga": "Liga Femenina",
+    "hora": "5:30 p. m.",
+    "canal": "Señal Colombia"
+  },
+  {
+    "partido": "Orsomarso - Atlético FC",
+    "liga": "Torneo Betplay",
+    "hora": "6:00 p. m.",
+    "canal": "Youtube Dimayor"
+  },
+  {
+    "partido": "Pereira - Once Caldas",
+    "liga": "Liga BetPlay",
+    "hora": "6:20 p. m.",
+    "canal": "Win Sports / Win Sports+"
+  },
+  {
+    "partido": "Santa Fe - Millonarios",
+    "liga": "Liga BetPlay",
+    "hora": "8:30 p. m.",
+    "canal": "Win Sports+"
   }
 ]
