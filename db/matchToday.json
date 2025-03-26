@@ -1,62 +1,20 @@
 [
   {
-    "partido": "Moldavia - Estonia",
-    "liga": "Eliminatorias europeas",
-    "hora": "12:00 p. m.",
-    "canal": "ESPN 2 / Disney+"
+    "partido": "Alianza FC - Fortaleza F.C",
+    "liga": "Liga BetPlay",
+    "hora": "4:00 p. m.",
+    "canal": "Win Sports / Win Sports+"
   },
   {
-    "partido": "Macedonia - Gales",
-    "liga": "Eliminatorias europeas",
-    "hora": "2:45 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Israel - Noruega",
-    "liga": "Eliminatorias europeas",
-    "hora": "2:45 p. m.",
-    "canal": "ESPN 2 / Disney+"
-  },
-  {
-    "partido": "Gibraltar - República Checa",
-    "liga": "Eliminatorias europeas",
-    "hora": "2:45 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Bolivia - Uruguay",
-    "liga": "Eliminatorias",
-    "hora": "3:00 p. m.",
-    "canal": "Caracol / RCN"
-  },
-  {
-    "partido": "Inter Palmira - Barranquilla",
-    "liga": "Torneo Betplay",
-    "hora": "3:00 p. m.",
+    "partido": "Junior - Unión Magdalena",
+    "liga": "Liga BetPlay",
+    "hora": "6:30 p. m.",
     "canal": "Win Sports+"
   },
   {
-    "partido": "Brasil - Argentina",
-    "liga": "Eliminatorias",
-    "hora": "7:00 p. m.",
-    "canal": "Ditu"
-  },
-  {
-    "partido": "Colombia - Paraguay",
-    "liga": "Eliminatorias",
-    "hora": "7:00 p. m.",
-    "canal": "Caracol / RCN"
-  },
-  {
-    "partido": "Venezuela - Perú",
-    "liga": "Eliminatorias",
-    "hora": "7:00 p. m.",
-    "canal": "Ditu"
-  },
-  {
-    "partido": "Chile - Ecuador",
-    "liga": "Eliminatorias",
-    "hora": "7:00 p. m.",
-    "canal": "Ditu"
+    "partido": "Millonarios - Santa Fe",
+    "liga": "Liga BetPlay",
+    "hora": "8:30 p. m.",
+    "canal": "Win Sports+"
   }
 ]
