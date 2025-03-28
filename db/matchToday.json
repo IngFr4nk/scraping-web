@@ -1,32 +1,62 @@
 [
   {
-    "partido": "Barcelona - Osasuna",
-    "liga": "Liga de Espana",
-    "hora": "3:00 p. m.",
-    "canal": "DSports"
+    "partido": "Bayer Leverkusen - Bochum 1848",
+    "liga": "Bundesliga",
+    "hora": "2:30 p. m.",
+    "canal": "ESPN 2 / Disney+"
   },
   {
-    "partido": "Perú Sub-17 - Paraguay sub 17",
+    "partido": "Strasbourg - Lyon",
+    "liga": "Liga de Francia",
+    "hora": "2:45 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Defensa y Justicia - Tigre",
+    "liga": "Liga de Argentina",
+    "hora": "3:00 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Bolivia Sub-17 - Venezuela sub 17",
     "liga": "Sudamericano Sub-17",
     "hora": "4:30 p. m.",
     "canal": "DSports"
   },
   {
-    "partido": "Once Caldas - Llaneros",
-    "liga": "Liga BetPlay",
-    "hora": "6:00 p. m.",
+    "partido": "Jaguares de Córdoba - Leones",
+    "liga": "Torneo Betplay",
+    "hora": "5:00 p. m.",
     "canal": "Win Sports+"
   },
   {
-    "partido": "Colombia sub 17 - Chile sub 17",
+    "partido": "San Lorenzo - Lanús",
+    "liga": "Liga de Argentina",
+    "hora": "5:15 p. m.",
+    "canal": "TyC Sports Internacional"
+  },
+  {
+    "partido": "Brasil sub 17 - Uruguay Sub-17",
     "liga": "Sudamericano Sub-17",
     "hora": "7:00 p. m.",
-    "canal": "DSports / Caracol HD2 / Ditu"
+    "canal": "DSports"
   },
   {
-    "partido": "América - Boyacá Chicó",
+    "partido": "Platense - Atlético Tucumán",
+    "liga": "Liga de Argentina",
+    "hora": "7:30 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Bucaramanga - Atlético Nacional",
     "liga": "Liga BetPlay",
-    "hora": "8:10 p. m.",
+    "hora": "7:30 p. m.",
     "canal": "Win Sports+"
+  },
+  {
+    "partido": "Vélez Sarsfield - Deportivo Riestra",
+    "liga": "Liga de Argentina",
+    "hora": "7:30 p. m.",
+    "canal": "TyC Sports Internacional"
   }
 ]
