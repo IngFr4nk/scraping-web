@@ -1,164 +1,128 @@
 [
   {
-    "partido": "Fulham - Crystal Palace",
-    "liga": "FA Cup",
-    "hora": "7:15 a. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "Real Sociedad - Valladolid",
+    "partido": "Getafe - Villarreal",
     "liga": "Liga de Espana",
-    "hora": "8:00 a. m.",
+    "hora": "7:00 a. m.",
     "canal": "ESPN 3 / Disney+"
   },
   {
-    "partido": "Como - Empoli",
-    "liga": "Serie A",
-    "hora": "9:00 a. m.",
+    "partido": "PSV - Ajax",
+    "liga": "Liga de Holanda",
+    "hora": "7:30 a. m.",
     "canal": "ESPN 2 / Disney+"
   },
   {
-    "partido": "Venezia - Bolognia",
-    "liga": "Serie A",
-    "hora": "9:00 a. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Bayern Munich - Pauli",
-    "liga": "Bundesliga",
-    "hora": "9:30 a. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Borussia Mönchengladbach - RB Leipzig",
-    "liga": "Bundesliga",
-    "hora": "9:30 a. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Hoffenheim - FC Augsburgo",
-    "liga": "Bundesliga",
-    "hora": "9:30 a. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Holstein Kiel - Werder Bremen",
-    "liga": "Bundesliga",
-    "hora": "9:30 a. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Wolfsburgo - Heidenhem",
-    "liga": "Bundesliga",
-    "hora": "9:30 a. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Espanyol - Atlético de Madrid",
-    "liga": "Liga de Espana",
-    "hora": "10:15 a. m.",
-    "canal": "Directv 610"
-  },
-  {
-    "partido": "Reims - Marsella",
-    "liga": "Liga de Francia",
-    "hora": "11:00 a. m.",
-    "canal": "ESPN 2 / Disney+"
-  },
-  {
-    "partido": "Juventus - Génoa",
-    "liga": "Serie A",
-    "hora": "12:00 p. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "Brighton & Hove - Nottingham Forest",
+    "partido": "Preston North End - Aston Villa",
     "liga": "FA Cup",
-    "hora": "12:15 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Alavés - Rayo Vallecano",
-    "liga": "Liga de Espana",
-    "hora": "12:30 p. m.",
-    "canal": "Directv 610"
-  },
-  {
-    "partido": "Eintracht Frankfurt - VfB Stuttgart",
-    "liga": "Bundesliga",
-    "hora": "12:30 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Saint Etienne - Paris Saint-Germain",
-    "liga": "Liga de Francia",
-    "hora": "1:00 p. m.",
-    "canal": "ESPN 2 / Disney+"
-  },
-  {
-    "partido": "Orsomarso - Inter Palmira",
-    "liga": "Torneo BetPlay",
-    "hora": "2:00 p. m.",
-    "canal": "Win Sports / Win Sports+"
-  },
-  {
-    "partido": "Lecce - Roma",
-    "liga": "Serie A",
-    "hora": "2:45 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Real Madrid - Leganés",
-    "liga": "Liga de Espana",
-    "hora": "3:00 p. m.",
+    "hora": "7:30 a. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Mónaco - Niza",
-    "liga": "Liga de Francia",
-    "hora": "3:00 p. m.",
+    "partido": "Fiorentina - Atalanta",
+    "liga": "Serie A",
+    "hora": "8:00 a. m.",
     "canal": "Disney+"
   },
   {
-    "partido": "Bucaramanga - Inter Palmira",
-    "liga": "Liga Femenina",
-    "hora": "4:00 p. m.",
-    "canal": "Win Sports"
+    "partido": "Friburgo - Union Berlin",
+    "liga": "Bundesliga",
+    "hora": "8:30 a. m.",
+    "canal": "ESPN 5 / Disney+"
   },
   {
-    "partido": "Deportivo Cali - Santa Fe",
-    "liga": "Liga Femenina",
-    "hora": "4:00 p. m.",
-    "canal": "Señal Colombia"
+    "partido": "Feyenoord - Go Ahead Eagles",
+    "liga": "Liga de Holanda",
+    "hora": "9:45 a. m.",
+    "canal": "Disney+"
   },
   {
-    "partido": "Barranquilla - Real Cartagena",
-    "liga": "Torneo Betplay",
-    "hora": "4:00 p. m.",
+    "partido": "Angers - Rennes",
+    "liga": "Liga de Francia",
+    "hora": "10:15 a. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Auxerre - Montpellier",
+    "liga": "Liga de Francia",
+    "hora": "10:15 a. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Le Havre - Nantes",
+    "liga": "Liga de Francia",
+    "hora": "10:15 a. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Borussia Dortmund - Mainz 05",
+    "liga": "Bundesliga",
+    "hora": "10:30 a. m.",
+    "canal": "ESPN 2 / Disney+"
+  },
+  {
+    "partido": "Bournemouth - Manchester City",
+    "liga": "FA Cup",
+    "hora": "10:30 a. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Inter - Udinese",
+    "liga": "Serie A",
+    "hora": "11:00 a. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Napoli - Milán",
+    "liga": "Serie A",
+    "hora": "1:45 p. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Lille - Lens",
+    "liga": "Liga de Francia",
+    "hora": "1:45 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Real Betis - Sevilla",
+    "liga": "Liga de Espana",
+    "hora": "2:00 p. m.",
+    "canal": "ESPN 4 / Disney+"
+  },
+  {
+    "partido": "Millonarios - Alianza FC",
+    "liga": "Liga BetPlay",
+    "hora": "3:30 p. m.",
     "canal": "Win Sports+"
   },
   {
-    "partido": "Chile sub 17 - Argentina Sub-17",
+    "partido": "Bolivia Sub-17 - Brasil sub 17",
     "liga": "Sudamericano Sub-17",
     "hora": "4:30 p. m.",
     "canal": "DSports"
   },
   {
-    "partido": "Deportivo Pasto - Deportivo Cali",
+    "partido": "Unión Magdalena - Santa Fe",
     "liga": "Liga BetPlay",
-    "hora": "6:00 p. m.",
+    "hora": "5:45 p. m.",
+    "canal": "Win Sports / Win Sports+"
+  },
+  {
+    "partido": "Uruguay Sub-17 - Ecuador Sub-17",
+    "liga": "Sudamericano Sub-17",
+    "hora": "7:00 p. m.",
+    "canal": "Dsports"
+  },
+  {
+    "partido": "América - Fortaleza F.C",
+    "liga": "Liga BetPlay",
+    "hora": "8:00 p. m.",
     "canal": "Win Sports+"
   },
   {
-    "partido": "Perú Sub-17 - Colombia sub 17",
-    "liga": "Sudamericano Sub-17",
-    "hora": "7:00 p. m.",
-    "canal": "DSports / Caracol HD2 / Ditu"
-  },
-  {
-    "partido": "Independiente Medellín - Águilas Doradas",
-    "liga": "Liga BetPlay",
-    "hora": "8:10 p. m.",
-    "canal": "Win Sports / Win Sports+"
+    "partido": "León - Pumas",
+    "liga": "Liga de México",
+    "hora": "8:00 p. m.",
+    "canal": "Win Sports"
   }
 ]
