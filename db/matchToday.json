@@ -1,44 +1,122 @@
 [
   {
-    "partido": "Hellas Verona - Parma",
-    "liga": "Serie A",
-    "hora": "11:30 a. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Lazio - Torino",
-    "liga": "Serie A",
+    "partido": "Wolverhampton - West Ham Utd.",
+    "liga": "Liga de Inglaterra",
     "hora": "1:45 p. m.",
     "canal": "ESPN 2 / Disney+"
   },
   {
-    "partido": "Celta de Vigo - Las Palmas",
-    "liga": "Liga de Espana",
+    "partido": "Arsenal - Fulham",
+    "liga": "Liga de Inglaterra",
+    "hora": "1:45 p. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Arminia Bielefeld - Bayer Leverkusen",
+    "liga": "Copa de Alemania",
+    "hora": "1:45 p. m.",
+    "canal": "ESPN 4 / Disney+"
+  },
+  {
+    "partido": "Nottingham Forest - Manchester United",
+    "liga": "Liga de Inglaterra",
     "hora": "2:00 p. m.",
-    "canal": "ESPN 3 / Disney+"
+    "canal": "Disney+"
   },
   {
-    "partido": "Real Santander - Cúcuta",
-    "liga": "Torneo Betplay",
-    "hora": "3:30 p. m.",
-    "canal": "Win Sports+"
+    "partido": "Empoli - Bolognia",
+    "liga": "Copa de Italia",
+    "hora": "2:00 p. m.",
+    "canal": "Directv 610 / Win Sports +"
   },
   {
-    "partido": "Chile sub 17 - Perú Sub-17",
+    "partido": "Dunkerque - Paris Saint-Germain",
+    "liga": "Copa de Francia",
+    "hora": "2:10 p. m.",
+    "canal": "Directv 610"
+  },
+  {
+    "partido": "Uruguay Sub-17 - Bolivia Sub-17",
     "liga": "Sudamericano Sub-17",
     "hora": "4:30 p. m.",
-    "canal": "Dsports"
+    "canal": "Directv 610"
   },
   {
-    "partido": "Argentina Sub-17 - Paraguay sub 17",
+    "partido": "Nacional Potosí - Independiente",
+    "liga": "Copa Sudamericana",
+    "hora": "5:00 p. m.",
+    "canal": "ESPN 2 / Disney+"
+  },
+  {
+    "partido": "D. Iquique - Caracas F.C",
+    "liga": "Copa Sudamericana",
+    "hora": "5:00 p. m.",
+    "canal": "ESPN 5 / Disney+"
+  },
+  {
+    "partido": "Boston River - Guaraní",
+    "liga": "Copa Sudamericana",
+    "hora": "5:00 p. m.",
+    "canal": "Directv 610"
+  },
+  {
+    "partido": "Cerro Porteño - Bolívar",
+    "liga": "Copa Libertadores",
+    "hora": "5:00 p. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Carabobo FC - Estudiantes",
+    "liga": "Copa Libertadores",
+    "hora": "5:00 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Llaneros - Pereira",
+    "liga": "Liga BetPlay",
+    "hora": "6:00 p. m.",
+    "canal": "Win Sports / Win Sports+"
+  },
+  {
+    "partido": "Ecuador Sub-17 - Venezuela sub 17",
     "liga": "Sudamericano Sub-17",
     "hora": "7:00 p. m.",
-    "canal": "Dsports"
+    "canal": "Directv 610"
   },
   {
-    "partido": "Equidad - Junior",
-    "liga": "Liga BetPlay",
+    "partido": "Once Caldas - Fluminense",
+    "liga": "Copa Sudamericana",
     "hora": "7:30 p. m.",
-    "canal": "Win Sports+"
+    "canal": "ESPN 2 / Disney+"
+  },
+  {
+    "partido": "Bucaramanga - Colo Colo",
+    "liga": "Copa Libertadores",
+    "hora": "7:30 p. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Fortaleza - Racing Club",
+    "liga": "Copa Libertadores",
+    "hora": "7:30 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Boyacá Chicó - Deportes Tolima",
+    "liga": "Liga BetPlay",
+    "hora": "8:10 p. m.",
+    "canal": "Win Sports / Win Sports+"
+  },
+  {
+    "partido": "Alianza Lima - Libertad",
+    "liga": "Copa Libertadores",
+    "hora": "9:00 p. m.",
+    "canal": "ESPN 6 / Disney+"
+  },
+  {
+    "partido": "Barcelona (ECU) - Independiente del Valle",
+    "liga": "Copa Libertadores",
+    "hora": "9:00 p. m.",
+    "canal": "ESPN 5 / Disney+"
   }
 ]
