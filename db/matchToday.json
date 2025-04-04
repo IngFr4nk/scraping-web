@@ -12,28 +12,28 @@
     "canal": "Directv 610"
   },
   {
-    "partido": "Central Córdoba - Liga de Quito",
-    "liga": "Copa Libertadores",
-    "hora": "5:00 p. m.",
-    "canal": "ESPN 2 / Disney+"
-  },
-  {
     "partido": "Puerto Cabello - Lanús",
     "liga": "Copa Sudamericana",
     "hora": "5:00 p. m.",
     "canal": "ESPN 3 / Disney+"
   },
   {
-    "partido": "Sporting Cristal - Palmeiras",
+    "partido": "Central Córdoba - Liga de Quito",
     "liga": "Copa Libertadores",
     "hora": "5:00 p. m.",
-    "canal": "ESPN / Disney+"
+    "canal": "ESPN 2 / Disney+"
   },
   {
     "partido": "Bahía - Internacional",
     "liga": "Copa Libertadores",
     "hora": "5:00 p. m.",
     "canal": "ESPN 7 / Disney+"
+  },
+  {
+    "partido": "Sporting Cristal - Palmeiras",
+    "liga": "Copa Libertadores",
+    "hora": "5:00 p. m.",
+    "canal": "ESPN / Disney+"
   },
   {
     "partido": "Venezuela sub 17 - Brasil sub 17",
