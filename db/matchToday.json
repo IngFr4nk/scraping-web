@@ -6,16 +6,16 @@
     "canal": "Disney+"
   },
   {
-    "partido": "Leganés - Osasuna",
-    "liga": "Liga de Espana",
-    "hora": "2:00 p. m.",
-    "canal": "DSports"
-  },
-  {
     "partido": "Leicester City - Newcastle",
     "liga": "Liga de Inglaterra",
     "hora": "2:00 p. m.",
     "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Leganés - Osasuna",
+    "liga": "Liga de Espana",
+    "hora": "2:00 p. m.",
+    "canal": "DSports"
   },
   {
     "partido": "Inter Palmira - Atlético FC",
