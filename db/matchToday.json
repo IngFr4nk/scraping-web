@@ -1,32 +1,110 @@
 [
   {
-    "partido": "Bolognia - Napoli",
-    "liga": "Serie A",
-    "hora": "1:45 p. m.",
-    "canal": "Disney+"
+    "partido": "Bayern Munich - Inter",
+    "liga": "Champions League",
+    "hora": "2:00 p. m.",
+    "canal": "ESPN 2 / Disney+"
   },
   {
-    "partido": "Leicester City - Newcastle",
-    "liga": "Liga de Inglaterra",
+    "partido": "Arsenal - Real Madrid",
+    "liga": "Champions League",
     "hora": "2:00 p. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Leganés - Osasuna",
-    "liga": "Liga de Espana",
-    "hora": "2:00 p. m.",
-    "canal": "DSports"
+    "partido": "Ecuador Sub-17 - Paraguay sub 17",
+    "liga": "Sudamericano Sub-17",
+    "hora": "4:00 p. m.",
+    "canal": "Directv 612"
   },
   {
-    "partido": "Inter Palmira - Atlético FC",
-    "liga": "Torneo Betplay",
-    "hora": "3:30 p. m.",
-    "canal": "Win Sports+"
+    "partido": "Independiente - Boston River",
+    "liga": "Copa Sudamericana",
+    "hora": "5:00 p. m.",
+    "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Bogotá - Jaguares de Córdoba",
-    "liga": "Torneo Betplay",
+    "partido": "Gremio - Atlétiico Grau",
+    "liga": "Copa Sudamericana",
+    "hora": "5:00 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Caracas F.C - Cienciano",
+    "liga": "Copa Sudamericana",
+    "hora": "5:00 p. m.",
+    "canal": "Directv 610"
+  },
+  {
+    "partido": "Botafogo - Carabobo FC",
+    "liga": "Copa Libertadores",
+    "hora": "5:00 p. m.",
+    "canal": "ESPN 5 / Disney+"
+  },
+  {
+    "partido": "Libertad - Talleres de Córdoba",
+    "liga": "Copa Libertadores",
+    "hora": "5:00 p. m.",
+    "canal": "ESPN 2 / Disney+"
+  },
+  {
+    "partido": "Peñarol - San Antonio",
+    "liga": "Copa Libertadores",
     "hora": "7:00 p. m.",
-    "canal": "Win Sports / Win Sports+"
+    "canal": "ESPN 7 / Disney+"
+  },
+  {
+    "partido": "Argentina Sub-17 - Bolivia Sub-17",
+    "liga": "Sudamericano Sub-17",
+    "hora": "7:00 p. m.",
+    "canal": "Directv 612"
+  },
+  {
+    "partido": "Vasco da Gama - Puerto Cabello",
+    "liga": "Copa Sudamericana",
+    "hora": "7:30 p. m.",
+    "canal": "ESPN 3 / Disney+"
+  },
+  {
+    "partido": "América - Corinthians",
+    "liga": "Copa Sudamericana",
+    "hora": "7:30 p. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Godoy Cruz - Sportivo Luqueño",
+    "liga": "Copa Sudamericana",
+    "hora": "7:30 p. m.",
+    "canal": "Directv 610"
+  },
+  {
+    "partido": "River Plate - Barcelona (ECU)",
+    "liga": "Copa Libertadores",
+    "hora": "7:30 p. m.",
+    "canal": "ESPN 2 / Disney+"
+  },
+  {
+    "partido": "Estudiantes - Universidad de Chile",
+    "liga": "Copa Libertadores",
+    "hora": "7:30 p. m.",
+    "canal": "ESPN 5 / Disney+"
+  },
+  {
+    "partido": "Tigres - LA Galaxy",
+    "liga": "Concacaf Champions",
+    "hora": "8:00 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Independiente del Valle - Universitario",
+    "liga": "Copa Libertadores",
+    "hora": "9:00 p. m.",
+    "canal": "ESPN 7 / Disney+"
+  },
+  {
+    "partido": "Cruz Azul - América (México)",
+    "liga": "Concacaf Champions",
+    "hora": "10:30 p. m.",
+    "canal": "Disney+"
   }
 ]
