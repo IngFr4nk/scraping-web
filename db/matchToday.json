@@ -1,110 +1,98 @@
 [
   {
-    "partido": "Bayern Munich - Inter",
+    "partido": "Paris Saint-Germain - Aston Villa",
     "liga": "Champions League",
     "hora": "2:00 p. m.",
     "canal": "ESPN 2 / Disney+"
   },
   {
-    "partido": "Arsenal - Real Madrid",
+    "partido": "Barcelona - Borussia Dortmund",
     "liga": "Champions League",
     "hora": "2:00 p. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Ecuador Sub-17 - Paraguay sub 17",
+    "partido": "Villarreal - Espanyol",
+    "liga": "Liga de Espana",
+    "hora": "3:00 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Bolivia Sub-17 - Chile sub 17",
     "liga": "Sudamericano Sub-17",
     "hora": "4:00 p. m.",
     "canal": "Directv 612"
   },
   {
-    "partido": "Independiente - Boston River",
+    "partido": "Palestino - Unión de Santa Fe",
     "liga": "Copa Sudamericana",
-    "hora": "5:00 p. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "Gremio - Atlétiico Grau",
-    "liga": "Copa Sudamericana",
-    "hora": "5:00 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Caracas F.C - Cienciano",
-    "liga": "Copa Sudamericana",
-    "hora": "5:00 p. m.",
-    "canal": "Directv 610"
-  },
-  {
-    "partido": "Botafogo - Carabobo FC",
-    "liga": "Copa Libertadores",
     "hora": "5:00 p. m.",
     "canal": "ESPN 5 / Disney+"
   },
   {
-    "partido": "Libertad - Talleres de Córdoba",
-    "liga": "Copa Libertadores",
-    "hora": "5:00 p. m.",
-    "canal": "ESPN 2 / Disney+"
-  },
-  {
-    "partido": "Peñarol - San Antonio",
-    "liga": "Copa Libertadores",
-    "hora": "7:00 p. m.",
-    "canal": "ESPN 7 / Disney+"
-  },
-  {
-    "partido": "Argentina Sub-17 - Bolivia Sub-17",
-    "liga": "Sudamericano Sub-17",
-    "hora": "7:00 p. m.",
-    "canal": "Directv 612"
-  },
-  {
-    "partido": "Vasco da Gama - Puerto Cabello",
+    "partido": "Huracán - Racing",
     "liga": "Copa Sudamericana",
-    "hora": "7:30 p. m.",
+    "hora": "5:00 p. m.",
     "canal": "ESPN 3 / Disney+"
   },
   {
-    "partido": "América - Corinthians",
-    "liga": "Copa Sudamericana",
-    "hora": "7:30 p. m.",
+    "partido": "Olimpia - Vélez Sarsfield",
+    "liga": "Copa Libertadores",
+    "hora": "5:00 p. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Godoy Cruz - Sportivo Luqueño",
+    "partido": "Nacional (Uru) - Bahía",
+    "liga": "Copa Libertadores",
+    "hora": "5:00 p. m.",
+    "canal": "ESPN 2 / Disney+"
+  },
+  {
+    "partido": "Inter Miami - Los Ángeles",
+    "liga": "Concacaf Champions",
+    "hora": "7:00 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Colombia sub 17 - Venezuela sub 17",
+    "liga": "Sudamericano Sub-17",
+    "hora": "7:00 p. m.",
+    "canal": "Directv 612 / Caracol HD2 / Ditu"
+  },
+  {
+    "partido": "Unión Española - Once Caldas",
     "liga": "Copa Sudamericana",
     "hora": "7:30 p. m.",
     "canal": "Directv 610"
   },
   {
-    "partido": "River Plate - Barcelona (ECU)",
+    "partido": "Palmeiras - Cerro Porteño",
     "liga": "Copa Libertadores",
     "hora": "7:30 p. m.",
-    "canal": "ESPN 2 / Disney+"
+    "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Estudiantes - Universidad de Chile",
+    "partido": "Bolívar - Sporting Cristal",
     "liga": "Copa Libertadores",
     "hora": "7:30 p. m.",
     "canal": "ESPN 5 / Disney+"
   },
   {
-    "partido": "Tigres - LA Galaxy",
-    "liga": "Concacaf Champions",
-    "hora": "8:00 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Independiente del Valle - Universitario",
+    "partido": "Flamengo - Central Córdoba",
     "liga": "Copa Libertadores",
-    "hora": "9:00 p. m.",
+    "hora": "7:30 p. m.",
     "canal": "ESPN 7 / Disney+"
   },
   {
-    "partido": "Cruz Azul - América (México)",
+    "partido": "Liga de Quito - Deportivo Táchira",
+    "liga": "Copa Libertadores",
+    "hora": "9:00 p. m.",
+    "canal": "ESPN 6 / Disney+"
+  },
+  {
+    "partido": "Pumas - Vancouver",
     "liga": "Concacaf Champions",
-    "hora": "10:30 p. m.",
+    "hora": "9:30 p. m.",
     "canal": "Disney+"
   }
 ]
