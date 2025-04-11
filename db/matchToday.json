@@ -1,98 +1,50 @@
 [
   {
-    "partido": "Paris Saint-Germain - Aston Villa",
-    "liga": "Champions League",
-    "hora": "2:00 p. m.",
-    "canal": "ESPN 2 / Disney+"
+    "partido": "Wolfsburgo - RB Leipzig",
+    "liga": "Bundesliga",
+    "hora": "1:30 p. m.",
+    "canal": "Disney+"
   },
   {
-    "partido": "Barcelona - Borussia Dortmund",
-    "liga": "Champions League",
-    "hora": "2:00 p. m.",
-    "canal": "ESPN / Disney+"
+    "partido": "Lens - Reims",
+    "liga": "Liga de Francia",
+    "hora": "1:45 p. m.",
+    "canal": "Disney+"
   },
   {
-    "partido": "Villarreal - Espanyol",
+    "partido": "Udinese - Milán",
+    "liga": "Serie A",
+    "hora": "1:45 p. m.",
+    "canal": "ESPN 4 / Disney+"
+  },
+  {
+    "partido": "Valencia CF - Sevilla",
     "liga": "Liga de Espana",
-    "hora": "3:00 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Bolivia Sub-17 - Chile sub 17",
-    "liga": "Sudamericano Sub-17",
-    "hora": "4:00 p. m.",
-    "canal": "Directv 612"
-  },
-  {
-    "partido": "Palestino - Unión de Santa Fe",
-    "liga": "Copa Sudamericana",
-    "hora": "5:00 p. m.",
-    "canal": "ESPN 5 / Disney+"
-  },
-  {
-    "partido": "Huracán - Racing",
-    "liga": "Copa Sudamericana",
-    "hora": "5:00 p. m.",
-    "canal": "ESPN 3 / Disney+"
-  },
-  {
-    "partido": "Olimpia - Vélez Sarsfield",
-    "liga": "Copa Libertadores",
-    "hora": "5:00 p. m.",
+    "hora": "2:00 p. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Nacional (Uru) - Bahía",
-    "liga": "Copa Libertadores",
-    "hora": "5:00 p. m.",
-    "canal": "ESPN 2 / Disney+"
+    "partido": "Orsomarso - Real Cartagena",
+    "liga": "Torneo Betplay",
+    "hora": "3:30 p. m.",
+    "canal": "Win Sports +"
   },
   {
-    "partido": "Inter Miami - Los Ángeles",
-    "liga": "Concacaf Champions",
-    "hora": "7:00 p. m.",
-    "canal": "Disney+"
+    "partido": "Patriotas F.C - Leones",
+    "liga": "Torneo Betplay",
+    "hora": "6:00 p. m.",
+    "canal": "Win Sports +"
   },
   {
-    "partido": "Colombia sub 17 - Venezuela sub 17",
-    "liga": "Sudamericano Sub-17",
-    "hora": "7:00 p. m.",
-    "canal": "Directv 612 / Caracol HD2 / Ditu"
+    "partido": "Llaneros - Alianza FC",
+    "liga": "Liga BetPlay",
+    "hora": "6:00 p. m.",
+    "canal": "Win Sports / Win Sports +"
   },
   {
-    "partido": "Unión Española - Once Caldas",
-    "liga": "Copa Sudamericana",
-    "hora": "7:30 p. m.",
-    "canal": "Directv 610"
-  },
-  {
-    "partido": "Palmeiras - Cerro Porteño",
-    "liga": "Copa Libertadores",
-    "hora": "7:30 p. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "Bolívar - Sporting Cristal",
-    "liga": "Copa Libertadores",
-    "hora": "7:30 p. m.",
-    "canal": "ESPN 5 / Disney+"
-  },
-  {
-    "partido": "Flamengo - Central Córdoba",
-    "liga": "Copa Libertadores",
-    "hora": "7:30 p. m.",
-    "canal": "ESPN 7 / Disney+"
-  },
-  {
-    "partido": "Liga de Quito - Deportivo Táchira",
-    "liga": "Copa Libertadores",
-    "hora": "9:00 p. m.",
-    "canal": "ESPN 6 / Disney+"
-  },
-  {
-    "partido": "Pumas - Vancouver",
-    "liga": "Concacaf Champions",
-    "hora": "9:30 p. m.",
-    "canal": "Disney+"
+    "partido": "Deportivo Cali - Águilas Doradas",
+    "liga": "Liga BetPlay",
+    "hora": "8:10 p. m.",
+    "canal": "Win Sports +"
   }
 ]
