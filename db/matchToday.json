@@ -1,32 +1,32 @@
 [
   {
-    "partido": "Atlético FC - Real Santander",
-    "liga": "Torneo Betplay",
-    "hora": "2:00 p. m.",
-    "canal": "Win Sports / Win Sports+"
-  },
-  {
-    "partido": "Hull City - Coventry City",
-    "liga": "Championship",
-    "hora": "2:00 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Bournemouth - Fulham",
-    "liga": "Liga de Inglaterra",
+    "partido": "Borussia Dortmund - Barcelona",
+    "liga": "Champions League",
     "hora": "2:00 p. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Tigres - Boca Juniors de Cali",
-    "liga": "Torneo Betplay",
+    "partido": "Aston Villa - Paris Saint-Germain",
+    "liga": "Champions League",
+    "hora": "2:00 p. m.",
+    "canal": "ESPN 2 / Disney+"
+  },
+  {
+    "partido": "Alianza FC - Deportivo Pasto",
+    "liga": "Liga BetPlay",
     "hora": "4:00 p. m.",
     "canal": "Win Sports+"
   },
   {
-    "partido": "Santa Fe - Independiente Medellín",
+    "partido": "Pereira - Deportivo Cali",
     "liga": "Liga BetPlay",
-    "hora": "7:00 p. m.",
+    "hora": "6:15 p. m.",
+    "canal": "Win Sports / Win Sports+"
+  },
+  {
+    "partido": "Deportes Tolima - Junior",
+    "liga": "Liga BetPlay",
+    "hora": "8:30 p. m.",
     "canal": "Win Sports+"
   }
 ]
