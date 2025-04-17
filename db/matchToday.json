@@ -1,32 +1,50 @@
 [
   {
-    "partido": "Borussia Dortmund - Barcelona",
-    "liga": "Champions League",
+    "partido": "Fiorentina - NK Celje",
+    "liga": "Conference League",
+    "hora": "11:45 a. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Manchester United - Lyon",
+    "liga": "Liga de Europa",
     "hora": "2:00 p. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Aston Villa - Paris Saint-Germain",
-    "liga": "Champions League",
+    "partido": "Chelsea - Legia Varsovia",
+    "liga": "Conference League",
+    "hora": "2:00 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Lazio - Bodo Glimt",
+    "liga": "Liga de Europa",
+    "hora": "2:00 p. m.",
+    "canal": "ESPN 5 / Disney+"
+  },
+  {
+    "partido": "Athletic Club - Rangers",
+    "liga": "Liga de Europa",
+    "hora": "2:00 p. m.",
+    "canal": "ESPN 4 / Disney+"
+  },
+  {
+    "partido": "Eintracht Frankfurt - Tottenham Hotspur",
+    "liga": "Liga de Europa",
     "hora": "2:00 p. m.",
     "canal": "ESPN 2 / Disney+"
   },
   {
-    "partido": "Alianza FC - Deportivo Pasto",
+    "partido": "Bucaramanga - Envigado F.C",
     "liga": "Liga BetPlay",
     "hora": "4:00 p. m.",
-    "canal": "Win Sports+"
-  },
-  {
-    "partido": "Pereira - Deportivo Cali",
-    "liga": "Liga BetPlay",
-    "hora": "6:15 p. m.",
     "canal": "Win Sports / Win Sports+"
   },
   {
-    "partido": "Deportes Tolima - Junior",
+    "partido": "Fortaleza F.C - Llaneros",
     "liga": "Liga BetPlay",
-    "hora": "8:30 p. m.",
-    "canal": "Win Sports+"
+    "hora": "7:00 p. m.",
+    "canal": "Win Sports / Win Sports+"
   }
 ]
