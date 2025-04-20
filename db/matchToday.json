@@ -1,26 +1,134 @@
 [
   {
-    "partido": "Al-Qadisiya - Al-Nassr",
-    "liga": "Liga de Arabia",
-    "hora": "1:00 p. m.",
-    "canal": "Win Sports"
+    "partido": "Utrecht - Ajax",
+    "liga": "Liga de Holanda",
+    "hora": "5:15 a. m.",
+    "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Rennes - Nantes",
-    "liga": "Liga de Francia",
+    "partido": "Valladolid - Osasuna",
+    "liga": "Liga de Espana",
+    "hora": "7:00 a. m.",
+    "canal": "ESPN 2 / Disney+"
+  },
+  {
+    "partido": "Manchester United - Wolverhampton",
+    "liga": "Liga de Inglaterra",
+    "hora": "8:00 a. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Fulham - Chelsea",
+    "liga": "Liga de Inglaterra",
+    "hora": "8:00 a. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Ipswich Town - Arsenal",
+    "liga": "Liga de Inglaterra",
+    "hora": "8:00 a. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Empoli - Venezia",
+    "liga": "Serie A",
+    "hora": "8:00 a. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Villarreal - Real Sociedad",
+    "liga": "Liga de Espana",
+    "hora": "9:15 a. m.",
+    "canal": "ESPN 2 / Disney+"
+  },
+  {
+    "partido": "Leicester City - Liverpool",
+    "liga": "Liga de Inglaterra",
+    "hora": "10:30 a. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Borussia Dortmund - Borussia Mönchengladbach",
+    "liga": "Bundesliga",
+    "hora": "10:30 a. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Bolognia - Inter",
+    "liga": "Serie A",
+    "hora": "11:00 a. m.",
+    "canal": "ESPN 3 / Disney+"
+  },
+  {
+    "partido": "Sevilla - Alavés",
+    "liga": "Liga de Espana",
+    "hora": "11:30 a. m.",
+    "canal": "Directv 610"
+  },
+  {
+    "partido": "Pauli - Bayer Leverkusen",
+    "liga": "Bundesliga",
+    "hora": "12:30 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Milán - Atalanta",
+    "liga": "Serie A",
     "hora": "1:45 p. m.",
     "canal": "ESPN 4 / Disney+"
   },
   {
-    "partido": "Espanyol - Getafe",
+    "partido": "Envigado F.C - Deportes Tolima",
+    "liga": "Liga BetPlay",
+    "hora": "2:00 p. m.",
+    "canal": "Win Sports +"
+  },
+  {
+    "partido": "Real Madrid - Athletic Club",
     "liga": "Liga de Espana",
     "hora": "2:00 p. m.",
     "canal": "Directv 610"
   },
   {
-    "partido": "Gimnasia de La Plata - River Plate",
-    "liga": "Superliga Argentina",
-    "hora": "3:00 p. m.",
-    "canal": "TyC Sports"
+    "partido": "Cúcuta - Atlético FC",
+    "liga": "Torneo BetPlay",
+    "hora": "4:00 p. m.",
+    "canal": "Win Sports"
+  },
+  {
+    "partido": "Unión Magdalena - Bucaramanga",
+    "liga": "Liga BetPlay",
+    "hora": "4:10 p. m.",
+    "canal": "Win Sports / Win Sports +"
+  },
+  {
+    "partido": "Real Cartagena - Jaguares de Córdoba",
+    "liga": "Torneo Betplay",
+    "hora": "6:00 p. m.",
+    "canal": "Win Sports"
+  },
+  {
+    "partido": "Atlético Huila - Leones",
+    "liga": "Torneo Betplay",
+    "hora": "6:00 p. m.",
+    "canal": "Win Sports"
+  },
+  {
+    "partido": "Deportivo Cali - Atlético Nacional",
+    "liga": "Liga BetPlay",
+    "hora": "6:20 p. m.",
+    "canal": "Win Sports +"
+  },
+  {
+    "partido": "León - Monterrey",
+    "liga": "Liga de México",
+    "hora": "8:00 p. m.",
+    "canal": "Win Sports"
+  },
+  {
+    "partido": "Deportivo Pasto - Águilas Doradas",
+    "liga": "Liga BetPlay",
+    "hora": "8:10 p. m.",
+    "canal": "Win Sports +"
   }
 ]
