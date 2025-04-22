@@ -1,39 +1,9 @@
 [
   {
-    "partido": "Torino - Udinese",
-    "liga": "Serie A",
-    "hora": "5:30 a. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Cagliari - Fiorentina",
-    "liga": "Serie A",
-    "hora": "8:00 a. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "Génoa - Lazio",
-    "liga": "Serie A",
-    "hora": "11:00 a. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "Parma - Juventus",
-    "liga": "Serie A",
-    "hora": "1:45 p. m.",
-    "canal": "ESPN 2 / Disney+"
-  },
-  {
     "partido": "Tottenham Hotspur - Nottingham Forest",
     "liga": "Liga de Inglaterra",
     "hora": "2:00 p. m.",
     "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "Girona - Real Betis",
-    "liga": "Liga de Espana",
-    "hora": "2:00 p. m.",
-    "canal": "ESPN 3 / Disney+"
   },
   {
     "partido": "Inter Palmira - Tigres",
