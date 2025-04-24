@@ -1,134 +1,86 @@
 [
   {
-    "partido": "Parma - Juventus",
-    "liga": "Serie A",
-    "hora": "11:30 a. m.",
-    "canal": "ESPN 3 / Disney+"
-  },
-  {
-    "partido": "Torino - Udinese",
-    "liga": "Serie A",
-    "hora": "11:30 a. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Cagliari - Fiorentina",
-    "liga": "Serie A",
-    "hora": "11:30 a. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Génoa - Lazio",
-    "liga": "Serie A",
-    "hora": "11:30 a. m.",
-    "canal": "ESPN 4 / Disney+"
-  },
-  {
-    "partido": "Athletic Club - Las Palmas",
-    "liga": "Liga de Espana",
-    "hora": "12:00 p. m.",
-    "canal": "ESPN 2 / Disney+"
-  },
-  {
-    "partido": "Celta de Vigo - Villarreal",
+    "partido": "Leganés - Girona",
     "liga": "Liga de Espana",
     "hora": "12:00 p. m.",
     "canal": "Directv 613"
   },
   {
-    "partido": "Inter - Milán",
+    "partido": "Osasuna - Sevilla",
+    "liga": "Liga de Espana",
+    "hora": "12:00 p. m.",
+    "canal": "ESPN 2 / Disney+"
+  },
+  {
+    "partido": "Bolognia - Empoli",
     "liga": "Copa de Italia",
     "hora": "2:00 p. m.",
-    "canal": "Directv 612 / Win Sports+"
+    "canal": "Directv 612"
   },
   {
-    "partido": "Arsenal - Crystal Palace",
-    "liga": "Liga de Inglaterra",
-    "hora": "2:00 p. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "Getafe - Real Madrid",
-    "liga": "Liga BetPlay",
-    "hora": "2:30 p. m.",
-    "canal": "Directv 610"
-  },
-  {
-    "partido": "Alavés - Real Sociedad",
+    "partido": "Atlético de Madrid - Rayo Vallecano",
     "liga": "Liga de Espana",
     "hora": "2:30 p. m.",
-    "canal": "ESPN 2 / Disney+"
-  },
-  {
-    "partido": "Huracán - América",
-    "liga": "Copa Sudamericana",
-    "hora": "5:00 p. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "Unión Española - Fluminense",
-    "liga": "Copa Sudamericana",
-    "hora": "5:00 p. m.",
     "canal": "Directv 610"
   },
   {
-    "partido": "San Antonio - Vélez Sarsfield",
-    "liga": "Copa Libertadores",
-    "hora": "5:00 p. m.",
-    "canal": "ESPN 7 / Disney+"
-  },
-  {
-    "partido": "Olimpia - Peñarol",
-    "liga": "Copa Libertadores",
-    "hora": "5:00 p. m.",
-    "canal": "ESPN 5 / Disney+"
-  },
-  {
-    "partido": "Independiente del Valle - River Plate",
-    "liga": "Copa Libertadores",
-    "hora": "7:30 p. m.",
-    "canal": "ESPN 5 / Disney+"
-  },
-  {
-    "partido": "Vitoria - Cerro Largo",
-    "liga": "Copa Sudamericana",
-    "hora": "7:30 p. m.",
-    "canal": "ESPN 3 / Disney+"
-  },
-  {
-    "partido": "Caracas F.C - Atlético Mineiro",
-    "liga": "Copa Sudamericana",
-    "hora": "7:30 p. m.",
+    "partido": "Real Betis - Valladolid",
+    "liga": "Liga de Espana",
+    "hora": "2:30 p. m.",
     "canal": "Directv 613"
   },
   {
-    "partido": "Estudiantes - Botafogo",
-    "liga": "Copa Libertadores",
-    "hora": "7:30 p. m.",
-    "canal": "ESPN 6 / Disney+"
+    "partido": "Corinthians - Racing",
+    "liga": "Copa Sudamericana",
+    "hora": "5:00 p. m.",
+    "canal": "Directv 610"
   },
   {
-    "partido": "Libertad - Sao Paulo",
+    "partido": "Central Córdoba - Deportivo Táchira",
     "liga": "Copa Libertadores",
-    "hora": "7:30 p. m.",
+    "hora": "5:00 p. m.",
     "canal": "ESPN 7 / Disney+"
   },
   {
-    "partido": "Atlétiico Grau - Sportivo Luqueño",
-    "liga": "Copa Sudamericana",
-    "hora": "9:00 p. m.",
-    "canal": "ESPN 2 / Disney+"
-  },
-  {
-    "partido": "Bucaramanga - Fortaleza",
+    "partido": "Bolívar - Palmeiras",
     "liga": "Copa Libertadores",
-    "hora": "9:00 p. m.",
+    "hora": "5:00 p. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Mushuc Runa - Unión de Santa Fe",
+    "partido": "Godoy Cruz - Gremio",
+    "liga": "Copa Sudamericana",
+    "hora": "5:00 p. m.",
+    "canal": "ESPN 5 / Disney+"
+  },
+  {
+    "partido": "Bahía - Atlético Nacional",
+    "liga": "Copa Libertadores",
+    "hora": "7:00 p. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Cerro Porteño - Sporting Cristal",
+    "liga": "Copa Libertadores",
+    "hora": "7:30 p. m.",
+    "canal": "ESPN 2 / Disney+"
+  },
+  {
+    "partido": "D. Iquique - Cienciano",
+    "liga": "Copa Sudamericana",
+    "hora": "7:30 p. m.",
+    "canal": "ESPN 5 / Disney+"
+  },
+  {
+    "partido": "Palestino - Cruzeiro",
+    "liga": "Copa Sudamericana",
+    "hora": "7:30 p. m.",
+    "canal": "Directv 610"
+  },
+  {
+    "partido": "Universidad Católica (Ecu) - Defensa y Justicia",
     "liga": "Copa Sudamericana",
     "hora": "9:00 p. m.",
-    "canal": "Directv 610"
+    "canal": "ESPN 3 / Disney+"
   }
 ]
