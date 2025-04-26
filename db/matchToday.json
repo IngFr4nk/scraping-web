@@ -1,32 +1,104 @@
 [
   {
-    "partido": "VfB Stuttgart - Heidenhem",
-    "liga": "Bundesliga",
-    "hora": "1:30 p. m.",
-    "canal": "ESPN 5 / Disney+"
+    "partido": "Dundee FC - Celtic",
+    "liga": "Liga de Escocia",
+    "hora": "6:30 a. m.",
+    "canal": "ESPN 6 / Disney+"
   },
   {
-    "partido": "Atalanta - Lecce",
+    "partido": "Chelsea - Everton",
+    "liga": "Liga de Inglaterra",
+    "hora": "6:30 a. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Inter - Roma",
     "liga": "Serie A",
-    "hora": "1:45 p. m.",
+    "hora": "8:00 a. m.",
     "canal": "Disney+"
   },
   {
-    "partido": "Paris Saint-Germain - Niza",
+    "partido": "Bayer Leverkusen - FC Augsburgo",
+    "liga": "Bundesliga",
+    "hora": "8:30 a. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Bayern Munich - Mainz 05",
+    "liga": "Bundesliga",
+    "hora": "8:30 a. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Wolverhampton - Leicester City",
+    "liga": "Liga de Inglaterra",
+    "hora": "9:00 a. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Brighton & Hove - West Ham Utd.",
+    "liga": "Liga de Inglaterra",
+    "hora": "9:00 a. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Southampton - Fulham",
+    "liga": "Liga de Inglaterra",
+    "hora": "9:00 a. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Newcastle - Ipswich Town",
+    "liga": "Liga de Inglaterra",
+    "hora": "9:00 a. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Crystal Palace - Aston Villa",
+    "liga": "FA Cup",
+    "hora": "11:15 a. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Le Havre - Mónaco",
     "liga": "Liga de Francia",
-    "hora": "1:45 p. m.",
+    "hora": "12:00 p. m.",
     "canal": "ESPN 2 / Disney+"
   },
   {
-    "partido": "Jaguares de Córdoba - Inter Palmira",
-    "liga": "Torneo Betplay",
-    "hora": "5:00 p. m.",
-    "canal": "Win Sports+"
+    "partido": "Hoffenheim - Borussia Dortmund",
+    "liga": "Bundesliga",
+    "hora": "2:00 p. m.",
+    "canal": "ESPN 5 / Disney+"
   },
   {
-    "partido": "Leones - Cúcuta",
-    "liga": "Torneo Betplay",
-    "hora": "7:30 p. m.",
+    "partido": "Envigado F.C - Unión Magdalena",
+    "liga": "Liga BetPlay",
+    "hora": "2:00 p. m.",
     "canal": "Win Sports / Win Sports+"
+  },
+  {
+    "partido": "Yokohama Marinos - Al-Nassr",
+    "liga": "Liga de Campeones Asia",
+    "hora": "2:30 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Alianza FC - Águilas Doradas",
+    "liga": "Liga BetPlay",
+    "hora": "4:10 p. m.",
+    "canal": "Win Sports / Win Sports+"
+  },
+  {
+    "partido": "Deportes Tolima - Equidad",
+    "liga": "Liga BetPlay",
+    "hora": "6:20 p. m.",
+    "canal": "Win Sports / Win Sports+"
+  },
+  {
+    "partido": "Pereira - Junior",
+    "liga": "Liga BetPlay",
+    "hora": "8:30 p. m.",
+    "canal": "Win Sports+"
   }
 ]
