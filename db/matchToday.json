@@ -1,20 +1,62 @@
 [
   {
-    "partido": "Arsenal - Paris Saint-Germain",
-    "liga": "Champions League",
+    "partido": "Nottingham Forest - Brentford",
+    "liga": "Liga de Inglaterra",
+    "hora": "1:30 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Envigado F.C - Once Caldas",
+    "liga": "Liga BetPlay",
+    "hora": "2:00 p. m.",
+    "canal": "Win Sports / Win Sports+"
+  },
+  {
+    "partido": "Tottenham Hotspur - Bodo Glimt",
+    "liga": "Liga de Europa",
+    "hora": "2:00 p. m.",
+    "canal": "ESPN 2 / Disney+"
+  },
+  {
+    "partido": "Athletic Club - Manchester United",
+    "liga": "Liga de Europa",
     "hora": "2:00 p. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Newell`s Old Boys - Huracán",
-    "liga": "Superliga Argentina",
-    "hora": "5:00 p. m.",
-    "canal": "TyC Sports"
+    "partido": "Real Betis - Fiorentina",
+    "liga": "Conference League",
+    "hora": "2:00 p. m.",
+    "canal": "Disney+"
   },
   {
-    "partido": "Atlético Nacional - Deportivo Pasto",
-    "liga": "Liga BetPlay",
-    "hora": "7:30 p. m.",
-    "canal": "Win Sports +"
+    "partido": "Djurgardens - Chelsea",
+    "liga": "Conference League",
+    "hora": "2:00 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Jaguares de Córdoba - Cúcuta",
+    "liga": "Torneo Betplay",
+    "hora": "4:10 p. m.",
+    "canal": "Win Sports"
+  },
+  {
+    "partido": "Bolivia Sub-17 - Uruguay Sub-17",
+    "liga": "Sudamericano sub-17 femenino",
+    "hora": "4:30 p. m.",
+    "canal": "Directv 610"
+  },
+  {
+    "partido": "Brasil sub 17 - Perú Sub-17",
+    "liga": "Sudamericano sub-17 femenino",
+    "hora": "7:00 p. m.",
+    "canal": "Directv 610"
+  },
+  {
+    "partido": "Cruz Azul - Tigres",
+    "liga": "Concacaf Champions",
+    "hora": "9:00 p. m.",
+    "canal": "Disney+"
   }
 ]
