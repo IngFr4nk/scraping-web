@@ -1,20 +1,98 @@
 [
   {
-    "partido": "Leones - Jaguares de Córdoba",
+    "partido": "Inter - Barcelona",
+    "liga": "Champions League",
+    "hora": "2:00 p. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Equidad - Atlético Nacional",
+    "liga": "Liga Femenina",
+    "hora": "3:30 p. m.",
+    "canal": "Win Sports"
+  },
+  {
+    "partido": "Cúcuta - Real Santander",
     "liga": "Torneo Betplay",
     "hora": "4:00 p. m.",
     "canal": "Win Sports+"
   },
   {
-    "partido": "Atlético Huila - Patriotas F.C",
-    "liga": "Torneo Betplay",
-    "hora": "6:00 p. m.",
-    "canal": "Win Sports+"
+    "partido": "Alianza Lima - Sao Paulo",
+    "liga": "Copa Libertadores",
+    "hora": "5:00 p. m.",
+    "canal": "ESPN 2 / Disney+"
   },
   {
-    "partido": "Boyacá Chicó - Envigado F.C",
-    "liga": "Liga BetPlay",
-    "hora": "8:00 p. m.",
+    "partido": "Bucaramanga - Racing Club",
+    "liga": "Copa Libertadores",
+    "hora": "5:00 p. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Vitoria - Defensa y Justicia",
+    "liga": "Copa Sudamericana",
+    "hora": "5:00 p. m.",
+    "canal": "Directv 610"
+  },
+  {
+    "partido": "Nacional Potosí - Guaraní",
+    "liga": "Copa Sudamericana",
+    "hora": "5:00 p. m.",
+    "canal": "Directv 612"
+  },
+  {
+    "partido": "Sportivo Luqueño - Godoy Cruz",
+    "liga": "Copa Sudamericana",
+    "hora": "5:00 p. m.",
+    "canal": "ESPN 3 / Disney+"
+  },
+  {
+    "partido": "Carabobo FC - Botafogo",
+    "liga": "Copa Libertadores",
+    "hora": "5:00 p. m.",
+    "canal": "ESPN 7 / Disney+"
+  },
+  {
+    "partido": "Real Cartagena - Barranquilla",
+    "liga": "Torneo Betplay",
+    "hora": "7:00 p. m.",
     "canal": "Win Sports / Win Sports+"
+  },
+  {
+    "partido": "Chile - Colombia",
+    "liga": "Sudamericano sub-17 femenino",
+    "hora": "7:00 p. m.",
+    "canal": "Directv 612 / Caracol HD2 / RCN HD2"
+  },
+  {
+    "partido": "Corinthians - América",
+    "liga": "Copa Sudamericana",
+    "hora": "7:30 p. m.",
+    "canal": "Directv 610"
+  },
+  {
+    "partido": "Fortaleza - Colo Colo",
+    "liga": "Copa Libertadores",
+    "hora": "7:30 p. m.",
+    "canal": "ESPN 5 / Disney+"
+  },
+  {
+    "partido": "Boston River - Independiente",
+    "liga": "Copa Sudamericana",
+    "hora": "7:30 p. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Melgar - Lanús",
+    "liga": "Copa Sudamericana",
+    "hora": "9:00 p. m.",
+    "canal": "Directv 611"
+  },
+  {
+    "partido": "San Antonio - Peñarol",
+    "liga": "Copa Libertadores",
+    "hora": "9:00 p. m.",
+    "canal": "ESPN 2 / Disney+"
   }
 ]
