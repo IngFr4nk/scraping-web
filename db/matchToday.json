@@ -12,34 +12,16 @@
     "canal": "Win Sports"
   },
   {
-    "partido": "Cúcuta - Real Santander",
-    "liga": "Torneo Betplay",
-    "hora": "4:00 p. m.",
-    "canal": "Win Sports+"
-  },
-  {
-    "partido": "Alianza Lima - Sao Paulo",
-    "liga": "Copa Libertadores",
-    "hora": "5:00 p. m.",
-    "canal": "ESPN 2 / Disney+"
-  },
-  {
     "partido": "Bucaramanga - Racing Club",
     "liga": "Copa Libertadores",
     "hora": "5:00 p. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Vitoria - Defensa y Justicia",
-    "liga": "Copa Sudamericana",
+    "partido": "Alianza Lima - Sao Paulo",
+    "liga": "Copa Libertadores",
     "hora": "5:00 p. m.",
-    "canal": "Directv 610"
-  },
-  {
-    "partido": "Nacional Potosí - Guaraní",
-    "liga": "Copa Sudamericana",
-    "hora": "5:00 p. m.",
-    "canal": "Directv 612"
+    "canal": "ESPN 2 / Disney+"
   },
   {
     "partido": "Sportivo Luqueño - Godoy Cruz",
@@ -54,10 +36,16 @@
     "canal": "ESPN 7 / Disney+"
   },
   {
-    "partido": "Real Cartagena - Barranquilla",
-    "liga": "Torneo Betplay",
-    "hora": "7:00 p. m.",
-    "canal": "Win Sports / Win Sports+"
+    "partido": "Vitoria - Defensa y Justicia",
+    "liga": "Copa Sudamericana",
+    "hora": "5:00 p. m.",
+    "canal": "Directv 610"
+  },
+  {
+    "partido": "Nacional Potosí - Guaraní",
+    "liga": "Copa Sudamericana",
+    "hora": "5:00 p. m.",
+    "canal": "Directv 612"
   },
   {
     "partido": "Chile - Colombia",
@@ -66,16 +54,16 @@
     "canal": "Directv 612 / Caracol HD2 / RCN HD2"
   },
   {
+    "partido": "Real Cartagena - Barranquilla",
+    "liga": "Torneo Betplay",
+    "hora": "7:00 p. m.",
+    "canal": "Win Sports / Win Sports+"
+  },
+  {
     "partido": "Corinthians - América",
     "liga": "Copa Sudamericana",
     "hora": "7:30 p. m.",
     "canal": "Directv 610"
-  },
-  {
-    "partido": "Fortaleza - Colo Colo",
-    "liga": "Copa Libertadores",
-    "hora": "7:30 p. m.",
-    "canal": "ESPN 5 / Disney+"
   },
   {
     "partido": "Boston River - Independiente",
@@ -84,15 +72,21 @@
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Melgar - Lanús",
-    "liga": "Copa Sudamericana",
-    "hora": "9:00 p. m.",
-    "canal": "Directv 611"
+    "partido": "Fortaleza - Colo Colo",
+    "liga": "Copa Libertadores",
+    "hora": "7:30 p. m.",
+    "canal": "ESPN 5 / Disney+"
   },
   {
     "partido": "San Antonio - Peñarol",
     "liga": "Copa Libertadores",
     "hora": "9:00 p. m.",
     "canal": "ESPN 2 / Disney+"
+  },
+  {
+    "partido": "Melgar - Lanús",
+    "liga": "Copa Sudamericana",
+    "hora": "9:00 p. m.",
+    "canal": "Directv 611"
   }
 ]
