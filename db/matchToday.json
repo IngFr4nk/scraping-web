@@ -1,92 +1,86 @@
 [
   {
-    "partido": "Inter - Barcelona",
-    "liga": "Champions League",
+    "partido": "Fiorentina - Real Betis",
+    "liga": "Conference League",
+    "hora": "2:00 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Manchester United - Athletic Club",
+    "liga": "Liga de Europa",
     "hora": "2:00 p. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Equidad - Atlético Nacional",
-    "liga": "Liga Femenina",
-    "hora": "3:30 p. m.",
-    "canal": "Win Sports"
+    "partido": "Chelsea - Djurgardens",
+    "liga": "Conference League",
+    "hora": "2:00 p. m.",
+    "canal": "Disney+"
   },
   {
-    "partido": "Bucaramanga - Racing Club",
-    "liga": "Copa Libertadores",
-    "hora": "5:00 p. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "Alianza Lima - Sao Paulo",
-    "liga": "Copa Libertadores",
-    "hora": "5:00 p. m.",
+    "partido": "Bodo Glimt - Tottenham Hotspur",
+    "liga": "Liga de Europa",
+    "hora": "2:00 p. m.",
     "canal": "ESPN 2 / Disney+"
   },
   {
-    "partido": "Sportivo Luqueño - Godoy Cruz",
-    "liga": "Copa Sudamericana",
-    "hora": "5:00 p. m.",
-    "canal": "ESPN 3 / Disney+"
-  },
-  {
-    "partido": "Carabobo FC - Botafogo",
+    "partido": "Vélez Sarsfield - Olimpia",
     "liga": "Copa Libertadores",
     "hora": "5:00 p. m.",
-    "canal": "ESPN 7 / Disney+"
-  },
-  {
-    "partido": "Vitoria - Defensa y Justicia",
-    "liga": "Copa Sudamericana",
-    "hora": "5:00 p. m.",
-    "canal": "Directv 610"
-  },
-  {
-    "partido": "Nacional Potosí - Guaraní",
-    "liga": "Copa Sudamericana",
-    "hora": "5:00 p. m.",
-    "canal": "Directv 612"
-  },
-  {
-    "partido": "Chile - Colombia",
-    "liga": "Sudamericano sub-17 femenino",
-    "hora": "7:00 p. m.",
-    "canal": "Directv 612 / Caracol HD2 / RCN HD2"
-  },
-  {
-    "partido": "Real Cartagena - Barranquilla",
-    "liga": "Torneo Betplay",
-    "hora": "7:00 p. m.",
-    "canal": "Win Sports / Win Sports+"
-  },
-  {
-    "partido": "Corinthians - América",
-    "liga": "Copa Sudamericana",
-    "hora": "7:30 p. m.",
-    "canal": "Directv 610"
-  },
-  {
-    "partido": "Boston River - Independiente",
-    "liga": "Copa Sudamericana",
-    "hora": "7:30 p. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Fortaleza - Colo Colo",
-    "liga": "Copa Libertadores",
-    "hora": "7:30 p. m.",
+    "partido": "D. Iquique - Atlético Mineiro",
+    "liga": "Copa Sudamericana",
+    "hora": "5:00 p. m.",
     "canal": "ESPN 5 / Disney+"
   },
   {
-    "partido": "San Antonio - Peñarol",
+    "partido": "Talleres de Córdoba - Libertad",
     "liga": "Copa Libertadores",
-    "hora": "9:00 p. m.",
+    "hora": "5:00 p. m.",
     "canal": "ESPN 2 / Disney+"
   },
   {
-    "partido": "Melgar - Lanús",
+    "partido": "Racing - Huracán",
+    "liga": "Copa Sudamericana",
+    "hora": "5:00 p. m.",
+    "canal": "Directv 610"
+  },
+  {
+    "partido": "San José - Fluminense",
+    "liga": "Copa Sudamericana",
+    "hora": "7:30 p. m.",
+    "canal": "Directv 610"
+  },
+  {
+    "partido": "Barcelona (ECU) - River Plate",
+    "liga": "Copa Libertadores",
+    "hora": "7:30 p. m.",
+    "canal": "ESPN 2 / Disney+"
+  },
+  {
+    "partido": "Atlético Nacional - Internacional",
+    "liga": "Copa Libertadores",
+    "hora": "7:30 p. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Millonarios - Pereira",
+    "liga": "Liga BetPlay",
+    "hora": "7:30 p. m.",
+    "canal": "Win Sports+"
+  },
+  {
+    "partido": "Universitario - Independiente",
+    "liga": "Copa Libertadores",
+    "hora": "9:00 p. m.",
+    "canal": "ESPN 7 / Disney+"
+  },
+  {
+    "partido": "Cienciano - Caracas F.C",
     "liga": "Copa Sudamericana",
     "hora": "9:00 p. m.",
-    "canal": "Directv 611"
+    "canal": "ESPN 5 / Disney+"
   }
 ]
