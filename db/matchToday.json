@@ -1,86 +1,44 @@
 [
   {
-    "partido": "Fiorentina - Real Betis",
-    "liga": "Conference League",
-    "hora": "2:00 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Manchester United - Athletic Club",
-    "liga": "Liga de Europa",
-    "hora": "2:00 p. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "Chelsea - Djurgardens",
-    "liga": "Conference League",
-    "hora": "2:00 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Bodo Glimt - Tottenham Hotspur",
-    "liga": "Liga de Europa",
+    "partido": "Las Palmas - Rayo Vallecano",
+    "liga": "Liga de Espana",
     "hora": "2:00 p. m.",
     "canal": "ESPN 2 / Disney+"
   },
   {
-    "partido": "Vélez Sarsfield - Olimpia",
-    "liga": "Copa Libertadores",
-    "hora": "5:00 p. m.",
-    "canal": "ESPN / Disney+"
+    "partido": "Uruguay - Perú",
+    "liga": "Sudamericano sub-17 femenino",
+    "hora": "4:30 p. m.",
+    "canal": "Directv 612"
   },
   {
-    "partido": "D. Iquique - Atlético Mineiro",
-    "liga": "Copa Sudamericana",
-    "hora": "5:00 p. m.",
-    "canal": "ESPN 5 / Disney+"
+    "partido": "Brasil - Perú",
+    "liga": "Sudamericano sub-17 femenino",
+    "hora": "4:30 p. m.",
+    "canal": "Directv 613"
   },
   {
-    "partido": "Talleres de Córdoba - Libertad",
-    "liga": "Copa Libertadores",
-    "hora": "5:00 p. m.",
-    "canal": "ESPN 2 / Disney+"
-  },
-  {
-    "partido": "Racing - Huracán",
-    "liga": "Copa Sudamericana",
-    "hora": "5:00 p. m.",
-    "canal": "Directv 610"
-  },
-  {
-    "partido": "San José - Fluminense",
-    "liga": "Copa Sudamericana",
-    "hora": "7:30 p. m.",
-    "canal": "Directv 610"
-  },
-  {
-    "partido": "Barcelona (ECU) - River Plate",
-    "liga": "Copa Libertadores",
-    "hora": "7:30 p. m.",
-    "canal": "ESPN 2 / Disney+"
-  },
-  {
-    "partido": "Atlético Nacional - Internacional",
-    "liga": "Copa Libertadores",
-    "hora": "7:30 p. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "Millonarios - Pereira",
+    "partido": "Deportes Tolima - Unión Magdalena",
     "liga": "Liga BetPlay",
-    "hora": "7:30 p. m.",
-    "canal": "Win Sports+"
+    "hora": "6:20 p. m.",
+    "canal": "Win Sports / Win Sports+"
   },
   {
-    "partido": "Universitario - Independiente",
-    "liga": "Copa Libertadores",
-    "hora": "9:00 p. m.",
-    "canal": "ESPN 7 / Disney+"
+    "partido": "Colombia - Paraguay",
+    "liga": "Sudamericano sub-17 femenino",
+    "hora": "7:00 p. m.",
+    "canal": "Directv 613 / Caracol HD2 / RCN HD2"
   },
   {
-    "partido": "Cienciano - Caracas F.C",
-    "liga": "Copa Sudamericana",
-    "hora": "9:00 p. m.",
-    "canal": "ESPN 5 / Disney+"
+    "partido": "Chile - Argentina",
+    "liga": "Sudamericano sub-17 femenino",
+    "hora": "7:00 p. m.",
+    "canal": "Directv 612"
+  },
+  {
+    "partido": "Bucaramanga - Independiente Medellín",
+    "liga": "Liga BetPlay",
+    "hora": "8:30 p. m.",
+    "canal": "Win Sports / Win Sports+"
   }
 ]
