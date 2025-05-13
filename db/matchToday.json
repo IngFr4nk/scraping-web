@@ -1,110 +1,80 @@
 [
   {
-    "partido": "Udinese - Monza",
-    "liga": "Serie A",
-    "hora": "5:30 a. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Newcastle - Chelsea",
-    "liga": "Liga de Inglaterra",
-    "hora": "6:00 a. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "Leganés - Espanyol",
+    "partido": "Valladolid - Girona",
     "liga": "Liga de Espana",
-    "hora": "7:00 a. m.",
-    "canal": "ESPN 4 / Disney+"
-  },
-  {
-    "partido": "Hellas Verona - Lecce",
-    "liga": "Serie A",
-    "hora": "8:00 a. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Nottingham Forest - Leicester City",
-    "liga": "Liga de Inglaterra",
-    "hora": "8:15 a. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Manchester United - West Ham Utd.",
-    "liga": "Liga de Inglaterra",
-    "hora": "8:15 a. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Tottenham Hotspur - Crystal Palace",
-    "liga": "Liga de Inglaterra",
-    "hora": "8:15 a. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Bayer Leverkusen - Borussia Dortmund",
-    "liga": "Bundesliga",
-    "hora": "8:30 a. m.",
-    "canal": "ESPN 5 / Disney+"
-  },
-  {
-    "partido": "Barcelona - Real Madrid",
-    "liga": "Liga de Espana",
-    "hora": "9:15 a. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "Liverpool - Arsenal",
-    "liga": "Liga de Inglaterra",
-    "hora": "10:30 a. m.",
-    "canal": "ESPN 3 / Disney+"
-  },
-  {
-    "partido": "Torino - Inter",
-    "liga": "Serie A",
-    "hora": "11:00 a. m.",
+    "hora": "12:00 p. m.",
     "canal": "ESPN 2 / Disney+"
   },
   {
-    "partido": "VfB Stuttgart - FC Augsburgo",
-    "liga": "Bundesliga",
-    "hora": "12:30 p. m.",
-    "canal": "ESPN 5 / Disney+"
+    "partido": "Sevilla - Las Palmas",
+    "liga": "Liga de Espana",
+    "hora": "2:30 p. m.",
+    "canal": "ESPN 2 / Disney+"
   },
   {
-    "partido": "Napoli - Génoa",
-    "liga": "Serie A",
-    "hora": "1:45 p. m.",
+    "partido": "Nacional Potosí - Boston River",
+    "liga": "Copa Sudamericana",
+    "hora": "5:00 p. m.",
     "canal": "Disney+"
   },
   {
-    "partido": "Real Betis - Osasuna",
-    "liga": "Liga de Espana",
-    "hora": "2:00 p. m.",
-    "canal": "DSports"
+    "partido": "Gremio - Godoy Cruz",
+    "liga": "Copa Sudamericana",
+    "hora": "5:00 p. m.",
+    "canal": "ESPN 2 / Disney+"
   },
   {
-    "partido": "Bogotá - Tigres",
+    "partido": "Deportivo Táchira - Central Córdoba",
+    "liga": "Copa Libertadores",
+    "hora": "5:00 p. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Quindío - Orsomarso",
     "liga": "Torneo Betplay",
-    "hora": "2:00 p. m.",
+    "hora": "5:00 p. m.",
     "canal": "Win Sports+"
   },
   {
-    "partido": "Alianza FC - Deportivo Cali",
-    "liga": "Liga BetPlay",
-    "hora": "4:00 p. m.",
-    "canal": "Win Sports+"
+    "partido": "Lanús - Vasco da Gama",
+    "liga": "Copa Sudamericana",
+    "hora": "7:30 p. m.",
+    "canal": "Disney+"
   },
   {
-    "partido": "Atlético Nacional - Llaneros",
+    "partido": "Puerto Cabello - Melgar",
+    "liga": "Copa Sudamericana",
+    "hora": "7:30 p. m.",
+    "canal": "ESPN 3 / Disney+"
+  },
+  {
+    "partido": "Sporting Cristal - Cerro Porteño",
+    "liga": "Copa Libertadores",
+    "hora": "7:30 p. m.",
+    "canal": "ESPN 7 / Disney+"
+  },
+  {
+    "partido": "Pereira - Deportivo Pasto",
     "liga": "Liga BetPlay",
-    "hora": "6:10 p. m.",
+    "hora": "7:30 p. m.",
     "canal": "Win Sports / Win Sports+"
   },
   {
-    "partido": "Once Caldas - Millonarios",
-    "liga": "Liga BetPlay",
-    "hora": "8:20 p. m.",
-    "canal": "Win Sports+"
+    "partido": "Fortaleza - Bucaramanga",
+    "liga": "Copa Libertadores",
+    "hora": "7:30 p. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Unión de Santa Fe - Mushuc Runa",
+    "liga": "Copa Sudamericana",
+    "hora": "7:30 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Universidad de Chile - Carabobo FC",
+    "liga": "Copa Libertadores",
+    "hora": "7:30 p. m.",
+    "canal": "ESPN 2 / Disney+"
   }
 ]
