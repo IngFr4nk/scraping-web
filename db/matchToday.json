@@ -1,26 +1,140 @@
 [
   {
-    "partido": "Aston Villa - Tottenham Hotspur",
-    "liga": "Liga de Inglaterra",
-    "hora": "1:30 p. m.",
+    "partido": "Pauli - Bochum 1848",
+    "liga": "Bundesliga",
+    "hora": "8:30 a. m.",
     "canal": "Disney+"
   },
   {
-    "partido": "Chelsea - Manchester United",
-    "liga": "Liga de Inglaterra",
-    "hora": "2:15 p. m.",
+    "partido": "Friburgo - Eintracht Frankfurt",
+    "liga": "Bundesliga",
+    "hora": "8:30 a. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Mainz 05 - Bayer Leverkusen",
+    "liga": "Bundesliga",
+    "hora": "8:30 a. m.",
+    "canal": "ESPN 5 / Disney+"
+  },
+  {
+    "partido": "FC Augsburgo - Union Berlin",
+    "liga": "Bundesliga",
+    "hora": "8:30 a. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "RB Leipzig - VfB Stuttgart",
+    "liga": "Bundesliga",
+    "hora": "8:30 a. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Borussia Mönchengladbach - Wolfsburgo",
+    "liga": "Bundesliga",
+    "hora": "8:30 a. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Heidenhem - Werder Bremen",
+    "liga": "Bundesliga",
+    "hora": "8:30 a. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Borussia Dortmund - Holstein Kiel",
+    "liga": "Bundesliga",
+    "hora": "8:30 a. m.",
+    "canal": "ESPN 2 / Disney+"
+  },
+  {
+    "partido": "Crystal Palace - Manchester City",
+    "liga": "FA Cup",
+    "hora": "10:30 a. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Junior - Equidad",
-    "liga": "Liga BetPlay",
-    "hora": "6:10 p. m.",
-    "canal": "Win Sports / Win Sports+"
+    "partido": "Génoa - Atalanta",
+    "liga": "Serie A",
+    "hora": "1:45 p. m.",
+    "canal": "ESPN 3 / Disney+"
   },
   {
-    "partido": "Millonarios - Envigado F.C",
-    "liga": "Liga BetPlay",
-    "hora": "8:15 p. m.",
+    "partido": "Lens - Mónaco",
+    "liga": "Liga de Francia",
+    "hora": "2:00 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Paris Saint-Germain - Auxerre",
+    "liga": "Liga de Francia",
+    "hora": "2:00 p. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Saint Etienne - Toulouse",
+    "liga": "Liga de Francia",
+    "hora": "2:00 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Nantes - Montpellier",
+    "liga": "Liga de Francia",
+    "hora": "2:00 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Lyon - Angers",
+    "liga": "Liga de Francia",
+    "hora": "2:00 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Marsella - Rennes",
+    "liga": "Liga de Francia",
+    "hora": "2:00 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Niza - Brest",
+    "liga": "Liga de Francia",
+    "hora": "2:00 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Strasbourg - Le Havre",
+    "liga": "Liga de Francia",
+    "hora": "2:00 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Lille - Reims",
+    "liga": "Liga de Francia",
+    "hora": "2:00 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Deportivo Cali - Alianza FC",
+    "liga": "Liga Femenina",
+    "hora": "2:30 p. m.",
     "canal": "Win Sports+"
+  },
+  {
+    "partido": "Equidad - Bucaramanga",
+    "liga": "Liga BetPlay",
+    "hora": "3:45 p. m.",
+    "canal": "Win Sports+"
+  },
+  {
+    "partido": "Deportivo Cali - Santa Fe",
+    "liga": "Liga BetPlay",
+    "hora": "6:00 p. m.",
+    "canal": "Win Sports+"
+  },
+  {
+    "partido": "Boyacá Chicó - Fortaleza F.C",
+    "liga": "Liga BetPlay",
+    "hora": "8:10 p. m.",
+    "canal": "Win Sports / Win Sports+"
   }
 ]
