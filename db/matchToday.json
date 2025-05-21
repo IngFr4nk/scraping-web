@@ -1,20 +1,44 @@
 [
   {
-    "partido": "Manchester City - Bournemouth",
-    "liga": "Liga de Inglaterra",
-    "hora": "2:00 p. m.",
+    "partido": "Al-Nassr - Al Khaleej",
+    "liga": "Liga de Arabia",
+    "hora": "11:10 a. m.",
+    "canal": "Win Sports"
+  },
+  {
+    "partido": "Metz - Reims",
+    "liga": "Liga de Francia",
+    "hora": "1:00 p. m.",
     "canal": "Disney+"
   },
   {
-    "partido": "Crystal Palace - Wolverhampton",
-    "liga": "Liga de Inglaterra",
+    "partido": "Tottenham Hotspur - Manchester United",
+    "liga": "Liga de Europa",
     "hora": "2:00 p. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "River Plate - Platense",
+    "partido": "Perú Sub-17 - Ecuador Sub-17",
+    "liga": "Sudamericano sub-17 femenino",
+    "hora": "3:00 p. m.",
+    "canal": "Directv 610"
+  },
+  {
+    "partido": "Brasil sub 17 - Chile sub 17",
+    "liga": "Sudamericano sub-17 femenino",
+    "hora": "5:30 p. m.",
+    "canal": "Directv 610"
+  },
+  {
+    "partido": "Lanús - Vélez Sarsfield",
     "liga": "Superliga Argentina",
-    "hora": "6:30 p. m.",
-    "canal": "ESPN / Disney+"
+    "hora": "7:10 p. m.",
+    "canal": "TyC Sports"
+  },
+  {
+    "partido": "Paraguay sub 17 - Colombia sub 17",
+    "liga": "Sudamericano sub-17 femenino",
+    "hora": "7:30 p. m.",
+    "canal": "Directv 610 / Caracol HD2 / Ditu / RCN"
   }
 ]
