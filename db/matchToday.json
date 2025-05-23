@@ -1,14 +1,32 @@
 [
   {
-    "partido": "Defensa y Justicia - Newell`s Old Boys",
-    "liga": "Copa de Argentina",
-    "hora": "7:10 p. m.",
-    "canal": "TyC Sports"
+    "partido": "Napoli - Cagliari",
+    "liga": "Serie A",
+    "hora": "1:45 p. m.",
+    "canal": "ESPN / Disney+"
   },
   {
-    "partido": "América (México) - Toluca",
-    "liga": "Liga de México",
-    "hora": "9:00 p. m.",
-    "canal": "TUDN"
+    "partido": "Como - Inter",
+    "liga": "Serie A",
+    "hora": "1:45 p. m.",
+    "canal": "ESPN 2 / Disney+"
+  },
+  {
+    "partido": "Real Betis - Valencia CF",
+    "liga": "Liga de Espana",
+    "hora": "2:00 p. m.",
+    "canal": "ESPN 3 / Disney+"
+  },
+  {
+    "partido": "Santa Fe - Junior",
+    "liga": "Liga Femenina",
+    "hora": "3:00 p. m.",
+    "canal": "Win Sports"
+  },
+  {
+    "partido": "Pereira - Equidad",
+    "liga": "Liga BetPlay",
+    "hora": "6:30 p. m.",
+    "canal": "Win Sports"
   }
 ]
