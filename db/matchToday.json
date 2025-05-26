@@ -1,92 +1,20 @@
 [
   {
-    "partido": "Sheffield United - Sunderland",
-    "liga": "Championship",
-    "hora": "9:00 a. m.",
-    "canal": "ESPN 5 / Disney+"
-  },
-  {
-    "partido": "Real Madrid - Real Sociedad",
-    "liga": "Liga de Espana",
-    "hora": "9:15 a. m.",
-    "canal": "Directv 610"
-  },
-  {
-    "partido": "Arsenal - Barcelona",
-    "liga": "Champions femenina",
-    "hora": "11:00 a. m.",
-    "canal": "DAZN YouTube"
-  },
-  {
-    "partido": "Bolognia - Génoa",
-    "liga": "Serie A",
-    "hora": "11:00 a. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "Arminia Bielefeld - VfB Stuttgart",
-    "liga": "Copa de Alemania",
+    "partido": "Al-Fateh - Al-Nassr",
+    "liga": "Liga de Arabia",
     "hora": "1:00 p. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "Envigado F.C - Llaneros",
-    "liga": "Liga BetPlay",
-    "hora": "2:00 p. m.",
-    "canal": "Win Sports / Win Sports+"
-  },
-  {
-    "partido": "Paris Saint-Germain - Reims",
-    "liga": "Copa de Francia",
-    "hora": "2:00 p. m.",
-    "canal": "DSports"
-  },
-  {
-    "partido": "Rayo Vallecano - Mallorca",
-    "liga": "Liga de Espana",
-    "hora": "2:00 p. m.",
-    "canal": "ESPN 2 / Disney+"
-  },
-  {
-    "partido": "Perú Sub-17 - Chile sub 17",
-    "liga": "Sudamericano sub-17 femenino",
-    "hora": "3:30 p. m.",
-    "canal": "DSports"
-  },
-  {
-    "partido": "Colombia sub 17 - Brasil sub 17",
-    "liga": "Sudamericano sub-17 femenino",
-    "hora": "3:30 p. m.",
-    "canal": "Caracol HD2 / RCN HD2"
-  },
-  {
-    "partido": "Fortaleza F.C - Unión Magdalena",
-    "liga": "Liga BetPlay",
-    "hora": "4:00 p. m.",
-    "canal": "Win Sports / Win Sports+"
-  },
-  {
-    "partido": "Cúcuta - Patriotas F.C",
-    "liga": "Torneo Betplay",
-    "hora": "4:00 p. m.",
     "canal": "Win Sports"
   },
   {
-    "partido": "Independiente - Huracán",
-    "liga": "Liga de Argentina",
-    "hora": "4:30 p. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "Ecuador Sub-17 - Paraguay sub 17",
-    "liga": "Sudamericano sub-17 femenino",
-    "hora": "6:00 p. m.",
-    "canal": "DSports"
-  },
-  {
-    "partido": "Atlético Huila - Real Cundinamarca",
+    "partido": "Tigres - Jaguares de Córdoba",
     "liga": "Torneo Betplay",
-    "hora": "6:10 p. m.",
+    "hora": "5:15 p. m.",
     "canal": "Win Sports+"
+  },
+  {
+    "partido": "Inter Palmira - Real Cartagena",
+    "liga": "Torneo Betplay",
+    "hora": "7:30 p. m.",
+    "canal": "Win Sports"
   }
 ]
