@@ -1,20 +1,62 @@
 [
   {
-    "partido": "Al-Fateh - Al-Nassr",
-    "liga": "Liga de Arabia",
-    "hora": "1:00 p. m.",
-    "canal": "Win Sports"
+    "partido": "Libertad - Alianza Lima",
+    "liga": "Copa Libertadores",
+    "hora": "5:00 p. m.",
+    "canal": "ESPN 5 / Disney+"
   },
   {
-    "partido": "Tigres - Jaguares de Córdoba",
-    "liga": "Torneo Betplay",
-    "hora": "5:15 p. m.",
-    "canal": "Win Sports+"
+    "partido": "Vasco da Gama - Melgar",
+    "liga": "Copa Sudamericana",
+    "hora": "5:00 p. m.",
+    "canal": "ESPN 2 / Disney+"
   },
   {
-    "partido": "Inter Palmira - Real Cartagena",
-    "liga": "Torneo Betplay",
+    "partido": "Lanús - Puerto Cabello",
+    "liga": "Copa Sudamericana",
+    "hora": "5:00 p. m.",
+    "canal": "ESPN 3 / Disney+"
+  },
+  {
+    "partido": "Sao Paulo - Talleres de Córdoba",
+    "liga": "Copa Libertadores",
+    "hora": "5:00 p. m.",
+    "canal": "ESPN 7 / Disney+"
+  },
+  {
+    "partido": "Botafogo - Universidad de Chile",
+    "liga": "Copa Libertadores",
     "hora": "7:30 p. m.",
-    "canal": "Win Sports"
+    "canal": "ESPN 5 / Disney+"
+  },
+  {
+    "partido": "Estudiantes - Carabobo FC",
+    "liga": "Copa Libertadores",
+    "hora": "7:30 p. m.",
+    "canal": "ESPN 6 / Disney+"
+  },
+  {
+    "partido": "América - Racing",
+    "liga": "Copa Sudamericana",
+    "hora": "7:30 p. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "River Plate - Universitario",
+    "liga": "Copa Libertadores",
+    "hora": "7:30 p. m.",
+    "canal": "ESPN 7 / Disney+"
+  },
+  {
+    "partido": "Huracán - Corinthians",
+    "liga": "Copa Sudamericana",
+    "hora": "7:30 p. m.",
+    "canal": "Directv 610"
+  },
+  {
+    "partido": "Independiente del Valle - Barcelona (ECU)",
+    "liga": "Copa Libertadores",
+    "hora": "7:30 p. m.",
+    "canal": "ESPN 2 / Disney+"
   }
 ]
