@@ -1,98 +1,80 @@
 [
   {
-    "partido": "Real Betis - Chelsea",
-    "liga": "Conference League",
-    "hora": "2:00 p. m.",
+    "partido": "Reims - Metz",
+    "liga": "Liga de Francia",
+    "hora": "1:30 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Peñarol - Vélez Sarsfield",
+    "liga": "Copa Libertadores",
+    "hora": "5:00 p. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Excursionistas - Argentinos Juniors",
-    "liga": "Copa de Argentina",
-    "hora": "3:00 p. m.",
-    "canal": "TyC Sports Internacional"
+    "partido": "Olimpia - San Antonio",
+    "liga": "Copa Libertadores",
+    "hora": "5:00 p. m.",
+    "canal": "ESPN 7 / Disney+"
   },
   {
-    "partido": "Internacional - Bahía",
-    "liga": "Copa Libertadores",
+    "partido": "Gremio - Sportivo Luqueño",
+    "liga": "Copa Sudamericana",
     "hora": "5:00 p. m.",
     "canal": "ESPN 2 / Disney+"
   },
   {
-    "partido": "Independiente - Real Potosí",
-    "liga": "Copa Sudamericana",
-    "hora": "5:00 p. m.",
-    "canal": "ESPN 5 / Disney+"
-  },
-  {
-    "partido": "Nacional (Uru) - Atlético Nacional",
-    "liga": "Copa Libertadores",
-    "hora": "5:00 p. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "Guaraní - Boston River",
-    "liga": "Copa Sudamericana",
-    "hora": "5:00 p. m.",
-    "canal": "Directv 613"
-  },
-  {
-    "partido": "Patriotas F.C - Atlético Huila",
+    "partido": "Jaguares de Córdoba - Inter Palmira",
     "liga": "Torneo Betplay",
     "hora": "5:15 p. m.",
     "canal": "Win Sports+"
   },
   {
-    "partido": "Defensa y Justicia - Cerro Largo",
+    "partido": "Unión Española - San José",
     "liga": "Copa Sudamericana",
-    "hora": "7:20 p. m.",
-    "canal": "Directv 611"
-  },
-  {
-    "partido": "Real Cundinamarca - Cúcuta",
-    "liga": "Torneo Betplay",
-    "hora": "7:30 p. m.",
-    "canal": "Win Sports / Win Sports+"
-  },
-  {
-    "partido": "Bolívar - Cerro Porteño",
-    "liga": "Copa Libertadores",
-    "hora": "7:30 p. m.",
-    "canal": "ESPN 6 / Disney+"
-  },
-  {
-    "partido": "Liga de Quito - Central Córdoba",
-    "liga": "Copa Libertadores",
     "hora": "7:30 p. m.",
     "canal": "ESPN 5 / Disney+"
   },
   {
-    "partido": "Cruzeiro - Unión de Santa Fe",
-    "liga": "Copa Sudamericana",
-    "hora": "7:30 p. m.",
-    "canal": "ESPN 3 / Disney+"
-  },
-  {
-    "partido": "Palmeiras - Sporting Cristal",
+    "partido": "Colo Colo - Bucaramanga",
     "liga": "Copa Libertadores",
     "hora": "7:30 p. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Universidad Católica (Ecu) - Vitoria",
+    "partido": "Atlético Mineiro - Cienciano",
+    "liga": "Copa Sudamericana",
+    "hora": "7:30 p. m.",
+    "canal": "ESPN 2 / Disney+"
+  },
+  {
+    "partido": "Racing Club - Fortaleza",
+    "liga": "Copa Libertadores",
+    "hora": "7:30 p. m.",
+    "canal": "ESPN 7 / Disney+"
+  },
+  {
+    "partido": "Caracas F.C - D. Iquique",
     "liga": "Copa Sudamericana",
     "hora": "7:30 p. m.",
     "canal": "Directv 613"
   },
   {
-    "partido": "Palestino - Mushuc Runa",
+    "partido": "Real Cartagena - Tigres",
+    "liga": "Torneo Betplay",
+    "hora": "7:30 p. m.",
+    "canal": "Win Sports+"
+  },
+  {
+    "partido": "Fluminense - Once Caldas",
     "liga": "Copa Sudamericana",
     "hora": "7:30 p. m.",
     "canal": "Directv 610"
   },
   {
-    "partido": "Flamengo - Deportivo Táchira",
-    "liga": "Copa Libertadores",
+    "partido": "Godoy Cruz - Atlétiico Grau",
+    "liga": "Copa Sudamericana",
     "hora": "7:30 p. m.",
-    "canal": "ESPN 7 / Disney+"
+    "canal": "Directv 610"
   }
 ]
