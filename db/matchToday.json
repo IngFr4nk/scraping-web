@@ -1,26 +1,38 @@
 [
   {
-    "partido": "Paris Saint-Germain - Inter",
-    "liga": "Champions League",
+    "partido": "Real Cundinamarca - Patriotas F.C",
+    "liga": "Torneo Betplay",
     "hora": "2:00 p. m.",
+    "canal": "Win Sports+"
+  },
+  {
+    "partido": "Huracán - Platense",
+    "liga": "Liga de Argentina",
+    "hora": "3:00 p. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Junior - Deportes Tolima",
+    "partido": "Santa Fe - Millonarios",
     "liga": "Liga BetPlay",
-    "hora": "5:30 p. m.",
+    "hora": "4:00 p. m.",
     "canal": "Win Sports +"
   },
   {
-    "partido": "Independiente Medellín - América",
-    "liga": "Liga BetPlay",
-    "hora": "7:45 p. m.",
-    "canal": "Win Sports +"
+    "partido": "Atlético Huila - Cúcuta",
+    "liga": "Torneo Betplay",
+    "hora": "6:10 p. m.",
+    "canal": "Win Sports+"
   },
   {
-    "partido": "Los Ángeles - América (México)",
-    "liga": "Mundial de Clubes de la Fifa",
-    "hora": "9:30 p. m.",
-    "canal": "Directv 610"
+    "partido": "Cruz Azul - Vancouver",
+    "liga": "Concacaf Champions",
+    "hora": "8:00 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Atlético Nacional - Once Caldas",
+    "liga": "Liga BetPlay",
+    "hora": "8:15 p. m.",
+    "canal": "Win Sports +"
   }
 ]
