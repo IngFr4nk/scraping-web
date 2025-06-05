@@ -1,30 +1,36 @@
 [
   {
-    "partido": "Alemania - Portugal",
+    "partido": "España - Francia",
     "liga": "Liga Europea de Naciones",
     "hora": "2:00 p. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Patriotas F.C - Real Cundinamarca",
-    "liga": "Torneo BetPlay",
-    "hora": "3:00 p. m.",
-    "canal": "Win Sports +"
+    "partido": "Cúcuta - Atlético Huila",
+    "liga": "Torneo Betplay",
+    "hora": "4:00 p. m.",
+    "canal": "Win Sports+"
   },
   {
-    "partido": "Alianza FC - Águilas Doradas",
-    "liga": "Copa Betplay",
-    "hora": "4:15 p. m.",
-    "canal": "Win Sports"
+    "partido": "Ecuador - Brasil",
+    "liga": "Eliminatorias",
+    "hora": "6:00 p. m.",
+    "canal": "Caracol / RCN"
   },
   {
-    "partido": "Deportes Tolima - Independiente Medellín",
+    "partido": "Once Caldas - Santa Fe",
     "liga": "Liga BetPlay",
     "hora": "6:10 p. m.",
     "canal": "Win Sports +"
   },
   {
-    "partido": "América - Junior",
+    "partido": "Chile - Argentina",
+    "liga": "Eliminatorias",
+    "hora": "8:00 p. m.",
+    "canal": "Caracol / RCN"
+  },
+  {
+    "partido": "Millonarios - Atlético Nacional",
     "liga": "Liga BetPlay",
     "hora": "8:15 p. m.",
     "canal": "Win Sports +"
