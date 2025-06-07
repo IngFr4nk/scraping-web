@@ -1,32 +1,50 @@
 [
   {
-    "partido": "Noruega - Italia",
+    "partido": "Bosnia - San Marino",
+    "liga": "Eliminatorias europeas",
+    "hora": "8:00 a. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Andorra - Inglaterra",
+    "liga": "Eliminatorias europeas",
+    "hora": "11:00 a. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Finlandia - Países Bajos",
     "liga": "Eliminatorias europeas",
     "hora": "1:45 p. m.",
-    "canal": "Disney+"
+    "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Macedonia - Bélgica",
-    "liga": "Eliminatorias europeas",
-    "hora": "1:45 p. m.",
-    "canal": "ESPN 3 / Disney+"
-  },
-  {
-    "partido": "Colombia - Perú",
-    "liga": "Eliminatorias",
-    "hora": "3:30 p. m.",
-    "canal": "Caracol / RCN"
-  },
-  {
-    "partido": "Venezuela - Bolivia",
-    "liga": "Eliminatorias",
-    "hora": "5:00 p. m.",
-    "canal": "Caracol / RCN"
-  },
-  {
-    "partido": "Quindío - Bucaramanga",
+    "partido": "Envigado F.C - Barranquilla",
     "liga": "Copa Betplay",
-    "hora": "7:00 p. m.",
+    "hora": "2:00 p. m.",
+    "canal": "Win Sports"
+  },
+  {
+    "partido": "Tigres - Inter Palmira",
+    "liga": "Torneo Betplay",
+    "hora": "2:00 p. m.",
     "canal": "Win Sports+"
+  },
+  {
+    "partido": "Jaguares de Córdoba - Real Cartagena",
+    "liga": "Torneo Betplay",
+    "hora": "4:00 p. m.",
+    "canal": "Win Sports / Win Sports+"
+  },
+  {
+    "partido": "Deportes Tolima - América",
+    "liga": "Liga BetPlay",
+    "hora": "6:15 p. m.",
+    "canal": "Win Sports+"
+  },
+  {
+    "partido": "Leones - Pereira",
+    "liga": "Copa Betplay",
+    "hora": "8:20 p. m.",
+    "canal": "Win Sports"
   }
 ]
