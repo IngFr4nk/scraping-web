@@ -1,50 +1,38 @@
 [
   {
-    "partido": "Bosnia - San Marino",
-    "liga": "Eliminatorias europeas",
+    "partido": "Alemania - Francia",
+    "liga": "Liga Europea de Naciones",
     "hora": "8:00 a. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Andorra - Inglaterra",
-    "liga": "Eliminatorias europeas",
-    "hora": "11:00 a. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "Finlandia - Países Bajos",
-    "liga": "Eliminatorias europeas",
+    "partido": "Portugal - España",
+    "liga": "Liga Europea de Naciones",
     "hora": "1:45 p. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Envigado F.C - Barranquilla",
-    "liga": "Copa Betplay",
+    "partido": "Independiente Medellín - Atlético Nacional",
+    "liga": "Liga Femenina",
     "hora": "2:00 p. m.",
     "canal": "Win Sports"
   },
   {
-    "partido": "Tigres - Inter Palmira",
-    "liga": "Torneo Betplay",
-    "hora": "2:00 p. m.",
+    "partido": "Atlético Nacional - Santa Fe",
+    "liga": "Liga BetPlay",
+    "hora": "4:00 p. m.",
     "canal": "Win Sports+"
   },
   {
-    "partido": "Jaguares de Córdoba - Real Cartagena",
-    "liga": "Torneo Betplay",
-    "hora": "4:00 p. m.",
-    "canal": "Win Sports / Win Sports+"
-  },
-  {
-    "partido": "Deportes Tolima - América",
+    "partido": "Junior - Independiente Medellín",
     "liga": "Liga BetPlay",
     "hora": "6:15 p. m.",
     "canal": "Win Sports+"
   },
   {
-    "partido": "Leones - Pereira",
-    "liga": "Copa Betplay",
+    "partido": "Once Caldas - Millonarios",
+    "liga": "Liga BetPlay",
     "hora": "8:20 p. m.",
-    "canal": "Win Sports"
+    "canal": "Win Sports+"
   }
 ]
