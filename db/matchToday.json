@@ -1,56 +1,86 @@
 [
   {
-    "partido": "Kazajistán - Macedonia",
-    "liga": "Eliminatorias europeas",
-    "hora": "9:00 a. m.",
-    "canal": "ESPN / Disney+"
+    "partido": "Japón - Indonesia",
+    "liga": "Eliminatorias",
+    "hora": "5:30 a. m.",
+    "canal": "Disney+"
   },
   {
-    "partido": "Croacia - República Checa",
+    "partido": "China - Bahrein",
+    "liga": "Eliminatorias",
+    "hora": "6:00 a. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "C. del Sur - Kuwait",
+    "liga": "Eliminatorias",
+    "hora": "6:00 a. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Arabia Saudita - Australia",
+    "liga": "Eliminatorias",
+    "hora": "1:15 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Países Bajos - Malta",
     "liga": "Eliminatorias europeas",
     "hora": "1:45 p. m.",
     "canal": "Disney+"
   },
   {
-    "partido": "Islas Faroe - Gibraltar",
-    "liga": "Eliminatorias europeas",
-    "hora": "1:45 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Bélgica - Gales",
-    "liga": "Eliminatorias europeas",
-    "hora": "1:45 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Estonia - Noruega",
+    "partido": "Finlandia - Polonia Femenino Sub-17",
     "liga": "Eliminatorias europeas",
     "hora": "1:45 p. m.",
     "canal": "ESPN 2 / Disney+"
   },
   {
-    "partido": "Italia - Moldavia",
-    "liga": "Eliminatorias europeas",
+    "partido": "Inglaterra - Senegal",
+    "liga": "Partido amistoso",
     "hora": "1:45 p. m.",
-    "canal": "ESPN / Disney+"
+    "canal": "Disney+"
   },
   {
-    "partido": "Llaneros - Real Santander",
+    "partido": "Bolivia - Chile",
+    "liga": "Eliminatorias",
+    "hora": "3:00 p. m.",
+    "canal": "Caracol TV / RCN"
+  },
+  {
+    "partido": "Bucaramanga - Boyacá Chicó",
     "liga": "Copa Betplay",
-    "hora": "4:00 p. m.",
+    "hora": "5:00 p. m.",
     "canal": "Win Sports+"
   },
   {
-    "partido": "Millonarios - Santa Fe",
-    "liga": "Liga Femenina",
-    "hora": "4:00 p. m.",
-    "canal": "Señal Colombia"
+    "partido": "Uruguay - Venezuela",
+    "liga": "Eliminatorias",
+    "hora": "6:00 p. m.",
+    "canal": "Caracol TV / RCN / Ditu"
   },
   {
-    "partido": "Deportivo Cali - Quindío",
-    "liga": "Copa Betplay",
-    "hora": "8:00 p. m.",
-    "canal": "Win Sports / Win Sports+"
+    "partido": "Argentina - Colombia",
+    "liga": "Eliminatorias",
+    "hora": "7:00 p. m.",
+    "canal": "Caracol TV / RCN"
+  },
+  {
+    "partido": "Canadá - C. de Marfil",
+    "liga": "Partido amistoso",
+    "hora": "7:30 p. m.",
+    "canal": "Directv 610"
+  },
+  {
+    "partido": "Brasil - Paraguay",
+    "liga": "Eliminatorias",
+    "hora": "7:45 p. m.",
+    "canal": "Ditu"
+  },
+  {
+    "partido": "Perú - Ecuador",
+    "liga": "Eliminatorias",
+    "hora": "8:30 p. m.",
+    "canal": "Ditu / RCN"
   }
 ]
