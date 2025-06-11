@@ -1,86 +1,14 @@
 [
   {
-    "partido": "Japón - Indonesia",
-    "liga": "Eliminatorias",
-    "hora": "5:30 a. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "China - Bahrein",
-    "liga": "Eliminatorias",
-    "hora": "6:00 a. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "C. del Sur - Kuwait",
-    "liga": "Eliminatorias",
-    "hora": "6:00 a. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Arabia Saudita - Australia",
-    "liga": "Eliminatorias",
-    "hora": "1:15 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Países Bajos - Malta",
-    "liga": "Eliminatorias europeas",
-    "hora": "1:45 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Finlandia - Polonia Femenino Sub-17",
-    "liga": "Eliminatorias europeas",
-    "hora": "1:45 p. m.",
-    "canal": "ESPN 2 / Disney+"
-  },
-  {
-    "partido": "Inglaterra - Senegal",
-    "liga": "Partido amistoso",
-    "hora": "1:45 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Bolivia - Chile",
-    "liga": "Eliminatorias",
-    "hora": "3:00 p. m.",
-    "canal": "Caracol TV / RCN"
-  },
-  {
-    "partido": "Bucaramanga - Boyacá Chicó",
-    "liga": "Copa Betplay",
-    "hora": "5:00 p. m.",
+    "partido": "Independiente Medellín - Junior",
+    "liga": "Liga BetPlay",
+    "hora": "6:15 p. m.",
     "canal": "Win Sports+"
   },
   {
-    "partido": "Uruguay - Venezuela",
-    "liga": "Eliminatorias",
-    "hora": "6:00 p. m.",
-    "canal": "Caracol TV / RCN / Ditu"
-  },
-  {
-    "partido": "Argentina - Colombia",
-    "liga": "Eliminatorias",
-    "hora": "7:00 p. m.",
-    "canal": "Caracol TV / RCN"
-  },
-  {
-    "partido": "Canadá - C. de Marfil",
-    "liga": "Partido amistoso",
-    "hora": "7:30 p. m.",
-    "canal": "Directv 610"
-  },
-  {
-    "partido": "Brasil - Paraguay",
-    "liga": "Eliminatorias",
-    "hora": "7:45 p. m.",
-    "canal": "Ditu"
-  },
-  {
-    "partido": "Perú - Ecuador",
-    "liga": "Eliminatorias",
-    "hora": "8:30 p. m.",
-    "canal": "Ditu / RCN"
+    "partido": "Millonarios - Once Caldas",
+    "liga": "Liga BetPlay",
+    "hora": "8:20 p. m.",
+    "canal": "Win Sports+"
   }
 ]
