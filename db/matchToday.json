@@ -1,12 +1,24 @@
 [
   {
-    "partido": "Independiente Medellín - Junior",
-    "liga": "Liga BetPlay",
-    "hora": "6:15 p. m.",
+    "partido": "Mirandés - Racing (Esp)",
+    "liga": "Segunda División de España",
+    "hora": "2:00 p. m.",
+    "canal": "ESPN 3 / Disney+"
+  },
+  {
+    "partido": "Fortaleza F.C - Leones",
+    "liga": "Copa Betplay",
+    "hora": "3:00 p. m.",
     "canal": "Win Sports+"
   },
   {
-    "partido": "Millonarios - Once Caldas",
+    "partido": "América - Deportes Tolima",
+    "liga": "Liga BetPlay",
+    "hora": "6:20 p. m.",
+    "canal": "Win Sports / Win Sports+"
+  },
+  {
+    "partido": "Santa Fe - Atlético Nacional",
     "liga": "Liga BetPlay",
     "hora": "8:20 p. m.",
     "canal": "Win Sports+"
