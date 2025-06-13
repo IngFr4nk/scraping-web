@@ -1,26 +1,20 @@
 [
   {
-    "partido": "Mirandés - Racing (Esp)",
-    "liga": "Segunda División de España",
-    "hora": "2:00 p. m.",
-    "canal": "ESPN 3 / Disney+"
+    "partido": "Real Cundinamarca - Atlético Huila",
+    "liga": "Torneo BetPlay",
+    "hora": "6:00 p. m.",
+    "canal": "Win Sports+"
   },
   {
-    "partido": "Fortaleza F.C - Leones",
+    "partido": "Patriotas F.C - Cúcuta",
+    "liga": "Torneo Betplay",
+    "hora": "6:00 p. m.",
+    "canal": "Win Sports"
+  },
+  {
+    "partido": "Boca Juniors de Cali - Bucaramanga",
     "liga": "Copa Betplay",
-    "hora": "3:00 p. m.",
-    "canal": "Win Sports+"
-  },
-  {
-    "partido": "América - Deportes Tolima",
-    "liga": "Liga BetPlay",
-    "hora": "6:20 p. m.",
+    "hora": "8:00 p. m.",
     "canal": "Win Sports / Win Sports+"
-  },
-  {
-    "partido": "Santa Fe - Atlético Nacional",
-    "liga": "Liga BetPlay",
-    "hora": "8:20 p. m.",
-    "canal": "Win Sports+"
   }
 ]
