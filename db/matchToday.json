@@ -1,20 +1,50 @@
 [
   {
-    "partido": "Real Cundinamarca - Atlético Huila",
-    "liga": "Torneo BetPlay",
+    "partido": "Chelsea - Los Ángeles",
+    "liga": "Mundial de Clubes de la Fifa",
+    "hora": "2:00 p. m.",
+    "canal": "Win Sports / DSports / Disney+"
+  },
+  {
+    "partido": "Deportivo Cali - Inter Palmira",
+    "liga": "Liga Femenina",
+    "hora": "3:00 p. m.",
+    "canal": "Señal Colombia"
+  },
+  {
+    "partido": "Boca Juniors - Benfica",
+    "liga": "Mundial de Clubes de la Fifa",
+    "hora": "5:00 p. m.",
+    "canal": "DSports / Disney+"
+  },
+  {
+    "partido": "Panamá - Guadalupe",
+    "liga": "Copa de Oro",
     "hora": "6:00 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Santa Fe - Once Caldas",
+    "liga": "Liga BetPlay",
+    "hora": "6:15 p. m.",
     "canal": "Win Sports+"
   },
   {
-    "partido": "Patriotas F.C - Cúcuta",
-    "liga": "Torneo Betplay",
-    "hora": "6:00 p. m.",
-    "canal": "Win Sports"
+    "partido": "Flamengo - Esperance Tunis",
+    "liga": "Mundial de Clubes de la Fifa",
+    "hora": "8:00 p. m.",
+    "canal": "DSports / Disney+"
   },
   {
-    "partido": "Boca Juniors de Cali - Bucaramanga",
-    "liga": "Copa Betplay",
-    "hora": "8:00 p. m.",
-    "canal": "Win Sports / Win Sports+"
+    "partido": "Atlético Nacional - Millonarios",
+    "liga": "Liga BetPlay",
+    "hora": "8:20 p. m.",
+    "canal": "Win Sports+"
+  },
+  {
+    "partido": "Jamaica - Guatemala",
+    "liga": "Copa de Oro",
+    "hora": "9:00 p. m.",
+    "canal": "ESPN 3 / Disney+"
   }
 ]
