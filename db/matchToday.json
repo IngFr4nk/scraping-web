@@ -1,50 +1,38 @@
 [
   {
-    "partido": "Chelsea - Los Ángeles",
+    "partido": "Fluminense - Borussia Dortmund",
+    "liga": "Mundial de Clubes de la Fifa",
+    "hora": "11:00 a. m.",
+    "canal": "Directv 610 y Win Sports"
+  },
+  {
+    "partido": "River Plate - Urawa Red",
     "liga": "Mundial de Clubes de la Fifa",
     "hora": "2:00 p. m.",
-    "canal": "Win Sports / DSports / Disney+"
+    "canal": "Directv 610 / Disney+"
   },
   {
-    "partido": "Deportivo Cali - Inter Palmira",
-    "liga": "Liga Femenina",
-    "hora": "3:00 p. m.",
-    "canal": "Señal Colombia"
-  },
-  {
-    "partido": "Boca Juniors - Benfica",
+    "partido": "Ulsan Hyundai - Mamelodi Sundowns",
     "liga": "Mundial de Clubes de la Fifa",
     "hora": "5:00 p. m.",
-    "canal": "DSports / Disney+"
+    "canal": "Directv 610"
   },
   {
-    "partido": "Panamá - Guadalupe",
-    "liga": "Copa de Oro",
-    "hora": "6:00 p. m.",
+    "partido": "Curazao - El Salvador",
+    "liga": "Mundial de Clubes de la Fifa",
+    "hora": "7:15 p. m.",
     "canal": "Disney+"
   },
   {
-    "partido": "Santa Fe - Once Caldas",
-    "liga": "Liga BetPlay",
-    "hora": "6:15 p. m.",
-    "canal": "Win Sports+"
-  },
-  {
-    "partido": "Flamengo - Esperance Tunis",
+    "partido": "Monterrey - Inter",
     "liga": "Mundial de Clubes de la Fifa",
     "hora": "8:00 p. m.",
-    "canal": "DSports / Disney+"
+    "canal": "Directv 610"
   },
   {
-    "partido": "Atlético Nacional - Millonarios",
-    "liga": "Liga BetPlay",
-    "hora": "8:20 p. m.",
-    "canal": "Win Sports+"
-  },
-  {
-    "partido": "Jamaica - Guatemala",
+    "partido": "Canadá - Honduras",
     "liga": "Copa de Oro",
-    "hora": "9:00 p. m.",
-    "canal": "ESPN 3 / Disney+"
+    "hora": "9:30 p. m.",
+    "canal": "ESPN 2 / Disney+"
   }
 ]
