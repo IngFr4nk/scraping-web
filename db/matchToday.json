@@ -1,44 +1,62 @@
 [
   {
-    "partido": "Manchester City - WAC Casablanca",
+    "partido": "Palmeiras - Al Ahly",
     "liga": "Mundial de Clubes de la Fifa",
     "hora": "11:00 a. m.",
     "canal": "Directv 610"
   },
   {
-    "partido": "Real Madrid - Al Hilal",
+    "partido": "Inter Miami - Porto",
     "liga": "Mundial de Clubes de la Fifa",
     "hora": "2:00 p. m.",
-    "canal": "Directv 610 / Disney+ / Win Sports"
-  },
-  {
-    "partido": "Pachuca - Red Bull Salzburg",
-    "liga": "Mundial de Clubes de la Fifa",
-    "hora": "5:00 p. m.",
     "canal": "Directv 610"
   },
   {
-    "partido": "Costa Rica - República Dominicana",
-    "liga": "Copa de Oro",
-    "hora": "6:00 p. m.",
-    "canal": "ESPN 2 / Disney+"
+    "partido": "Deportes Tolima - Junior",
+    "liga": "Liga BetPlay",
+    "hora": "4:00 p. m.",
+    "canal": "Win Sports"
   },
   {
-    "partido": "Patriotas F.C - Jaguares de Córdoba",
-    "liga": "Torneo Betplay",
-    "hora": "7:30 p. m.",
+    "partido": "Seattle Sounders - Atlético de Madrid",
+    "liga": "Mundial de Clubes de la Fifa",
+    "hora": "5:00 p. m.",
+    "canal": "Directv 610 / Disney+"
+  },
+  {
+    "partido": "Trinidad y Tobago - Haití",
+    "liga": "Copa de Oro",
+    "hora": "5:45 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Once Caldas - Atlético Nacional",
+    "liga": "Liga BetPlay",
+    "hora": "6:00 p. m.",
+    "canal": "Win Sports"
+  },
+  {
+    "partido": "Paris Saint-Germain - Botafogo",
+    "liga": "Mundial de Clubes de la Fifa",
+    "hora": "8:00 p. m.",
+    "canal": "Directv 610 / Win Sports"
+  },
+  {
+    "partido": "Arabia Saudí - Estados Unidos",
+    "liga": "Copa de Oro",
+    "hora": "8:15 p. m.",
+    "canal": "ESPN 3 / Disney+"
+  },
+  {
+    "partido": "América - Independiente Medellín",
+    "liga": "Liga BetPlay",
+    "hora": "8:15 p. m.",
     "canal": "Win Sports +"
   },
   {
-    "partido": "Al-Ain - Juventus",
-    "liga": "Mundial de Clubes de la Fifa",
-    "hora": "8:00 p. m.",
-    "canal": "Directv 610"
-  },
-  {
-    "partido": "Surinam - México",
-    "liga": "Copa de Oro",
-    "hora": "9:00 p. m.",
-    "canal": "ESPN 2 / Disney+"
+    "partido": "Millonarios - Santa Fe",
+    "liga": "Liga BetPlay",
+    "hora": "8:15 p. m.",
+    "canal": "Win Sports +"
   }
 ]
