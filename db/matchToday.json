@@ -1,62 +1,38 @@
 [
   {
-    "partido": "Palmeiras - Al Ahly",
+    "partido": "Benfica - Auckland City",
     "liga": "Mundial de Clubes de la Fifa",
     "hora": "11:00 a. m.",
     "canal": "Directv 610"
   },
   {
-    "partido": "Inter Miami - Porto",
+    "partido": "Flamengo - Chelsea",
     "liga": "Mundial de Clubes de la Fifa",
-    "hora": "2:00 p. m.",
+    "hora": "1:00 p. m.",
     "canal": "Directv 610"
   },
   {
-    "partido": "Deportes Tolima - Junior",
-    "liga": "Liga BetPlay",
-    "hora": "4:00 p. m.",
-    "canal": "Win Sports"
-  },
-  {
-    "partido": "Seattle Sounders - Atlético de Madrid",
+    "partido": "Los Ángeles - Esperance Tunis",
     "liga": "Mundial de Clubes de la Fifa",
     "hora": "5:00 p. m.",
-    "canal": "Directv 610 / Disney+"
+    "canal": "Directv 610"
   },
   {
-    "partido": "Trinidad y Tobago - Haití",
+    "partido": "Jamaica - Guadalupe",
     "liga": "Copa de Oro",
-    "hora": "5:45 p. m.",
+    "hora": "6:45 p. m.",
     "canal": "Disney+"
   },
   {
-    "partido": "Once Caldas - Atlético Nacional",
-    "liga": "Liga BetPlay",
-    "hora": "6:00 p. m.",
-    "canal": "Win Sports"
-  },
-  {
-    "partido": "Paris Saint-Germain - Botafogo",
+    "partido": "Bayern Munich - Boca Juniors",
     "liga": "Mundial de Clubes de la Fifa",
     "hora": "8:00 p. m.",
-    "canal": "Directv 610 / Win Sports"
+    "canal": "Directv 610 / Disney+ / Win Sports"
   },
   {
-    "partido": "Arabia Saudí - Estados Unidos",
+    "partido": "Guatemala - Panamá",
     "liga": "Copa de Oro",
-    "hora": "8:15 p. m.",
-    "canal": "ESPN 3 / Disney+"
-  },
-  {
-    "partido": "América - Independiente Medellín",
-    "liga": "Liga BetPlay",
-    "hora": "8:15 p. m.",
-    "canal": "Win Sports +"
-  },
-  {
-    "partido": "Millonarios - Santa Fe",
-    "liga": "Liga BetPlay",
-    "hora": "8:15 p. m.",
-    "canal": "Win Sports +"
+    "hora": "9:00 p. m.",
+    "canal": "ESPN 2 / Disney+"
   }
 ]
