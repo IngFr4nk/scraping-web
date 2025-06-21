@@ -1,38 +1,38 @@
 [
   {
-    "partido": "Benfica - Auckland City",
+    "partido": "Mamelodi Sundowns - Borussia Dortmund",
     "liga": "Mundial de Clubes de la Fifa",
     "hora": "11:00 a. m.",
-    "canal": "Directv 610"
+    "canal": "DSports"
   },
   {
-    "partido": "Flamengo - Chelsea",
+    "partido": "Inter - Urawa Red",
     "liga": "Mundial de Clubes de la Fifa",
-    "hora": "1:00 p. m.",
-    "canal": "Directv 610"
+    "hora": "2:00 p. m.",
+    "canal": "DSports / Disney+"
   },
   {
-    "partido": "Los Ángeles - Esperance Tunis",
+    "partido": "Fluminense - Ulsan Hyundai",
     "liga": "Mundial de Clubes de la Fifa",
     "hora": "5:00 p. m.",
-    "canal": "Directv 610"
+    "canal": "DSports"
   },
   {
-    "partido": "Jamaica - Guadalupe",
+    "partido": "Curazao - Canadá",
     "liga": "Copa de Oro",
-    "hora": "6:45 p. m.",
+    "hora": "6:00 p. m.",
     "canal": "Disney+"
   },
   {
-    "partido": "Bayern Munich - Boca Juniors",
+    "partido": "River Plate - Monterrey",
     "liga": "Mundial de Clubes de la Fifa",
     "hora": "8:00 p. m.",
-    "canal": "Directv 610 / Disney+ / Win Sports"
+    "canal": "DSports / Disney+ / Win Sports"
   },
   {
-    "partido": "Guatemala - Panamá",
+    "partido": "Honduras - El Salvador",
     "liga": "Copa de Oro",
     "hora": "9:00 p. m.",
-    "canal": "ESPN 2 / Disney+"
+    "canal": "ESPN / Disney+"
   }
 ]
