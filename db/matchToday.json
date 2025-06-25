@@ -1,26 +1,26 @@
 [
   {
-    "partido": "Atlético de Madrid - Botafogo",
+    "partido": "Mamelodi Sundowns - Fluminense",
     "liga": "Mundial de Clubes de la Fifa",
     "hora": "2:00 p. m.",
-    "canal": "DSports / Disney+ / Win Sports"
+    "canal": "Directv 612"
   },
   {
-    "partido": "Seattle Sounders - Paris Saint-Germain",
+    "partido": "Borussia Dortmund - Ulsan Hyundai",
     "liga": "Mundial de Clubes de la Fifa",
     "hora": "2:00 p. m.",
-    "canal": "DSports"
+    "canal": "Directv 610"
   },
   {
-    "partido": "Inter Miami - Palmeiras",
-    "liga": "Mundial de Clubes de la Fifa",
-    "hora": "5:00 p. m.",
-    "canal": "Win Sports / DSports"
-  },
-  {
-    "partido": "Porto - Al Ahly",
+    "partido": "Urawa Red - Monterrey",
     "liga": "Mundial de Clubes de la Fifa",
     "hora": "8:00 p. m.",
-    "canal": "DSports"
+    "canal": "Directv 612"
+  },
+  {
+    "partido": "Inter - River Plate",
+    "liga": "Mundial de Clubes de la Fifa",
+    "hora": "8:00 p. m.",
+    "canal": "Directv 610 / Disney+ / Win Sports"
   }
 ]
