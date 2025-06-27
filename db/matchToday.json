@@ -1,26 +1,14 @@
 [
   {
-    "partido": "Mamelodi Sundowns - Fluminense",
-    "liga": "Mundial de Clubes de la Fifa",
-    "hora": "2:00 p. m.",
-    "canal": "Directv 612"
+    "partido": "Belgrano - Defensores de Belgrano",
+    "liga": "Copa de Argentina",
+    "hora": "7:10 p. m.",
+    "canal": "TyC Sports"
   },
   {
-    "partido": "Borussia Dortmund - Ulsan Hyundai",
-    "liga": "Mundial de Clubes de la Fifa",
-    "hora": "2:00 p. m.",
-    "canal": "Directv 610"
-  },
-  {
-    "partido": "Urawa Red - Monterrey",
-    "liga": "Mundial de Clubes de la Fifa",
-    "hora": "8:00 p. m.",
-    "canal": "Directv 612"
-  },
-  {
-    "partido": "Inter - River Plate",
-    "liga": "Mundial de Clubes de la Fifa",
-    "hora": "8:00 p. m.",
-    "canal": "Directv 610 / Disney+ / Win Sports"
+    "partido": "México - Colombia Femenino",
+    "liga": "Amistoso femenino",
+    "hora": "9:00 p. m.",
+    "canal": "Caracol HD2 / RCN HD2 / Ditu"
   }
 ]
