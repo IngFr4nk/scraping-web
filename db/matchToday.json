@@ -1,14 +1,26 @@
 [
   {
-    "partido": "Belgrano - Defensores de Belgrano",
-    "liga": "Copa de Argentina",
-    "hora": "7:10 p. m.",
-    "canal": "TyC Sports"
+    "partido": "Palmeiras - Botafogo",
+    "liga": "Mundial de Clubes de la Fifa",
+    "hora": "11:00 a. m.",
+    "canal": "Directv 610"
   },
   {
-    "partido": "México - Colombia Femenino",
-    "liga": "Amistoso femenino",
-    "hora": "9:00 p. m.",
-    "canal": "Caracol HD2 / RCN HD2 / Ditu"
+    "partido": "Benfica - Chelsea",
+    "liga": "Mundial de Clubes de la Fifa",
+    "hora": "3:00 p. m.",
+    "canal": "Directv 610 / Disney+ / Win Sports"
+  },
+  {
+    "partido": "Panamá - Honduras",
+    "liga": "Copa de Oro",
+    "hora": "6:15 p. m.",
+    "canal": "ESPN 2 / Disney+"
+  },
+  {
+    "partido": "México - Arabia Saudita",
+    "liga": "Copa de Oro",
+    "hora": "9:15 p. m.",
+    "canal": "ESPN 2 / Disney+"
   }
 ]
