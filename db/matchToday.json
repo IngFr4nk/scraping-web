@@ -1,26 +1,14 @@
 [
   {
-    "partido": "Palmeiras - Botafogo",
+    "partido": "Inter - Fluminense",
     "liga": "Mundial de Clubes de la Fifa",
-    "hora": "11:00 a. m.",
-    "canal": "Directv 610"
-  },
-  {
-    "partido": "Benfica - Chelsea",
-    "liga": "Mundial de Clubes de la Fifa",
-    "hora": "3:00 p. m.",
+    "hora": "2:00 p. m.",
     "canal": "Directv 610 / Disney+ / Win Sports"
   },
   {
-    "partido": "Panamá - Honduras",
-    "liga": "Copa de Oro",
-    "hora": "6:15 p. m.",
-    "canal": "ESPN 2 / Disney+"
-  },
-  {
-    "partido": "México - Arabia Saudita",
-    "liga": "Copa de Oro",
-    "hora": "9:15 p. m.",
-    "canal": "ESPN 2 / Disney+"
+    "partido": "Manchester City - Al Hilal",
+    "liga": "Mundial de Clubes de la Fifa",
+    "hora": "8:00 p. m.",
+    "canal": "Directv 610 / Win Sports"
   }
 ]
