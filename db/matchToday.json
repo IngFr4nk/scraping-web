@@ -1,14 +1,38 @@
 [
   {
-    "partido": "Real Madrid - Juventus",
-    "liga": "Mundial de Clubes de la Fifa",
-    "hora": "2:00 p. m.",
-    "canal": "Directv 610 / Disney+ / Win Sports"
+    "partido": "Islandia - Finlandia",
+    "liga": "Eurocopa Femenina",
+    "hora": "11:00 a. m.",
+    "canal": "ESPN 3 / Disney+"
   },
   {
-    "partido": "Borussia Dortmund - Monterrey",
-    "liga": "Mundial de Clubes de la Fifa",
-    "hora": "8:00 p. m.",
-    "canal": "Directv 610"
+    "partido": "Suiza - Noruega",
+    "liga": "Eurocopa Femenina",
+    "hora": "2:00 p. m.",
+    "canal": "ESPN 3 / Disney+"
+  },
+  {
+    "partido": "Racing Club - San Martín San Juan",
+    "liga": "Copa de Argentina",
+    "hora": "4:45 p. m.",
+    "canal": "TyC Sports"
+  },
+  {
+    "partido": "Estados Unidos - Guatemala",
+    "liga": "Copa de Oro",
+    "hora": "6:00 p. m.",
+    "canal": "ESPN 2 / Disney+"
+  },
+  {
+    "partido": "Colombia Femenino - México",
+    "liga": "Amistoso femenino",
+    "hora": "6:45 p. m.",
+    "canal": "Caracol HD2 / Ditu / RCN"
+  },
+  {
+    "partido": "México - Honduras",
+    "liga": "Copa de Oro",
+    "hora": "9:00 p. m.",
+    "canal": "ESPN 2 / Disney+"
   }
 ]
