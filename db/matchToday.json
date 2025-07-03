@@ -1,38 +1,26 @@
 [
   {
-    "partido": "Islandia - Finlandia",
+    "partido": "Bélgica - Italia",
     "liga": "Eurocopa Femenina",
     "hora": "11:00 a. m.",
-    "canal": "ESPN 3 / Disney+"
+    "canal": "Disney+"
   },
   {
-    "partido": "Suiza - Noruega",
+    "partido": "España Femenino - Portugal Femenino",
     "liga": "Eurocopa Femenina",
     "hora": "2:00 p. m.",
     "canal": "ESPN 3 / Disney+"
   },
   {
-    "partido": "Racing Club - San Martín San Juan",
+    "partido": "Deportivo Cali - Pereira",
+    "liga": "Partido amistoso",
+    "hora": "7:00 p. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Instituto de Córdoba - Huracán",
     "liga": "Copa de Argentina",
-    "hora": "4:45 p. m.",
+    "hora": "7:10 p. m.",
     "canal": "TyC Sports"
-  },
-  {
-    "partido": "Estados Unidos - Guatemala",
-    "liga": "Copa de Oro",
-    "hora": "6:00 p. m.",
-    "canal": "ESPN 2 / Disney+"
-  },
-  {
-    "partido": "Colombia Femenino - México",
-    "liga": "Amistoso femenino",
-    "hora": "6:45 p. m.",
-    "canal": "Caracol HD2 / Ditu / RCN"
-  },
-  {
-    "partido": "México - Honduras",
-    "liga": "Copa de Oro",
-    "hora": "9:00 p. m.",
-    "canal": "ESPN 2 / Disney+"
   }
 ]
