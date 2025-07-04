@@ -1,26 +1,26 @@
 [
   {
-    "partido": "Bélgica - Italia",
+    "partido": "Dinamarca Femenino - Suecia Femenino",
     "liga": "Eurocopa Femenina",
     "hora": "11:00 a. m.",
     "canal": "Disney+"
   },
   {
-    "partido": "España Femenino - Portugal Femenino",
+    "partido": "Fluminense - Al Hilal",
+    "liga": "Mundial de Clubes de la Fifa",
+    "hora": "2:00 p. m.",
+    "canal": "DSports / Win Sports"
+  },
+  {
+    "partido": "Alemania Femenino - Polonia Femenino Sub-17",
     "liga": "Eurocopa Femenina",
     "hora": "2:00 p. m.",
     "canal": "ESPN 3 / Disney+"
   },
   {
-    "partido": "Deportivo Cali - Pereira",
-    "liga": "Partido amistoso",
-    "hora": "7:00 p. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "Instituto de Córdoba - Huracán",
-    "liga": "Copa de Argentina",
-    "hora": "7:10 p. m.",
-    "canal": "TyC Sports"
+    "partido": "Palmeiras - Chelsea",
+    "liga": "Mundial de Clubes de la Fifa",
+    "hora": "8:00 p. m.",
+    "canal": "DSports"
   }
 ]
