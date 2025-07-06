@@ -1,32 +1,26 @@
 [
   {
-    "partido": "Paris Saint-Germain - Bayern Munich",
-    "liga": "Mundial de Clubes de la Fifa",
-    "hora": "11:00 a. m.",
-    "canal": "DSports / Win Sports / Disney+"
-  },
-  {
-    "partido": "Gales - Paises Bajos Femenino",
+    "partido": "Noruega Femenino - Finlandia",
     "liga": "Eurocopa Femenina",
     "hora": "11:00 a. m.",
     "canal": "Disney+"
   },
   {
-    "partido": "Corinthians - Boca Juniors",
-    "liga": "Partido amistoso",
-    "hora": "1:00 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Francia Femenino - Inglaterra Femenino",
+    "partido": "Suiza Femenino - Islandia",
     "liga": "Eurocopa Femenina",
     "hora": "2:00 p. m.",
-    "canal": "ESPN 3 / Disney+"
+    "canal": "ESPN 4 / Disney+"
   },
   {
-    "partido": "Real Madrid - Borussia Dortmund",
-    "liga": "Mundial de Clubes de la Fifa",
-    "hora": "3:00 p. m.",
-    "canal": "DSports"
+    "partido": "América - Pereira",
+    "liga": "Partido amistoso",
+    "hora": "4:00 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Estados Unidos - México",
+    "liga": "Copa de Oro",
+    "hora": "6:00 p. m.",
+    "canal": "ESPN / Disney+"
   }
 ]
