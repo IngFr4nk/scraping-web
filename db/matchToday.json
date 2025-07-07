@@ -1,26 +1,14 @@
 [
   {
-    "partido": "Noruega Femenino - Finlandia",
+    "partido": "España Femenino - Bélgica",
     "liga": "Eurocopa Femenina",
     "hora": "11:00 a. m.",
-    "canal": "Disney+"
+    "canal": "ESPN 3 / Disney+"
   },
   {
-    "partido": "Suiza Femenino - Islandia",
+    "partido": "Portugal Femenino - Italia Femenino",
     "liga": "Eurocopa Femenina",
     "hora": "2:00 p. m.",
-    "canal": "ESPN 4 / Disney+"
-  },
-  {
-    "partido": "América - Pereira",
-    "liga": "Partido amistoso",
-    "hora": "4:00 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Estados Unidos - México",
-    "liga": "Copa de Oro",
-    "hora": "6:00 p. m.",
-    "canal": "ESPN / Disney+"
+    "canal": "ESPN 3 / Disney+"
   }
 ]
