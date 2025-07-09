@@ -1,26 +1,20 @@
 [
   {
-    "partido": "Alemania Femenino - Dinamarca Femenino",
+    "partido": "Inglaterra Femenino - Paises Bajos Femenino",
     "liga": "Eurocopa Femenina",
     "hora": "11:00 a. m.",
-    "canal": "Disney+"
+    "canal": "ESPN 3 / Disney+"
   },
   {
-    "partido": "Polonia Femenino Sub-17 - Suecia Femenino",
+    "partido": "Francia Femenino - Gales",
     "liga": "Eurocopa Femenina",
     "hora": "2:00 p. m.",
     "canal": "ESPN 3 / Disney+"
   },
   {
-    "partido": "Fluminense - Chelsea",
+    "partido": "Paris Saint-Germain - Real Madrid",
     "liga": "Mundial de Clubes de la Fifa",
     "hora": "2:00 p. m.",
-    "canal": "DSports / Win Sports"
-  },
-  {
-    "partido": "Estudiantes - Vélez Sarsfield",
-    "liga": "Supercopa de Argentina",
-    "hora": "6:30 p. m.",
-    "canal": "Disney+"
+    "canal": "DSports"
   }
 ]
