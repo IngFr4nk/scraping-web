@@ -1,14 +1,26 @@
 [
   {
-    "partido": "Finlandia - Suiza Femenino",
+    "partido": "Italia Femenino - España Femenino",
     "liga": "Eurocopa Femenina",
     "hora": "2:00 p. m.",
     "canal": "ESPN 3 / Disney+"
   },
   {
-    "partido": "Noruega Femenino - Islandia",
+    "partido": "Portugal Femenino - Bélgica",
     "liga": "Eurocopa Femenina",
     "hora": "2:00 p. m.",
     "canal": "Disney+"
+  },
+  {
+    "partido": "Llaneros - América",
+    "liga": "Liga BetPlay",
+    "hora": "6:00 p. m.",
+    "canal": "Win Sports+"
+  },
+  {
+    "partido": "Once Caldas - Atlético Nacional",
+    "liga": "Liga BetPlay",
+    "hora": "8:15 p. m.",
+    "canal": "Win Sports+"
   }
 ]
