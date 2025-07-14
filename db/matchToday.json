@@ -1,86 +1,32 @@
 [
   {
-    "partido": "Paises Bajos Femenino - Francia Femenino",
-    "liga": "Eurocopa Femenina",
-    "hora": "2:00 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Inglaterra Femenino - Gales",
-    "liga": "Eurocopa Femenina",
-    "hora": "2:00 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Chelsea - Paris Saint-Germain",
-    "liga": "Mundial de Clubes de la Fifa",
-    "hora": "2:00 p. m.",
-    "canal": "Directv 610 / Disney+ / Win Sports"
-  },
-  {
-    "partido": "Independiente Medellín - Alianza FC",
-    "liga": "Liga BetPlay",
-    "hora": "3:00 p. m.",
-    "canal": "Win Sports +"
-  },
-  {
-    "partido": "Tigres - Real Santander",
+    "partido": "Boca Juniors de Cali - Leones",
     "liga": "Torneo Betplay",
-    "hora": "3:00 p. m.",
+    "hora": "3:30 p. m.",
     "canal": "Win Sports"
   },
   {
-    "partido": "Cúcuta - Patriotas F.C",
-    "liga": "Torneo Betplay",
-    "hora": "4:00 p. m.",
-    "canal": "Win Sports"
-  },
-  {
-    "partido": "Bolivia - Paraguay",
-    "liga": "Copa América Femenina",
-    "hora": "4:00 p. m.",
-    "canal": "Directv 613"
-  },
-  {
-    "partido": "Argentinos Juniors - Boca Juniors",
+    "partido": "Banfield - Defensa y Justicia",
     "liga": "Superliga Argentina",
-    "hora": "4:45 p. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "Barranquilla - Atlético FC",
-    "liga": "Torneo Betplay",
     "hora": "5:00 p. m.",
-    "canal": "Win Sports"
+    "canal": "Disney+"
   },
   {
-    "partido": "Pereira - Santa Fe",
-    "liga": "Liga BetPlay",
-    "hora": "5:15 p. m.",
+    "partido": "Atlético Huila - Quindío",
+    "liga": "Torneo Betplay",
+    "hora": "6:00 p. m.",
     "canal": "Win Sports +"
   },
   {
-    "partido": "River Plate - Platense",
+    "partido": "Unión de Santa Fe - Estudiantes",
     "liga": "Superliga Argentina",
-    "hora": "7:00 p. m.",
-    "canal": "ESPN / Disney+"
+    "hora": "7:15 p. m.",
+    "canal": "Disney+"
   },
   {
-    "partido": "Brasil Femenino - Venezuela",
-    "liga": "Copa América Femenina",
-    "hora": "7:00 p. m.",
-    "canal": "Directv 613"
-  },
-  {
-    "partido": "Equidad - Águilas Doradas",
-    "liga": "Liga BetPlay",
-    "hora": "7:30 p. m.",
-    "canal": "Win Sports +"
-  },
-  {
-    "partido": "León - San Luis",
-    "liga": "Liga de México",
+    "partido": "Real Cartagena - Inter Palmira",
+    "liga": "Torneo Betplay",
     "hora": "8:00 p. m.",
-    "canal": "Win Sports"
+    "canal": "Win Sports / Win Sports +"
   }
 ]
