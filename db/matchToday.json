@@ -1,32 +1,44 @@
 [
   {
-    "partido": "Boca Juniors de Cali - Leones",
-    "liga": "Torneo Betplay",
-    "hora": "3:30 p. m.",
-    "canal": "Win Sports"
+    "partido": "Uruguay - Argentina",
+    "liga": "Copa América Femenina",
+    "hora": "4:00 p. m.",
+    "canal": "Directv 613"
   },
   {
-    "partido": "Banfield - Defensa y Justicia",
-    "liga": "Superliga Argentina",
+    "partido": "Central Córdoba - Cerro Largo",
+    "liga": "Copa Sudamericana",
     "hora": "5:00 p. m.",
-    "canal": "Disney+"
+    "canal": "Directv 610"
   },
   {
-    "partido": "Atlético Huila - Quindío",
+    "partido": "Orsomarso - Bogotá",
     "liga": "Torneo Betplay",
     "hora": "6:00 p. m.",
-    "canal": "Win Sports +"
+    "canal": "Win Sports+"
   },
   {
-    "partido": "Unión de Santa Fe - Estudiantes",
-    "liga": "Superliga Argentina",
-    "hora": "7:15 p. m.",
-    "canal": "Disney+"
+    "partido": "Perú - Ecuador",
+    "liga": "Copa América Femenina",
+    "hora": "7:00 p. m.",
+    "canal": "Directv 613"
   },
   {
-    "partido": "Real Cartagena - Inter Palmira",
+    "partido": "Independiente del Valle - Vasco da Gama",
+    "liga": "Copa Sudamericana",
+    "hora": "7:30 p. m.",
+    "canal": "Directv 610"
+  },
+  {
+    "partido": "Bahía - América",
+    "liga": "Copa Sudamericana",
+    "hora": "7:30 p. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Real Cundinamarca - Jaguares de Córdoba",
     "liga": "Torneo Betplay",
     "hora": "8:00 p. m.",
-    "canal": "Win Sports / Win Sports +"
+    "canal": "Win Sports / Win Sports+"
   }
 ]
