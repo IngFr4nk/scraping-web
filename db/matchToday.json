@@ -1,44 +1,26 @@
 [
   {
-    "partido": "Uruguay - Argentina",
+    "partido": "Noruega - Italia",
+    "liga": "Eurocopa Femenina",
+    "hora": "2:00 p. m.",
+    "canal": "ESPN 3 / Disney+"
+  },
+  {
+    "partido": "Bolivia - Brasil",
     "liga": "Copa América Femenina",
     "hora": "4:00 p. m.",
     "canal": "Directv 613"
   },
   {
-    "partido": "Central Córdoba - Cerro Largo",
+    "partido": "Bolívar - Palestino",
     "liga": "Copa Sudamericana",
     "hora": "5:00 p. m.",
-    "canal": "Directv 610"
-  },
-  {
-    "partido": "Orsomarso - Bogotá",
-    "liga": "Torneo Betplay",
-    "hora": "6:00 p. m.",
-    "canal": "Win Sports+"
-  },
-  {
-    "partido": "Perú - Ecuador",
-    "liga": "Copa América Femenina",
-    "hora": "7:00 p. m.",
-    "canal": "Directv 613"
-  },
-  {
-    "partido": "Independiente del Valle - Vasco da Gama",
-    "liga": "Copa Sudamericana",
-    "hora": "7:30 p. m.",
-    "canal": "Directv 610"
-  },
-  {
-    "partido": "Bahía - América",
-    "liga": "Copa Sudamericana",
-    "hora": "7:30 p. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Real Cundinamarca - Jaguares de Córdoba",
-    "liga": "Torneo Betplay",
-    "hora": "8:00 p. m.",
-    "canal": "Win Sports / Win Sports+"
+    "partido": "Venezuela - Colombia",
+    "liga": "Copa América Femenina",
+    "hora": "7:00 p. m.",
+    "canal": "Directv 613 / Caracol HD2 / RCN HD2"
   }
 ]
