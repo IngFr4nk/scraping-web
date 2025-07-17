@@ -1,26 +1,20 @@
 [
   {
-    "partido": "Noruega - Italia",
+    "partido": "Suecia - Inglaterra",
     "liga": "Eurocopa Femenina",
     "hora": "2:00 p. m.",
     "canal": "ESPN 3 / Disney+"
   },
   {
-    "partido": "Bolivia - Brasil",
-    "liga": "Copa América Femenina",
-    "hora": "4:00 p. m.",
-    "canal": "Directv 613"
-  },
-  {
-    "partido": "Bolívar - Palestino",
+    "partido": "Universidad de Chile - Guaraní",
     "liga": "Copa Sudamericana",
     "hora": "5:00 p. m.",
-    "canal": "ESPN / Disney+"
+    "canal": "Directv 610"
   },
   {
-    "partido": "Venezuela - Colombia",
-    "liga": "Copa América Femenina",
+    "partido": "Bucaramanga - Atlético Mineiro",
+    "liga": "Copa Sudamericana",
     "hora": "7:00 p. m.",
-    "canal": "Directv 613 / Caracol HD2 / RCN HD2"
+    "canal": "Directv 610"
   }
 ]
