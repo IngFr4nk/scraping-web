@@ -1,20 +1,44 @@
 [
   {
-    "partido": "Suecia - Inglaterra",
+    "partido": "España Femenino - Suiza Femenino",
     "liga": "Eurocopa Femenina",
     "hora": "2:00 p. m.",
     "canal": "ESPN 3 / Disney+"
   },
   {
-    "partido": "Universidad de Chile - Guaraní",
-    "liga": "Copa Sudamericana",
-    "hora": "5:00 p. m.",
-    "canal": "Directv 610"
+    "partido": "Atlético FC - Tigres",
+    "liga": "Torneo Betplay",
+    "hora": "3:30 p. m.",
+    "canal": "Win Sports+"
   },
   {
-    "partido": "Bucaramanga - Atlético Mineiro",
-    "liga": "Copa Sudamericana",
+    "partido": "Uruguay - Perú",
+    "liga": "Copa América Femenina",
+    "hora": "4:00 p. m.",
+    "canal": "Directv 613"
+  },
+  {
+    "partido": "Boca Juniors - Unión de Santa Fe",
+    "liga": "Liga de Argentina",
+    "hora": "5:30 p. m.",
+    "canal": "Disney+ / ESPN"
+  },
+  {
+    "partido": "Unión Magdalena - Llaneros",
+    "liga": "Liga BetPlay",
+    "hora": "6:00 p. m.",
+    "canal": "Win Sports"
+  },
+  {
+    "partido": "Argentina - Chile",
+    "liga": "Copa América Femenina",
     "hora": "7:00 p. m.",
-    "canal": "Directv 610"
+    "canal": "Directv 613"
+  },
+  {
+    "partido": "Deportes Tolima - Santa Fe",
+    "liga": "Liga BetPlay",
+    "hora": "8:10 p. m.",
+    "canal": "Win Sports"
   }
 ]
