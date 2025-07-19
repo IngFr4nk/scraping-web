@@ -1,44 +1,56 @@
 [
   {
-    "partido": "España Femenino - Suiza Femenino",
+    "partido": "Francia - Alemania",
     "liga": "Eurocopa Femenina",
     "hora": "2:00 p. m.",
     "canal": "ESPN 3 / Disney+"
   },
   {
-    "partido": "Atlético FC - Tigres",
-    "liga": "Torneo Betplay",
-    "hora": "3:30 p. m.",
+    "partido": "Águilas Doradas - Junior",
+    "liga": "Liga BetPlay",
+    "hora": "2:00 p. m.",
+    "canal": "Win Sports / Win Sports+"
+  },
+  {
+    "partido": "Venezuela - Bolivia",
+    "liga": "Copa América Femenina",
+    "hora": "4:00 p. m.",
+    "canal": "DSports"
+  },
+  {
+    "partido": "Alianza FC - Pereira",
+    "liga": "Liga BetPlay",
+    "hora": "4:10 p. m.",
+    "canal": "Win Sports / Win Sports+"
+  },
+  {
+    "partido": "Atlético Nacional - Equidad",
+    "liga": "Liga BetPlay",
+    "hora": "6:20 p. m.",
     "canal": "Win Sports+"
   },
   {
-    "partido": "Uruguay - Perú",
-    "liga": "Copa América Femenina",
-    "hora": "4:00 p. m.",
-    "canal": "Directv 613"
-  },
-  {
-    "partido": "Boca Juniors - Unión de Santa Fe",
-    "liga": "Liga de Argentina",
-    "hora": "5:30 p. m.",
-    "canal": "Disney+ / ESPN"
-  },
-  {
-    "partido": "Unión Magdalena - Llaneros",
-    "liga": "Liga BetPlay",
-    "hora": "6:00 p. m.",
-    "canal": "Win Sports"
-  },
-  {
-    "partido": "Argentina - Chile",
+    "partido": "Colombia - Paraguay",
     "liga": "Copa América Femenina",
     "hora": "7:00 p. m.",
-    "canal": "Directv 613"
+    "canal": "Caracol / RCN / Ditu"
   },
   {
-    "partido": "Deportes Tolima - Santa Fe",
-    "liga": "Liga BetPlay",
-    "hora": "8:10 p. m.",
+    "partido": "Instituto de Córdoba - River Plate",
+    "liga": "Liga de Argentina",
+    "hora": "7:00 p. m.",
+    "canal": "ESPN 2 / Disney+"
+  },
+  {
+    "partido": "León - Chivas",
+    "liga": "Liga de México",
+    "hora": "8:00 p. m.",
     "canal": "Win Sports"
+  },
+  {
+    "partido": "Boyacá Chicó - Independiente Medellín",
+    "liga": "Liga BetPlay",
+    "hora": "8:30 p. m.",
+    "canal": "Win Sports+"
   }
 ]
