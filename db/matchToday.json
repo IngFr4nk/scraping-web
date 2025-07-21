@@ -1,14 +1,32 @@
 [
   {
-    "partido": "Envigado F.C - Deportivo Cali",
-    "liga": "Liga BetPlay",
-    "hora": "3:00 p. m.",
+    "partido": "Bogotá - Real Cartagena",
+    "liga": "Torneo Betplay",
+    "hora": "4:00 p. m.",
     "canal": "Win Sports+"
   },
   {
-    "partido": "Fortaleza F.C - Once Caldas",
-    "liga": "Liga BetPlay",
-    "hora": "5:15 p. m.",
+    "partido": "Argentina - Perú",
+    "liga": "Copa América Femenina",
+    "hora": "4:00 p. m.",
+    "canal": "Directv 613"
+  },
+  {
+    "partido": "Patriotas F.C - Real Cundinamarca",
+    "liga": "Torneo Betplay",
+    "hora": "6:00 p. m.",
+    "canal": "Win Sports+"
+  },
+  {
+    "partido": "Chile - Ecuador",
+    "liga": "Copa América Femenina",
+    "hora": "7:00 p. m.",
+    "canal": "Directv 613"
+  },
+  {
+    "partido": "Inter Palmira - Cúcuta",
+    "liga": "Torneo Betplay",
+    "hora": "8:10 p. m.",
     "canal": "Win Sports / Win Sports+"
   }
 ]
