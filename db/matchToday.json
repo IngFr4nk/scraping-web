@@ -1,32 +1,56 @@
 [
   {
-    "partido": "Bogotá - Real Cartagena",
-    "liga": "Torneo Betplay",
-    "hora": "4:00 p. m.",
-    "canal": "Win Sports+"
+    "partido": "Inglaterra - Italia",
+    "liga": "Eurocopa Femenina",
+    "hora": "2:00 p. m.",
+    "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Argentina - Perú",
+    "partido": "Colombia - Bolivia",
     "liga": "Copa América Femenina",
     "hora": "4:00 p. m.",
     "canal": "Directv 613"
   },
   {
-    "partido": "Patriotas F.C - Real Cundinamarca",
-    "liga": "Torneo Betplay",
-    "hora": "6:00 p. m.",
+    "partido": "Alianza FC - Deportes Tolima",
+    "liga": "Liga BetPlay",
+    "hora": "4:00 p. m.",
+    "canal": "Win Sports"
+  },
+  {
+    "partido": "Cerro Largo - Central Córdoba",
+    "liga": "Copa Sudamericana",
+    "hora": "5:00 p. m.",
+    "canal": "Directv 610"
+  },
+  {
+    "partido": "Santa Fe - Águilas Doradas",
+    "liga": "Liga BetPlay",
+    "hora": "6:10 p. m.",
     "canal": "Win Sports+"
   },
   {
-    "partido": "Chile - Ecuador",
+    "partido": "Paraguay - Brasil Femenino",
     "liga": "Copa América Femenina",
     "hora": "7:00 p. m.",
     "canal": "Directv 613"
   },
   {
-    "partido": "Inter Palmira - Cúcuta",
-    "liga": "Torneo Betplay",
-    "hora": "8:10 p. m.",
-    "canal": "Win Sports / Win Sports+"
+    "partido": "América - Bahía",
+    "liga": "Copa Sudamericana",
+    "hora": "7:30 p. m.",
+    "canal": "Directv 610"
+  },
+  {
+    "partido": "Vasco da Gama - Independiente del Valle",
+    "liga": "Copa Sudamericana",
+    "hora": "7:30 p. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Pereira - Atlético Nacional",
+    "liga": "Liga BetPlay",
+    "hora": "8:20 p. m.",
+    "canal": "Win Sports+"
   }
 ]
