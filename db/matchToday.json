@@ -1,54 +1,60 @@
 [
   {
-    "partido": "Inglaterra - Italia",
+    "partido": "Arsenal - Milán",
+    "liga": "Partido amistoso",
+    "hora": "6:30 a. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Alemania - España",
     "liga": "Eurocopa Femenina",
     "hora": "2:00 p. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Colombia - Bolivia",
-    "liga": "Copa América Femenina",
-    "hora": "4:00 p. m.",
-    "canal": "Directv 613"
-  },
-  {
-    "partido": "Alianza FC - Deportes Tolima",
+    "partido": "Llaneros - Boyacá Chicó",
     "liga": "Liga BetPlay",
     "hora": "4:00 p. m.",
     "canal": "Win Sports"
   },
   {
-    "partido": "Cerro Largo - Central Córdoba",
+    "partido": "Palestino - Bolívar",
     "liga": "Copa Sudamericana",
     "hora": "5:00 p. m.",
-    "canal": "Directv 610"
+    "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Santa Fe - Águilas Doradas",
+    "partido": "Junior - Unión Magdalena",
     "liga": "Liga BetPlay",
     "hora": "6:10 p. m.",
-    "canal": "Win Sports+"
+    "canal": "Win Sports"
   },
   {
-    "partido": "Paraguay - Brasil Femenino",
-    "liga": "Copa América Femenina",
-    "hora": "7:00 p. m.",
-    "canal": "Directv 613"
+    "partido": "Boca Juniors - Atlético Tucumán",
+    "liga": "Copa de Argentina",
+    "hora": "7:10 p. m.",
+    "canal": "TyC Sports"
   },
   {
-    "partido": "América - Bahía",
+    "partido": "Once Caldas - San Antonio",
     "liga": "Copa Sudamericana",
     "hora": "7:30 p. m.",
     "canal": "Directv 610"
   },
   {
-    "partido": "Vasco da Gama - Independiente del Valle",
+    "partido": "Gremio - Alianza Lima",
     "liga": "Copa Sudamericana",
     "hora": "7:30 p. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Pereira - Atlético Nacional",
+    "partido": "MLS All Star - Liga MX All Stars",
+    "liga": "Partido amistoso",
+    "hora": "8:00 p. m.",
+    "canal": "Apple TV"
+  },
+  {
+    "partido": "Equidad - Millonarios",
     "liga": "Liga BetPlay",
     "hora": "8:20 p. m.",
     "canal": "Win Sports+"
