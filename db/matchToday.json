@@ -1,62 +1,38 @@
 [
   {
-    "partido": "Arsenal - Milán",
-    "liga": "Partido amistoso",
-    "hora": "6:30 a. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Alemania - España",
-    "liga": "Eurocopa Femenina",
-    "hora": "2:00 p. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "Llaneros - Boyacá Chicó",
-    "liga": "Liga BetPlay",
+    "partido": "Boca Juniors de Cali - Palmira",
+    "liga": "Torneo BetPlay",
     "hora": "4:00 p. m.",
     "canal": "Win Sports"
   },
   {
-    "partido": "Palestino - Bolívar",
-    "liga": "Copa Sudamericana",
-    "hora": "5:00 p. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "Junior - Unión Magdalena",
-    "liga": "Liga BetPlay",
-    "hora": "6:10 p. m.",
+    "partido": "Atlético Huila - Tigres",
+    "liga": "Torneo Betplay",
+    "hora": "6:00 p. m.",
     "canal": "Win Sports"
   },
   {
-    "partido": "Boca Juniors - Atlético Tucumán",
-    "liga": "Copa de Argentina",
-    "hora": "7:10 p. m.",
-    "canal": "TyC Sports"
-  },
-  {
-    "partido": "Once Caldas - San Antonio",
-    "liga": "Copa Sudamericana",
-    "hora": "7:30 p. m.",
-    "canal": "Directv 610"
-  },
-  {
-    "partido": "Gremio - Alianza Lima",
-    "liga": "Copa Sudamericana",
-    "hora": "7:30 p. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "MLS All Star - Liga MX All Stars",
-    "liga": "Partido amistoso",
-    "hora": "8:00 p. m.",
-    "canal": "Apple TV"
-  },
-  {
-    "partido": "Equidad - Millonarios",
+    "partido": "Deportes Tolima - Pereira",
     "liga": "Liga BetPlay",
-    "hora": "8:20 p. m.",
+    "hora": "6:20 p. m.",
+    "canal": "Win Sports / Win Sports+"
+  },
+  {
+    "partido": "Paraguay - Venezuela",
+    "liga": "Copa América Femenina",
+    "hora": "7:00 p. m.",
+    "canal": "Directv 613"
+  },
+  {
+    "partido": "Brasil - Colombia",
+    "liga": "Copa América Femenina",
+    "hora": "7:00 p. m.",
+    "canal": "Directv 610 / Caracol TV / RCN"
+  },
+  {
+    "partido": "Atlético Nacional - Santa Fe",
+    "liga": "Liga BetPlay",
+    "hora": "8:30 p. m.",
     "canal": "Win Sports+"
   }
 ]
