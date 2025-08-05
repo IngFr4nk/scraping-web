@@ -1,56 +1,20 @@
 [
   {
-    "partido": "Bayern Munich - Lyon",
-    "liga": "Partido amistoso",
-    "hora": "8:30 a. m.",
-    "canal": "Bayern TV"
-  },
-  {
-    "partido": "San Martín de Tuc. - River Plate",
-    "liga": "Copa de Argentina",
-    "hora": "10:00 a. m.",
-    "canal": "TyC Sports"
-  },
-  {
-    "partido": "Deportivo Cali - Llaneros",
-    "liga": "Liga BetPlay",
-    "hora": "2:00 p. m.",
-    "canal": "Win Sports +"
-  },
-  {
-    "partido": "Tigres - Orsomarso",
-    "liga": "Torneo Betplay",
-    "hora": "3:30 p. m.",
-    "canal": "Win Sports"
-  },
-  {
-    "partido": "Cúcuta - Atlético Huila",
+    "partido": "Real Santander - Bogotá",
     "liga": "Torneo Betplay",
     "hora": "4:00 p. m.",
-    "canal": "Win Sports"
+    "canal": "Win Sports+"
   },
   {
-    "partido": "Colombia - Brasil",
-    "liga": "Copa América Femenina",
-    "hora": "4:00 p. m.",
-    "canal": "Caracol / RCN / Directv 610"
+    "partido": "Leones - Barranquilla",
+    "liga": "Torneo Betplay",
+    "hora": "6:00 p. m.",
+    "canal": "Win Sports+"
   },
   {
-    "partido": "Junior - Boyacá Chicó",
-    "liga": "Liga BetPlay",
-    "hora": "4:10 p. m.",
-    "canal": "Win Sports +"
-  },
-  {
-    "partido": "Deportes Tolima - Atlético Nacional",
-    "liga": "Liga BetPlay",
-    "hora": "6:20 p. m.",
-    "canal": "Win Sports +"
-  },
-  {
-    "partido": "Santa Fe - América",
-    "liga": "Liga BetPlay",
-    "hora": "8:30 p. m.",
-    "canal": "Win Sports +"
+    "partido": "Real Cartagena - Real Cundinamarca",
+    "liga": "Torneo Betplay",
+    "hora": "8:10 p. m.",
+    "canal": "Win Sports / Win Sports+"
   }
 ]
