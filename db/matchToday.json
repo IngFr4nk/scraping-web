@@ -1,20 +1,14 @@
 [
   {
-    "partido": "Real Santander - Bogotá",
-    "liga": "Torneo Betplay",
-    "hora": "4:00 p. m.",
-    "canal": "Win Sports+"
-  },
-  {
-    "partido": "Leones - Barranquilla",
-    "liga": "Torneo Betplay",
-    "hora": "6:00 p. m.",
-    "canal": "Win Sports+"
-  },
-  {
-    "partido": "Real Cartagena - Real Cundinamarca",
-    "liga": "Torneo Betplay",
-    "hora": "8:10 p. m.",
+    "partido": "Tigres - América",
+    "liga": "Copa Betplay",
+    "hora": "5:00 p. m.",
     "canal": "Win Sports / Win Sports+"
+  },
+  {
+    "partido": "Atlético Huila - Junior",
+    "liga": "Copa Betplay",
+    "hora": "7:30 p. m.",
+    "canal": "Win Sports+"
   }
 ]
