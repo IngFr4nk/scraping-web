@@ -1,14 +1,38 @@
 [
   {
-    "partido": "Atlético Nacional - Alianza FC",
+    "partido": "Santa Fe - Millonarios",
+    "liga": "Liga Femenina",
+    "hora": "3:00 p. m.",
+    "canal": "Señal Colombia"
+  },
+  {
+    "partido": "Once Caldas - Águilas Doradas",
     "liga": "Liga BetPlay",
-    "hora": "3:30 p. m.",
+    "hora": "3:00 p. m.",
     "canal": "Win Sports+"
   },
   {
-    "partido": "Millonarios - Deportivo Cali",
+    "partido": "Independiente Medellín - Orsomarso",
+    "liga": "Liga Femenina",
+    "hora": "5:00 p. m.",
+    "canal": "Señal Colombia"
+  },
+  {
+    "partido": "América - Deportes Tolima",
+    "liga": "Liga BetPlay",
+    "hora": "5:15 p. m.",
+    "canal": "Win Sports+"
+  },
+  {
+    "partido": "Bucaramanga - Santa Fe",
     "liga": "Liga BetPlay",
     "hora": "7:30 p. m.",
     "canal": "Win Sports+"
+  },
+  {
+    "partido": "América - Atlético Nacional",
+    "liga": "Liga Femenina",
+    "hora": "8:00 p. m.",
+    "canal": "Win Sports"
   }
 ]
