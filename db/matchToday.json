@@ -1,26 +1,44 @@
 [
   {
-    "partido": "Leones - Tigres",
-    "liga": "Torneo Betplay",
-    "hora": "3:30 p. m.",
-    "canal": "Win Sports"
-  },
-  {
-    "partido": "Jaguares de Córdoba - Real Santander",
-    "liga": "Torneo Betplay",
+    "partido": "Once Caldas - Huracán",
+    "liga": "Copa Sudamericana",
     "hora": "5:00 p. m.",
-    "canal": "Win Sports"
+    "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Atlético Huila - Atlético FC",
+    "partido": "Fortaleza - Vélez Sarsfield",
+    "liga": "Copa Libertadores",
+    "hora": "5:00 p. m.",
+    "canal": "ESPN 2 / Disney+"
+  },
+  {
+    "partido": "Orsomarso - Patriotas F.C",
     "liga": "Torneo Betplay",
-    "hora": "6:00 p. m.",
-    "canal": "Win Sports +"
+    "hora": "7:00 p. m.",
+    "canal": "Win Sports"
   },
   {
-    "partido": "León - Monterrey",
-    "liga": "Liga de México",
-    "hora": "8:00 p. m.",
-    "canal": "Win Sports"
+    "partido": "Independiente del Valle - Mushuc Runa",
+    "liga": "Copa Sudamericana",
+    "hora": "7:30 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "América - Fluminense",
+    "liga": "Copa Sudamericana",
+    "hora": "7:30 p. m.",
+    "canal": "Directv 610"
+  },
+  {
+    "partido": "Atlético Nacional - Sao Paulo",
+    "liga": "Copa Libertadores",
+    "hora": "7:30 p. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Peñarol - Racing Club",
+    "liga": "Copa Libertadores",
+    "hora": "7:30 p. m.",
+    "canal": "ESPN 2 / Disney+"
   }
 ]
