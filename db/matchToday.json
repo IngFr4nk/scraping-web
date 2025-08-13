@@ -1,44 +1,62 @@
 [
   {
-    "partido": "Once Caldas - Huracán",
+    "partido": "Paris Saint-Germain - Tottenham Hotspur",
+    "liga": "Supercopa de Europa",
+    "hora": "2:00 p. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Cúcuta - Quindío",
+    "liga": "Torneo Betplay",
+    "hora": "4:00 p. m.",
+    "canal": "Win Sports"
+  },
+  {
+    "partido": "Santa Fe - América",
+    "liga": "Liga Femenina",
+    "hora": "4:00 p. m.",
+    "canal": "Señal Colombia"
+  },
+  {
+    "partido": "Bolívar - Cienciano",
     "liga": "Copa Sudamericana",
+    "hora": "5:00 p. m.",
+    "canal": "Directv 610"
+  },
+  {
+    "partido": "Orsomarso - Inter Palmira",
+    "liga": "Liga Femenina",
+    "hora": "5:00 p. m.",
+    "canal": "YouTube / Win Sports"
+  },
+  {
+    "partido": "Cerro Porteño - Estudiantes",
+    "liga": "Copa Libertadores",
     "hora": "5:00 p. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Fortaleza - Vélez Sarsfield",
-    "liga": "Copa Libertadores",
-    "hora": "5:00 p. m.",
+    "partido": "Deportivo Cali - Unión Magdalena",
+    "liga": "Liga BetPlay",
+    "hora": "6:30 p. m.",
+    "canal": "Win Sports +"
+  },
+  {
+    "partido": "Universidad de Chile - Independiente",
+    "liga": "Copa Sudamericana",
+    "hora": "7:30 p. m.",
     "canal": "ESPN 2 / Disney+"
   },
   {
-    "partido": "Orsomarso - Patriotas F.C",
-    "liga": "Torneo Betplay",
-    "hora": "7:00 p. m.",
-    "canal": "Win Sports"
-  },
-  {
-    "partido": "Independiente del Valle - Mushuc Runa",
-    "liga": "Copa Sudamericana",
-    "hora": "7:30 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "América - Fluminense",
+    "partido": "Alianza Lima - Universidad Católica (Ecu)",
     "liga": "Copa Sudamericana",
     "hora": "7:30 p. m.",
     "canal": "Directv 610"
   },
   {
-    "partido": "Atlético Nacional - Sao Paulo",
+    "partido": "Flamengo - Internacional",
     "liga": "Copa Libertadores",
     "hora": "7:30 p. m.",
     "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "Peñarol - Racing Club",
-    "liga": "Copa Libertadores",
-    "hora": "7:30 p. m.",
-    "canal": "ESPN 2 / Disney+"
   }
 ]
