@@ -1,62 +1,44 @@
 [
   {
-    "partido": "Paris Saint-Germain - Tottenham Hotspur",
-    "liga": "Supercopa de Europa",
-    "hora": "2:00 p. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "Cúcuta - Quindío",
-    "liga": "Torneo Betplay",
-    "hora": "4:00 p. m.",
-    "canal": "Win Sports"
-  },
-  {
-    "partido": "Santa Fe - América",
+    "partido": "Millonarios - Atlético Nacional",
     "liga": "Liga Femenina",
-    "hora": "4:00 p. m.",
+    "hora": "3:00 p. m.",
     "canal": "Señal Colombia"
   },
   {
-    "partido": "Bolívar - Cienciano",
+    "partido": "Atlético Mineiro - Godoy Cruz",
     "liga": "Copa Sudamericana",
     "hora": "5:00 p. m.",
-    "canal": "Directv 610"
-  },
-  {
-    "partido": "Orsomarso - Inter Palmira",
-    "liga": "Liga Femenina",
-    "hora": "5:00 p. m.",
-    "canal": "YouTube / Win Sports"
-  },
-  {
-    "partido": "Cerro Porteño - Estudiantes",
-    "liga": "Copa Libertadores",
-    "hora": "5:00 p. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "Deportivo Cali - Unión Magdalena",
-    "liga": "Liga BetPlay",
-    "hora": "6:30 p. m.",
-    "canal": "Win Sports +"
-  },
-  {
-    "partido": "Universidad de Chile - Independiente",
-    "liga": "Copa Sudamericana",
-    "hora": "7:30 p. m.",
     "canal": "ESPN 2 / Disney+"
   },
   {
-    "partido": "Alianza Lima - Universidad Católica (Ecu)",
+    "partido": "Botafogo - Liga de Quito",
+    "liga": "Copa Libertadores",
+    "hora": "5:00 p. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Central Córdoba - Lanús",
     "liga": "Copa Sudamericana",
     "hora": "7:30 p. m.",
     "canal": "Directv 610"
   },
   {
-    "partido": "Flamengo - Internacional",
+    "partido": "Independiente Medellín - Deportivo Cali",
+    "liga": "Liga Femenina",
+    "hora": "7:30 p. m.",
+    "canal": "Win Sports"
+  },
+  {
+    "partido": "Libertad - River Plate",
     "liga": "Copa Libertadores",
     "hora": "7:30 p. m.",
-    "canal": "ESPN / Disney+"
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Universitario - Palmeiras",
+    "liga": "Copa Libertadores",
+    "hora": "7:30 p. m.",
+    "canal": "ESPN 2 / Disney+"
   }
 ]
