@@ -1,44 +1,38 @@
 [
   {
-    "partido": "Millonarios - Atlético Nacional",
-    "liga": "Liga Femenina",
-    "hora": "3:00 p. m.",
-    "canal": "Señal Colombia"
-  },
-  {
-    "partido": "Atlético Mineiro - Godoy Cruz",
-    "liga": "Copa Sudamericana",
-    "hora": "5:00 p. m.",
-    "canal": "ESPN 2 / Disney+"
-  },
-  {
-    "partido": "Botafogo - Liga de Quito",
-    "liga": "Copa Libertadores",
-    "hora": "5:00 p. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "Central Córdoba - Lanús",
-    "liga": "Copa Sudamericana",
-    "hora": "7:30 p. m.",
-    "canal": "Directv 610"
-  },
-  {
-    "partido": "Independiente Medellín - Deportivo Cali",
-    "liga": "Liga Femenina",
-    "hora": "7:30 p. m.",
-    "canal": "Win Sports"
-  },
-  {
-    "partido": "Libertad - River Plate",
-    "liga": "Copa Libertadores",
-    "hora": "7:30 p. m.",
+    "partido": "Girona - Rayo Vallecano",
+    "liga": "Liga de España",
+    "hora": "12:00 p. m.",
     "canal": "Disney+"
   },
   {
-    "partido": "Universitario - Palmeiras",
-    "liga": "Copa Libertadores",
-    "hora": "7:30 p. m.",
-    "canal": "ESPN 2 / Disney+"
+    "partido": "Rennes - Marsella",
+    "liga": "Liga de Francia",
+    "hora": "1:45 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Liverpool - Bournemouth",
+    "liga": "Liga de Inglaterra",
+    "hora": "2:00 p. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Villarreal - Real Oviedo",
+    "liga": "Liga de España",
+    "hora": "2:30 p. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Alianza FC - Once Caldas",
+    "liga": "Liga BetPlay",
+    "hora": "4:00 p. m.",
+    "canal": "Win Sports+"
+  },
+  {
+    "partido": "Tigres - Jaguares de Córdoba",
+    "liga": "Torneo Betplay",
+    "hora": "7:15 p. m.",
+    "canal": "Win Sports / Win Sports+"
   }
 ]
