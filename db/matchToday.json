@@ -1,68 +1,50 @@
 [
   {
-    "partido": "Rangers - Brujas",
+    "partido": "Fenerbache - Benfica",
     "liga": "Champions League",
     "hora": "2:00 p. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Ferencváros - Qarabag",
-    "liga": "Champions League",
-    "hora": "2:00 p. m.",
-    "canal": "ESPN 5 / Disney+"
+    "partido": "Deportivo Cali - Independiente Medellín",
+    "liga": "Liga Femenina",
+    "hora": "4:00 p. m.",
+    "canal": "Señal Colombia"
   },
   {
-    "partido": "Atlético FC - Real Cundinamarca",
-    "liga": "Torneo Betplay",
-    "hora": "3:00 p. m.",
-    "canal": "Win Sports+"
-  },
-  {
-    "partido": "Vélez Sarsfield - Fortaleza",
+    "partido": "Estudiantes - Cerro Porteño",
     "liga": "Copa Libertadores",
     "hora": "5:00 p. m.",
-    "canal": "ESPN 2 / Disney+"
-  },
-  {
-    "partido": "Huracán - Once Caldas",
-    "liga": "Copa Sudamericana",
-    "hora": "5:00 p. m.",
-    "canal": "Directv 610"
-  },
-  {
-    "partido": "Barranquilla - Orsomarso",
-    "liga": "Torneo Betplay",
-    "hora": "5:00 p. m.",
-    "canal": "Win Sports+"
-  },
-  {
-    "partido": "Fluminense - América",
-    "liga": "Copa Sudamericana",
-    "hora": "7:30 p. m.",
-    "canal": "ESPN 2 / Disney+"
-  },
-  {
-    "partido": "Mushuc Runa - Independiente del Valle",
-    "liga": "Copa Sudamericana",
-    "hora": "7:30 p. m.",
-    "canal": "Directv 610"
-  },
-  {
-    "partido": "Racing Club - Peñarol",
-    "liga": "Copa Libertadores",
-    "hora": "7:30 p. m.",
-    "canal": "ESPN 5 / Disney+"
-  },
-  {
-    "partido": "Sao Paulo - Atlético Nacional",
-    "liga": "Copa Libertadores",
-    "hora": "7:30 p. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Santa Fe - Envigado F.C",
+    "partido": "Cienciano - Bolívar",
+    "liga": "Copa Sudamericana",
+    "hora": "5:00 p. m.",
+    "canal": "ESPN 2 / Disney+"
+  },
+  {
+    "partido": "Millonarios - Unión Magdalena",
     "liga": "Liga BetPlay",
     "hora": "7:30 p. m.",
     "canal": "Win Sports / Win Sports+"
+  },
+  {
+    "partido": "Internacional - Flamengo",
+    "liga": "Copa Libertadores",
+    "hora": "7:30 p. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Universidad Católica (Ecu) - Alianza Lima",
+    "liga": "Copa Sudamericana",
+    "hora": "7:30 p. m.",
+    "canal": "Directv 610"
+  },
+  {
+    "partido": "Independiente - Universidad de Chile",
+    "liga": "Copa Sudamericana",
+    "hora": "7:30 p. m.",
+    "canal": "ESPN 2 / Disney+"
   }
 ]
