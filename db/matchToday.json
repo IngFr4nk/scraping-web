@@ -1,48 +1,42 @@
 [
   {
-    "partido": "Fenerbache - Benfica",
-    "liga": "Champions League",
-    "hora": "2:00 p. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "Deportivo Cali - Independiente Medellín",
-    "liga": "Liga Femenina",
-    "hora": "4:00 p. m.",
-    "canal": "Señal Colombia"
-  },
-  {
-    "partido": "Estudiantes - Cerro Porteño",
+    "partido": "Liga de Quito - Botafogo",
     "liga": "Copa Libertadores",
     "hora": "5:00 p. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Cienciano - Bolívar",
+    "partido": "Godoy Cruz - Atlético Mineiro",
     "liga": "Copa Sudamericana",
     "hora": "5:00 p. m.",
-    "canal": "ESPN 2 / Disney+"
-  },
-  {
-    "partido": "Millonarios - Unión Magdalena",
-    "liga": "Liga BetPlay",
-    "hora": "7:30 p. m.",
-    "canal": "Win Sports / Win Sports+"
-  },
-  {
-    "partido": "Internacional - Flamengo",
-    "liga": "Copa Libertadores",
-    "hora": "7:30 p. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "Universidad Católica (Ecu) - Alianza Lima",
-    "liga": "Copa Sudamericana",
-    "hora": "7:30 p. m.",
     "canal": "Directv 610"
   },
   {
-    "partido": "Independiente - Universidad de Chile",
+    "partido": "Atlético Nacional - Millonarios",
+    "liga": "Liga Femenina",
+    "hora": "5:00 p. m.",
+    "canal": "Señal Colombia"
+  },
+  {
+    "partido": "América - Santa Fe",
+    "liga": "Liga Femenina",
+    "hora": "6:10 p. m.",
+    "canal": "Win Sports"
+  },
+  {
+    "partido": "River Plate - Libertad",
+    "liga": "Copa Libertadores",
+    "hora": "7:30 p. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Palmeiras - Universitario",
+    "liga": "Copa Libertadores",
+    "hora": "7:30 p. m.",
+    "canal": "ESPN 5 / Disney+"
+  },
+  {
+    "partido": "Lanús - Central Córdoba",
     "liga": "Copa Sudamericana",
     "hora": "7:30 p. m.",
     "canal": "ESPN 2 / Disney+"
