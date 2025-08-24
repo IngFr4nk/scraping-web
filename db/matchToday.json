@@ -1,38 +1,110 @@
 [
   {
-    "partido": "Bayern Munich - RB Leipzig",
-    "liga": "Bundesliga",
-    "hora": "1:30 p. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "Paris Saint-Germain - Angers",
-    "liga": "Liga de Francia",
-    "hora": "1:45 p. m.",
+    "partido": "Crystal Palace - Nottingham Forest",
+    "liga": "Liga de Inglaterra",
+    "hora": "8:00 a. m.",
     "canal": "ESPN 5 / Disney+"
   },
   {
-    "partido": "West Ham Utd. - Chelsea",
-    "liga": "Liga de Inglaterra",
-    "hora": "2:00 p. m.",
+    "partido": "Mainz 05 - Colonia",
+    "liga": "Bundesliga",
+    "hora": "8:30 a. m.",
+    "canal": "ESPN 2 / Disney+"
+  },
+  {
+    "partido": "Le Havre - Lens",
+    "liga": "Liga de Francia",
+    "hora": "10:15 a. m.",
     "canal": "Disney+"
   },
   {
-    "partido": "Real Betis - Alavés",
-    "liga": "Liga de España",
-    "hora": "2:30 p. m.",
+    "partido": "Strasbourg - Nantes",
+    "liga": "Liga de Francia",
+    "hora": "10:15 a. m.",
     "canal": "ESPN 4 / Disney+"
   },
   {
-    "partido": "Real Cartagena - Tigres",
-    "liga": "Torneo Betplay",
-    "hora": "6:00 p. m.",
+    "partido": "Fulham - Manchester United",
+    "liga": "Liga de Inglaterra",
+    "hora": "10:30 a. m.",
+    "canal": "ESPN 5 / Disney+"
+  },
+  {
+    "partido": "Cagliari - Fiorentina",
+    "liga": "Serie A",
+    "hora": "11:30 a. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Real Sociedad - Espanyol",
+    "liga": "Liga de España",
+    "hora": "12:30 p. m.",
+    "canal": "ESPN 4 / Disney+"
+  },
+  {
+    "partido": "Villarreal - Girona",
+    "liga": "Liga de España",
+    "hora": "12:30 p. m.",
+    "canal": "DSports"
+  },
+  {
+    "partido": "Juventus - Parma",
+    "liga": "Serie A",
+    "hora": "1:45 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Atalanta - Pisa",
+    "liga": "Serie A",
+    "hora": "1:45 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Once Caldas - Deportes Tolima",
+    "liga": "Liga BetPlay",
+    "hora": "2:00 p. m.",
+    "canal": "Win Sports / Win Sports+"
+  },
+  {
+    "partido": "Real Oviedo - Real Madrid",
+    "liga": "Liga de España",
+    "hora": "2:30 p. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Atlético Nacional - América",
+    "liga": "Liga Femenina",
+    "hora": "4:10 p. m.",
+    "canal": "Win Sports"
+  },
+  {
+    "partido": "Millonarios - Santa Fe",
+    "liga": "Liga Femenina",
+    "hora": "4:10 p. m.",
+    "canal": "Señal Colombia"
+  },
+  {
+    "partido": "Unión Magdalena - Alianza FC",
+    "liga": "Liga BetPlay",
+    "hora": "4:10 p. m.",
     "canal": "Win Sports+"
   },
   {
-    "partido": "Llaneros - Deportivo Pasto",
+    "partido": "Boca Juniors - Banfield",
+    "liga": "Liga de Argentina",
+    "hora": "4:15 p. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "América - Atlético Nacional",
     "liga": "Liga BetPlay",
-    "hora": "8:10 p. m.",
+    "hora": "6:20 p. m.",
+    "canal": "Win Sports+"
+  },
+  {
+    "partido": "Bucaramanga - Águilas Doradas",
+    "liga": "Liga BetPlay",
+    "hora": "8:30 p. m.",
     "canal": "Win Sports / Win Sports+"
   }
 ]
