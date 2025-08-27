@@ -1,14 +1,56 @@
 [
   {
-    "partido": "Bogotá - Cúcuta",
-    "liga": "Torneo Betplay",
-    "hora": "5:30 p. m.",
-    "canal": "Win Sports+"
+    "partido": "Qarabag - Ferencváros",
+    "liga": "Champions League",
+    "hora": "11:45 a. m.",
+    "canal": "ESPN 5 / Disney+"
   },
   {
-    "partido": "Real Cartagena - Millonarios",
-    "liga": "Copa Betplay",
-    "hora": "8:10 p. m.",
+    "partido": "Wehen - Bayern Munich",
+    "liga": "Copa de Alemania",
+    "hora": "1:45 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Brujas - Rangers",
+    "liga": "Champions League",
+    "hora": "2:00 p. m.",
+    "canal": "ESPN 5 / Disney+"
+  },
+  {
+    "partido": "Benfica - Fenerbache",
+    "liga": "Champions League",
+    "hora": "2:00 p. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Celta de Vigo - Real Betis",
+    "liga": "Liga de España",
+    "hora": "2:00 p. m.",
+    "canal": "Directv 610"
+  },
+  {
+    "partido": "Copenhague - Basel",
+    "liga": "Champions League",
+    "hora": "2:00 p. m.",
+    "canal": "ESPN 3 / Disney+"
+  },
+  {
+    "partido": "Alianza FC - Santa Fe",
+    "liga": "Copa BetPlay",
+    "hora": "4:00 p. m.",
+    "canal": "Win Sports / Win Sports+"
+  },
+  {
+    "partido": "Bucaramanga - América",
+    "liga": "Copa BetPlay",
+    "hora": "6:30 p. m.",
+    "canal": "Win Sports / Win Sports+"
+  },
+  {
+    "partido": "Atlético Nacional - Quindío",
+    "liga": "Copa BetPlay",
+    "hora": "8:30 p. m.",
     "canal": "Win Sports+"
   }
 ]
