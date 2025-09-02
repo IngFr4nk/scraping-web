@@ -1,44 +1,20 @@
 [
   {
-    "partido": "Gimnasia de La Plata - Atlético Tucumán",
-    "liga": "Liga de Argentina",
-    "hora": "3:00 p. m.",
-    "canal": "TyC Sports Internacional"
-  },
-  {
-    "partido": "Santa Fe - Orsomarso",
+    "partido": "Deportivo Cali - Atlético Nacional",
     "liga": "Liga Femenina",
-    "hora": "3:45 p. m.",
+    "hora": "5:00 p. m.",
     "canal": "Win Sports / Señal Colombia"
   },
   {
-    "partido": "Tigres - Cúcuta",
-    "liga": "Torneo Betplay",
-    "hora": "4:00 p. m.",
-    "canal": "Win Sports+"
+    "partido": "Real Cundinamarca - Pereira",
+    "liga": "Copa Betplay",
+    "hora": "7:00 p. m.",
+    "canal": "YouTube / Win Sports"
   },
   {
-    "partido": "Barranquilla - Inter Palmira",
-    "liga": "Torneo Betplay",
-    "hora": "5:15 p. m.",
-    "canal": "Win Sports+"
-  },
-  {
-    "partido": "Platense - Godoy Cruz",
-    "liga": "Liga de Argentina",
-    "hora": "5:15 p. m.",
-    "canal": "TyC Sports Internacional"
-  },
-  {
-    "partido": "Atlético Huila - Real Cartagena",
-    "liga": "Torneo Betplay",
-    "hora": "5:45 p. m.",
-    "canal": "Win Sports"
-  },
-  {
-    "partido": "Santa Fe - Once Caldas",
-    "liga": "Liga BetPlay",
+    "partido": "Atlético FC - Junior",
+    "liga": "Copa Betplay",
     "hora": "7:30 p. m.",
-    "canal": "Win Sports / Win Sports+"
+    "canal": "Win Sports+"
   }
 ]
