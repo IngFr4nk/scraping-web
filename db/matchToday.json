@@ -1,20 +1,26 @@
 [
   {
-    "partido": "Deportivo Cali - Atlético Nacional",
-    "liga": "Liga Femenina",
-    "hora": "5:00 p. m.",
-    "canal": "Win Sports / Señal Colombia"
+    "partido": "Envigado F.C - Millonarios",
+    "liga": "Copa Betplay",
+    "hora": "3:00 p. m.",
+    "canal": "Win Sports / Win Sports +"
   },
   {
-    "partido": "Real Cundinamarca - Pereira",
+    "partido": "América - Bucaramanga",
     "liga": "Copa Betplay",
-    "hora": "7:00 p. m.",
+    "hora": "5:15 p. m.",
+    "canal": "Win Sports+"
+  },
+  {
+    "partido": "Independiente Medellín - Fortaleza F.C",
+    "liga": "Copa Betplay",
+    "hora": "7:30 p. m.",
     "canal": "YouTube / Win Sports"
   },
   {
-    "partido": "Atlético FC - Junior",
+    "partido": "Quindío - Atlético Nacional",
     "liga": "Copa Betplay",
-    "hora": "7:30 p. m.",
+    "hora": "7:45 p. m.",
     "canal": "Win Sports+"
   }
 ]
