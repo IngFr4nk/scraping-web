@@ -1,26 +1,38 @@
 [
   {
-    "partido": "Envigado F.C - Millonarios",
-    "liga": "Copa Betplay",
-    "hora": "3:00 p. m.",
-    "canal": "Win Sports / Win Sports +"
+    "partido": "Italia - Estonia",
+    "liga": "Eliminatorias europeas",
+    "hora": "1:45 p. m.",
+    "canal": "Disney+"
   },
   {
-    "partido": "América - Bucaramanga",
-    "liga": "Copa Betplay",
-    "hora": "5:15 p. m.",
-    "canal": "Win Sports+"
+    "partido": "Islas Faroe - Croacia",
+    "liga": "Eliminatorias europeas",
+    "hora": "1:45 p. m.",
+    "canal": "Disney+"
   },
   {
-    "partido": "Independiente Medellín - Fortaleza F.C",
-    "liga": "Copa Betplay",
-    "hora": "7:30 p. m.",
-    "canal": "YouTube / Win Sports"
+    "partido": "Ucrania - Francia",
+    "liga": "Eliminatorias europeas",
+    "hora": "1:45 p. m.",
+    "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Quindío - Atlético Nacional",
-    "liga": "Copa Betplay",
-    "hora": "7:45 p. m.",
-    "canal": "Win Sports+"
+    "partido": "Leones - Jaguares de Córdoba",
+    "liga": "Torneo BetPlay",
+    "hora": "3:30 p. m.",
+    "canal": "Win Sports"
+  },
+  {
+    "partido": "Deportivo Pasto - Boyacá Chicó",
+    "liga": "Liga BetPlay",
+    "hora": "6:00 p. m.",
+    "canal": "Win Sports +"
+  },
+  {
+    "partido": "Once Caldas - Pereira",
+    "liga": "Eliminatorias europeas",
+    "hora": "8:10 p. m.",
+    "canal": "Win Sports +"
   }
 ]
