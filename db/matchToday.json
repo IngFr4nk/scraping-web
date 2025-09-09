@@ -1,56 +1,68 @@
 [
   {
-    "partido": "Israel - Italia",
+    "partido": "Azerbaiyán - Ucrania",
+    "liga": "Eliminatorias europeas",
+    "hora": "11:00 a. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Serbia - Inglaterra",
     "liga": "Eliminatorias europeas",
     "hora": "1:45 p. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Croacia - Montenegro",
+    "partido": "Hungría - Portugal",
     "liga": "Eliminatorias europeas",
     "hora": "1:45 p. m.",
     "canal": "Disney+"
   },
   {
-    "partido": "Grecia - Dinamarca",
+    "partido": "Francia - Islandia",
     "liga": "Eliminatorias europeas",
     "hora": "1:45 p. m.",
     "canal": "Disney+"
   },
   {
-    "partido": "Kosovo - Suecia",
-    "liga": "Eliminatorias europeas",
-    "hora": "1:45 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Suiza - Eslovenia",
-    "liga": "Eliminatorias europeas",
-    "hora": "1:45 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Bielorrusia - Escocia",
-    "liga": "Eliminatorias europeas",
-    "hora": "1:45 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Boca Juniors de Cali - Atlético FC",
-    "liga": "Torneo Betplay",
-    "hora": "4:00 p. m.",
-    "canal": "Win Sports+"
-  },
-  {
-    "partido": "Real Cundinamarca - Patriotas F.C",
-    "liga": "Torneo Betplay",
+    "partido": "Ecuador - Argentina",
+    "liga": "Eliminatorias",
     "hora": "6:00 p. m.",
-    "canal": "Win Sports+"
+    "canal": "Ditu / RCN App"
   },
   {
-    "partido": "Quindío - Atlético Huila",
-    "liga": "Torneo Betplay",
-    "hora": "8:10 p. m.",
-    "canal": "Win Sports / Win Sports+"
+    "partido": "Venezuela - Colombia",
+    "liga": "Eliminatorias",
+    "hora": "6:30 p. m.",
+    "canal": "Caracol TV / RCN"
+  },
+  {
+    "partido": "Bolivia - Brasil",
+    "liga": "Eliminatorias",
+    "hora": "6:30 p. m.",
+    "canal": "Ditu / RCN App"
+  },
+  {
+    "partido": "Perú - Paraguay",
+    "liga": "Eliminatorias",
+    "hora": "6:30 p. m.",
+    "canal": "Ditu / RCN App"
+  },
+  {
+    "partido": "Chile - Uruguay",
+    "liga": "Eliminatorias",
+    "hora": "6:30 p. m.",
+    "canal": "Ditu / RCN App"
+  },
+  {
+    "partido": "Bucaramanga - Once Caldas",
+    "liga": "Liga BetPlay",
+    "hora": "8:30 p. m.",
+    "canal": "Win Sports +"
+  },
+  {
+    "partido": "Santa Fe - Alianza FC",
+    "liga": "Copa Betplay",
+    "hora": "8:30 p. m.",
+    "canal": "Win Sports"
   }
 ]
