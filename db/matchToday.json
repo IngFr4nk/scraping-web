@@ -1,14 +1,26 @@
 [
   {
-    "partido": "Eintracht Frankfurt - Real Madrid",
-    "liga": "Champions femenina",
-    "hora": "12:00 p. m.",
-    "canal": "DAZN YouTube"
+    "partido": "Bayer Leverkusen - Eintracht Frankfurt",
+    "liga": "Bundesliga",
+    "hora": "1:30 p. m.",
+    "canal": "ESPN 2 / Disney+"
   },
   {
-    "partido": "Belgrano - San Martín San Juan",
-    "liga": "Superliga Argentina",
-    "hora": "6:00 p. m.",
-    "canal": "TyC Sports"
+    "partido": "Marsella - Lorient",
+    "liga": "Liga de Francia",
+    "hora": "1:45 p. m.",
+    "canal": "ESPN 4 / Disney+"
+  },
+  {
+    "partido": "Sevilla - Elche",
+    "liga": "Liga de España",
+    "hora": "2:00 p. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Junior - Equidad",
+    "liga": "Liga BetPlay",
+    "hora": "7:30 p. m.",
+    "canal": "Win Sports+"
   }
 ]
