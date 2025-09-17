@@ -1,68 +1,62 @@
 [
   {
-    "partido": "PSV - Royale Union SG",
+    "partido": "Slavia Praga - Bodo Glimt",
     "liga": "Champions League",
     "hora": "11:45 a. m.",
     "canal": "ESPN 2 / Disney+"
   },
   {
-    "partido": "Athletic Club - Arsenal",
+    "partido": "Olimpiakos - Pafos",
     "liga": "Champions League",
     "hora": "11:45 a. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Juventus - Borussia Dortmund",
+    "partido": "Liverpool - Atlético de Madrid",
     "liga": "Champions League",
     "hora": "2:00 p. m.",
     "canal": "ESPN 2 / Disney+"
   },
   {
-    "partido": "Real Madrid - Marsella",
-    "liga": "Champions League",
-    "hora": "2:00 p. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "Tottenham Hotspur - Villarreal",
+    "partido": "Paris Saint-Germain - Atalanta",
     "liga": "Champions League",
     "hora": "2:00 p. m.",
     "canal": "ESPN 5 / Disney+"
   },
   {
-    "partido": "Benfica - Qarabag",
+    "partido": "Ajax - Inter",
     "liga": "Champions League",
     "hora": "2:00 p. m.",
     "canal": "ESPN 3 / Disney+"
   },
   {
-    "partido": "Atlético Huila - Boca Juniors de Cali",
-    "liga": "Torneo Betplay",
-    "hora": "4:00 p. m.",
-    "canal": "Win Sports+"
+    "partido": "Swansea City - Nottingham Forest",
+    "liga": "EFL Cup",
+    "hora": "2:00 p. m.",
+    "canal": "Disney+"
   },
   {
-    "partido": "Vélez Sarsfield - Racing Club",
-    "liga": "Copa Libertadores",
-    "hora": "5:00 p. m.",
+    "partido": "Bayern Munich - Chelsea",
+    "liga": "Champions League",
+    "hora": "2:00 p. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "América - Bucaramanga",
-    "liga": "Liga BetPlay",
-    "hora": "6:00 p. m.",
-    "canal": "Win Sports+"
-  },
-  {
-    "partido": "Lanús - Fluminense",
-    "liga": "Copa Sudamericana",
-    "hora": "7:30 p. m.",
+    "partido": "Bolívar - Atlético Mineiro",
+    "liga": "Copa Libertadores",
+    "hora": "5:00 p. m.",
     "canal": "DSports"
   },
   {
-    "partido": "Millonarios - Envigado F.C",
-    "liga": "Copa Betplay",
-    "hora": "8:10 p. m.",
-    "canal": "Win Sports / Win Sports+"
+    "partido": "Independiente del Valle - Once Caldas",
+    "liga": "Copa Sudamericana",
+    "hora": "7:30 p. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "River Plate - Palmeiras",
+    "liga": "Copa Libertadores",
+    "hora": "7:30 p. m.",
+    "canal": "ESPN 2 / Disney+"
   }
 ]
