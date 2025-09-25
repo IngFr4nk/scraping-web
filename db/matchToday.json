@@ -1,49 +1,79 @@
 [
   {
-    "partido": "Udinese - Palermo",
-    "liga": "Copa de Italia",
-    "hora": "11:30 a. m.",
-    "canal": "Directv 613"
-  },
-  {
-    "partido": "Espanyol - Valencia CF",
-    "liga": "Liga de España",
-    "hora": "12:00 p. m.",
-    "canal": "ESPN 2 / Disney+"
-  },
-  {
-    "partido": "Athletic Club - Girona",
-    "liga": "Liga de España",
-    "hora": "12:00 p. m.",
-    "canal": "Directv 612"
-  },
-  {
-    "partido": "Milán - Lecce",
-    "liga": "Copa de Italia",
-    "hora": "2:00 p. m.",
-    "canal": "Directv 610"
-  },
-  {
-    "partido": "Sevilla - Villarreal",
-    "liga": "Liga de España",
-    "hora": "2:30 p. m.",
-    "canal": "Directv 612"
-  },
-  {
-    "partido": "Levante - Real Madrid",
-    "liga": "Liga de España",
-    "hora": "2:30 p. m.",
+    "partido": "Lille - Brann",
+    "liga": "Liga de Europa",
+    "hora": "11:45 a. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Racing Club - Vélez Sarsfield",
+    "partido": "Go Ahead Eagles - Steaua Bucarest",
+    "liga": "Liga de Europa",
+    "hora": "11:45 a. m.",
+    "canal": "ESPN 2 / Disney+"
+  },
+  {
+    "partido": "Osasuna - Elche",
+    "liga": "Liga de España",
+    "hora": "12:30 p. m.",
+    "canal": "ESPN 4 / Disney+"
+  },
+  {
+    "partido": "Rangers - Genk",
+    "liga": "Liga de Europa",
+    "hora": "2:00 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Aston Villa - Bolognia",
+    "liga": "Liga de Europa",
+    "hora": "2:00 p. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Red Bull Salzburg - Porto",
+    "liga": "Liga de Europa",
+    "hora": "2:00 p. m.",
+    "canal": "ESPN 5 / Disney+"
+  },
+  {
+    "partido": "VfB Stuttgart - Celta de Vigo",
+    "liga": "Liga de Europa",
+    "hora": "2:00 p. m.",
+    "canal": "ESPN 3 / Disney+"
+  },
+  {
+    "partido": "Utrecht - Lyon",
+    "liga": "Liga de Europa",
+    "hora": "2:00 p. m.",
+    "canal": "ESPN 2 / Disney+"
+  },
+  {
+    "partido": "Young Boys - Panathinaikos",
+    "liga": "Liga de Europa",
+    "hora": "2:00 p. m.",
+    "canal": "ESPN 7 / Disney+"
+  },
+  {
+    "partido": "Real Oviedo - Barcelona",
+    "liga": "Liga de España",
+    "hora": "2:30 p. m.",
+    "canal": "Directv 610"
+  },
+  {
+    "partido": "Sao Paulo - Liga de Quito",
     "liga": "Copa Libertadores",
     "hora": "5:00 p. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Fluminense - Lanús",
+    "partido": "Universidad de Chile - Alianza Lima",
     "liga": "Copa Sudamericana",
+    "hora": "7:30 p. m.",
+    "canal": "ESPN 2 / Disney+"
+  },
+  {
+    "partido": "Estudiantes - Flamengo",
+    "liga": "Copa Libertadores",
     "hora": "7:30 p. m.",
     "canal": "ESPN / Disney+"
   }
