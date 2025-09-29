@@ -1,122 +1,44 @@
 [
   {
-    "partido": "Sassuolo - Udinese",
+    "partido": "Parma - Torino",
     "liga": "Serie A",
-    "hora": "5:30 a. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "Rayo Vallecano - Sevilla",
-    "liga": "Liga de España",
-    "hora": "7:00 a. m.",
-    "canal": "ESPN 2 / Disney+"
-  },
-  {
-    "partido": "Pisa - Fiorentina",
-    "liga": "Serie A",
-    "hora": "8:00 a. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Aston Villa - Fulham",
-    "liga": "Liga de Inglaterra",
-    "hora": "8:00 a. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "Elche - Celta de Vigo",
-    "liga": "Liga de España",
-    "hora": "9:15 a. m.",
-    "canal": "Directv 610"
-  },
-  {
-    "partido": "Newcastle - Arsenal",
-    "liga": "Liga de Inglaterra",
-    "hora": "10:30 a. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Lecce - Bolognia",
-    "liga": "Serie A",
-    "hora": "11:00 a. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Barcelona - Real Sociedad",
-    "liga": "Liga de España",
     "hora": "11:30 a. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Everton - West Ham Utd.",
+    "liga": "Liga de Inglaterra",
+    "hora": "2:00 p. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Racing Club - Independiente",
-    "liga": "Superliga Argentina",
-    "hora": "1:15 p. m.",
-    "canal": "TyC Sports"
-  },
-  {
-    "partido": "Milán - Bolognia",
-    "liga": "Serie A",
-    "hora": "1:45 p. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "Real Betis - Osasuna",
+    "partido": "Valencia CF - Real Oviedo",
     "liga": "Liga de España",
     "hora": "2:00 p. m.",
-    "canal": "Directv 610"
+    "canal": "Disney+"
   },
   {
-    "partido": "América - Envigado F.C",
-    "liga": "Liga BetPlay",
-    "hora": "2:00 p. m.",
-    "canal": "Win Sports +"
-  },
-  {
-    "partido": "Marruecos - España",
+    "partido": "Francia - Sudáfrica",
     "liga": "Mundial Sub-20 Chile",
     "hora": "3:00 p. m.",
     "canal": "Directv 610"
   },
   {
-    "partido": "Italia - Australia",
+    "partido": "Noruega - Nigeria",
     "liga": "Mundial Sub-20 Chile",
     "hora": "3:00 p. m.",
     "canal": "Directv 611"
   },
   {
-    "partido": "River Plate - Deportivo Riestra",
-    "liga": "Superliga Argentina",
-    "hora": "4:00 p. m.",
-    "canal": "ESPN / Disney+"
+    "partido": "Colombia - Arabia Saudita",
+    "liga": "Mundial Sub-20 Chile",
+    "hora": "6:00 p. m.",
+    "canal": "Caracol / RCN / Directv 610"
   },
   {
-    "partido": "Águilas Doradas - Deportivo Cali",
-    "liga": "Liga BetPlay",
-    "hora": "4:10 p. m.",
-    "canal": "Win Sports +"
-  },
-  {
-    "partido": "Cuba - Argentina",
+    "partido": "Estados Unidos - Nueva Caledonia",
     "liga": "Mundial Sub-20 Chile",
     "hora": "6:00 p. m.",
     "canal": "Directv 611"
-  },
-  {
-    "partido": "Brasil - México",
-    "liga": "Mundial Sub-20 Chile",
-    "hora": "6:00 p. m.",
-    "canal": "Directv 610"
-  },
-  {
-    "partido": "Santa Fe - Equidad",
-    "liga": "Liga BetPlay",
-    "hora": "6:20 p. m.",
-    "canal": "Win Sports +"
-  },
-  {
-    "partido": "Junior - Deportivo Pasto",
-    "liga": "Liga BetPlay",
-    "hora": "8:30 p. m.",
-    "canal": "Win Sports +"
   }
 ]
