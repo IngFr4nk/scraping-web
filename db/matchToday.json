@@ -1,44 +1,80 @@
 [
   {
-    "partido": "Parma - Torino",
-    "liga": "Serie A",
-    "hora": "11:30 a. m.",
-    "canal": "Disney+"
+    "partido": "Atalanta - Brujas",
+    "liga": "Champions League",
+    "hora": "11:45 a. m.",
+    "canal": "ESPN 2 / Disney+"
   },
   {
-    "partido": "Everton - West Ham Utd.",
-    "liga": "Liga de Inglaterra",
+    "partido": "Kairat Almaty - Real Madrid",
+    "liga": "Champions League",
+    "hora": "11:45 a. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Pafos - Bayern Munich",
+    "liga": "Champions League",
     "hora": "2:00 p. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Valencia CF - Real Oviedo",
-    "liga": "Liga de España",
+    "partido": "Chelsea - Benfica",
+    "liga": "Champions League",
     "hora": "2:00 p. m.",
-    "canal": "Disney+"
+    "canal": "ESPN 2 / Disney+"
   },
   {
-    "partido": "Francia - Sudáfrica",
+    "partido": "Bodo Glimt - Tottenham Hotspur",
+    "liga": "Champions League",
+    "hora": "2:00 p. m.",
+    "canal": "ESPN 4 / Disney+"
+  },
+  {
+    "partido": "Atlético de Madrid - Eintracht Frankfurt",
+    "liga": "Champions League",
+    "hora": "2:00 p. m.",
+    "canal": "ESPN 3 / Disney+"
+  },
+  {
+    "partido": "Galatasaray - Liverpool",
+    "liga": "Champions League",
+    "hora": "2:00 p. m.",
+    "canal": "ESPN 5 / Disney+"
+  },
+  {
+    "partido": "Marsella - Ajax",
+    "liga": "Champions League",
+    "hora": "2:00 p. m.",
+    "canal": "ESPN 6 / Disney+"
+  },
+  {
+    "partido": "Inter - Slavia Praga",
+    "liga": "Champions League",
+    "hora": "2:00 p. m.",
+    "canal": "ESPN 7 / Disney+"
+  },
+  {
+    "partido": "Panamá Sub 20 - Ucrania Sub 20",
     "liga": "Mundial Sub-20 Chile",
     "hora": "3:00 p. m.",
+    "canal": "Directv 613"
+  },
+  {
+    "partido": "Egipto - Nueva Zelanda Sub 20",
+    "liga": "Mundial Sub-20 Chile",
+    "hora": "3:00 p. m.",
+    "canal": "Directv 612"
+  },
+  {
+    "partido": "Corea Sub 20 - Paraguay Sub 20",
+    "liga": "Mundial Sub-20 Chile",
+    "hora": "6:00 p. m.",
     "canal": "Directv 610"
   },
   {
-    "partido": "Noruega - Nigeria",
-    "liga": "Mundial Sub-20 Chile",
-    "hora": "3:00 p. m.",
-    "canal": "Directv 611"
-  },
-  {
-    "partido": "Colombia - Arabia Saudita",
+    "partido": "Chile Sub 20 - Japón Sub 20",
     "liga": "Mundial Sub-20 Chile",
     "hora": "6:00 p. m.",
-    "canal": "Caracol / RCN / Directv 610"
-  },
-  {
-    "partido": "Estados Unidos - Nueva Caledonia",
-    "liga": "Mundial Sub-20 Chile",
-    "hora": "6:00 p. m.",
-    "canal": "Directv 611"
+    "canal": "Directv 610"
   }
 ]
