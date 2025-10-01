@@ -1,80 +1,92 @@
 [
   {
-    "partido": "Atalanta - Brujas",
+    "partido": "Qarabag - Copenhague",
     "liga": "Champions League",
     "hora": "11:45 a. m.",
     "canal": "ESPN 2 / Disney+"
   },
   {
-    "partido": "Kairat Almaty - Real Madrid",
+    "partido": "Royale Union SG - Newcastle",
     "liga": "Champions League",
     "hora": "11:45 a. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Pafos - Bayern Munich",
-    "liga": "Champions League",
-    "hora": "2:00 p. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "Chelsea - Benfica",
-    "liga": "Champions League",
-    "hora": "2:00 p. m.",
-    "canal": "ESPN 2 / Disney+"
-  },
-  {
-    "partido": "Bodo Glimt - Tottenham Hotspur",
-    "liga": "Champions League",
-    "hora": "2:00 p. m.",
-    "canal": "ESPN 4 / Disney+"
-  },
-  {
-    "partido": "Atlético de Madrid - Eintracht Frankfurt",
-    "liga": "Champions League",
-    "hora": "2:00 p. m.",
-    "canal": "ESPN 3 / Disney+"
-  },
-  {
-    "partido": "Galatasaray - Liverpool",
+    "partido": "Arsenal - Olimpiakos",
     "liga": "Champions League",
     "hora": "2:00 p. m.",
     "canal": "ESPN 5 / Disney+"
   },
   {
-    "partido": "Marsella - Ajax",
+    "partido": "Napoli - Sporting de Lisboa",
+    "liga": "Champions League",
+    "hora": "2:00 p. m.",
+    "canal": "ESPN 4 / Disney+"
+  },
+  {
+    "partido": "Barcelona - Paris Saint-Germain",
+    "liga": "Champions League",
+    "hora": "2:00 p. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Borussia Dortmund - Athletic Club",
     "liga": "Champions League",
     "hora": "2:00 p. m.",
     "canal": "ESPN 6 / Disney+"
   },
   {
-    "partido": "Inter - Slavia Praga",
+    "partido": "Bayer Leverkusen - PSV",
     "liga": "Champions League",
     "hora": "2:00 p. m.",
     "canal": "ESPN 7 / Disney+"
   },
   {
-    "partido": "Panamá Sub 20 - Ucrania Sub 20",
-    "liga": "Mundial Sub-20 Chile",
-    "hora": "3:00 p. m.",
-    "canal": "Directv 613"
+    "partido": "Villarreal - Juventus",
+    "liga": "Champions League",
+    "hora": "2:00 p. m.",
+    "canal": "ESPN 3 / Disney+"
   },
   {
-    "partido": "Egipto - Nueva Zelanda Sub 20",
+    "partido": "Mónaco - Manchester City",
+    "liga": "Champions League",
+    "hora": "2:00 p. m.",
+    "canal": "ESPN 2 / Disney+"
+  },
+  {
+    "partido": "Italia Sub 20 - Cuba",
     "liga": "Mundial Sub-20 Chile",
     "hora": "3:00 p. m.",
     "canal": "Directv 612"
   },
   {
-    "partido": "Corea Sub 20 - Paraguay Sub 20",
+    "partido": "España - México Sub 20",
+    "liga": "Mundial Sub-20 Chile",
+    "hora": "3:00 p. m.",
+    "canal": "Directv 613"
+  },
+  {
+    "partido": "Brasil Sub 20 - Marruecos",
+    "liga": "Mundial Sub-20 Chile",
+    "hora": "6:00 p. m.",
+    "canal": "Directv 613"
+  },
+  {
+    "partido": "Argentina Sub 20 - Australia",
     "liga": "Mundial Sub-20 Chile",
     "hora": "6:00 p. m.",
     "canal": "Directv 610"
   },
   {
-    "partido": "Chile Sub 20 - Japón Sub 20",
-    "liga": "Mundial Sub-20 Chile",
-    "hora": "6:00 p. m.",
-    "canal": "Directv 610"
+    "partido": "Once Caldas - Deportivo Pasto",
+    "liga": "Copa Betplay",
+    "hora": "7:00 p. m.",
+    "canal": "Win Sports"
+  },
+  {
+    "partido": "Santa Fe - Independiente Medellín",
+    "liga": "Copa Betplay",
+    "hora": "8:00 p. m.",
+    "canal": "Win Sports +"
   }
 ]
