@@ -1,92 +1,92 @@
 [
   {
-    "partido": "Qarabag - Copenhague",
-    "liga": "Champions League",
-    "hora": "11:45 a. m.",
-    "canal": "ESPN 2 / Disney+"
-  },
-  {
-    "partido": "Royale Union SG - Newcastle",
-    "liga": "Champions League",
+    "partido": "Ludogorets - Real Betis",
+    "liga": "Liga de Europa",
     "hora": "11:45 a. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Arsenal - Olimpiakos",
-    "liga": "Champions League",
-    "hora": "2:00 p. m.",
-    "canal": "ESPN 5 / Disney+"
+    "partido": "Bolognia - Friburgo",
+    "liga": "Liga de Europa",
+    "hora": "11:45 a. m.",
+    "canal": "ESPN 4 / Disney+"
   },
   {
-    "partido": "Napoli - Sporting de Lisboa",
-    "liga": "Champions League",
+    "partido": "Roma - Lille",
+    "liga": "Liga de Europa",
+    "hora": "11:45 a. m.",
+    "canal": "ESPN 2 / Disney+"
+  },
+  {
+    "partido": "Celtic - Braga",
+    "liga": "Liga de Europa",
+    "hora": "11:45 a. m.",
+    "canal": "ESPN 3 / Disney+"
+  },
+  {
+    "partido": "Fenerbache - Niza",
+    "liga": "Liga de Europa",
+    "hora": "11:45 a. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Nottingham Forest - Midtjylland",
+    "liga": "Liga de Europa",
     "hora": "2:00 p. m.",
     "canal": "ESPN 4 / Disney+"
   },
   {
-    "partido": "Barcelona - Paris Saint-Germain",
-    "liga": "Champions League",
-    "hora": "2:00 p. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "Borussia Dortmund - Athletic Club",
-    "liga": "Champions League",
-    "hora": "2:00 p. m.",
-    "canal": "ESPN 6 / Disney+"
-  },
-  {
-    "partido": "Bayer Leverkusen - PSV",
-    "liga": "Champions League",
-    "hora": "2:00 p. m.",
-    "canal": "ESPN 7 / Disney+"
-  },
-  {
-    "partido": "Villarreal - Juventus",
-    "liga": "Champions League",
-    "hora": "2:00 p. m.",
-    "canal": "ESPN 3 / Disney+"
-  },
-  {
-    "partido": "Mónaco - Manchester City",
-    "liga": "Champions League",
+    "partido": "Lyon - Red Bull Salzburg",
+    "liga": "Liga de Europa",
     "hora": "2:00 p. m.",
     "canal": "ESPN 2 / Disney+"
   },
   {
-    "partido": "Italia Sub 20 - Cuba",
+    "partido": "Celta de Vigo - Paok Salonika",
+    "liga": "Liga de Europa",
+    "hora": "2:00 p. m.",
+    "canal": "ESPN 3 / Disney+"
+  },
+  {
+    "partido": "Feyenoord - Aston Villa",
+    "liga": "Liga de Europa",
+    "hora": "2:00 p. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Estados Unidos - Francia",
     "liga": "Mundial Sub-20 Chile",
     "hora": "3:00 p. m.",
-    "canal": "Directv 612"
+    "canal": "DSports"
   },
   {
-    "partido": "España - México Sub 20",
+    "partido": "Colombia - Noruega",
     "liga": "Mundial Sub-20 Chile",
     "hora": "3:00 p. m.",
-    "canal": "Directv 613"
+    "canal": "Caracol / RCN / Directv 610"
   },
   {
-    "partido": "Brasil Sub 20 - Marruecos",
-    "liga": "Mundial Sub-20 Chile",
+    "partido": "Always Ready - Santa Fe",
+    "liga": "Copa Libertadores Femenina",
     "hora": "6:00 p. m.",
-    "canal": "Directv 613"
-  },
-  {
-    "partido": "Argentina Sub 20 - Australia",
-    "liga": "Mundial Sub-20 Chile",
-    "hora": "6:00 p. m.",
-    "canal": "Directv 610"
-  },
-  {
-    "partido": "Once Caldas - Deportivo Pasto",
-    "liga": "Copa Betplay",
-    "hora": "7:00 p. m.",
     "canal": "Win Sports"
   },
   {
-    "partido": "Santa Fe - Independiente Medellín",
+    "partido": "Sudáfrica - Nueva Caledonia",
+    "liga": "Mundial Sub-20 Chile",
+    "hora": "6:00 p. m.",
+    "canal": "Directv 612"
+  },
+  {
+    "partido": "Nigeria - Arabia Saudí",
+    "liga": "Mundial Sub-20 Chile",
+    "hora": "6:00 p. m.",
+    "canal": "DSports"
+  },
+  {
+    "partido": "Junior - América",
     "liga": "Copa Betplay",
     "hora": "8:00 p. m.",
-    "canal": "Win Sports +"
+    "canal": "Win Sports+"
   }
 ]
