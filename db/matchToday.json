@@ -1,92 +1,62 @@
 [
   {
-    "partido": "Ludogorets - Real Betis",
-    "liga": "Liga de Europa",
-    "hora": "11:45 a. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "Bolognia - Friburgo",
-    "liga": "Liga de Europa",
-    "hora": "11:45 a. m.",
-    "canal": "ESPN 4 / Disney+"
-  },
-  {
-    "partido": "Roma - Lille",
-    "liga": "Liga de Europa",
-    "hora": "11:45 a. m.",
-    "canal": "ESPN 2 / Disney+"
-  },
-  {
-    "partido": "Celtic - Braga",
-    "liga": "Liga de Europa",
-    "hora": "11:45 a. m.",
-    "canal": "ESPN 3 / Disney+"
-  },
-  {
-    "partido": "Fenerbache - Niza",
-    "liga": "Liga de Europa",
-    "hora": "11:45 a. m.",
+    "partido": "Hoffenheim - Colonia",
+    "liga": "Bundesliga",
+    "hora": "1:30 p. m.",
     "canal": "Disney+"
   },
   {
-    "partido": "Nottingham Forest - Midtjylland",
-    "liga": "Liga de Europa",
-    "hora": "2:00 p. m.",
-    "canal": "ESPN 4 / Disney+"
+    "partido": "Hellas Verona - Sassuolo",
+    "liga": "Serie A",
+    "hora": "1:45 p. m.",
+    "canal": "Disney+"
   },
   {
-    "partido": "Lyon - Red Bull Salzburg",
-    "liga": "Liga de Europa",
+    "partido": "Deportivo Cali - Libertad",
+    "liga": "Copa Libertadores Femenina",
     "hora": "2:00 p. m.",
-    "canal": "ESPN 2 / Disney+"
+    "canal": "Win Sports"
   },
   {
-    "partido": "Celta de Vigo - Paok Salonika",
-    "liga": "Liga de Europa",
-    "hora": "2:00 p. m.",
-    "canal": "ESPN 3 / Disney+"
-  },
-  {
-    "partido": "Feyenoord - Aston Villa",
-    "liga": "Liga de Europa",
+    "partido": "Bournemouth - Fulham",
+    "liga": "Liga de Inglaterra",
     "hora": "2:00 p. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Estados Unidos - Francia",
-    "liga": "Mundial Sub-20 Chile",
-    "hora": "3:00 p. m.",
-    "canal": "DSports"
+    "partido": "Osasuna - Getafe",
+    "liga": "Liga de España",
+    "hora": "2:00 p. m.",
+    "canal": "ESPN 3 / Disney+"
   },
   {
-    "partido": "Colombia - Noruega",
+    "partido": "Ucrania - Paraguay",
     "liga": "Mundial Sub-20 Chile",
     "hora": "3:00 p. m.",
-    "canal": "Caracol / RCN / Directv 610"
+    "canal": "Directv 610"
   },
   {
-    "partido": "Always Ready - Santa Fe",
-    "liga": "Copa Libertadores Femenina",
+    "partido": "Panamá - C. del Sur",
+    "liga": "Mundial Sub-20 Chile",
+    "hora": "3:00 p. m.",
+    "canal": "Directv 612"
+  },
+  {
+    "partido": "Egipto - Chile",
+    "liga": "Mundial Sub-20 Chile",
     "hora": "6:00 p. m.",
-    "canal": "Win Sports"
+    "canal": "Directv 610"
   },
   {
-    "partido": "Sudáfrica - Nueva Caledonia",
+    "partido": "Nueva Zelanda - Japón",
     "liga": "Mundial Sub-20 Chile",
     "hora": "6:00 p. m.",
     "canal": "Directv 612"
   },
   {
-    "partido": "Nigeria - Arabia Saudí",
-    "liga": "Mundial Sub-20 Chile",
-    "hora": "6:00 p. m.",
-    "canal": "DSports"
-  },
-  {
-    "partido": "Junior - América",
-    "liga": "Copa Betplay",
-    "hora": "8:00 p. m.",
-    "canal": "Win Sports+"
+    "partido": "Deportivo Cali - Pereira",
+    "liga": "Liga BetPlay",
+    "hora": "7:30 p. m.",
+    "canal": "Win Sports +"
   }
 ]
