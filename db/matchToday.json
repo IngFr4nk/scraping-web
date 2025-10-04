@@ -1,62 +1,140 @@
 [
   {
-    "partido": "Hoffenheim - Colonia",
-    "liga": "Bundesliga",
-    "hora": "1:30 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Hellas Verona - Sassuolo",
-    "liga": "Serie A",
-    "hora": "1:45 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Deportivo Cali - Libertad",
-    "liga": "Copa Libertadores Femenina",
-    "hora": "2:00 p. m.",
-    "canal": "Win Sports"
-  },
-  {
-    "partido": "Bournemouth - Fulham",
+    "partido": "Leeds - Tottenham Hotspur",
     "liga": "Liga de Inglaterra",
-    "hora": "2:00 p. m.",
+    "hora": "6:30 a. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Osasuna - Getafe",
+    "partido": "Real Oviedo - Levante",
     "liga": "Liga de España",
-    "hora": "2:00 p. m.",
-    "canal": "ESPN 3 / Disney+"
+    "hora": "7:00 a. m.",
+    "canal": "Disney+"
   },
   {
-    "partido": "Ucrania - Paraguay",
-    "liga": "Mundial Sub-20 Chile",
-    "hora": "3:00 p. m.",
+    "partido": "Parma - Lecce",
+    "liga": "Serie A",
+    "hora": "8:00 a. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Lazio - Torino",
+    "liga": "Serie A",
+    "hora": "8:00 a. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Borussia Dortmund - RB Leipzig",
+    "liga": "Bundesliga",
+    "hora": "8:30 a. m.",
+    "canal": "ESPN 2 / Disney+"
+  },
+  {
+    "partido": "Bayer Leverkusen - Union Berlin",
+    "liga": "Bundesliga",
+    "hora": "8:30 a. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Arsenal - West Ham Utd.",
+    "liga": "Liga de Inglaterra",
+    "hora": "9:00 a. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Manchester United - Sunderland",
+    "liga": "Liga de Inglaterra",
+    "hora": "9:00 a. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Girona - Valencia CF",
+    "liga": "Liga de España",
+    "hora": "9:15 a. m.",
     "canal": "Directv 610"
   },
   {
-    "partido": "Panamá - C. del Sur",
-    "liga": "Mundial Sub-20 Chile",
-    "hora": "3:00 p. m.",
-    "canal": "Directv 612"
+    "partido": "Inter - Cremonese",
+    "liga": "Serie A",
+    "hora": "11:00 a. m.",
+    "canal": "ESPN 2 / Disney+"
   },
   {
-    "partido": "Egipto - Chile",
-    "liga": "Mundial Sub-20 Chile",
-    "hora": "6:00 p. m.",
-    "canal": "Directv 610"
+    "partido": "Chelsea - Liverpool",
+    "liga": "Liga de Inglaterra",
+    "hora": "11:30 a. m.",
+    "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Nueva Zelanda - Japón",
-    "liga": "Mundial Sub-20 Chile",
-    "hora": "6:00 p. m.",
-    "canal": "Directv 612"
+    "partido": "Athletic Club - Mallorca",
+    "liga": "Liga de España",
+    "hora": "11:30 a. m.",
+    "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Deportivo Cali - Pereira",
+    "partido": "Eintracht Frankfurt - Bayern Munich",
+    "liga": "Bundesliga",
+    "hora": "11:30 a. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Galatasaray - Besiktas",
+    "liga": "Liga de Turquía",
+    "hora": "12:00 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Atalanta - Como",
+    "liga": "Serie A",
+    "hora": "1:45 p. m.",
+    "canal": "ESPN 2 / Disney+"
+  },
+  {
+    "partido": "Envigado F.C - Bucaramanga",
     "liga": "Liga BetPlay",
-    "hora": "7:30 p. m.",
-    "canal": "Win Sports +"
+    "hora": "2:00 p. m.",
+    "canal": "Win Sports / Win Sports+"
+  },
+  {
+    "partido": "España - Brasil",
+    "liga": "Mundial Sub-20 Chile",
+    "hora": "3:00 p. m.",
+    "canal": "Directv 610"
+  },
+  {
+    "partido": "México - Marruecos",
+    "liga": "Mundial Sub-20 Chile",
+    "hora": "3:00 p. m.",
+    "canal": "Directv 613"
+  },
+  {
+    "partido": "Unión Magdalena - Águilas Doradas",
+    "liga": "Liga BetPlay",
+    "hora": "4:10 p. m.",
+    "canal": "Win Sports / Win Sports+"
+  },
+  {
+    "partido": "Australia - Cuba",
+    "liga": "Mundial Sub-20 Chile",
+    "hora": "6:00 p. m.",
+    "canal": "Directv 613"
+  },
+  {
+    "partido": "Argentina - Italia",
+    "liga": "Mundial Sub-20 Chile",
+    "hora": "6:00 p. m.",
+    "canal": "Directv 610"
+  },
+  {
+    "partido": "Llaneros - Fortaleza F.C",
+    "liga": "Liga BetPlay",
+    "hora": "6:20 p. m.",
+    "canal": "Win Sports+"
+  },
+  {
+    "partido": "León - Toluca",
+    "liga": "Liga de México",
+    "hora": "8:00 p. m.",
+    "canal": "Win Sports"
   }
 ]
