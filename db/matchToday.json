@@ -1,26 +1,32 @@
 [
   {
-    "partido": "Deportivo Cali - Nacional (Uru)",
-    "liga": "Copa Libertadores Femenina",
-    "hora": "2:00 p. m.",
-    "canal": "Win Sports / Pluto TV"
+    "partido": "Ucrania - España",
+    "liga": "Mundial Sub-20 Chile",
+    "hora": "2:30 p. m.",
+    "canal": "Directv 610"
   },
   {
-    "partido": "Atlético Huila - Barranquilla",
+    "partido": "Envigado F.C - Pereira",
+    "liga": "Copa Betplay",
+    "hora": "3:00 p. m.",
+    "canal": "Win Sports"
+  },
+  {
+    "partido": "Real Cundinamarca - Orsomarso",
     "liga": "Torneo Betplay",
-    "hora": "3:30 p. m.",
+    "hora": "5:10 p. m.",
     "canal": "Win Sports +"
   },
   {
-    "partido": "Tigres - Patriotas F.C",
-    "liga": "Torneo Betplay",
-    "hora": "5:30 p. m.",
-    "canal": "Win Sports +"
+    "partido": "Chile - México",
+    "liga": "Mundial Sub-20 Chile",
+    "hora": "6:00 p. m.",
+    "canal": "Directv 610"
   },
   {
-    "partido": "Equidad - Once Caldas",
+    "partido": "Millonarios - América",
     "liga": "Liga BetPlay",
     "hora": "7:30 p. m.",
-    "canal": "Win Sports / Win Sports+"
+    "canal": "Win Sports+"
   }
 ]
