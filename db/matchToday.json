@@ -1,14 +1,32 @@
 [
   {
-    "partido": "Colombia - Canadá",
-    "liga": "Partido amistoso",
-    "hora": "7:00 p. m.",
-    "canal": "Caracol TV / RCN"
+    "partido": "Atlético de Madrid - Manchester United",
+    "liga": "Champions femenina",
+    "hora": "11:45 a. m.",
+    "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Atlético Nacional - Deportivo Cali",
-    "liga": "Liga BetPlay",
-    "hora": "7:30 p. m.",
-    "canal": "Win Sports +"
+    "partido": "Bayern Munich - Juventus",
+    "liga": "Champions femenina",
+    "hora": "2:00 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Benfica - Arsenal",
+    "liga": "Champions femenina",
+    "hora": "2:00 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Paris Saint-Germain - Real Madrid",
+    "liga": "Champions femenina",
+    "hora": "2:00 p. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Gremio - Sao Paulo",
+    "liga": "Liga de Brasil",
+    "hora": "5:00 p. m.",
+    "canal": "Win Sports"
   }
 ]
