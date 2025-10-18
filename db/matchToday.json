@@ -1,32 +1,44 @@
 [
   {
-    "partido": "Atlético de Madrid - Manchester United",
-    "liga": "Champions femenina",
-    "hora": "11:45 a. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "Bayern Munich - Juventus",
-    "liga": "Champions femenina",
-    "hora": "2:00 p. m.",
+    "partido": "Union Berlin - Borussia Mönchengladbach",
+    "liga": "Bundesliga",
+    "hora": "1:30 p. m.",
     "canal": "Disney+"
   },
   {
-    "partido": "Benfica - Arsenal",
-    "liga": "Champions femenina",
-    "hora": "2:00 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Paris Saint-Germain - Real Madrid",
-    "liga": "Champions femenina",
-    "hora": "2:00 p. m.",
+    "partido": "Paris Saint-Germain - Strasbourg",
+    "liga": "Liga de Francia",
+    "hora": "1:45 p. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Gremio - Sao Paulo",
-    "liga": "Liga de Brasil",
-    "hora": "5:00 p. m.",
+    "partido": "Real Oviedo - Espanyol",
+    "liga": "Liga de España",
+    "hora": "2:00 p. m.",
+    "canal": "ESPN 2 / Disney+"
+  },
+  {
+    "partido": "Marruecos - Brasil",
+    "liga": "Mundial femenino Sub-17",
+    "hora": "2:00 p. m.",
+    "canal": "DSports / FIFA+"
+  },
+  {
+    "partido": "Unión Magdalena - Envigado F.C",
+    "liga": "Liga BetPlay",
+    "hora": "6:30 p. m.",
     "canal": "Win Sports"
+  },
+  {
+    "partido": "Independiente Medellín - Fortaleza F.C",
+    "liga": "Liga BetPlay",
+    "hora": "6:30 p. m.",
+    "canal": "Win Sports+"
+  },
+  {
+    "partido": "Boyacá Chicó - Santa Fe",
+    "liga": "Liga BetPlay",
+    "hora": "8:30 p. m.",
+    "canal": "Win Sports+"
   }
 ]
