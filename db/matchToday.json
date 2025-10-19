@@ -1,44 +1,92 @@
 [
   {
-    "partido": "Union Berlin - Borussia Mönchengladbach",
-    "liga": "Bundesliga",
-    "hora": "1:30 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Paris Saint-Germain - Strasbourg",
-    "liga": "Liga de Francia",
-    "hora": "1:45 p. m.",
+    "partido": "Como - Juventus",
+    "liga": "Serie A",
+    "hora": "5:30 a. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Real Oviedo - Espanyol",
+    "partido": "Elche - Athletic Club",
     "liga": "Liga de España",
-    "hora": "2:00 p. m.",
+    "hora": "7:00 a. m.",
     "canal": "ESPN 2 / Disney+"
   },
   {
-    "partido": "Marruecos - Brasil",
+    "partido": "Cagliari - Bolognia",
+    "liga": "Serie A",
+    "hora": "8:00 a. m.",
+    "canal": "ESPN 3 / Disney+"
+  },
+  {
+    "partido": "Tottenham Hotspur - Aston Villa",
+    "liga": "Liga de Inglaterra",
+    "hora": "8:00 a. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Celta de Vigo - Real Sociedad",
+    "liga": "Liga de España",
+    "hora": "9:15 a. m.",
+    "canal": "Directv 610"
+  },
+  {
+    "partido": "Liverpool - Manchester United",
+    "liga": "Liga de Inglaterra",
+    "hora": "10:30 a. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Atalanta - Lazio",
+    "liga": "Serie A",
+    "hora": "11:00 a. m.",
+    "canal": "ESPN 2 / Disney+"
+  },
+  {
+    "partido": "Levante - Rayo Vallecano",
+    "liga": "Liga de España",
+    "hora": "11:30 a. m.",
+    "canal": "Directv 610"
+  },
+  {
+    "partido": "Estudiantes - Gimnasia de La Plata",
+    "liga": "Superliga Argentina",
+    "hora": "1:00 p. m.",
+    "canal": "TyC Sports"
+  },
+  {
+    "partido": "Milán - Fiorentina",
+    "liga": "Serie A",
+    "hora": "1:45 p. m.",
+    "canal": "ESPN 2 / Disney+"
+  },
+  {
+    "partido": "Nantes - Lille",
+    "liga": "Liga de Francia",
+    "hora": "1:45 p. m.",
+    "canal": "ESPN 3 / Disney+"
+  },
+  {
+    "partido": "Getafe - Real Madrid",
+    "liga": "Liga de España",
+    "hora": "2:00 p. m.",
+    "canal": "Directv 610"
+  },
+  {
+    "partido": "España - Colombia",
     "liga": "Mundial femenino Sub-17",
     "hora": "2:00 p. m.",
-    "canal": "DSports / FIFA+"
+    "canal": "Caracol / RCN"
   },
   {
-    "partido": "Unión Magdalena - Envigado F.C",
+    "partido": "Llaneros - Once Caldas",
     "liga": "Liga BetPlay",
-    "hora": "6:30 p. m.",
-    "canal": "Win Sports"
+    "hora": "4:10 p. m.",
+    "canal": "Win Sports +"
   },
   {
-    "partido": "Independiente Medellín - Fortaleza F.C",
-    "liga": "Liga BetPlay",
-    "hora": "6:30 p. m.",
-    "canal": "Win Sports+"
-  },
-  {
-    "partido": "Boyacá Chicó - Santa Fe",
-    "liga": "Liga BetPlay",
-    "hora": "8:30 p. m.",
-    "canal": "Win Sports+"
+    "partido": "Argentina - Marruecos",
+    "liga": "Mundial Sub-20 Chile",
+    "hora": "6:00 p. m.",
+    "canal": "DSports"
   }
 ]
