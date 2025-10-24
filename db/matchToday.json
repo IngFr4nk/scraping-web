@@ -1,92 +1,74 @@
 [
   {
-    "partido": "Genk - Real Betis",
-    "liga": "Liga de Europa",
-    "hora": "11:45 a. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "Go Ahead Eagles - Aston Villa",
-    "liga": "Liga de Europa",
-    "hora": "11:45 a. m.",
-    "canal": "ESPN 2 / Disney+"
-  },
-  {
-    "partido": "Lyon - Basilea",
-    "liga": "Liga de Europa",
-    "hora": "11:45 a. m.",
+    "partido": "Werder Bremen - Union Berlin",
+    "liga": "Bundesliga",
+    "hora": "1:30 p. m.",
     "canal": "ESPN 3 / Disney+"
   },
   {
-    "partido": "Feyenoord - Panathinaikos",
-    "liga": "Liga de Europa",
-    "hora": "11:45 a. m.",
+    "partido": "Milán - Pisa",
+    "liga": "Serie A",
+    "hora": "1:45 p. m.",
     "canal": "ESPN 4 / Disney+"
   },
   {
-    "partido": "Steaua Bucarest - Bolognia",
-    "liga": "Liga de Europa",
-    "hora": "11:45 a. m.",
-    "canal": "ESPN 5 / Disney+"
-  },
-  {
-    "partido": "Fenerbache - VfB Stuttgart",
-    "liga": "Liga de Europa",
-    "hora": "11:45 a. m.",
-    "canal": "ESPN 7 / Disney+"
-  },
-  {
-    "partido": "Braga - Estrella Roja",
-    "liga": "Liga de Europa",
-    "hora": "11:45 a. m.",
+    "partido": "Paris FC - Nantes",
+    "liga": "Liga de Francia",
+    "hora": "1:45 p. m.",
     "canal": "Disney+"
   },
   {
-    "partido": "Roma - Viktoria Plzen",
-    "liga": "Liga de Europa",
+    "partido": "Real Sociedad - Sevilla",
+    "liga": "Liga de España",
+    "hora": "2:00 p. m.",
+    "canal": "Directv 610"
+  },
+  {
+    "partido": "Leeds - West Ham Utd.",
+    "liga": "Liga de Inglaterra",
     "hora": "2:00 p. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Malmoe - Dynamo Zagreb",
-    "liga": "Liga de Europa",
-    "hora": "2:00 p. m.",
-    "canal": "ESPN 7 / Disney+"
+    "partido": "Alianza FC - Equidad",
+    "liga": "Liga BetPlay",
+    "hora": "4:00 p. m.",
+    "canal": "Win Sports+"
   },
   {
-    "partido": "Lille - Paok Salonika",
-    "liga": "Liga de Europa",
-    "hora": "2:00 p. m.",
-    "canal": "ESPN 5 / Disney+"
+    "partido": "Venezuela - Chile",
+    "liga": "Liga de Naciones Femenina",
+    "hora": "4:00 p. m.",
+    "canal": "Win Sports"
   },
   {
-    "partido": "Celtic - Sturm Graz",
-    "liga": "Liga de Europa",
-    "hora": "2:00 p. m.",
-    "canal": "ESPN 4 / Disney+"
+    "partido": "Argentina - Paraguay",
+    "liga": "Liga de Naciones Femenina",
+    "hora": "6:00 p. m.",
+    "canal": "Win Sports"
   },
   {
-    "partido": "Celta de Vigo - Niza",
-    "liga": "Liga de Europa",
-    "hora": "2:00 p. m.",
-    "canal": "ESPN 3 / Disney+"
+    "partido": "Colombia - Perú",
+    "liga": "Liga de Naciones Femenina",
+    "hora": "6:00 p. m.",
+    "canal": "Caracol / RCN"
   },
   {
-    "partido": "Nottingham Forest - Porto",
-    "liga": "Liga de Europa",
-    "hora": "2:00 p. m.",
-    "canal": "ESPN 2 / Disney+"
+    "partido": "Fortaleza F.C - Deportivo Pasto",
+    "liga": "Liga BetPlay",
+    "hora": "6:00 p. m.",
+    "canal": "Win Sports +"
   },
   {
-    "partido": "Universidad de Chile - Lanús",
-    "liga": "Copa Sudamericana",
-    "hora": "5:00 p. m.",
-    "canal": "Directv 610 / ESPN / Disney+"
+    "partido": "Pereira - Águilas Doradas",
+    "liga": "Liga BetPlay",
+    "hora": "8:10 p. m.",
+    "canal": "Win Sports"
   },
   {
-    "partido": "Liga de Quito - Palmeiras",
-    "liga": "Copa Libertadores",
-    "hora": "7:30 p. m.",
-    "canal": "ESPN / Disney+"
+    "partido": "América - Junior",
+    "liga": "Liga BetPlay",
+    "hora": "8:10 p. m.",
+    "canal": "Win Sports +"
   }
 ]
