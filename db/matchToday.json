@@ -1,104 +1,38 @@
 [
   {
-    "partido": "FC Twente - Ajax",
-    "liga": "Liga de Holanda",
-    "hora": "6:15 a. m.",
-    "canal": "ESPN 2 / Disney+"
-  },
-  {
-    "partido": "Torino - Génoa",
-    "liga": "Serie A",
-    "hora": "6:30 a. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "Mallorca - Levante",
-    "liga": "Liga de España",
-    "hora": "8:00 a. m.",
-    "canal": "DSports"
-  },
-  {
-    "partido": "Aston Villa - Manchester City",
-    "liga": "Liga de Inglaterra",
-    "hora": "9:00 a. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Wolverhampton - Burnley",
-    "liga": "Liga de Inglaterra",
-    "hora": "9:00 a. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Hellas Verona - Cagliari",
-    "liga": "Serie A",
-    "hora": "9:00 a. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Sassuolo - Roma",
-    "liga": "Serie A",
-    "hora": "9:00 a. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Arsenal - Crystal Palace",
-    "liga": "Liga de Inglaterra",
-    "hora": "9:00 a. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Bayer Leverkusen - Friburgo",
-    "liga": "Bundesliga",
-    "hora": "9:30 a. m.",
-    "canal": "ESPN 2 / Disney+"
-  },
-  {
-    "partido": "Real Madrid - Barcelona",
-    "liga": "Liga de España",
-    "hora": "10:15 a. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "Everton - Tottenham Hotspur",
-    "liga": "Liga de Inglaterra",
-    "hora": "11:30 a. m.",
-    "canal": "ESPN 2 / Disney+"
-  },
-  {
-    "partido": "Fiorentina - Bolognia",
-    "liga": "Serie A",
+    "partido": "Gaziantepspor - Fenerbache",
+    "liga": "Liga de Turquía",
     "hora": "12:00 p. m.",
-    "canal": "Disney+"
+    "canal": "ESPN 5 / Disney+"
   },
   {
-    "partido": "Osasuna - Celta de Vigo",
-    "liga": "Liga de España",
-    "hora": "12:30 p. m.",
-    "canal": "ESPN 3 / Disney+"
+    "partido": "Barracas Central - Boca Juniors",
+    "liga": "Liga de Argentina",
+    "hora": "2:00 p. m.",
+    "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Lazio - Juventus",
-    "liga": "Serie A",
-    "hora": "2:45 p. m.",
-    "canal": "ESPN 2 / Disney+"
-  },
-  {
-    "partido": "Rayo Vallecano - Alavés",
+    "partido": "Real Betis - Atlético de Madrid",
     "liga": "Liga de España",
     "hora": "3:00 p. m.",
-    "canal": "DSports"
+    "canal": "Directv 610"
   },
   {
-    "partido": "Real Cundinamarca - Inter Palmira",
+    "partido": "Quindío - Real Cartagena",
     "liga": "Torneo Betplay",
-    "hora": "4:00 p. m.",
-    "canal": "Win Sports / Win Sports+"
+    "hora": "5:15 p. m.",
+    "canal": "Win Sports"
   },
   {
-    "partido": "Atlético Nacional - Independiente Medellín",
-    "liga": "Liga BetPlay",
-    "hora": "6:30 p. m.",
+    "partido": "Jaguares de Córdoba - Boca Juniors de Cali",
+    "liga": "Torneo Betplay",
+    "hora": "5:15 p. m.",
     "canal": "Win Sports+"
+  },
+  {
+    "partido": "Deportivo Pasto - Pereira",
+    "liga": "Liga BetPlay",
+    "hora": "7:45 p. m.",
+    "canal": "Por confirmar"
   }
 ]
