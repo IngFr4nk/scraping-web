@@ -1,38 +1,50 @@
 [
   {
-    "partido": "Gaziantepspor - Fenerbache",
-    "liga": "Liga de Turquía",
-    "hora": "12:00 p. m.",
-    "canal": "ESPN 5 / Disney+"
-  },
-  {
-    "partido": "Barracas Central - Boca Juniors",
-    "liga": "Liga de Argentina",
-    "hora": "2:00 p. m.",
+    "partido": "Lecce - Napoli",
+    "liga": "Serie A",
+    "hora": "12:30 p. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Real Betis - Atlético de Madrid",
-    "liga": "Liga de España",
-    "hora": "3:00 p. m.",
-    "canal": "Directv 610"
+    "partido": "Atalanta - Milán",
+    "liga": "Serie A",
+    "hora": "2:45 p. m.",
+    "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Quindío - Real Cartagena",
-    "liga": "Torneo Betplay",
-    "hora": "5:15 p. m.",
+    "partido": "Uruguay - Argentina",
+    "liga": "Liga de Naciones Femenina",
+    "hora": "4:00 p. m.",
     "canal": "Win Sports"
   },
   {
-    "partido": "Jaguares de Córdoba - Boca Juniors de Cali",
-    "liga": "Torneo Betplay",
-    "hora": "5:15 p. m.",
+    "partido": "Águilas Doradas - Envigado F.C",
+    "liga": "Liga BetPlay",
+    "hora": "4:00 p. m.",
     "canal": "Win Sports+"
   },
   {
-    "partido": "Deportivo Pasto - Pereira",
+    "partido": "Colombia Femenino - Ecuador",
+    "liga": "Liga de Naciones Femenina",
+    "hora": "6:00 p. m.",
+    "canal": "Caracol / RCN"
+  },
+  {
+    "partido": "Paraguay - Venezuela",
+    "liga": "Liga de Naciones Femenina",
+    "hora": "6:00 p. m.",
+    "canal": "Win Sports"
+  },
+  {
+    "partido": "Deportivo Cali - Alianza FC",
     "liga": "Liga BetPlay",
-    "hora": "7:45 p. m.",
-    "canal": "Por confirmar"
+    "hora": "6:10 p. m.",
+    "canal": "Win Sports+"
+  },
+  {
+    "partido": "Atlético Mineiro - Independiente del Valle",
+    "liga": "Copa Sudamericana",
+    "hora": "7:30 p. m.",
+    "canal": "Directv 610 / ESPN / Disney+"
   }
 ]
