@@ -1,50 +1,20 @@
 [
   {
-    "partido": "Lecce - Napoli",
-    "liga": "Serie A",
-    "hora": "12:30 p. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "Atalanta - Milán",
-    "liga": "Serie A",
-    "hora": "2:45 p. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "Uruguay - Argentina",
-    "liga": "Liga de Naciones Femenina",
-    "hora": "4:00 p. m.",
-    "canal": "Win Sports"
-  },
-  {
-    "partido": "Águilas Doradas - Envigado F.C",
+    "partido": "Unión Magdalena - Deportes Tolima",
     "liga": "Liga BetPlay",
     "hora": "4:00 p. m.",
     "canal": "Win Sports+"
   },
   {
-    "partido": "Colombia Femenino - Ecuador",
-    "liga": "Liga de Naciones Femenina",
-    "hora": "6:00 p. m.",
-    "canal": "Caracol / RCN"
-  },
-  {
-    "partido": "Paraguay - Venezuela",
-    "liga": "Liga de Naciones Femenina",
-    "hora": "6:00 p. m.",
-    "canal": "Win Sports"
-  },
-  {
-    "partido": "Deportivo Cali - Alianza FC",
+    "partido": "Boyacá Chicó - América",
     "liga": "Liga BetPlay",
     "hora": "6:10 p. m.",
     "canal": "Win Sports+"
   },
   {
-    "partido": "Atlético Mineiro - Independiente del Valle",
-    "liga": "Copa Sudamericana",
-    "hora": "7:30 p. m.",
-    "canal": "Directv 610 / ESPN / Disney+"
+    "partido": "Llaneros - Atlético Nacional",
+    "liga": "Liga BetPlay",
+    "hora": "8:20 p. m.",
+    "canal": "Win Sports / Win Sports+"
   }
 ]
