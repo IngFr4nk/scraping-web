@@ -1,20 +1,26 @@
 [
   {
-    "partido": "Unión Magdalena - Deportes Tolima",
-    "liga": "Liga BetPlay",
+    "partido": "FC Augsburgo - Borussia Dortmund",
+    "liga": "Bundesliga",
+    "hora": "2:30 p. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Getafe - Girona",
+    "liga": "Liga de España",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN 4 / Disney+"
+  },
+  {
+    "partido": "Atlético Huila - Jaguares de Córdoba",
+    "liga": "Torneo Betplay",
     "hora": "4:00 p. m.",
     "canal": "Win Sports+"
   },
   {
-    "partido": "Boyacá Chicó - América",
-    "liga": "Liga BetPlay",
-    "hora": "6:10 p. m.",
+    "partido": "Inter Palmira - Cúcuta",
+    "liga": "Torneo BetPlay",
+    "hora": "7:30 p. m.",
     "canal": "Win Sports+"
-  },
-  {
-    "partido": "Llaneros - Atlético Nacional",
-    "liga": "Liga BetPlay",
-    "hora": "8:20 p. m.",
-    "canal": "Win Sports / Win Sports+"
   }
 ]
