@@ -1,80 +1,86 @@
 [
   {
-    "partido": "Brasil - Honduras",
-    "liga": "Mundial sub-17",
-    "hora": "7:30 a. m.",
-    "canal": "Directv 610"
-  },
-  {
-    "partido": "México - C. del Sur",
+    "partido": "Paraguay - Uzbekistan",
     "liga": "Mundial sub-17",
     "hora": "8:00 a. m.",
     "canal": "Directv 613"
   },
   {
-    "partido": "Alemania - Colombia",
-    "liga": "Mundial sub-17",
-    "hora": "9:45 a. m.",
-    "canal": "Directv 610 / Caracol HD2 / RCN HD2"
-  },
-  {
-    "partido": "Inglaterra - Venezuela",
+    "partido": "Estados Unidos - Burkina Faso",
     "liga": "Mundial sub-17",
     "hora": "10:15 a. m.",
     "canal": "Directv 613"
   },
   {
-    "partido": "Napoli - Eintracht Frankfurt",
+    "partido": "Brasil - Corea del Norte",
+    "liga": "Mundial femenino Sub-17",
+    "hora": "10:30 a. m.",
+    "canal": "Directv 612"
+  },
+  {
+    "partido": "Francia - Chile",
+    "liga": "Mundial sub-17",
+    "hora": "10:45 a. m.",
+    "canal": "Directv 610"
+  },
+  {
+    "partido": "Pafos - Villarreal",
     "liga": "Champions League",
     "hora": "12:45 p. m.",
     "canal": "ESPN 2 / Disney+"
   },
   {
-    "partido": "Slavia Praga - Arsenal",
+    "partido": "Qarabag - Chelsea",
     "liga": "Champions League",
     "hora": "12:45 p. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Bodo Glimt - Mónaco",
+    "partido": "Manchester City - Borussia Dortmund",
     "liga": "Champions League",
     "hora": "3:00 p. m.",
-    "canal": "ESPN 6 / Disney+"
+    "canal": "ESPN 2 / Disney+"
   },
   {
-    "partido": "Tottenham Hotspur - Copenhague",
+    "partido": "Brujas - Barcelona",
     "liga": "Champions League",
     "hora": "3:00 p. m.",
-    "canal": "ESPN 7 / Disney+"
+    "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Olimpiakos - PSV",
+    "partido": "Newcastle - Athletic Club",
     "liga": "Champions League",
     "hora": "3:00 p. m.",
     "canal": "ESPN 4 / Disney+"
   },
   {
-    "partido": "Juventus - Sporting de Lisboa",
+    "partido": "Inter - Kairat Almaty",
+    "liga": "Champions League",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN 5 / Disney+"
+  },
+  {
+    "partido": "Benfica - Bayer Leverkusen",
+    "liga": "Champions League",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN 7 / Disney+"
+  },
+  {
+    "partido": "Marsella - Atalanta",
+    "liga": "Champions League",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN 6 / Disney+"
+  },
+  {
+    "partido": "Ajax - Galatasaray",
     "liga": "Champions League",
     "hora": "3:00 p. m.",
     "canal": "ESPN 3 / Disney+"
   },
   {
-    "partido": "Liverpool - Real Madrid",
-    "liga": "Champions League",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN 2 / Disney+"
-  },
-  {
-    "partido": "Paris Saint-Germain - Bayern Munich",
-    "liga": "Champions League",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "Atlético de Madrid - Royale Union SG",
-    "liga": "Champions League",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN 5 / Disney+"
+    "partido": "Rivadavia - Argentinos Juniors",
+    "liga": "Copa de Argentina",
+    "hora": "7:10 p. m.",
+    "canal": "TyC Sports Internacional"
   }
 ]
