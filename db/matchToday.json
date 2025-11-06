@@ -1,86 +1,146 @@
 [
   {
-    "partido": "Paraguay - Uzbekistan",
+    "partido": "Argentina - Túnez",
     "liga": "Mundial sub-17",
-    "hora": "8:00 a. m.",
-    "canal": "Directv 613"
+    "hora": "8:30 a. m.",
+    "canal": "Directv 610"
   },
   {
-    "partido": "Estados Unidos - Burkina Faso",
+    "partido": "Emiratos Árabes Unidos - Croacia",
     "liga": "Mundial sub-17",
     "hora": "10:15 a. m.",
     "canal": "Directv 613"
   },
   {
-    "partido": "Brasil - Corea del Norte",
-    "liga": "Mundial femenino Sub-17",
-    "hora": "10:30 a. m.",
-    "canal": "Directv 612"
-  },
-  {
-    "partido": "Francia - Chile",
+    "partido": "Bolivia - Italia",
     "liga": "Mundial sub-17",
     "hora": "10:45 a. m.",
-    "canal": "Directv 610"
+    "canal": "Directv 613"
   },
   {
-    "partido": "Pafos - Villarreal",
-    "liga": "Champions League",
+    "partido": "Midtjylland - Celtic",
+    "liga": "Liga de Europa",
     "hora": "12:45 p. m.",
-    "canal": "ESPN 2 / Disney+"
+    "canal": "ESPN 7 / Disney+"
   },
   {
-    "partido": "Qarabag - Chelsea",
-    "liga": "Champions League",
+    "partido": "Sturm Graz - Nottingham Forest",
+    "liga": "Liga de Europa",
+    "hora": "12:45 p. m.",
+    "canal": "ESPN 4 / Disney+"
+  },
+  {
+    "partido": "Estrella Roja - Lille",
+    "liga": "Liga de Europa",
+    "hora": "12:45 p. m.",
+    "canal": "ESPN 3 / Disney+"
+  },
+  {
+    "partido": "Utrecht - Porto",
+    "liga": "Liga de Europa",
     "hora": "12:45 p. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Manchester City - Borussia Dortmund",
-    "liga": "Champions League",
-    "hora": "3:00 p. m.",
+    "partido": "Niza - Friburgo",
+    "liga": "Liga de Europa",
+    "hora": "12:45 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Mainz 05 - Fiorentina",
+    "liga": "Conference League",
+    "hora": "12:45 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Dynamo Zagreb - Celta de Vigo",
+    "liga": "Liga de Europa",
+    "hora": "12:45 p. m.",
     "canal": "ESPN 2 / Disney+"
   },
   {
-    "partido": "Brujas - Barcelona",
-    "liga": "Champions League",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN / Disney+"
+    "partido": "Malmoe - Panathinaikos",
+    "liga": "Liga de Europa",
+    "hora": "12:45 p. m.",
+    "canal": "ESPN 5 / Disney+"
   },
   {
-    "partido": "Newcastle - Athletic Club",
-    "liga": "Champions League",
+    "partido": "VfB Stuttgart - Feyenoord",
+    "liga": "Liga de Europa",
     "hora": "3:00 p. m.",
     "canal": "ESPN 4 / Disney+"
   },
   {
-    "partido": "Inter - Kairat Almaty",
-    "liga": "Champions League",
+    "partido": "Bolognia - Brann",
+    "liga": "Liga de Europa",
     "hora": "3:00 p. m.",
     "canal": "ESPN 5 / Disney+"
   },
   {
-    "partido": "Benfica - Bayer Leverkusen",
-    "liga": "Champions League",
+    "partido": "Rayo Vallecano - Lech Poznan",
+    "liga": "Conference League",
     "hora": "3:00 p. m.",
-    "canal": "ESPN 7 / Disney+"
+    "canal": "Disney+"
   },
   {
-    "partido": "Marsella - Atalanta",
-    "liga": "Champions League",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN 6 / Disney+"
-  },
-  {
-    "partido": "Ajax - Galatasaray",
-    "liga": "Champions League",
+    "partido": "Rangers - Roma",
+    "liga": "Liga de Europa",
     "hora": "3:00 p. m.",
     "canal": "ESPN 3 / Disney+"
   },
   {
-    "partido": "Rivadavia - Argentinos Juniors",
-    "liga": "Copa de Argentina",
-    "hora": "7:10 p. m.",
-    "canal": "TyC Sports Internacional"
+    "partido": "Aston Villa - Maccabi Tel Aviv",
+    "liga": "Liga de Europa",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN 2 / Disney+"
+  },
+  {
+    "partido": "Real Betis - Lyon",
+    "liga": "Liga de Europa",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Crystal Palace - AZ Alkmaar",
+    "liga": "Conference League",
+    "hora": "3:00 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Paok Salonika - Young Boys",
+    "liga": "Liga de Europa",
+    "hora": "3:00 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Viktoria Plzen - Fenerbache",
+    "liga": "Liga de Europa",
+    "hora": "3:00 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Braga - Genk",
+    "liga": "Liga de Europa",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN 7 / Disney+"
+  },
+  {
+    "partido": "Cúcuta - Atlético Huila",
+    "liga": "Torneo Betplay",
+    "hora": "4:00 p. m.",
+    "canal": "Por confirmar"
+  },
+  {
+    "partido": "Boyacá Chicó - América",
+    "liga": "Liga BetPlay",
+    "hora": "6:10 p. m.",
+    "canal": "Por confirmar"
+  },
+  {
+    "partido": "Boca Juniors de Cali - Real Cundinamarca",
+    "liga": "Torneo Betplay",
+    "hora": "8:20 p. m.",
+    "canal": "Por confirmar"
   }
 ]
