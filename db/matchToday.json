@@ -1,146 +1,92 @@
 [
   {
-    "partido": "Argentina - Túnez",
+    "partido": "El Salvador - Colombia",
     "liga": "Mundial sub-17",
-    "hora": "8:30 a. m.",
+    "hora": "7:30 a. m.",
     "canal": "Directv 610"
   },
   {
-    "partido": "Emiratos Árabes Unidos - Croacia",
+    "partido": "Inglaterra - Haití",
     "liga": "Mundial sub-17",
-    "hora": "10:15 a. m.",
+    "hora": "7:30 a. m.",
     "canal": "Directv 613"
   },
   {
-    "partido": "Bolivia - Italia",
+    "partido": "Alemania - Corea del Norte",
+    "liga": "Mundial sub-17",
+    "hora": "8:00 a. m.",
+    "canal": "Directv 612"
+  },
+  {
+    "partido": "México - C. de Marfil",
+    "liga": "Mundial sub-17",
+    "hora": "9:45 a. m.",
+    "canal": "Directv 613"
+  },
+  {
+    "partido": "Brasil - Indonesia",
     "liga": "Mundial sub-17",
     "hora": "10:45 a. m.",
-    "canal": "Directv 613"
+    "canal": "Directv 612"
   },
   {
-    "partido": "Midtjylland - Celtic",
-    "liga": "Liga de Europa",
-    "hora": "12:45 p. m.",
-    "canal": "ESPN 7 / Disney+"
-  },
-  {
-    "partido": "Sturm Graz - Nottingham Forest",
-    "liga": "Liga de Europa",
-    "hora": "12:45 p. m.",
-    "canal": "ESPN 4 / Disney+"
-  },
-  {
-    "partido": "Estrella Roja - Lille",
-    "liga": "Liga de Europa",
-    "hora": "12:45 p. m.",
-    "canal": "ESPN 3 / Disney+"
-  },
-  {
-    "partido": "Utrecht - Porto",
-    "liga": "Liga de Europa",
-    "hora": "12:45 p. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "Niza - Friburgo",
-    "liga": "Liga de Europa",
-    "hora": "12:45 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Mainz 05 - Fiorentina",
-    "liga": "Conference League",
-    "hora": "12:45 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Dynamo Zagreb - Celta de Vigo",
-    "liga": "Liga de Europa",
-    "hora": "12:45 p. m.",
-    "canal": "ESPN 2 / Disney+"
-  },
-  {
-    "partido": "Malmoe - Panathinaikos",
-    "liga": "Liga de Europa",
-    "hora": "12:45 p. m.",
+    "partido": "Werder Bremen - Wolfsburgo",
+    "liga": "Bundesliga",
+    "hora": "2:30 p. m.",
     "canal": "ESPN 5 / Disney+"
   },
   {
-    "partido": "VfB Stuttgart - Feyenoord",
-    "liga": "Liga de Europa",
-    "hora": "3:00 p. m.",
+    "partido": "Pisa - Cremonese",
+    "liga": "Serie A",
+    "hora": "2:45 p. m.",
     "canal": "ESPN 4 / Disney+"
   },
   {
-    "partido": "Bolognia - Brann",
-    "liga": "Liga de Europa",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN 5 / Disney+"
-  },
-  {
-    "partido": "Rayo Vallecano - Lech Poznan",
-    "liga": "Conference League",
-    "hora": "3:00 p. m.",
+    "partido": "Paris FC - Rennes",
+    "liga": "Liga de Francia",
+    "hora": "2:45 p. m.",
     "canal": "Disney+"
   },
   {
-    "partido": "Rangers - Roma",
-    "liga": "Liga de Europa",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN 3 / Disney+"
-  },
-  {
-    "partido": "Aston Villa - Maccabi Tel Aviv",
-    "liga": "Liga de Europa",
+    "partido": "Elche - Real Sociedad",
+    "liga": "Liga de España",
     "hora": "3:00 p. m.",
     "canal": "ESPN 2 / Disney+"
   },
   {
-    "partido": "Real Betis - Lyon",
-    "liga": "Liga de Europa",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN / Disney+"
+    "partido": "Envigado F.C - Millonarios",
+    "liga": "Liga BetPlay",
+    "hora": "3:30 p. m.",
+    "canal": "Win Sports+"
   },
   {
-    "partido": "Crystal Palace - AZ Alkmaar",
-    "liga": "Conference League",
-    "hora": "3:00 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Paok Salonika - Young Boys",
-    "liga": "Liga de Europa",
-    "hora": "3:00 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Viktoria Plzen - Fenerbache",
-    "liga": "Liga de Europa",
-    "hora": "3:00 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Braga - Genk",
-    "liga": "Liga de Europa",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN 7 / Disney+"
-  },
-  {
-    "partido": "Cúcuta - Atlético Huila",
+    "partido": "Jaguares de Córdoba - Inter Palmira",
     "liga": "Torneo Betplay",
     "hora": "4:00 p. m.",
-    "canal": "Por confirmar"
+    "canal": "Win Sports"
   },
   {
-    "partido": "Boyacá Chicó - América",
+    "partido": "Pereira - Independiente Medellín",
     "liga": "Liga BetPlay",
     "hora": "6:10 p. m.",
-    "canal": "Por confirmar"
+    "canal": "Win Sports+"
   },
   {
-    "partido": "Boca Juniors de Cali - Real Cundinamarca",
+    "partido": "Patriotas F.C - Real Cartagena",
     "liga": "Torneo Betplay",
+    "hora": "6:10 p. m.",
+    "canal": "Win Sports"
+  },
+  {
+    "partido": "Rosario Central - San Lorenzo",
+    "liga": "Liga de Argentina",
+    "hora": "7:00 p. m.",
+    "canal": "TyC Sports Internacional"
+  },
+  {
+    "partido": "Deportes Tolima - Llaneros",
+    "liga": "Liga BetPlay",
     "hora": "8:20 p. m.",
-    "canal": "Por confirmar"
+    "canal": "Win Sports / Win Sports+"
   }
 ]
