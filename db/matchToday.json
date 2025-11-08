@@ -1,15 +1,15 @@
 [
   {
-    "partido": "El Salvador - Colombia",
-    "liga": "Mundial sub-17",
-    "hora": "7:30 a. m.",
-    "canal": "Directv 610"
-  },
-  {
     "partido": "Inglaterra - Haití",
     "liga": "Mundial sub-17",
     "hora": "7:30 a. m.",
     "canal": "Directv 613"
+  },
+  {
+    "partido": "El Salvador - Colombia",
+    "liga": "Mundial sub-17",
+    "hora": "7:30 a. m.",
+    "canal": "Directv 610"
   },
   {
     "partido": "Alemania - Corea del Norte",
@@ -66,16 +66,16 @@
     "canal": "Win Sports"
   },
   {
-    "partido": "Pereira - Independiente Medellín",
-    "liga": "Liga BetPlay",
-    "hora": "6:10 p. m.",
-    "canal": "Win Sports+"
-  },
-  {
     "partido": "Patriotas F.C - Real Cartagena",
     "liga": "Torneo Betplay",
     "hora": "6:10 p. m.",
     "canal": "Win Sports"
+  },
+  {
+    "partido": "Pereira - Independiente Medellín",
+    "liga": "Liga BetPlay",
+    "hora": "6:10 p. m.",
+    "canal": "Win Sports+"
   },
   {
     "partido": "Rosario Central - San Lorenzo",
