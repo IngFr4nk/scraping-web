@@ -1,170 +1,56 @@
 [
   {
-    "partido": "Atalanta - Sassuolo",
-    "liga": "Serie A",
-    "hora": "6:30 a. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "Fiyi - Argentina",
+    "partido": "C. del Sur - C. de Marfil",
     "liga": "Mundial sub-17",
     "hora": "7:30 a. m.",
-    "canal": "Directv 610"
+    "canal": "DSports"
   },
   {
-    "partido": "Athletic Club - Real Oviedo",
-    "liga": "Liga de España",
-    "hora": "8:00 a. m.",
-    "canal": "Directv 612"
+    "partido": "Suiza - México",
+    "liga": "Mundial sub-17",
+    "hora": "7:30 a. m.",
+    "canal": "DSports"
   },
   {
-    "partido": "Portugal - Japón",
+    "partido": "Colombia - Corea del Norte",
     "liga": "Mundial sub-17",
     "hora": "8:30 a. m.",
-    "canal": "Directv 613"
+    "canal": "Caracol / RCN / Directv 610"
   },
   {
-    "partido": "Aston Villa - Bournemouth",
-    "liga": "Liga de Inglaterra",
-    "hora": "9:00 a. m.",
-    "canal": "ESPN / Disney+"
+    "partido": "El Salvador - Alemania",
+    "liga": "Mundial sub-17",
+    "hora": "8:30 a. m.",
+    "canal": "DSports"
   },
   {
-    "partido": "Génoa - Fiorentina",
-    "liga": "Serie A",
-    "hora": "9:00 a. m.",
-    "canal": "Disney+"
+    "partido": "Honduras - Indonesia",
+    "liga": "Mundial sub-17",
+    "hora": "9:45 a. m.",
+    "canal": "DSports"
   },
   {
-    "partido": "Bolognia - Napoli",
-    "liga": "Serie A",
-    "hora": "9:00 a. m.",
-    "canal": "Disney+"
+    "partido": "Zambia - Brasil",
+    "liga": "Mundial sub-17",
+    "hora": "9:45 a. m.",
+    "canal": "DSports"
   },
   {
-    "partido": "Brentford - Newcastle",
-    "liga": "Liga de Inglaterra",
-    "hora": "9:00 a. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Crystal Palace - Brighton & Hove",
-    "liga": "Liga de Inglaterra",
-    "hora": "9:00 a. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Nottingham Forest - Leeds",
-    "liga": "Liga de Inglaterra",
-    "hora": "9:00 a. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Rayo Vallecano - Real Madrid",
-    "liga": "Liga de España",
-    "hora": "10:15 a. m.",
-    "canal": "Directv 610"
-  },
-  {
-    "partido": "Italia - Sudáfrica",
+    "partido": "Venezuela - Haití",
     "liga": "Mundial sub-17",
     "hora": "10:45 a. m.",
-    "canal": "Directv 612"
+    "canal": "DSports"
   },
   {
-    "partido": "Bolivia - Catar",
+    "partido": "Egipto - Inglaterra",
     "liga": "Mundial sub-17",
     "hora": "10:45 a. m.",
-    "canal": "Directv 613"
+    "canal": "DSports"
   },
   {
-    "partido": "Manchester City - Liverpool",
-    "liga": "Liga de Inglaterra",
-    "hora": "11:30 a. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "Fenerbache - Kayserispor",
-    "liga": "Liga de Turquía",
-    "hora": "12:00 p. m.",
-    "canal": "ESPN 6 / Disney+"
-  },
-  {
-    "partido": "Roma - Udinese",
-    "liga": "Serie A",
-    "hora": "12:00 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Mallorca - Getafe",
-    "liga": "Liga de España",
-    "hora": "12:30 p. m.",
-    "canal": "ESPN 3 / Disney+"
-  },
-  {
-    "partido": "Valencia CF - Real Betis",
-    "liga": "Liga de España",
-    "hora": "12:30 p. m.",
-    "canal": "Directv 610"
-  },
-  {
-    "partido": "Once Caldas - Deportivo Pasto",
-    "liga": "Liga BetPlay",
-    "hora": "2:00 p. m.",
-    "canal": "Win Sports+"
-  },
-  {
-    "partido": "Boca Juniors - River Plate",
-    "liga": "Liga de Argentina",
-    "hora": "2:30 p. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "Inter - Lazio",
-    "liga": "Serie A",
-    "hora": "2:45 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Celta de Vigo - Barcelona",
-    "liga": "Liga de España",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN 2 / Disney+"
-  },
-  {
-    "partido": "Alianza FC - Boyacá Chicó",
-    "liga": "Liga BetPlay",
-    "hora": "4:10 p. m.",
-    "canal": "Win Sports / Win Sports+"
-  },
-  {
-    "partido": "Banfield - Aldosivi",
-    "liga": "Liga de Argentina",
-    "hora": "5:20 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Sarmiento de Junín - Instituto de Córdoba",
-    "liga": "Liga de Argentina",
-    "hora": "5:20 p. m.",
-    "canal": "TyC Sports Internacional"
-  },
-  {
-    "partido": "América - Unión Magdalena",
-    "liga": "Liga BetPlay",
-    "hora": "6:20 p. m.",
-    "canal": "Win Sports+"
-  },
-  {
-    "partido": "Atlético Tucumán - Godoy Cruz",
-    "liga": "Liga de Argentina",
+    "partido": "Independiente Medellín - Envigado F.C",
+    "liga": "Copa Betplay",
     "hora": "7:30 p. m.",
-    "canal": "TyC Sports Internacional"
-  },
-  {
-    "partido": "Santa Fe - Deportivo Cali",
-    "liga": "Liga BetPlay",
-    "hora": "8:30 p. m.",
-    "canal": "Win Sports / Win Sports+"
+    "canal": "Win Sports+"
   }
 ]
