@@ -1,73 +1,19 @@
 [
   {
-    "partido": "Uganda - Francia",
-    "liga": "Mundial sub-17",
-    "hora": "7:30 a. m.",
-    "canal": "DSports"
-  },
-  {
-    "partido": "Chile - Canadá",
-    "liga": "Mundial sub-17",
-    "hora": "7:30 a. m.",
-    "canal": "DSports"
-  },
-  {
-    "partido": "Uzbekistan - Panamá",
-    "liga": "Mundial sub-17",
-    "hora": "8:30 a. m.",
-    "canal": "DSports"
-  },
-  {
-    "partido": "Irlanda - Paraguay",
-    "liga": "Mundial sub-17",
-    "hora": "8:30 a. m.",
-    "canal": "DSports"
-  },
-  {
-    "partido": "República Checa - Estados Unidos",
-    "liga": "Mundial sub-17",
-    "hora": "9:45 a. m.",
-    "canal": "DSports"
-  },
-  {
-    "partido": "Burkina Faso - Tayikistán",
-    "liga": "Mundial sub-17",
-    "hora": "9:45 a. m.",
-    "canal": "DSports"
-  },
-  {
-    "partido": "Nueva Zelanda - Austria",
-    "liga": "Mundial sub-17",
-    "hora": "10:45 a. m.",
-    "canal": "DSports"
-  },
-  {
-    "partido": "Arabia Saudí - Mali",
-    "liga": "Mundial sub-17",
-    "hora": "10:45 a. m.",
-    "canal": "DSports"
-  },
-  {
-    "partido": "Real Madrid - Paris FC",
-    "liga": "Champions femenina",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "Cúcuta - Jaguares de Córdoba",
-    "liga": "Torneo Betplay",
+    "partido": "Equidad - Pereira",
+    "liga": "Liga BetPlay",
     "hora": "4:00 p. m.",
-    "canal": "Win Sports"
-  },
-  {
-    "partido": "Inter Palmira - Atlético Huila",
-    "liga": "Torneo Betplay",
-    "hora": "6:10 p. m.",
     "canal": "Win Sports / Win Sports +"
   },
   {
-    "partido": "Boca Juniors de Cali - Patriotas F.C",
+    "partido": "Real Cartagena - Real Cundinamarca",
     "liga": "Torneo Betplay",
+    "hora": "6:10 p. m.",
+    "canal": "Win Sports"
+  },
+  {
+    "partido": "Boyacá Chicó - Millonarios",
+    "liga": "Liga BetPlay",
     "hora": "8:20 p. m.",
     "canal": "Win Sports +"
   }
