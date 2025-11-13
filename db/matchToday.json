@@ -1,20 +1,92 @@
 [
   {
-    "partido": "Equidad - Pereira",
-    "liga": "Liga BetPlay",
-    "hora": "4:00 p. m.",
-    "canal": "Win Sports / Win Sports +"
+    "partido": "Irán - Cabo Verde",
+    "liga": "Partido amistoso",
+    "hora": "12:00 p. m.",
+    "canal": "Directv 610"
   },
   {
-    "partido": "Real Cartagena - Real Cundinamarca",
-    "liga": "Torneo Betplay",
-    "hora": "6:10 p. m.",
-    "canal": "Win Sports"
+    "partido": "Noruega - Estonia",
+    "liga": "Eliminatorias europeas",
+    "hora": "12:00 p. m.",
+    "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Boyacá Chicó - Millonarios",
+    "partido": "Moldavia - Italia",
+    "liga": "Eliminatorias europeas",
+    "hora": "2:45 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Irlanda - Portugal",
+    "liga": "Eliminatorias europeas",
+    "hora": "2:45 p. m.",
+    "canal": "ESPN 2 / Disney+"
+  },
+  {
+    "partido": "Francia - Ucrania",
+    "liga": "Eliminatorias europeas",
+    "hora": "2:45 p. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Inglaterra - Serbia",
+    "liga": "Eliminatorias europeas",
+    "hora": "2:45 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Unión Magdalena - Fortaleza F.C",
     "liga": "Liga BetPlay",
-    "hora": "8:20 p. m.",
-    "canal": "Win Sports +"
+    "hora": "7:00 p. m.",
+    "canal": "Win Sports.co / Claro Salud 1010 / DTV 640"
+  },
+  {
+    "partido": "Águilas Doradas - Deportes Tolima",
+    "liga": "Liga BetPlay",
+    "hora": "7:00 p. m.",
+    "canal": "Win Sports.co / Claro Sports 1503 / DTV 637"
+  },
+  {
+    "partido": "Deportivo Pasto - Bucaramanga",
+    "liga": "Liga BetPlay",
+    "hora": "7:00 p. m.",
+    "canal": "Win Sports.co / Radiola TV 1152 / DTV 638"
+  },
+  {
+    "partido": "Independiente Medellín - América",
+    "liga": "Liga BetPlay",
+    "hora": "7:00 p. m.",
+    "canal": "Win Sports + / Directv 634"
+  },
+  {
+    "partido": "Junior - Atlético Nacional",
+    "liga": "Liga BetPlay",
+    "hora": "7:00 p. m.",
+    "canal": "Win Sports / Canal Red+ 1001 / DTV 636"
+  },
+  {
+    "partido": "Llaneros - Envigado F.C",
+    "liga": "Liga BetPlay",
+    "hora": "7:00 p. m.",
+    "canal": "Win Sports.co / Claro Música 1157"
+  },
+  {
+    "partido": "Santa Fe - Alianza FC",
+    "liga": "Liga BetPlay",
+    "hora": "7:00 p. m.",
+    "canal": "Win Sports.co / Canal Red+ 1007 / DTV 635"
+  },
+  {
+    "partido": "Deportivo Cali - Once Caldas",
+    "liga": "Liga BetPlay",
+    "hora": "7:00 p. m.",
+    "canal": "Win Sports / Canal Sin Límites 153 / DTV 639"
+  },
+  {
+    "partido": "Canadá - Ecuador",
+    "liga": "Partido amistoso",
+    "hora": "7:30 p. m.",
+    "canal": "Directv 610"
   }
 ]
