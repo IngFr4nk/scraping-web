@@ -1,134 +1,68 @@
 [
   {
-    "partido": "C. del Sur - Inglaterra",
-    "liga": "Mundial sub-17",
-    "hora": "7:30 a. m.",
-    "canal": "DSports"
-  },
-  {
-    "partido": "Senegal - Uganda",
-    "liga": "Mundial sub-17",
-    "hora": "7:30 a. m.",
-    "canal": "DSports"
-  },
-  {
-    "partido": "Italia - República Checa",
-    "liga": "Mundial sub-17",
-    "hora": "8:00 a. m.",
-    "canal": "DSports"
-  },
-  {
-    "partido": "Japón - Sudáfrica",
-    "liga": "Mundial sub-17",
-    "hora": "8:30 a. m.",
-    "canal": "DSports"
-  },
-  {
-    "partido": "Kazajistán - Bélgica",
+    "partido": "Hungría - Irlanda",
     "liga": "Eliminatorias europeas",
     "hora": "9:00 a. m.",
-    "canal": "ESPN 3 / Disney+"
-  },
-  {
-    "partido": "Alemania - Burkina Faso",
-    "liga": "Mundial sub-17",
-    "hora": "9:45 a. m.",
-    "canal": "DSports"
-  },
-  {
-    "partido": "Venezuela - Corea del Norte",
-    "liga": "Mundial sub-17",
-    "hora": "10:45 a. m.",
-    "canal": "DSports"
-  },
-  {
-    "partido": "Croacia - Uzbekistan",
-    "liga": "Mundial sub-17",
-    "hora": "10:45 a. m.",
-    "canal": "DSports"
-  },
-  {
-    "partido": "Austria - Túnez",
-    "liga": "Mundial sub-17",
-    "hora": "10:45 a. m.",
-    "canal": "DSports"
-  },
-  {
-    "partido": "Brasil - Senegal",
-    "liga": "Partido amistoso",
-    "hora": "11:00 a. m.",
     "canal": "Disney+"
   },
   {
-    "partido": "Georgia - España",
+    "partido": "Portugal - Armenia",
+    "liga": "Eliminatorias europeas",
+    "hora": "9:00 a. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Serbia - Letonia",
+    "liga": "Eliminatorias europeas",
+    "hora": "12:00 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Azerbaiyán - Francia",
+    "liga": "Eliminatorias europeas",
+    "hora": "12:00 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Albania - Inglaterra",
     "liga": "Eliminatorias europeas",
     "hora": "12:00 p. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Turquía - Bulgaria",
+    "partido": "Ucrania - Islandia",
     "liga": "Eliminatorias europeas",
     "hora": "12:00 p. m.",
     "canal": "Disney+"
   },
   {
-    "partido": "Chipre - Austria",
+    "partido": "Italia - Noruega",
     "liga": "Eliminatorias europeas",
-    "hora": "12:00 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Liechtenstein - Gales",
-    "liga": "Eliminatorias europeas",
-    "hora": "12:00 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Georgia - España",
-    "liga": "Eliminatorias europeas",
-    "hora": "12:00 p. m.",
+    "hora": "2:45 p. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Eslovenia - Kosovo",
+    "partido": "Israel - Moldavia",
     "liga": "Eliminatorias europeas",
     "hora": "2:45 p. m.",
     "canal": "Disney+"
   },
   {
-    "partido": "Dinamarca - Bielorrusia",
-    "liga": "Eliminatorias europeas",
-    "hora": "2:45 p. m.",
+    "partido": "Vélez Sarsfield - River Plate",
+    "liga": "Liga de Argentina",
+    "hora": "3:00 p. m.",
     "canal": "Disney+"
   },
   {
-    "partido": "Suiza - Suecia",
-    "liga": "Eliminatorias europeas",
-    "hora": "2:45 p. m.",
-    "canal": "ESPN 2 / Disney+"
-  },
-  {
-    "partido": "Bosnia - Rumania",
-    "liga": "Eliminatorias europeas",
-    "hora": "2:45 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Grecia - Escocia",
-    "liga": "Eliminatorias europeas",
-    "hora": "2:45 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Estados Unidos - Paraguay",
-    "liga": "Partido amistoso",
+    "partido": "América - Atlético Nacional",
+    "liga": "Copa Betplay",
     "hora": "5:00 p. m.",
-    "canal": "Disney+"
+    "canal": "Win Sports+"
   },
   {
-    "partido": "Colombia - Nueva Zelanda",
-    "liga": "Partido amistoso",
-    "hora": "7:00 p. m.",
-    "canal": "Caracol TV / RCN"
+    "partido": "Boca Juniors - Tigre",
+    "liga": "Liga de Argentina",
+    "hora": "6:15 p. m.",
+    "canal": "ESPN / Disney+"
   }
 ]
