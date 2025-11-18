@@ -1,44 +1,86 @@
 [
   {
-    "partido": "Finlandia - Andorra",
+    "partido": "Brasil - Túnez",
     "liga": "Partido amistoso",
-    "hora": "12:00 p. m.",
+    "hora": "2:30 p. m.",
     "canal": "Disney+"
   },
   {
-    "partido": "Alemania - Eslovaquia",
+    "partido": "Suecia - Eslovenia",
+    "liga": "Eliminatorias europeas",
+    "hora": "2:45 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Kosovo - Suiza",
+    "liga": "Eliminatorias europeas",
+    "hora": "2:45 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "España - Turquía",
     "liga": "Eliminatorias europeas",
     "hora": "2:45 p. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Montenegro - Croacia",
+    "partido": "Bulgaria - Georgia",
     "liga": "Eliminatorias europeas",
     "hora": "2:45 p. m.",
     "canal": "Disney+"
   },
   {
-    "partido": "Países Bajos - Lituania",
+    "partido": "Gales - Macedonia",
+    "liga": "Eliminatorias europeas",
+    "hora": "2:45 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Austria - Bosnia",
+    "liga": "Eliminatorias europeas",
+    "hora": "2:45 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Escocia - Dinamarca",
     "liga": "Eliminatorias europeas",
     "hora": "2:45 p. m.",
     "canal": "ESPN 2 / Disney+"
   },
   {
-    "partido": "República Checa - Gibraltar",
+    "partido": "Bielorrusia - Grecia",
     "liga": "Eliminatorias europeas",
     "hora": "2:45 p. m.",
     "canal": "Disney+"
   },
   {
-    "partido": "Irlanda del Norte - Luxemburgo",
+    "partido": "Rumania - San Marino",
     "liga": "Eliminatorias europeas",
     "hora": "2:45 p. m.",
     "canal": "Disney+"
   },
   {
-    "partido": "Malta - Polonia Femenino Sub-17",
+    "partido": "Bélgica - Liechtenstein",
     "liga": "Eliminatorias europeas",
     "hora": "2:45 p. m.",
     "canal": "Disney+"
+  },
+  {
+    "partido": "Fortaleza F.C - Deportes Tolima",
+    "liga": "Liga BetPlay",
+    "hora": "6:30 p. m.",
+    "canal": "Win Sports / Win Sports+"
+  },
+  {
+    "partido": "Estados Unidos - Uruguay",
+    "liga": "Partido amistoso",
+    "hora": "7:00 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Colombia - Australia",
+    "liga": "Partido amistoso",
+    "hora": "8:00 p. m.",
+    "canal": "Caracol TV / RCN"
   }
 ]
