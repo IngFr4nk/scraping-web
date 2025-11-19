@@ -1,86 +1,26 @@
 [
   {
-    "partido": "Brasil - Túnez",
-    "liga": "Partido amistoso",
-    "hora": "2:30 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Suecia - Eslovenia",
-    "liga": "Eliminatorias europeas",
-    "hora": "2:45 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Kosovo - Suiza",
-    "liga": "Eliminatorias europeas",
-    "hora": "2:45 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "España - Turquía",
-    "liga": "Eliminatorias europeas",
-    "hora": "2:45 p. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "Bulgaria - Georgia",
-    "liga": "Eliminatorias europeas",
-    "hora": "2:45 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Gales - Macedonia",
-    "liga": "Eliminatorias europeas",
-    "hora": "2:45 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Austria - Bosnia",
-    "liga": "Eliminatorias europeas",
-    "hora": "2:45 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Escocia - Dinamarca",
-    "liga": "Eliminatorias europeas",
-    "hora": "2:45 p. m.",
-    "canal": "ESPN 2 / Disney+"
-  },
-  {
-    "partido": "Bielorrusia - Grecia",
-    "liga": "Eliminatorias europeas",
-    "hora": "2:45 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Rumania - San Marino",
-    "liga": "Eliminatorias europeas",
-    "hora": "2:45 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Bélgica - Liechtenstein",
-    "liga": "Eliminatorias europeas",
-    "hora": "2:45 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Fortaleza F.C - Deportes Tolima",
-    "liga": "Liga BetPlay",
-    "hora": "6:30 p. m.",
+    "partido": "Inter Palmira - Jaguares de Córdoba",
+    "liga": "Torneo Betplay",
+    "hora": "2:00 p. m.",
     "canal": "Win Sports / Win Sports+"
   },
   {
-    "partido": "Estados Unidos - Uruguay",
-    "liga": "Partido amistoso",
-    "hora": "7:00 p. m.",
-    "canal": "Disney+"
+    "partido": "Atlético Huila - Cúcuta",
+    "liga": "Torneo Betplay",
+    "hora": "4:10 p. m.",
+    "canal": "Win Sports+"
   },
   {
-    "partido": "Colombia - Australia",
-    "liga": "Partido amistoso",
-    "hora": "8:00 p. m.",
-    "canal": "Caracol TV / RCN"
+    "partido": "Bucaramanga - Santa Fe",
+    "liga": "Liga BetPlay",
+    "hora": "6:30 p. m.",
+    "canal": "Win Sports+"
+  },
+  {
+    "partido": "Junior - Independiente Medellín",
+    "liga": "Liga BetPlay",
+    "hora": "8:30 p. m.",
+    "canal": "Win Sports+"
   }
 ]
