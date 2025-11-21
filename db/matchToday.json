@@ -1,20 +1,20 @@
 [
   {
-    "partido": "Real Cundinamarca - Boca Juniors de Cali",
-    "liga": "Torneo Betplay",
+    "partido": "Mainz 05 - Hoffenheim",
+    "liga": "Bundesliga",
+    "hora": "2:30 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Niza - Marsella",
+    "liga": "Liga de Francia",
+    "hora": "2:45 p. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Valencia CF - Levante",
+    "liga": "Liga de España",
     "hora": "3:00 p. m.",
-    "canal": "Win Sports+"
-  },
-  {
-    "partido": "Real Cartagena - Patriotas F.C",
-    "liga": "Torneo Betplay",
-    "hora": "5:10 p. m.",
-    "canal": "Win Sports+"
-  },
-  {
-    "partido": "Atlético Nacional - América",
-    "liga": "Liga BetPlay",
-    "hora": "7:30 p. m.",
-    "canal": "Win Sports+"
+    "canal": "Directv 613"
   }
 ]
