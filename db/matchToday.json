@@ -1,134 +1,92 @@
 [
   {
-    "partido": "Burnley - Chelsea",
-    "liga": "Liga de Inglaterra",
-    "hora": "7:30 a. m.",
+    "partido": "Hellas Verona - Parma",
+    "liga": "Serie A",
+    "hora": "6:30 a. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Alavés - Celta de Vigo",
+    "partido": "Real Oviedo - Rayo Vallecano",
     "liga": "Liga de España",
     "hora": "8:00 a. m.",
     "canal": "ESPN 2 / Disney+"
   },
   {
-    "partido": "Udinese - Bolognia",
+    "partido": "Cremonese - Roma",
     "liga": "Serie A",
     "hora": "9:00 a. m.",
     "canal": "Disney+"
   },
   {
-    "partido": "Cagliari - Génoa",
-    "liga": "Serie A",
-    "hora": "9:00 a. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Borussia Dortmund - VfB Stuttgart",
-    "liga": "Bundesliga",
-    "hora": "9:30 a. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Bayern Munich - Friburgo",
-    "liga": "Bundesliga",
-    "hora": "9:30 a. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Wolfsburgo - Bayer Leverkusen",
-    "liga": "Bundesliga",
-    "hora": "9:30 a. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Liverpool - Nottingham Forest",
+    "partido": "Leeds - Aston Villa",
     "liga": "Liga de Inglaterra",
-    "hora": "10:00 a. m.",
+    "hora": "9:00 a. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Bournemouth - West Ham Utd.",
-    "liga": "Liga de Inglaterra",
-    "hora": "10:00 a. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Fulham - Sunderland",
-    "liga": "Liga de Inglaterra",
-    "hora": "10:00 a. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Brighton & Hove - Brentford",
-    "liga": "Liga de Inglaterra",
-    "hora": "10:00 a. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Wolverhampton - Crystal Palace",
-    "liga": "Liga de Inglaterra",
-    "hora": "10:00 a. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Barcelona - Athletic Club",
+    "partido": "Real Betis - Girona",
     "liga": "Liga de España",
     "hora": "10:15 a. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Arsenal - Tottenham Hotspur",
+    "liga": "Liga de Inglaterra",
+    "hora": "11:30 a. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "St. Pauli - Union Berlin",
+    "liga": "Bundesliga",
+    "hora": "11:30 a. m.",
     "canal": "ESPN 2 / Disney+"
   },
   {
-    "partido": "Fiorentina - Juventus",
+    "partido": "Lazio - Lecce",
     "liga": "Serie A",
     "hora": "12:00 p. m.",
     "canal": "Disney+"
   },
   {
-    "partido": "Newcastle - Manchester City",
-    "liga": "Liga de Inglaterra",
+    "partido": "Getafe - Atlético de Madrid",
+    "liga": "Liga de España",
     "hora": "12:30 p. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Lille - Paris FC",
+    "liga": "Liga de Francia",
+    "hora": "2:45 p. m.",
     "canal": "ESPN 2 / Disney+"
   },
   {
-    "partido": "Osasuna - Real Sociedad",
-    "liga": "Liga de España",
-    "hora": "12:30 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Napoli - Atalanta",
+    "partido": "Inter - Milán",
     "liga": "Serie A",
     "hora": "2:45 p. m.",
-    "canal": "Disney+"
+    "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Paris Saint-Germain - Le Havre",
-    "liga": "Liga de Francia",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN 2 / Disney+"
-  },
-  {
-    "partido": "Villarreal - Mallorca",
+    "partido": "Elche - Real Madrid",
     "liga": "Liga de España",
     "hora": "3:00 p. m.",
     "canal": "Disney+"
   },
   {
-    "partido": "Lanús - Atlético Mineiro",
-    "liga": "Copa Sudamericana",
-    "hora": "3:00 p. m.",
-    "canal": "Directv 610"
-  },
-  {
-    "partido": "Santa Fe - Fortaleza F.C",
+    "partido": "Independiente Medellín - Atlético Nacional",
     "liga": "Liga BetPlay",
-    "hora": "5:00 p. m.",
+    "hora": "5:45 p. m.",
     "canal": "Win Sports+"
   },
   {
-    "partido": "Deportes Tolima - Bucaramanga",
+    "partido": "Boca Juniors - CA Talleres",
+    "liga": "Superliga Argentina",
+    "hora": "6:00 p. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "América - Junior",
     "liga": "Liga BetPlay",
-    "hora": "7:30 p. m.",
-    "canal": "Win Sports+"
+    "hora": "8:00 p. m.",
+    "canal": "Win Sports / Win Sports+"
   }
 ]
