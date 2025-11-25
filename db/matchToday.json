@@ -1,32 +1,62 @@
 [
   {
-    "partido": "Torino - Como",
-    "liga": "Serie A",
-    "hora": "12:30 p. m.",
+    "partido": "Ajax - Benfica",
+    "liga": "Champions League",
+    "hora": "12:45 p. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Sassuolo - Pisa",
-    "liga": "Serie A",
-    "hora": "2:45 p. m.",
-    "canal": "ESPN / Disney+"
+    "partido": "Galatasaray - Royale Union SG",
+    "liga": "Champions League",
+    "hora": "12:45 p. m.",
+    "canal": "ESPN 2 / Disney+"
   },
   {
-    "partido": "Manchester United - Everton",
-    "liga": "Liga de Inglaterra",
+    "partido": "Chelsea - Barcelona",
+    "liga": "Champions League",
     "hora": "3:00 p. m.",
-    "canal": "Disney+"
+    "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Espanyol - Sevilla",
-    "liga": "Liga de España",
+    "partido": "Bodo Glimt - Juventus",
+    "liga": "Champions League",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN 5 / Disney+"
+  },
+  {
+    "partido": "Borussia Dortmund - Villarreal",
+    "liga": "Champions League",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN 7 / Disney+"
+  },
+  {
+    "partido": "Manchester City - Bayer Leverkusen",
+    "liga": "Champions League",
     "hora": "3:00 p. m.",
     "canal": "ESPN 2 / Disney+"
   },
   {
-    "partido": "Racing Club - River Plate",
-    "liga": "Superliga Argentina",
-    "hora": "5:45 p. m.",
-    "canal": "ESPN / Disney+"
+    "partido": "Slavia Praga - Athletic Club",
+    "liga": "Champions League",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN 6 / Disney+"
+  },
+  {
+    "partido": "Napoli - Qarabag",
+    "liga": "Champions League",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN 4 / Disney+"
+  },
+  {
+    "partido": "Marsella - Newcastle",
+    "liga": "Champions League",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN 3 / Disney+"
+  },
+  {
+    "partido": "Santa Fe - Deportes Tolima",
+    "liga": "Liga BetPlay",
+    "hora": "7:30 p. m.",
+    "canal": "Win Sports+"
   }
 ]
