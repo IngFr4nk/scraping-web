@@ -1,62 +1,74 @@
 [
   {
-    "partido": "Ajax - Benfica",
+    "partido": "Pafos - Mónaco",
     "liga": "Champions League",
     "hora": "12:45 p. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Galatasaray - Royale Union SG",
+    "partido": "Copenhague - Kairat Almaty",
     "liga": "Champions League",
     "hora": "12:45 p. m.",
     "canal": "ESPN 2 / Disney+"
   },
   {
-    "partido": "Chelsea - Barcelona",
-    "liga": "Champions League",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "Bodo Glimt - Juventus",
-    "liga": "Champions League",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN 5 / Disney+"
-  },
-  {
-    "partido": "Borussia Dortmund - Villarreal",
-    "liga": "Champions League",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN 7 / Disney+"
-  },
-  {
-    "partido": "Manchester City - Bayer Leverkusen",
-    "liga": "Champions League",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN 2 / Disney+"
-  },
-  {
-    "partido": "Slavia Praga - Athletic Club",
-    "liga": "Champions League",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN 6 / Disney+"
-  },
-  {
-    "partido": "Napoli - Qarabag",
-    "liga": "Champions League",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN 4 / Disney+"
-  },
-  {
-    "partido": "Marsella - Newcastle",
+    "partido": "Paris Saint-Germain - Tottenham Hotspur",
     "liga": "Champions League",
     "hora": "3:00 p. m.",
     "canal": "ESPN 3 / Disney+"
   },
   {
-    "partido": "Santa Fe - Deportes Tolima",
+    "partido": "Liverpool - PSV",
+    "liga": "Champions League",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN 7 / Disney+"
+  },
+  {
+    "partido": "Arsenal - Bayern Munich",
+    "liga": "Champions League",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Atlético de Madrid - Inter",
+    "liga": "Champions League",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN 5 / Disney+"
+  },
+  {
+    "partido": "Olimpiakos - Real Madrid",
+    "liga": "Champions League",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN 2 / Disney+"
+  },
+  {
+    "partido": "Sporting de Lisboa - Brujas",
+    "liga": "Champions League",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN 6 / Disney+"
+  },
+  {
+    "partido": "Eintracht Frankfurt - Atalanta",
+    "liga": "Champions League",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN 4 / Disney+"
+  },
+  {
+    "partido": "Bucaramanga - Fortaleza F.C",
     "liga": "Liga BetPlay",
+    "hora": "6:30 p. m.",
+    "canal": "Win Sports / Win Sports+"
+  },
+  {
+    "partido": "Lanús - Tigre",
+    "liga": "Liga de Argentina",
     "hora": "7:30 p. m.",
+    "canal": "TyC Sports Internacional"
+  },
+  {
+    "partido": "Atlético Nacional - Junior",
+    "liga": "Liga BetPlay",
+    "hora": "8:30 p. m.",
     "canal": "Win Sports+"
   }
 ]
