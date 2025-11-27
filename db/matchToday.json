@@ -1,74 +1,122 @@
 [
   {
-    "partido": "Pafos - Mónaco",
-    "liga": "Champions League",
-    "hora": "12:45 p. m.",
-    "canal": "ESPN / Disney+"
+    "partido": "Brasil - Italia",
+    "liga": "Mundial sub-17",
+    "hora": "7:30 a. m.",
+    "canal": "Directv 613"
   },
   {
-    "partido": "Copenhague - Kairat Almaty",
-    "liga": "Champions League",
-    "hora": "12:45 p. m.",
-    "canal": "ESPN 2 / Disney+"
+    "partido": "Portugal - Austria",
+    "liga": "Mundial sub-17",
+    "hora": "11:00 a. m.",
+    "canal": "Directv 613"
   },
   {
-    "partido": "Paris Saint-Germain - Tottenham Hotspur",
-    "liga": "Champions League",
-    "hora": "3:00 p. m.",
+    "partido": "Porto - Niza",
+    "liga": "Liga de Europa",
+    "hora": "12:45 p. m.",
     "canal": "ESPN 3 / Disney+"
   },
   {
-    "partido": "Liverpool - PSV",
-    "liga": "Champions League",
-    "hora": "3:00 p. m.",
+    "partido": "Roma - Midtjylland",
+    "liga": "Liga de Europa",
+    "hora": "12:45 p. m.",
+    "canal": "ESPN 2 / Disney+"
+  },
+  {
+    "partido": "Aston Villa - Young Boys",
+    "liga": "Liga de Europa",
+    "hora": "12:45 p. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Ludogorets - Celta de Vigo",
+    "liga": "Liga de Europa",
+    "hora": "12:45 p. m.",
     "canal": "ESPN 7 / Disney+"
   },
   {
-    "partido": "Arsenal - Bayern Munich",
-    "liga": "Champions League",
+    "partido": "Lille - Dynamo Zagreb",
+    "liga": "Liga de Europa",
+    "hora": "12:45 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Feyenoord - Celtic",
+    "liga": "Liga de Europa",
+    "hora": "12:45 p. m.",
+    "canal": "ESPN 4 / Disney+"
+  },
+  {
+    "partido": "Fenerbache - Ferencváros",
+    "liga": "Liga de Europa",
+    "hora": "12:45 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Real Betis - Utrecht",
+    "liga": "Liga de Europa",
     "hora": "3:00 p. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Atlético de Madrid - Inter",
-    "liga": "Champions League",
+    "partido": "Nottingham Forest - Malmoe",
+    "liga": "Liga de Europa",
     "hora": "3:00 p. m.",
-    "canal": "ESPN 5 / Disney+"
+    "canal": "Disney+"
   },
   {
-    "partido": "Olimpiakos - Real Madrid",
-    "liga": "Champions League",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN 2 / Disney+"
-  },
-  {
-    "partido": "Sporting de Lisboa - Brujas",
-    "liga": "Champions League",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN 6 / Disney+"
-  },
-  {
-    "partido": "Eintracht Frankfurt - Atalanta",
-    "liga": "Champions League",
+    "partido": "Rangers - Braga",
+    "liga": "Liga de Europa",
     "hora": "3:00 p. m.",
     "canal": "ESPN 4 / Disney+"
   },
   {
-    "partido": "Bucaramanga - Fortaleza F.C",
-    "liga": "Liga BetPlay",
+    "partido": "Fiorentina - AEK de Atenas",
+    "liga": "Conference League",
+    "hora": "3:00 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Maccabi Tel Aviv - Lyon",
+    "liga": "Liga de Europa",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN 2 / Disney+"
+  },
+  {
+    "partido": "Go Ahead Eagles - VfB Stuttgart",
+    "liga": "Liga de Europa",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN 7 / Disney+"
+  },
+  {
+    "partido": "Bolognia - Red Bull Salzburg",
+    "liga": "Liga de Europa",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN 3 / Disney+"
+  },
+  {
+    "partido": "Strasbourg - Crystal Palace",
+    "liga": "Conference League",
+    "hora": "3:00 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Fluminense - Sao Paulo",
+    "liga": "Liga de Brasil",
     "hora": "6:30 p. m.",
-    "canal": "Win Sports / Win Sports+"
+    "canal": "Win Sports"
   },
   {
-    "partido": "Lanús - Tigre",
-    "liga": "Liga de Argentina",
-    "hora": "7:30 p. m.",
-    "canal": "TyC Sports Internacional"
-  },
-  {
-    "partido": "Atlético Nacional - Junior",
+    "partido": "América - Independiente Medellín",
     "liga": "Liga BetPlay",
-    "hora": "8:30 p. m.",
+    "hora": "7:30 p. m.",
     "canal": "Win Sports+"
+  },
+  {
+    "partido": "Real Cundinamarca - Cúcuta",
+    "liga": "Torneo Betplay",
+    "hora": "8:30 p. m.",
+    "canal": "Win Sports / Win Sports+"
   }
 ]
