@@ -1,50 +1,62 @@
 [
   {
-    "partido": "Borussia Mönchengladbach - St. Pauli",
-    "liga": "Copa de Alemania",
-    "hora": "12:00 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Numancia - Mallorca",
-    "liga": "Copa del Rey",
+    "partido": "Athletic Club - Real Madrid",
+    "liga": "Liga de España",
     "hora": "1:00 p. m.",
-    "canal": "Win Sports"
-  },
-  {
-    "partido": "Fulham - Manchester City",
-    "liga": "Liga de Inglaterra",
-    "hora": "2:30 p. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Bournemouth - Everton",
+    "partido": "Wolverhampton - Nottingham Forest",
+    "liga": "Liga de Inglaterra",
+    "hora": "2:30 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Arsenal - Brentford",
     "liga": "Liga de Inglaterra",
     "hora": "2:30 p. m.",
     "canal": "ESPN 2 / Disney+"
   },
   {
-    "partido": "Borussia Dortmund - Bayer Leverkusen",
-    "liga": "Copa de Alemania",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN 3 / Disney+"
+    "partido": "Burnley - Crystal Palace",
+    "liga": "Liga de Inglaterra",
+    "hora": "2:30 p. m.",
+    "canal": "Disney+"
   },
   {
-    "partido": "Juventus - Udinese",
+    "partido": "Union Berlin - Bayern Munich",
+    "liga": "Copa de Alemania",
+    "hora": "2:45 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Napoli - Cagliari",
     "liga": "Copa de Italia",
     "hora": "3:00 p. m.",
     "canal": "Win Sports"
   },
   {
-    "partido": "Newcastle - Tottenham Hotspur",
+    "partido": "Leeds - Chelsea",
+    "liga": "Liga de Inglaterra",
+    "hora": "3:15 p. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Liverpool - Sunderland",
     "liga": "Liga de Inglaterra",
     "hora": "3:15 p. m.",
     "canal": "Disney+"
   },
   {
-    "partido": "Cúcuta - Real Cundinamarca",
-    "liga": "Torneo Betplay",
-    "hora": "3:45 p. m.",
-    "canal": "Win Sports"
+    "partido": "Fortaleza F.C - Santa Fe",
+    "liga": "Liga BetPlay",
+    "hora": "6:20 p. m.",
+    "canal": "Win Sports+"
+  },
+  {
+    "partido": "Bucaramanga - Deportes Tolima",
+    "liga": "Liga BetPlay",
+    "hora": "8:30 p. m.",
+    "canal": "Win Sports / Win Sports+"
   }
 ]
