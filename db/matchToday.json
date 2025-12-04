@@ -1,62 +1,38 @@
 [
   {
-    "partido": "Athletic Club - Real Madrid",
-    "liga": "Liga de España",
-    "hora": "1:00 p. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "Wolverhampton - Nottingham Forest",
-    "liga": "Liga de Inglaterra",
-    "hora": "2:30 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Arsenal - Brentford",
-    "liga": "Liga de Inglaterra",
-    "hora": "2:30 p. m.",
-    "canal": "ESPN 2 / Disney+"
-  },
-  {
-    "partido": "Burnley - Crystal Palace",
-    "liga": "Liga de Inglaterra",
-    "hora": "2:30 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Union Berlin - Bayern Munich",
-    "liga": "Copa de Alemania",
-    "hora": "2:45 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Napoli - Cagliari",
+    "partido": "Bolognia - Parma",
     "liga": "Copa de Italia",
-    "hora": "3:00 p. m.",
+    "hora": "12:00 p. m.",
     "canal": "Win Sports"
   },
   {
-    "partido": "Leeds - Chelsea",
+    "partido": "Lazio - Milán",
+    "liga": "Copa de Italia",
+    "hora": "2:30 p. m.",
+    "canal": "Win Sports"
+  },
+  {
+    "partido": "Porto - Vitória de Guimaraes",
+    "liga": "Copa de Francia",
+    "hora": "3:00 p. m.",
+    "canal": "DSports"
+  },
+  {
+    "partido": "Manchester United - West Ham Utd.",
     "liga": "Liga de Inglaterra",
-    "hora": "3:15 p. m.",
+    "hora": "3:00 p. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Liverpool - Sunderland",
-    "liga": "Liga de Inglaterra",
-    "hora": "3:15 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Fortaleza F.C - Santa Fe",
+    "partido": "Atlético Nacional - Independiente Medellín",
     "liga": "Liga BetPlay",
-    "hora": "6:20 p. m.",
+    "hora": "6:30 p. m.",
     "canal": "Win Sports+"
   },
   {
-    "partido": "Bucaramanga - Deportes Tolima",
+    "partido": "Junior - América",
     "liga": "Liga BetPlay",
     "hora": "8:30 p. m.",
-    "canal": "Win Sports / Win Sports+"
+    "canal": "Win Sports+"
   }
 ]
