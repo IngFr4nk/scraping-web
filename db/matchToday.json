@@ -1,38 +1,26 @@
 [
   {
-    "partido": "Bolognia - Parma",
-    "liga": "Copa de Italia",
-    "hora": "12:00 p. m.",
-    "canal": "Win Sports"
-  },
-  {
-    "partido": "Lazio - Milán",
-    "liga": "Copa de Italia",
-    "hora": "2:30 p. m.",
-    "canal": "Win Sports"
-  },
-  {
-    "partido": "Porto - Vitória de Guimaraes",
-    "liga": "Copa de Francia",
-    "hora": "3:00 p. m.",
-    "canal": "DSports"
-  },
-  {
-    "partido": "Manchester United - West Ham Utd.",
-    "liga": "Liga de Inglaterra",
-    "hora": "3:00 p. m.",
+    "partido": "Brest - Mónaco",
+    "liga": "Liga de Francia",
+    "hora": "1:00 p. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Atlético Nacional - Independiente Medellín",
-    "liga": "Liga BetPlay",
-    "hora": "6:30 p. m.",
-    "canal": "Win Sports+"
+    "partido": "Mainz 05 - Borussia Mönchengladbach",
+    "liga": "Bundesliga",
+    "hora": "2:30 p. m.",
+    "canal": "Disney+"
   },
   {
-    "partido": "Junior - América",
-    "liga": "Liga BetPlay",
-    "hora": "8:30 p. m.",
-    "canal": "Win Sports+"
+    "partido": "Hull City - Middlesbrough",
+    "liga": "Championship",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN 5 / Disney+"
+  },
+  {
+    "partido": "Lille - Marsella",
+    "liga": "Liga de Francia",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN / Disney+"
   }
 ]
