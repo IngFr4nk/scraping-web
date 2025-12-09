@@ -1,56 +1,56 @@
 [
   {
-    "partido": "Pisa - Parma",
-    "liga": "Serie A",
-    "hora": "9:00 a. m.",
+    "partido": "Kairat Almaty - Olimpiakos",
+    "liga": "Champions League",
+    "hora": "10:30 a. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Udinese - Génoa",
-    "liga": "Serie A",
-    "hora": "12:00 p. m.",
+    "partido": "Bayern Munich - Sporting de Lisboa",
+    "liga": "Champions League",
+    "hora": "12:45 p. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Torino - Milán",
-    "liga": "Serie A",
-    "hora": "2:45 p. m.",
-    "canal": "ESPN 2 / Disney+"
-  },
-  {
-    "partido": "Deportes Tolima - Fortaleza F.C",
-    "liga": "Liga BetPlay",
+    "partido": "Inter - Liverpool",
+    "liga": "Champions League",
     "hora": "3:00 p. m.",
-    "canal": "Win Sports+"
+    "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Osasuna - Levante",
-    "liga": "Liga de España",
+    "partido": "PSV - Atlético de Madrid",
+    "liga": "Champions League",
     "hora": "3:00 p. m.",
     "canal": "ESPN 3 / Disney+"
   },
   {
-    "partido": "Gimnasia de La Plata - Estudiantes",
-    "liga": "Superliga Argentina",
+    "partido": "Atalanta - Chelsea",
+    "liga": "Champions League",
     "hora": "3:00 p. m.",
-    "canal": "Disney+"
+    "canal": "ESPN 5 / Disney+"
   },
   {
-    "partido": "América - Atlético Nacional",
-    "liga": "Liga BetPlay",
-    "hora": "5:15 p. m.",
-    "canal": "Win Sports"
+    "partido": "Barcelona - Eintracht Frankfurt",
+    "liga": "Champions League",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN 2 / Disney+"
   },
   {
-    "partido": "Independiente Medellín - Junior",
-    "liga": "Liga BetPlay",
-    "hora": "5:15 p. m.",
-    "canal": "Win Sports+"
+    "partido": "Tottenham Hotspur - Slavia Praga",
+    "liga": "Champions League",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN 4 / Disney+"
   },
   {
-    "partido": "Santa Fe - Bucaramanga",
-    "liga": "Liga BetPlay",
-    "hora": "7:20 p. m.",
-    "canal": "Win Sports+"
+    "partido": "Mónaco - Galatasaray",
+    "liga": "Champions League",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN 7 / Disney+"
+  },
+  {
+    "partido": "Royale Union SG - Marsella",
+    "liga": "Champions League",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN 6 / Disney+"
   }
 ]
