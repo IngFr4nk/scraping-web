@@ -1,56 +1,56 @@
 [
   {
-    "partido": "Kairat Almaty - Olimpiakos",
+    "partido": "Villarreal - Copenhague",
     "liga": "Champions League",
-    "hora": "10:30 a. m.",
-    "canal": "ESPN / Disney+"
+    "hora": "12:45 p. m.",
+    "canal": "ESPN 2 / Disney+"
   },
   {
-    "partido": "Bayern Munich - Sporting de Lisboa",
+    "partido": "Qarabag - Ajax",
     "liga": "Champions League",
     "hora": "12:45 p. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Inter - Liverpool",
-    "liga": "Champions League",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "PSV - Atlético de Madrid",
-    "liga": "Champions League",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN 3 / Disney+"
-  },
-  {
-    "partido": "Atalanta - Chelsea",
-    "liga": "Champions League",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN 5 / Disney+"
-  },
-  {
-    "partido": "Barcelona - Eintracht Frankfurt",
+    "partido": "Athletic Club - Paris Saint-Germain",
     "liga": "Champions League",
     "hora": "3:00 p. m.",
     "canal": "ESPN 2 / Disney+"
   },
   {
-    "partido": "Tottenham Hotspur - Slavia Praga",
+    "partido": "Real Madrid - Manchester City",
     "liga": "Champions League",
     "hora": "3:00 p. m.",
-    "canal": "ESPN 4 / Disney+"
+    "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Mónaco - Galatasaray",
+    "partido": "Brujas - Arsenal",
+    "liga": "Champions League",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN 5 / Disney+"
+  },
+  {
+    "partido": "Juventus - Pafos",
+    "liga": "Champions League",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN 6 / Disney+"
+  },
+  {
+    "partido": "Benfica - Napoli",
     "liga": "Champions League",
     "hora": "3:00 p. m.",
     "canal": "ESPN 7 / Disney+"
   },
   {
-    "partido": "Royale Union SG - Marsella",
+    "partido": "Borussia Dortmund - Bodo Glimt",
+    "liga": "Bundesliga",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN 4 / Disney+"
+  },
+  {
+    "partido": "Bayer Leverkusen - Newcastle",
     "liga": "Champions League",
     "hora": "3:00 p. m.",
-    "canal": "ESPN 6 / Disney+"
+    "canal": "ESPN 3 / Disney+"
   }
 ]
