@@ -1,56 +1,62 @@
 [
   {
-    "partido": "Villarreal - Copenhague",
-    "liga": "Champions League",
+    "partido": "Utrecht - Nottingham Forest",
+    "liga": "Liga de Europa",
+    "hora": "12:45 p. m.",
+    "canal": "ESPN 3 / Disney+"
+  },
+  {
+    "partido": "Midtjylland - Genk",
+    "liga": "Liga de Europa",
     "hora": "12:45 p. m.",
     "canal": "ESPN 2 / Disney+"
   },
   {
-    "partido": "Qarabag - Ajax",
-    "liga": "Champions League",
+    "partido": "Dynamo Zagreb - Real Betis",
+    "liga": "Liga de Europa",
     "hora": "12:45 p. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Athletic Club - Paris Saint-Germain",
-    "liga": "Champions League",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN 2 / Disney+"
-  },
-  {
-    "partido": "Real Madrid - Manchester City",
-    "liga": "Champions League",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "Brujas - Arsenal",
-    "liga": "Champions League",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN 5 / Disney+"
-  },
-  {
-    "partido": "Juventus - Pafos",
-    "liga": "Champions League",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN 6 / Disney+"
-  },
-  {
-    "partido": "Benfica - Napoli",
-    "liga": "Champions League",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN 7 / Disney+"
-  },
-  {
-    "partido": "Borussia Dortmund - Bodo Glimt",
-    "liga": "Bundesliga",
-    "hora": "3:00 p. m.",
+    "partido": "Young Boys - Lille",
+    "liga": "Liga de Europa",
+    "hora": "12:45 p. m.",
     "canal": "ESPN 4 / Disney+"
   },
   {
-    "partido": "Bayer Leverkusen - Newcastle",
-    "liga": "Champions League",
+    "partido": "Shelbourne FC - Crystal Palace",
+    "liga": "Conference League",
+    "hora": "3:00 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Lyon - Go Ahead Eagles",
+    "liga": "Liga de Europa",
     "hora": "3:00 p. m.",
     "canal": "ESPN 3 / Disney+"
+  },
+  {
+    "partido": "Celtic - Roma",
+    "liga": "Liga de Europa",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN 2 / Disney+"
+  },
+  {
+    "partido": "Basel - Aston Villa",
+    "liga": "Liga de Europa",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Celta de Vigo - Bolognia",
+    "liga": "Liga de Europa",
+    "hora": "3:00 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Brann - Fenerbache",
+    "liga": "Liga de Europa",
+    "hora": "3:00 p. m.",
+    "canal": "Disney+"
   }
 ]
