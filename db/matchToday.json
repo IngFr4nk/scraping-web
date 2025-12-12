@@ -1,62 +1,32 @@
 [
   {
-    "partido": "Utrecht - Nottingham Forest",
-    "liga": "Liga de Europa",
-    "hora": "12:45 p. m.",
-    "canal": "ESPN 3 / Disney+"
-  },
-  {
-    "partido": "Midtjylland - Genk",
-    "liga": "Liga de Europa",
-    "hora": "12:45 p. m.",
-    "canal": "ESPN 2 / Disney+"
-  },
-  {
-    "partido": "Dynamo Zagreb - Real Betis",
-    "liga": "Liga de Europa",
-    "hora": "12:45 p. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "Young Boys - Lille",
-    "liga": "Liga de Europa",
-    "hora": "12:45 p. m.",
-    "canal": "ESPN 4 / Disney+"
-  },
-  {
-    "partido": "Shelbourne FC - Crystal Palace",
-    "liga": "Conference League",
-    "hora": "3:00 p. m.",
+    "partido": "Union Berlin - RB Leipzig",
+    "liga": "Bundesliga",
+    "hora": "2:30 p. m.",
     "canal": "Disney+"
   },
   {
-    "partido": "Lyon - Go Ahead Eagles",
-    "liga": "Liga de Europa",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN 3 / Disney+"
+    "partido": "Angers - Nantes",
+    "liga": "Liga de Francia",
+    "hora": "2:45 p. m.",
+    "canal": "Disney+"
   },
   {
-    "partido": "Celtic - Roma",
-    "liga": "Liga de Europa",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN 2 / Disney+"
+    "partido": "Lecce - Pisa",
+    "liga": "Serie A",
+    "hora": "2:45 p. m.",
+    "canal": "Disney+"
   },
   {
-    "partido": "Basel - Aston Villa",
-    "liga": "Liga de Europa",
+    "partido": "Real Sociedad - Girona",
+    "liga": "Liga de España",
     "hora": "3:00 p. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Celta de Vigo - Bolognia",
-    "liga": "Liga de Europa",
-    "hora": "3:00 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Brann - Fenerbache",
-    "liga": "Liga de Europa",
-    "hora": "3:00 p. m.",
-    "canal": "Disney+"
+    "partido": "Junior - Deportes Tolima",
+    "liga": "Liga BetPlay",
+    "hora": "8:00 p. m.",
+    "canal": "Win Sports+"
   }
 ]
