@@ -1,32 +1,128 @@
 [
   {
-    "partido": "Union Berlin - RB Leipzig",
+    "partido": "Atlético de Madrid - Valencia CF",
+    "liga": "Liga de España",
+    "hora": "8:00 a. m.",
+    "canal": "Directv 610"
+  },
+  {
+    "partido": "Torino - Cremonese",
+    "liga": "Serie A",
+    "hora": "9:00 a. m.",
+    "canal": "ESPN 4 / Disney+"
+  },
+  {
+    "partido": "Hoffenheim - Hamburgo",
     "liga": "Bundesliga",
-    "hora": "2:30 p. m.",
+    "hora": "9:30 a. m.",
     "canal": "Disney+"
   },
   {
-    "partido": "Angers - Nantes",
+    "partido": "Eintracht Frankfurt - FC Augsburgo",
+    "liga": "Bundesliga",
+    "hora": "9:30 a. m.",
+    "canal": "ESPN 5 / Disney+"
+  },
+  {
+    "partido": "St. Pauli - Heidenhem",
+    "liga": "Bundesliga",
+    "hora": "9:30 a. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Borussia Mönchengladbach - Wolfsburgo",
+    "liga": "Bundesliga",
+    "hora": "9:30 a. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Liverpool - Brighton & Hove",
+    "liga": "Liga de Inglaterra",
+    "hora": "10:00 a. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Chelsea - Everton",
+    "liga": "Liga de Inglaterra",
+    "hora": "10:00 a. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Mallorca - Elche",
+    "liga": "Liga de España",
+    "hora": "10:15 a. m.",
+    "canal": "ESPN 2 / Disney+"
+  },
+  {
+    "partido": "Rennes - Brest",
     "liga": "Liga de Francia",
-    "hora": "2:45 p. m.",
+    "hora": "11:00 a. m.",
+    "canal": "ESPN 4 / Disney+"
+  },
+  {
+    "partido": "Parma - Lazio",
+    "liga": "Serie A",
+    "hora": "12:00 p. m.",
     "canal": "Disney+"
   },
   {
-    "partido": "Lecce - Pisa",
+    "partido": "Bayer Leverkusen - Colonia",
+    "liga": "Bundesliga",
+    "hora": "12:30 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Burnley - Fulham",
+    "liga": "Liga de Inglaterra",
+    "hora": "12:30 p. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Barcelona - Osasuna",
+    "liga": "Liga de España",
+    "hora": "12:30 p. m.",
+    "canal": "Directv 610"
+  },
+  {
+    "partido": "Metz - Paris Saint-Germain",
+    "liga": "Liga de Francia",
+    "hora": "1:00 p. m.",
+    "canal": "ESPN 2 / Disney+"
+  },
+  {
+    "partido": "Atalanta - Cagliari",
     "liga": "Serie A",
     "hora": "2:45 p. m.",
     "canal": "Disney+"
   },
   {
-    "partido": "Real Sociedad - Girona",
-    "liga": "Liga de España",
+    "partido": "Arsenal - Wolverhampton",
+    "liga": "Liga de Inglaterra",
     "hora": "3:00 p. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Junior - Deportes Tolima",
-    "liga": "Liga BetPlay",
-    "hora": "8:00 p. m.",
+    "partido": "Paris FC - Toulouse",
+    "liga": "Liga de Francia",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN 2 / Disney+"
+  },
+  {
+    "partido": "Getafe - Espanyol",
+    "liga": "Liga de España",
+    "hora": "3:00 p. m.",
+    "canal": "Directv 610"
+  },
+  {
+    "partido": "Atlético Nacional - Independiente Medellín",
+    "liga": "Copa Betplay",
+    "hora": "5:00 p. m.",
     "canal": "Win Sports+"
+  },
+  {
+    "partido": "Racing Club - Estudiantes",
+    "liga": "Liga de Argentina",
+    "hora": "7:00 p. m.",
+    "canal": "ESPN 2 / Disney+"
   }
 ]
