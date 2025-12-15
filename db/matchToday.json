@@ -1,146 +1,26 @@
 [
   {
-    "partido": "Milán - Sassuolo",
-    "liga": "Serie A",
-    "hora": "6:30 a. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "Sevilla - Real Oviedo",
-    "liga": "Liga de España",
-    "hora": "8:00 a. m.",
-    "canal": "ESPN 2 / Disney+"
-  },
-  {
-    "partido": "Udinese - Napoli",
-    "liga": "Serie A",
-    "hora": "9:00 a. m.",
-    "canal": "ESPN 4 / Disney+"
-  },
-  {
-    "partido": "Nottingham Forest - Tottenham Hotspur",
-    "liga": "Liga de Inglaterra",
-    "hora": "9:00 a. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "West Ham Utd. - Aston Villa",
-    "liga": "Liga de Inglaterra",
-    "hora": "9:00 a. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Lyon - Le Havre",
-    "liga": "Liga de Francia",
-    "hora": "9:00 a. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Crystal Palace - Manchester City",
-    "liga": "Liga de Inglaterra",
-    "hora": "9:00 a. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Fiorentina - Hellas Verona",
-    "liga": "Serie A",
-    "hora": "9:00 a. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Sunderland - Newcastle",
-    "liga": "Liga de Inglaterra",
-    "hora": "9:00 a. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Friburgo - Borussia Dortmund",
-    "liga": "Bundesliga",
-    "hora": "9:30 a. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Celta de Vigo - Athletic Club",
-    "liga": "Liga de España",
-    "hora": "10:15 a. m.",
+    "partido": "Fenerbache - Konyaspor",
+    "liga": "Liga de Turquía",
+    "hora": "12:00 p. m.",
     "canal": "ESPN 5 / Disney+"
   },
   {
-    "partido": "Lens - Niza",
-    "liga": "Liga de Francia",
-    "hora": "11:15 a. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Auxerre - Lille",
-    "liga": "Liga de Francia",
-    "hora": "11:15 a. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Strasbourg - Lorient",
-    "liga": "Liga de Francia",
-    "hora": "11:15 a. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Brentford - Leeds",
-    "liga": "Liga de Inglaterra",
-    "hora": "11:30 a. m.",
+    "partido": "Roma - Como",
+    "liga": "Serie A",
+    "hora": "2:45 p. m.",
     "canal": "ESPN 2 / Disney+"
   },
   {
-    "partido": "Bayern Munich - Mainz 05",
-    "liga": "Bundesliga",
-    "hora": "11:30 a. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "Génoa - Inter",
-    "liga": "Serie A",
-    "hora": "12:00 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Levante - Villarreal",
-    "liga": "Liga de España",
-    "hora": "12:30 p. m.",
-    "canal": "Directv 610"
-  },
-  {
-    "partido": "Werder Bremen - VfB Stuttgart",
-    "liga": "Bundesliga",
-    "hora": "1:30 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Bolognia - Juventus",
-    "liga": "Serie A",
-    "hora": "2:45 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Marsella - Mónaco",
-    "liga": "Liga de Francia",
-    "hora": "2:45 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Alavés - Real Madrid",
-    "liga": "Liga de España",
+    "partido": "Manchester United - Bournemouth",
+    "liga": "Liga de Inglaterra",
     "hora": "3:00 p. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Corinthians - Cruzeiro",
-    "liga": "Copa de Brasil",
-    "hora": "4:00 p. m.",
-    "canal": "Directv 610"
-  },
-  {
-    "partido": "Fluminense - Vasco da Gama",
-    "liga": "Copa de Brasil",
-    "hora": "6:30 p. m.",
-    "canal": "Directv 610"
+    "partido": "Rayo Vallecano - Real Betis",
+    "liga": "Liga de España",
+    "hora": "3:00 p. m.",
+    "canal": "Directv 612"
   }
 ]
