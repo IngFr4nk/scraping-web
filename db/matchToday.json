@@ -1,26 +1,20 @@
 [
   {
-    "partido": "Fenerbache - Konyaspor",
-    "liga": "Liga de Turquía",
-    "hora": "12:00 p. m.",
-    "canal": "ESPN 5 / Disney+"
-  },
-  {
-    "partido": "Roma - Como",
-    "liga": "Serie A",
-    "hora": "2:45 p. m.",
+    "partido": "Cardiff - Chelsea",
+    "liga": "EFL Cup",
+    "hora": "3:00 p. m.",
     "canal": "ESPN 2 / Disney+"
   },
   {
-    "partido": "Manchester United - Bournemouth",
-    "liga": "Liga de Inglaterra",
+    "partido": "CD Guadalajara - Barcelona",
+    "liga": "Copa del Rey",
     "hora": "3:00 p. m.",
-    "canal": "ESPN / Disney+"
+    "canal": "Win Sports"
   },
   {
-    "partido": "Rayo Vallecano - Real Betis",
-    "liga": "Liga de España",
-    "hora": "3:00 p. m.",
-    "canal": "Directv 612"
+    "partido": "Deportes Tolima - Junior",
+    "liga": "Liga BetPlay",
+    "hora": "7:30 p. m.",
+    "canal": "Win Sports+"
   }
 ]
