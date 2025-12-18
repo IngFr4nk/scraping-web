@@ -1,56 +1,20 @@
 [
   {
-    "partido": "Paris Saint-Germain - Flamengo",
-    "liga": "Intercontinental",
-    "hora": "12:00 p. m.",
-    "canal": "Directv 610"
-  },
-  {
-    "partido": "Manchester City - Brentford",
-    "liga": "EFL Cup",
-    "hora": "2:30 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "FC Twente - Real Madrid",
-    "liga": "Champions femenina",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN 2 / Disney+"
-  },
-  {
-    "partido": "Paris FC - Barcelona",
-    "liga": "Champions femenina",
-    "hora": "3:00 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Lyon - Atlético de Madrid",
-    "liga": "Champions femenina",
-    "hora": "3:00 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Talavera CF - Real Madrid",
-    "liga": "Copa del Rey",
-    "hora": "3:00 p. m.",
+    "partido": "Santa Clara - Sporting de Lisboa",
+    "liga": "Copa de Portugal",
+    "hora": "1:45 p. m.",
     "canal": "Win Sports"
   },
   {
-    "partido": "Newcastle - Fulham",
-    "liga": "EFL Cup",
-    "hora": "3:15 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Independiente Medellín - Atlético Nacional",
-    "liga": "Copa Betplay",
-    "hora": "7:30 p. m.",
-    "canal": "Win Sports+"
-  },
-  {
-    "partido": "Corinthians - Vasco da Gama",
-    "liga": "Copa de Brasil",
-    "hora": "7:30 p. m.",
+    "partido": "Napoli - Milán",
+    "liga": "Supercopa de Italia",
+    "hora": "2:00 p. m.",
     "canal": "Directv 610"
+  },
+  {
+    "partido": "Crystal Palace - Kups Kuopio",
+    "liga": "Conference League",
+    "hora": "3:00 p. m.",
+    "canal": "Disney+"
   }
 ]
