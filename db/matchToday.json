@@ -1,20 +1,20 @@
 [
   {
-    "partido": "Santa Clara - Sporting de Lisboa",
-    "liga": "Copa de Portugal",
-    "hora": "1:45 p. m.",
-    "canal": "Win Sports"
-  },
-  {
-    "partido": "Napoli - Milán",
+    "partido": "Bolognia - Inter",
     "liga": "Supercopa de Italia",
     "hora": "2:00 p. m.",
     "canal": "Directv 610"
   },
   {
-    "partido": "Crystal Palace - Kups Kuopio",
-    "liga": "Conference League",
+    "partido": "Borussia Dortmund - Borussia Mönchengladbach",
+    "liga": "Bundesliga",
+    "hora": "2:30 p. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Valencia CF - Mallorca",
+    "liga": "Liga de España",
     "hora": "3:00 p. m.",
-    "canal": "Disney+"
+    "canal": "Directv 610"
   }
 ]
