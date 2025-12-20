@@ -1,20 +1,110 @@
 [
   {
-    "partido": "Bolognia - Inter",
-    "liga": "Supercopa de Italia",
-    "hora": "2:00 p. m.",
-    "canal": "Directv 610"
-  },
-  {
-    "partido": "Borussia Dortmund - Borussia Mönchengladbach",
-    "liga": "Bundesliga",
-    "hora": "2:30 p. m.",
+    "partido": "Newcastle - Chelsea",
+    "liga": "Liga de Inglaterra",
+    "hora": "7:30 a. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Valencia CF - Mallorca",
+    "partido": "Real Oviedo - Celta de Vigo",
+    "liga": "Liga de España",
+    "hora": "8:00 a. m.",
+    "canal": "ESPN 3 / Disney+"
+  },
+  {
+    "partido": "Eyupsor - Fenerbache",
+    "liga": "Liga de Turquía",
+    "hora": "9:00 a. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Hamburgo - Eintracht Frankfurt",
+    "liga": "Bundesliga",
+    "hora": "9:30 a. m.",
+    "canal": "ESPN 2 / Disney+"
+  },
+  {
+    "partido": "Bournemouth - Burnley",
+    "liga": "Liga de Inglaterra",
+    "hora": "10:00 a. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Brighton & Hove - Sunderland",
+    "liga": "Liga de Inglaterra",
+    "hora": "10:00 a. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Wolverhampton - Brentford",
+    "liga": "Liga de Inglaterra",
+    "hora": "10:00 a. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Manchester City - West Ham Utd.",
+    "liga": "Liga de Inglaterra",
+    "hora": "10:00 a. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Villarreal - Barcelona",
+    "liga": "Liga de España",
+    "hora": "10:15 a. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Levante - Real Sociedad",
+    "liga": "Liga de España",
+    "hora": "10:15 a. m.",
+    "canal": "ESPN 4 / Disney+"
+  },
+  {
+    "partido": "Lazio - Cremonese",
+    "liga": "Serie A",
+    "hora": "12:00 p. m.",
+    "canal": "ESPN 2 / Disney+"
+  },
+  {
+    "partido": "RB Leipzig - Bayer Leverkusen",
+    "liga": "Bundesliga",
+    "hora": "12:30 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Osasuna - Alavés",
+    "liga": "Liga de España",
+    "hora": "12:30 p. m.",
+    "canal": "Directv 610"
+  },
+  {
+    "partido": "Tottenham Hotspur - Liverpool",
+    "liga": "Liga de Inglaterra",
+    "hora": "12:30 p. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Juventus - Roma",
+    "liga": "Serie A",
+    "hora": "2:45 p. m.",
+    "canal": "ESPN 2 / Disney+"
+  },
+  {
+    "partido": "Real Madrid - Sevilla",
     "liga": "Liga de España",
     "hora": "3:00 p. m.",
     "canal": "Directv 610"
+  },
+  {
+    "partido": "Leeds - Crystal Palace",
+    "liga": "Liga de Inglaterra",
+    "hora": "3:00 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Everton - Arsenal",
+    "liga": "Liga de Inglaterra",
+    "hora": "3:00 p. m.",
+    "canal": "Disney+"
   }
 ]
