@@ -1,80 +1,38 @@
 [
   {
-    "partido": "Utrecht - PSV",
-    "liga": "Liga de Holanda",
-    "hora": "6:15 a. m.",
-    "canal": "ESPN 3 / Disney+"
+    "partido": "Mali - Zambia",
+    "liga": "Copa Africana",
+    "hora": "9:00 a. m.",
+    "canal": "Win Sports / Win Sports +"
   },
   {
-    "partido": "Cagliari - Pisa",
-    "liga": "Serie A",
-    "hora": "6:30 a. m.",
-    "canal": "ESPN 2 / Disney+"
+    "partido": "Sudáfrica - Angola",
+    "liga": "Copa Africana",
+    "hora": "12:00 p. m.",
+    "canal": "Win Sports / Win Sports +"
   },
   {
-    "partido": "Girona - Atlético de Madrid",
-    "liga": "Liga de España",
-    "hora": "8:00 a. m.",
+    "partido": "Napoli - Bolognia",
+    "liga": "Supercopa de Italia",
+    "hora": "2:00 p. m.",
+    "canal": "Directv 610 / Win Sports"
+  },
+  {
+    "partido": "Fulham - Nottingham Forest",
+    "liga": "Liga de Inglaterra",
+    "hora": "3:00 p. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Feyenoord - FC Twente",
-    "liga": "Liga de Holanda",
-    "hora": "8:30 a. m.",
-    "canal": "ESPN 3 / Disney+"
-  },
-  {
-    "partido": "Sassuolo - Torino",
-    "liga": "Serie A",
-    "hora": "9:00 a. m.",
+    "partido": "Athletic Club - Espanyol",
+    "liga": "Liga de España",
+    "hora": "3:00 p. m.",
     "canal": "ESPN 2 / Disney+"
   },
   {
-    "partido": "Aston Villa - Manchester United",
-    "liga": "Liga de Inglaterra",
-    "hora": "11:30 a. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Heidenhem - Bayern Munich",
-    "liga": "Bundesliga",
-    "hora": "11:30 a. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Fiorentina - Udinese",
-    "liga": "Serie A",
-    "hora": "12:00 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Galatasaray - Kasimpasa",
-    "liga": "Liga de Turquía",
-    "hora": "12:00 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Elche - Rayo Vallecano",
-    "liga": "Liga de España",
-    "hora": "12:30 p. m.",
-    "canal": "Directv 610"
-  },
-  {
-    "partido": "Marruecos - Comoras",
+    "partido": "Egipto - Zimbabue",
     "liga": "Copa Africana",
-    "hora": "2:00 p. m.",
-    "canal": "Win Sports"
-  },
-  {
-    "partido": "Real Betis - Getafe",
-    "liga": "Liga de España",
     "hora": "3:00 p. m.",
-    "canal": "Directv 610"
-  },
-  {
-    "partido": "Vasco da Gama - Corinthians",
-    "liga": "Copa de Brasil",
-    "hora": "4:00 p. m.",
-    "canal": "Directv 610"
+    "canal": "Win Sports / Win Sports +"
   }
 ]
