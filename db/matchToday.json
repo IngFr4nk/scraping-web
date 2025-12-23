@@ -1,38 +1,32 @@
 [
   {
-    "partido": "Mali - Zambia",
+    "partido": "Congo - Benín",
     "liga": "Copa Africana",
-    "hora": "9:00 a. m.",
-    "canal": "Win Sports / Win Sports +"
+    "hora": "7:30 a. m.",
+    "canal": "Win Sports"
   },
   {
-    "partido": "Sudáfrica - Angola",
+    "partido": "Senegal - Botsuana",
     "liga": "Copa Africana",
-    "hora": "12:00 p. m.",
-    "canal": "Win Sports / Win Sports +"
+    "hora": "10:00 a. m.",
+    "canal": "Win Sports"
   },
   {
-    "partido": "Napoli - Bolognia",
-    "liga": "Supercopa de Italia",
-    "hora": "2:00 p. m.",
-    "canal": "Directv 610 / Win Sports"
+    "partido": "Nigeria - Tanzania",
+    "liga": "Copa Africana",
+    "hora": "12:30 p. m.",
+    "canal": "Win Sports"
   },
   {
-    "partido": "Fulham - Nottingham Forest",
-    "liga": "Liga de Inglaterra",
+    "partido": "Arsenal - Crystal Palace",
+    "liga": "EFL Cup",
     "hora": "3:00 p. m.",
-    "canal": "ESPN / Disney+"
+    "canal": "Disney+"
   },
   {
-    "partido": "Athletic Club - Espanyol",
-    "liga": "Liga de España",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN 2 / Disney+"
-  },
-  {
-    "partido": "Egipto - Zimbabue",
+    "partido": "Túnez - Uganda",
     "liga": "Copa Africana",
     "hora": "3:00 p. m.",
-    "canal": "Win Sports / Win Sports +"
+    "canal": "Win Sports"
   }
 ]
