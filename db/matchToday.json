@@ -1,26 +1,44 @@
 [
   {
-    "partido": "Burkina Faso - Guinea",
+    "partido": "Angola - Zimbabue",
     "liga": "Copa Africana",
     "hora": "7:30 a. m.",
     "canal": "Win Sports / Win Sports +"
   },
   {
-    "partido": "Argelia - Sudán",
+    "partido": "Middlesbrough - Blackburn Rov.",
+    "liga": "Championship",
+    "hora": "10:00 a. m.",
+    "canal": "ESPN 5 / Disney+"
+  },
+  {
+    "partido": "Egipto - Sudáfrica",
     "liga": "Copa Africana",
     "hora": "10:00 a. m.",
     "canal": "Win Sports / Win Sports +"
   },
   {
-    "partido": "C. de Marfil - Mozambique",
+    "partido": "Zambia - Comoras",
     "liga": "Copa Africana",
     "hora": "12:30 p. m.",
     "canal": "Win Sports / Win Sports +"
   },
   {
-    "partido": "Camerún - Gabón",
+    "partido": "Wrexham - Sheffield United",
+    "liga": "Championship",
+    "hora": "12:30 p. m.",
+    "canal": "ESPN 5 / Disney+"
+  },
+  {
+    "partido": "Marruecos - Mali",
     "liga": "Copa Africana",
     "hora": "3:00 p. m.",
     "canal": "Win Sports / Win Sports +"
+  },
+  {
+    "partido": "Manchester United - Newcastle",
+    "liga": "Liga de Inglaterra",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN / Disney+"
   }
 ]
