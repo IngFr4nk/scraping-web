@@ -1,24 +1,114 @@
 [
   {
-    "partido": "Gil Vicente - Sporting de Lisboa",
-    "liga": "Liga de Portugal",
-    "hora": "1:45 p. m.",
-    "canal": "Win Sports"
-  },
-  {
-    "partido": "Toulouse - Lens",
-    "liga": "Liga de Francia",
-    "hora": "2:45 p. m.",
+    "partido": "Como - Udinese",
+    "liga": "Serie A",
+    "hora": "6:30 a. m.",
     "canal": "Disney+"
   },
   {
-    "partido": "Cagliari - Milán",
+    "partido": "Aston Villa - Nottingham Forest",
+    "liga": "Liga de Inglaterra",
+    "hora": "7:30 a. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Celta de Vigo - Valencia CF",
+    "liga": "Liga de España",
+    "hora": "8:00 a. m.",
+    "canal": "ESPN 3 / Disney+"
+  },
+  {
+    "partido": "Sassuolo - Parma",
+    "liga": "Serie A",
+    "hora": "9:00 a. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Génoa - Pisa",
+    "liga": "Serie A",
+    "hora": "9:00 a. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Wolverhampton - West Ham Utd.",
+    "liga": "Liga de Inglaterra",
+    "hora": "10:00 a. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Brighton & Hove - Burnley",
+    "liga": "Liga de Inglaterra",
+    "hora": "10:00 a. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Osasuna - Athletic Club",
+    "liga": "Liga de España",
+    "hora": "10:15 a. m.",
+    "canal": "DSports"
+  },
+  {
+    "partido": "Senegal - Sudán",
+    "liga": "Copa Africana",
+    "hora": "11:00 a. m.",
+    "canal": "Win Sports"
+  },
+  {
+    "partido": "Mónaco - Lyon",
+    "liga": "Liga de Francia",
+    "hora": "11:00 a. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Juventus - Lecce",
+    "liga": "Serie A",
+    "hora": "12:00 p. m.",
+    "canal": "ESPN 2 / Disney+"
+  },
+  {
+    "partido": "Bournemouth - Arsenal",
+    "liga": "Liga de Inglaterra",
+    "hora": "12:30 p. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Elche - Villarreal",
+    "liga": "Liga de España",
+    "hora": "12:30 p. m.",
+    "canal": "ESPN 3 / Disney+"
+  },
+  {
+    "partido": "Benfica - Estoril",
+    "liga": "Liga de Portugal",
+    "hora": "1:00 p. m.",
+    "canal": "Win Sports"
+  },
+  {
+    "partido": "Niza - Strasbourg",
+    "liga": "Liga de Francia",
+    "hora": "1:00 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Mali - Túnez",
+    "liga": "Copa Africana",
+    "hora": "2:00 p. m.",
+    "canal": "Win Sports+"
+  },
+  {
+    "partido": "Atalanta - Roma",
     "liga": "Serie A",
     "hora": "2:45 p. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Rayo Vallecano - Getafe",
+    "partido": "Lille - Rennes",
+    "liga": "Liga de Francia",
+    "hora": "3:00 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Espanyol - Barcelona",
     "liga": "Liga de España",
     "hora": "3:00 p. m.",
     "canal": "DSports"
