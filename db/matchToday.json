@@ -1,50 +1,92 @@
 [
   {
-    "partido": "Pisa - Como",
+    "partido": "Bolognia - Atalanta",
     "liga": "Serie A",
-    "hora": "9:00 a. m.",
+    "hora": "12:30 p. m.",
+    "canal": "ESPN 2 / Disney+"
+  },
+  {
+    "partido": "Napoli - Hellas Verona",
+    "liga": "Serie A",
+    "hora": "12:30 p. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Argelia - Congo",
-    "liga": "Copa Africana",
-    "hora": "11:00 a. m.",
-    "canal": "Win Sports"
-  },
-  {
-    "partido": "Lecce - Roma",
-    "liga": "Serie A",
-    "hora": "12:00 p. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "Granada CF - Rayo Vallecano",
-    "liga": "Copa del Rey",
-    "hora": "1:00 p. m.",
-    "canal": "Win Sports"
-  },
-  {
-    "partido": "C. de Marfil - Burkina Faso",
-    "liga": "Copa Africana",
+    "partido": "Barcelona - Athletic Club",
+    "liga": "Supercopa de España",
     "hora": "2:00 p. m.",
     "canal": "Win Sports +"
   },
   {
-    "partido": "Sassuolo - Juventus",
-    "liga": "Serie A",
-    "hora": "2:45 p. m.",
-    "canal": "ESPN 2 / Disney+"
+    "partido": "Crystal Palace - Aston Villa",
+    "liga": "Liga de Inglaterra",
+    "hora": "2:30 p. m.",
+    "canal": "Disney+"
   },
   {
-    "partido": "West Ham Utd. - Nottingham Forest",
+    "partido": "Fulham - Chelsea",
     "liga": "Liga de Inglaterra",
-    "hora": "3:00 p. m.",
+    "hora": "2:30 p. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Sporting de Lisboa - Vitória de Guimaraes",
+    "partido": "Manchester City - Brighton & Hove",
+    "liga": "Liga de Inglaterra",
+    "hora": "2:30 p. m.",
+    "canal": "ESPN 2 / Disney+"
+  },
+  {
+    "partido": "Brentford - Sunderland",
+    "liga": "Liga de Inglaterra",
+    "hora": "2:30 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Bournemouth - Tottenham Hotspur",
+    "liga": "Liga de Inglaterra",
+    "hora": "2:30 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Everton - Wolverhampton",
+    "liga": "Liga de Inglaterra",
+    "hora": "2:30 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Lazio - Fiorentina",
+    "liga": "Serie A",
+    "hora": "2:45 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Parma - Inter",
+    "liga": "Serie A",
+    "hora": "2:45 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Torino - Udinese",
+    "liga": "Serie A",
+    "hora": "2:45 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Benfica - Braga",
     "liga": "Copa de la Liga de Portugal",
     "hora": "3:00 p. m.",
     "canal": "Directv 610"
+  },
+  {
+    "partido": "Burnley - Manchester United",
+    "liga": "Liga de Inglaterra",
+    "hora": "3:15 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Newcastle - Leeds",
+    "liga": "Liga de Inglaterra",
+    "hora": "3:15 p. m.",
+    "canal": "Disney+"
   }
 ]
