@@ -1,92 +1,32 @@
 [
   {
-    "partido": "Bolognia - Atalanta",
+    "partido": "Cremonese - Cagliari",
     "liga": "Serie A",
     "hora": "12:30 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Paris Saint-Germain - Marsella",
+    "liga": "Supercopa de Francia",
+    "hora": "1:00 p. m.",
     "canal": "ESPN 2 / Disney+"
   },
   {
-    "partido": "Napoli - Hellas Verona",
-    "liga": "Serie A",
-    "hora": "12:30 p. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "Barcelona - Athletic Club",
+    "partido": "Atlético de Madrid - Real Madrid",
     "liga": "Supercopa de España",
     "hora": "2:00 p. m.",
     "canal": "Win Sports +"
   },
   {
-    "partido": "Crystal Palace - Aston Villa",
-    "liga": "Liga de Inglaterra",
-    "hora": "2:30 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Fulham - Chelsea",
-    "liga": "Liga de Inglaterra",
-    "hora": "2:30 p. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "Manchester City - Brighton & Hove",
-    "liga": "Liga de Inglaterra",
-    "hora": "2:30 p. m.",
-    "canal": "ESPN 2 / Disney+"
-  },
-  {
-    "partido": "Brentford - Sunderland",
-    "liga": "Liga de Inglaterra",
-    "hora": "2:30 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Bournemouth - Tottenham Hotspur",
-    "liga": "Liga de Inglaterra",
-    "hora": "2:30 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Everton - Wolverhampton",
-    "liga": "Liga de Inglaterra",
-    "hora": "2:30 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Lazio - Fiorentina",
+    "partido": "Milán - Génoa",
     "liga": "Serie A",
     "hora": "2:45 p. m.",
-    "canal": "Disney+"
+    "canal": "ESPN 3 / Disney+"
   },
   {
-    "partido": "Parma - Inter",
-    "liga": "Serie A",
-    "hora": "2:45 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Torino - Udinese",
-    "liga": "Serie A",
-    "hora": "2:45 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Benfica - Braga",
-    "liga": "Copa de la Liga de Portugal",
+    "partido": "Arsenal - Liverpool",
+    "liga": "Liga de Inglaterra",
     "hora": "3:00 p. m.",
-    "canal": "Directv 610"
-  },
-  {
-    "partido": "Burnley - Manchester United",
-    "liga": "Liga de Inglaterra",
-    "hora": "3:15 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Newcastle - Leeds",
-    "liga": "Liga de Inglaterra",
-    "hora": "3:15 p. m.",
-    "canal": "Disney+"
+    "canal": "ESPN / Disney+"
   }
 ]
