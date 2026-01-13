@@ -1,114 +1,48 @@
 [
   {
-    "partido": "Heerenveen - Feyenoord",
-    "liga": "Liga de Holanda",
-    "hora": "6:15 a. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Lecce - Parma",
-    "liga": "Serie A",
-    "hora": "6:30 a. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Derby County - Leeds",
-    "liga": "FA Cup",
-    "hora": "7:00 a. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Rayo Vallecano - Mallorca",
-    "liga": "Liga de España",
-    "hora": "8:00 a. m.",
+    "partido": "VfB Stuttgart - Eintracht Frankfurt",
+    "liga": "Bundesliga",
+    "hora": "12:30 p. m.",
     "canal": "ESPN 2 / Disney+"
   },
   {
-    "partido": "Telstar Velsen - Ajax",
-    "liga": "Liga de Holanda",
-    "hora": "8:30 a. m.",
-    "canal": "ESPN 3 / Disney+"
-  },
-  {
-    "partido": "Portsmouth - Arsenal",
-    "liga": "FA Cup",
-    "hora": "9:00 a. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Fiorentina - Milán",
-    "liga": "Serie A",
-    "hora": "9:00 a. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "Norwich City - Walsall",
-    "liga": "FA Cup",
-    "hora": "9:30 a. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Swansea City - West Bromwich Albion",
-    "liga": "FA Cup",
-    "hora": "9:30 a. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Sheffield United - Mansfield Town",
-    "liga": "FA Cup",
-    "hora": "9:30 a. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "West Ham Utd. - Queens Park",
-    "liga": "FA Cup",
-    "hora": "9:30 a. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Borussia Mönchengladbach - FC Augsburgo",
+    "partido": "Mainz 05 - Heidenhem",
     "liga": "Bundesliga",
-    "hora": "9:30 a. m.",
+    "hora": "2:30 p. m.",
     "canal": "Disney+"
   },
   {
-    "partido": "Hull City - Blackburn Rov.",
-    "liga": "FA Cup",
-    "hora": "9:30 a. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Levante - Espanyol",
-    "liga": "Liga de España",
-    "hora": "10:15 a. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "Manchester United - Brighton & Hove",
-    "liga": "FA Cup",
-    "hora": "11:30 a. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "Bayern Munich - Wolfsburgo",
+    "partido": "Borussia Dortmund - Werder Bremen",
     "liga": "Bundesliga",
-    "hora": "11:30 a. m.",
+    "hora": "2:30 p. m.",
+    "canal": "ESPN 2 / Disney+"
+  },
+  {
+    "partido": "Hamburgo - Bayer Leverkusen",
+    "liga": "Bundesliga",
+    "hora": "2:30 p. m.",
     "canal": "Disney+"
   },
   {
-    "partido": "Hellas Verona - Lazio",
-    "liga": "Serie A",
-    "hora": "12:00 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Inter - Napoli",
-    "liga": "Serie A",
-    "hora": "2:45 p. m.",
+    "partido": "Newcastle - Manchester City",
+    "liga": "Copa de la Liga de Inglaterra",
+    "hora": "3:00 p. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "River Plate - Millonarios",
+    "partido": "Huracán - Cerro Porteño",
+    "liga": "Partido amistoso",
+    "hora": "4:15 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Independiente - Everton",
+    "liga": "Partido amistoso",
+    "hora": "7:00 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "América - Once Caldas",
     "liga": "Partido amistoso",
     "hora": "7:00 p. m.",
     "canal": "Disney+"
