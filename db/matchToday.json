@@ -1,74 +1,32 @@
 [
   {
-    "partido": "Senegal - Egipto",
-    "liga": "Copa Africana",
-    "hora": "12:00 p. m.",
-    "canal": "Win Sports"
-  },
-  {
-    "partido": "Napoli - Parma",
+    "partido": "Hellas Verona - Bolognia",
     "liga": "Serie A",
     "hora": "12:30 p. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Wolfsburgo - St. Pauli",
-    "liga": "Bundesliga",
-    "hora": "12:30 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Colonia - Bayern Munich",
+    "partido": "FC Augsburgo - Union Berlin",
     "liga": "Bundesliga",
     "hora": "2:30 p. m.",
     "canal": "Disney+"
   },
   {
-    "partido": "Hoffenheim - Borussia Mönchengladbach",
-    "liga": "Bundesliga",
-    "hora": "2:30 p. m.",
-    "canal": "ESPN 2 / Disney+"
-  },
-  {
-    "partido": "RB Leipzig - Friburgo",
-    "liga": "Bundesliga",
-    "hora": "2:30 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Inter - Lecce",
+    "partido": "Como - Milán",
     "liga": "Serie A",
     "hora": "2:45 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Chelsea - Arsenal",
-    "liga": "Copa de la Liga de Inglaterra",
-    "hora": "3:00 p. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Nigeria - Marruecos",
-    "liga": "Copa Africana",
-    "hora": "3:00 p. m.",
-    "canal": "Win Sports+"
-  },
-  {
-    "partido": "Albacete - Real Madrid",
+    "partido": "Racing (Esp) - Barcelona",
     "liga": "Copa del Rey",
     "hora": "3:00 p. m.",
     "canal": "Win Sports"
   },
   {
-    "partido": "Boca Juniors - Millonarios",
-    "liga": "Partido amistoso",
-    "hora": "5:00 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "San Lorenzo - Cúcuta",
-    "liga": "Partido amistoso",
-    "hora": "7:00 p. m.",
-    "canal": "Disney+"
+    "partido": "Junior - Santa Fe",
+    "liga": "Superliga",
+    "hora": "7:30 p. m.",
+    "canal": "Win Sports+"
   }
 ]
