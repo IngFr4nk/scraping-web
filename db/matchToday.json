@@ -1,32 +1,50 @@
 [
   {
-    "partido": "Hellas Verona - Bolognia",
-    "liga": "Serie A",
-    "hora": "12:30 p. m.",
+    "partido": "Mónaco - Lorient",
+    "liga": "Liga de Francia",
+    "hora": "1:00 p. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "FC Augsburgo - Union Berlin",
+    "partido": "Werder Bremen - Eintracht Frankfurt",
     "liga": "Bundesliga",
     "hora": "2:30 p. m.",
     "canal": "Disney+"
   },
   {
-    "partido": "Como - Milán",
+    "partido": "Pisa - Atalanta",
     "liga": "Serie A",
     "hora": "2:45 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Espanyol - Girona",
+    "liga": "Liga de España",
+    "hora": "3:00 p. m.",
+    "canal": "Directv 610"
+  },
+  {
+    "partido": "Paris Saint-Germain - Lille",
+    "liga": "Liga de Francia",
+    "hora": "3:00 p. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Racing (Esp) - Barcelona",
-    "liga": "Copa del Rey",
-    "hora": "3:00 p. m.",
-    "canal": "Win Sports"
+    "partido": "Cúcuta - Huracán",
+    "liga": "Partido amistoso",
+    "hora": "4:15 p. m.",
+    "canal": "Disney+"
   },
   {
-    "partido": "Junior - Santa Fe",
-    "liga": "Superliga",
-    "hora": "7:30 p. m.",
-    "canal": "Win Sports+"
+    "partido": "Pereira - Llaneros",
+    "liga": "Liga BetPlay",
+    "hora": "6:20 p. m.",
+    "canal": "Por confirmar"
+  },
+  {
+    "partido": "Fortaleza F.C - Alianza FC",
+    "liga": "Liga BetPlay",
+    "hora": "8:30 p. m.",
+    "canal": "Por confirmar"
   }
 ]
