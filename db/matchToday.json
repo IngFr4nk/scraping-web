@@ -1,50 +1,62 @@
 [
   {
-    "partido": "Kairat Almaty - Brujas",
-    "liga": "Champions League",
-    "hora": "10:30 a. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "Bodo Glimt - Manchester City",
+    "partido": "Galatasaray - Atlético de Madrid",
     "liga": "Champions League",
     "hora": "12:45 p. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Inter - Arsenal",
+    "partido": "Qarabag - Eintracht Frankfurt",
     "liga": "Champions League",
-    "hora": "3:00 p. m.",
+    "hora": "12:45 p. m.",
     "canal": "ESPN 2 / Disney+"
   },
   {
-    "partido": "Olimpiakos - Bayer Leverkusen",
-    "liga": "Champions League",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN 4 / Disney+"
-  },
-  {
-    "partido": "Copenhague - Napoli",
-    "liga": "Champions League",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN 6 / Disney+"
-  },
-  {
-    "partido": "Sporting de Lisboa - Paris Saint-Germain",
-    "liga": "Champions League",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN 5 / Disney+"
-  },
-  {
-    "partido": "Real Madrid - Mónaco",
+    "partido": "Bayern Munich - Royale Union SG",
     "liga": "Champions League",
     "hora": "3:00 p. m.",
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Tottenham Hotspur - Borussia Dortmund",
+    "partido": "Slavia Praga - Barcelona",
+    "liga": "Champions League",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN 2 / Disney+"
+  },
+  {
+    "partido": "Juventus - Benfica",
+    "liga": "Champions League",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN 7 / Disney+"
+  },
+  {
+    "partido": "Atalanta - Athletic Club",
+    "liga": "Champions League",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN 4 / Disney+"
+  },
+  {
+    "partido": "Chelsea - Pafos",
     "liga": "Champions League",
     "hora": "3:00 p. m.",
     "canal": "ESPN 3 / Disney+"
+  },
+  {
+    "partido": "Marsella - Liverpool",
+    "liga": "Champions League",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN 5 / Disney+"
+  },
+  {
+    "partido": "Newcastle - PSV",
+    "liga": "Champions League",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN 6 / Disney+"
+  },
+  {
+    "partido": "Santa Fe - Junior",
+    "liga": "Superliga",
+    "hora": "7:30 p. m.",
+    "canal": "Win Sports+"
   }
 ]
