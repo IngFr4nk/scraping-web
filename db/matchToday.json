@@ -1,50 +1,176 @@
 [
   {
-    "partido": "Trabzonspor - Kasimpasa",
+    "partido": "West Ham Utd. - Sunderland",
+    "liga": "Liga de Inglaterra",
+    "hora": "7:30 a. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Rayo Vallecano - Osasuna",
+    "liga": "Liga de España",
+    "hora": "8:00 a. m.",
+    "canal": "ESPN 3 / Disney+"
+  },
+  {
+    "partido": "Como - Torino",
+    "liga": "Serie A",
+    "hora": "9:00 a. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Mainz 05 - Wolfsburgo",
+    "liga": "Bundesliga",
+    "hora": "9:30 a. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Bayern Munich - FC Augsburgo",
+    "liga": "Bundesliga",
+    "hora": "9:30 a. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "FC Heidenheim - RB Leipzig",
+    "liga": "Bundesliga",
+    "hora": "9:30 a. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Bayer Leverkusen - Werder Bremen",
+    "liga": "Bundesliga",
+    "hora": "9:30 a. m.",
+    "canal": "ESPN 2 / Disney+"
+  },
+  {
+    "partido": "Eintracht Frankfurt - Hoffenheim",
+    "liga": "Bundesliga",
+    "hora": "9:30 a. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Fulham - Brighton & Hove",
+    "liga": "Liga de Inglaterra",
+    "hora": "10:00 a. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Burnley - Tottenham Hotspur",
+    "liga": "Liga de Inglaterra",
+    "hora": "10:00 a. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Manchester City - Wolverhampton",
+    "liga": "Liga de Inglaterra",
+    "hora": "10:00 a. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Valencia CF - Espanyol",
+    "liga": "Liga de España",
+    "hora": "10:15 a. m.",
+    "canal": "ESPN 3 / Disney+"
+  },
+  {
+    "partido": "Rennes - Lorient",
+    "liga": "Liga de Francia",
+    "hora": "11:00 a. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Fiorentina - Cagliari",
+    "liga": "Serie A",
+    "hora": "12:00 p. m.",
+    "canal": "ESPN 2 / Disney+"
+  },
+  {
+    "partido": "Karagumruk - Galatasaray",
     "liga": "Liga de Turquía",
     "hora": "12:00 p. m.",
     "canal": "Disney+"
   },
   {
-    "partido": "Auxerre - Paris Saint-Germain",
-    "liga": "Liga de Francia",
-    "hora": "2:00 p. m.",
+    "partido": "Bournemouth - Liverpool",
+    "liga": "Liga de Inglaterra",
+    "hora": "12:30 p. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Union Berlin - Borussia Dortmund",
+    "liga": "Bundesliga",
+    "hora": "12:30 p. m.",
     "canal": "ESPN 5 / Disney+"
   },
   {
-    "partido": "Inter - Pisa",
-    "liga": "Serie A",
-    "hora": "2:30 p. m.",
-    "canal": "ESPN 2 / Disney+"
+    "partido": "Sevilla - Athletic Club",
+    "liga": "Liga de España",
+    "hora": "12:30 p. m.",
+    "canal": "Directv 610"
   },
   {
-    "partido": "St. Pauli - Hamburgo",
-    "liga": "Bundesliga",
-    "hora": "2:30 p. m.",
+    "partido": "Le Havre - Mónaco",
+    "liga": "Liga de Francia",
+    "hora": "1:00 p. m.",
     "canal": "Disney+"
   },
   {
-    "partido": "Derby County - West Bromwich Albion",
-    "liga": "Championship",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN 7 / Disney+"
-  },
-  {
-    "partido": "Real Santander - Real Cartagena",
-    "liga": "Torneo Betplay",
-    "hora": "3:30 p. m.",
+    "partido": "Pereira - Fortaleza F.C",
+    "liga": "Liga BetPlay",
+    "hora": "2:00 p. m.",
     "canal": "Win Sports / Win Sports+"
   },
   {
-    "partido": "Internacional Bogotá - Cúcuta",
+    "partido": "Lecce - Lazio",
+    "liga": "Serie A",
+    "hora": "2:45 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Marsella - Lens",
+    "liga": "Liga de Francia",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN 3 / Disney+"
+  },
+  {
+    "partido": "Barracas Central - River Plate",
+    "liga": "Liga de Argentina",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN 2 / Disney+"
+  },
+  {
+    "partido": "Villarreal - Real Madrid",
+    "liga": "Liga de España",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Llaneros - Bucaramanga",
     "liga": "Liga BetPlay",
-    "hora": "6:20 p. m.",
+    "hora": "4:10 p. m.",
     "canal": "Win Sports+"
   },
   {
-    "partido": "Deportes Tolima - Alianza FC",
+    "partido": "Gimnasia de La Plata - Racing Club",
+    "liga": "Liga de Argentina",
+    "hora": "5:30 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Deportivo Cali - Independiente Medellín",
+    "liga": "Liga BetPlay",
+    "hora": "6:20 p. m.",
+    "canal": "Win Sports / Win Sports+"
+  },
+  {
+    "partido": "Rosario Central - Belgrano",
+    "liga": "Liga de Argentina",
+    "hora": "8:00 p. m.",
+    "canal": "TyC Sports Internacional"
+  },
+  {
+    "partido": "Boyacá Chicó - América",
     "liga": "Liga BetPlay",
     "hora": "8:30 p. m.",
-    "canal": "Win Sports / Win Sports+"
+    "canal": "Win Sports+"
   }
 ]
