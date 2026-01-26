@@ -1,182 +1,20 @@
 [
   {
-    "partido": "Sassuolo - Cremonese",
-    "liga": "Serie A",
-    "hora": "6:30 a. m.",
-    "canal": "ESPN 4 / Disney+"
-  },
-  {
-    "partido": "Atlético de Madrid - Mallorca",
-    "liga": "Liga de España",
-    "hora": "8:00 a. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "Crystal Palace - Chelsea",
-    "liga": "Liga de Inglaterra",
-    "hora": "9:00 a. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Génoa - Bolognia",
-    "liga": "Serie A",
-    "hora": "9:00 a. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Atalanta - Parma",
-    "liga": "Serie A",
-    "hora": "9:00 a. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Nantes - Niza",
-    "liga": "Liga de Francia",
-    "hora": "9:00 a. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Brentford - Nottingham Forest",
-    "liga": "Liga de Inglaterra",
-    "hora": "9:00 a. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Newcastle - Aston Villa",
-    "liga": "Liga de Inglaterra",
-    "hora": "9:00 a. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Borussia Mönchengladbach - VfB Stuttgart",
-    "liga": "Bundesliga",
-    "hora": "9:30 a. m.",
-    "canal": "ESPN 2 / Disney+"
-  },
-  {
-    "partido": "Barcelona - Real Oviedo",
-    "liga": "Liga de España",
-    "hora": "10:15 a. m.",
-    "canal": "Directv 610"
-  },
-  {
-    "partido": "Feyenoord - Heracles",
-    "liga": "Liga de Holanda",
-    "hora": "10:45 a. m.",
-    "canal": "ESPN 4 / Disney+"
-  },
-  {
-    "partido": "Paris FC - Angers",
-    "liga": "Liga de Francia",
-    "hora": "11:15 a. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Metz - Lyon",
-    "liga": "Liga de Francia",
-    "hora": "11:15 a. m.",
-    "canal": "ESPN 3 / Disney+"
-  },
-  {
-    "partido": "Brest - Toulouse",
-    "liga": "Liga de Francia",
-    "hora": "11:15 a. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Friburgo - Colonia",
-    "liga": "Bundesliga",
-    "hora": "11:30 a. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Arsenal - Manchester United",
-    "liga": "Liga de Inglaterra",
-    "hora": "11:30 a. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "Juventus - Napoli",
-    "liga": "Serie A",
-    "hora": "12:00 p. m.",
-    "canal": "ESPN 2 / Disney+"
-  },
-  {
-    "partido": "Fenerbache - Goztepe",
-    "liga": "Liga de Turquía",
-    "hora": "12:00 p. m.",
-    "canal": "ESPN 5 / Disney+"
-  },
-  {
-    "partido": "Real Sociedad - Celta de Vigo",
-    "liga": "Liga de España",
-    "hora": "12:30 p. m.",
-    "canal": "Directv 610"
-  },
-  {
-    "partido": "Hellas Verona - Udinese",
-    "liga": "Serie A",
-    "hora": "2:45 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Lille - Strasbourg",
-    "liga": "Liga de Francia",
-    "hora": "2:45 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Roma - Milán",
-    "liga": "Serie A",
-    "hora": "2:45 p. m.",
-    "canal": "ESPN 2 / Disney+"
-  },
-  {
-    "partido": "Alavés - Real Betis",
-    "liga": "Liga de España",
-    "hora": "3:00 p. m.",
-    "canal": "Directv 610"
-  },
-  {
-    "partido": "Girona - Getafe",
-    "liga": "Liga de España",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN 3 / Disney+"
-  },
-  {
-    "partido": "Everton - Leeds",
-    "liga": "Liga de Inglaterra",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN 2 / Disney+"
-  },
-  {
-    "partido": "Águilas Doradas - Deportivo Pasto",
-    "liga": "Liga BetPlay",
-    "hora": "4:00 p. m.",
+    "partido": "Leones - Tigres",
+    "liga": "Torneo Betplay",
+    "hora": "2:00 p. m.",
     "canal": "Win Sports / Win Sports+"
   },
   {
-    "partido": "Boca Juniors - Deportivo Riestra",
-    "liga": "Liga de Argentina",
-    "hora": "4:30 p. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "Millonarios - Junior",
-    "liga": "Liga BetPlay",
-    "hora": "6:10 p. m.",
+    "partido": "Boca Juniors de Cali - Quindío",
+    "liga": "Torneo Betplay",
+    "hora": "4:00 p. m.",
     "canal": "Win Sports+"
   },
   {
-    "partido": "Argentinos Juniors - Sarmiento de Junín",
-    "liga": "Liga de Argentina",
-    "hora": "7:00 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Once Caldas - Santa Fe",
-    "liga": "Liga BetPlay",
-    "hora": "8:20 p. m.",
+    "partido": "Unión Magdalena - Bogotá",
+    "liga": "Torneo Betplay",
+    "hora": "6:00 p. m.",
     "canal": "Win Sports+"
   }
 ]
