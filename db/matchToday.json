@@ -1,20 +1,20 @@
 [
   {
-    "partido": "Leones - Tigres",
-    "liga": "Torneo Betplay",
-    "hora": "2:00 p. m.",
-    "canal": "Win Sports / Win Sports+"
-  },
-  {
-    "partido": "Boca Juniors de Cali - Quindío",
-    "liga": "Torneo Betplay",
+    "partido": "Cúcuta - Bucaramanga",
+    "liga": "Liga BetPlay",
     "hora": "4:00 p. m.",
-    "canal": "Win Sports+"
+    "canal": "Por confirmar"
   },
   {
-    "partido": "Unión Magdalena - Bogotá",
-    "liga": "Torneo Betplay",
-    "hora": "6:00 p. m.",
-    "canal": "Win Sports+"
+    "partido": "Fortaleza F.C - Llaneros",
+    "liga": "Liga BetPlay",
+    "hora": "6:20 p. m.",
+    "canal": "Por confirmar"
+  },
+  {
+    "partido": "Independiente Medellín - Deportes Tolima",
+    "liga": "Liga BetPlay",
+    "hora": "8:30 p. m.",
+    "canal": "Por confirmar"
   }
 ]
