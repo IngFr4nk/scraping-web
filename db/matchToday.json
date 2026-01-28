@@ -1,20 +1,122 @@
 [
   {
-    "partido": "Cúcuta - Bucaramanga",
-    "liga": "Liga BetPlay",
-    "hora": "4:00 p. m.",
-    "canal": "Por confirmar"
+    "partido": "Ajax - Olimpiakos",
+    "liga": "Champions League",
+    "hora": "3:00 p. m.",
+    "canal": "Disney+"
   },
   {
-    "partido": "Fortaleza F.C - Llaneros",
-    "liga": "Liga BetPlay",
-    "hora": "6:20 p. m.",
-    "canal": "Por confirmar"
+    "partido": "Manchester City - Galatasaray",
+    "liga": "Champions League",
+    "hora": "3:00 p. m.",
+    "canal": "Disney+"
   },
   {
-    "partido": "Independiente Medellín - Deportes Tolima",
+    "partido": "Mónaco - Juventus",
+    "liga": "Champions League",
+    "hora": "3:00 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Royale Union SG - Atalanta",
+    "liga": "Champions League",
+    "hora": "3:00 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Athletic Club - Sporting de Lisboa",
+    "liga": "Champions League",
+    "hora": "3:00 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Atlético de Madrid - Bodo Glimt",
+    "liga": "Champions League",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN 3 / Disney+"
+  },
+  {
+    "partido": "Eintracht Frankfurt - Tottenham Hotspur",
+    "liga": "Champions League",
+    "hora": "3:00 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "PSV - Bayern Munich",
+    "liga": "Champions League",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN / Disney+"
+  },
+  {
+    "partido": "Liverpool - Qarabag",
+    "liga": "Champions League",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN 4 / Disney+"
+  },
+  {
+    "partido": "Bayer Leverkusen - Villarreal",
+    "liga": "Champions League",
+    "hora": "3:00 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Brujas - Marsella",
+    "liga": "Champions League",
+    "hora": "3:00 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Napoli - Chelsea",
+    "liga": "Champions League",
+    "hora": "3:00 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Benfica - Real Madrid",
+    "liga": "Champions League",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN 2 / Disney+"
+  },
+  {
+    "partido": "Arsenal - Kairat Almaty",
+    "liga": "Champions League",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN 6 / Disney+"
+  },
+  {
+    "partido": "Paris Saint-Germain - Newcastle",
+    "liga": "Champions League",
+    "hora": "3:00 p. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Borussia Dortmund - Inter",
+    "liga": "Champions League",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN 7 / Disney+"
+  },
+  {
+    "partido": "Barcelona - Copenhague",
+    "liga": "Champions League",
+    "hora": "3:00 p. m.",
+    "canal": "ESPN 5 / Disney+"
+  },
+  {
+    "partido": "Alianza FC - Boyacá Chicó",
+    "liga": "Liga BetPlay",
+    "hora": "4:10 p. m.",
+    "canal": "Win Sports+"
+  },
+  {
+    "partido": "Santa Fe - Pereira",
+    "liga": "Liga BetPlay",
+    "hora": "6:30 p. m.",
+    "canal": "Win Sports+"
+  },
+  {
+    "partido": "Deportivo Pasto - Millonarios",
     "liga": "Liga BetPlay",
     "hora": "8:30 p. m.",
-    "canal": "Por confirmar"
+    "canal": "Win Sports+"
   }
 ]
