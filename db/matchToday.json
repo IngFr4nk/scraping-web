@@ -1,128 +1,32 @@
 [
   {
-    "partido": "Maccabi Haifa - Bolognia",
-    "liga": "Liga de Europa",
-    "hora": "3:00 p. m.",
+    "partido": "Colonia - Wolfsburgo",
+    "liga": "Bundesliga",
+    "hora": "2:30 p. m.",
+    "canal": "ESPN 5 / Disney+"
+  },
+  {
+    "partido": "Lazio - Génoa",
+    "liga": "Serie A",
+    "hora": "2:45 p. m.",
     "canal": "Disney+"
   },
   {
-    "partido": "Real Betis - Feyenoord",
-    "liga": "Liga de Europa",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN 3 / Disney+"
+    "partido": "Lens - Le Havre",
+    "liga": "Liga de Francia",
+    "hora": "2:45 p. m.",
+    "canal": "ESPN 2 / Disney+"
   },
   {
-    "partido": "Lyon - Paok Salonika",
-    "liga": "Liga de Europa",
+    "partido": "Espanyol - Alavés",
+    "liga": "Liga de España",
     "hora": "3:00 p. m.",
     "canal": "ESPN 4 / Disney+"
   },
   {
-    "partido": "Steaua Bucarest - Fenerbache",
-    "liga": "Liga de Europa",
-    "hora": "3:00 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Porto - Rangers",
-    "liga": "Liga de Europa",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN 5 / Disney+"
-  },
-  {
-    "partido": "Midtjylland - Dynamo Zagreb",
-    "liga": "Liga de Europa",
-    "hora": "3:00 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Basel - Viktoria Plzen",
-    "liga": "Liga de Europa",
-    "hora": "3:00 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Celtic - Utrecht",
-    "liga": "Liga de Europa",
-    "hora": "3:00 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Ludogorets - Niza",
-    "liga": "Liga de Europa",
-    "hora": "3:00 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "VfB Stuttgart - Young Boys",
-    "liga": "Liga de Europa",
-    "hora": "3:00 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Lille - Friburgo",
-    "liga": "Liga de Europa",
-    "hora": "3:00 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Genk - Malmoe",
-    "liga": "Liga de Europa",
-    "hora": "3:00 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Estrella Roja - Celta de Vigo",
-    "liga": "Liga de Europa",
-    "hora": "3:00 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Sturm Graz - Brann",
-    "liga": "Liga de Europa",
-    "hora": "3:00 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Go Ahead Eagles - Braga",
-    "liga": "Liga de Europa",
-    "hora": "3:00 p. m.",
-    "canal": "Disney+"
-  },
-  {
-    "partido": "Nottingham Forest - Ferencváros",
-    "liga": "Liga de Europa",
+    "partido": "Bristol City - Derby County",
+    "liga": "Championship",
     "hora": "3:00 p. m.",
     "canal": "ESPN 7 / Disney+"
-  },
-  {
-    "partido": "Panathinaikos - Roma",
-    "liga": "Liga de Europa",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN 2 / Disney+"
-  },
-  {
-    "partido": "Aston Villa - Salzburg",
-    "liga": "Liga de Europa",
-    "hora": "3:00 p. m.",
-    "canal": "ESPN / Disney+"
-  },
-  {
-    "partido": "Águilas Doradas - Deportivo Cali",
-    "liga": "Liga BetPlay",
-    "hora": "4:00 p. m.",
-    "canal": "Win Sports / Win Sports +"
-  },
-  {
-    "partido": "Jaguares de Córdoba - Internacional Bogotá",
-    "liga": "Liga BetPlay",
-    "hora": "6:10 p. m.",
-    "canal": "Win Sports +"
-  },
-  {
-    "partido": "América - Once Caldas",
-    "liga": "Liga BetPlay",
-    "hora": "8:20 p. m.",
-    "canal": "Win Sports +"
   }
 ]
