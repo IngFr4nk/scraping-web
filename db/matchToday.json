@@ -24,14 +24,14 @@
     "canal": "ESPN 3 / Disney+"
   },
   {
-    "partido": "Manchester United - Fulham",
-    "liga": "Liga de Inglaterra",
+    "partido": "Lyon - Lille",
+    "liga": "Liga de Francia",
     "hora": "9:00 a. m.",
     "canal": "Disney+"
   },
   {
-    "partido": "Lyon - Lille",
-    "liga": "Liga de Francia",
+    "partido": "Manchester United - Fulham",
+    "liga": "Liga de Inglaterra",
     "hora": "9:00 a. m.",
     "canal": "Disney+"
   },
@@ -66,7 +66,7 @@
     "canal": "ESPN 2 / Disney+"
   },
   {
-    "partido": "Angers - Metz",
+    "partido": "Niza - Stade Brestois",
     "liga": "Liga de Francia",
     "hora": "11:15 a. m.",
     "canal": "Disney+"
@@ -78,9 +78,15 @@
     "canal": "Disney+"
   },
   {
-    "partido": "Niza - Stade Brestois",
+    "partido": "Angers - Metz",
     "liga": "Liga de Francia",
     "hora": "11:15 a. m.",
+    "canal": "Disney+"
+  },
+  {
+    "partido": "Borussia Dortmund - Heidenhem",
+    "liga": "Bundesliga",
+    "hora": "11:30 a. m.",
     "canal": "Disney+"
   },
   {
@@ -90,22 +96,16 @@
     "canal": "ESPN / Disney+"
   },
   {
-    "partido": "Borussia Dortmund - Heidenhem",
-    "liga": "Bundesliga",
-    "hora": "11:30 a. m.",
-    "canal": "Disney+"
+    "partido": "Cremonese - Inter",
+    "liga": "Serie A",
+    "hora": "12:00 p. m.",
+    "canal": "ESPN 3 / Disney+"
   },
   {
     "partido": "Galatasaray - Kayserispor",
     "liga": "Liga de Turquía",
     "hora": "12:00 p. m.",
     "canal": "Disney+"
-  },
-  {
-    "partido": "Cremonese - Inter",
-    "liga": "Serie A",
-    "hora": "12:00 p. m.",
-    "canal": "ESPN 3 / Disney+"
   },
   {
     "partido": "Getafe - Celta de Vigo",
